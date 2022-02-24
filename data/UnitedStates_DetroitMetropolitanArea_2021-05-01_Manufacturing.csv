@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"General Motors",4.2361212010785945,1
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Ford Motor Company",2.332796763504001,2
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Magna International",4.966412607892399,3
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Rivian",8.590038331594121,4
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.411757303350885,1
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Buyer",2.3119813481856784,2
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Program Manager",1.8153357600843387,3
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Account Manager",1.7685040834411434,4
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",1.6304463904189987,5
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Construction Management",-1,3
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Program Management",-1,4
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,5
+2021-05-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Inventory Management",-1,6

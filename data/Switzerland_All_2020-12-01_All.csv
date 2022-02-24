@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"Credit Suisse",4.285308031119381,1
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"Roche",2.528037138602158,2
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"UBS",1.953528291282184,3
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"ETH Zürich",4.99478418031422,4
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"Lonza",10.643348707473622,5
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"HUG - Hopitaux Universitaires de Genève",7.616655078584253,6
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",4.751878537261788,7
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"Etat de Vaud",5.319495699662774,8
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"CHUV | Lausanne university hospital",4.799088385948655,9
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"Swisscom",1.8842998180999035,10
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"University of Zurich",4.21205827782311,11
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"Novartis",1.6203894424499634,12
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"SBB CFF FFS",1.901544250956671,13
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"University of Geneva",3.691104888980275,14
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"PwC Switzerland",5.2360051009389865,15
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"KPMG Switzerland",6.557383726504898,16
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"Universitätsspital Zürich",4.90561570878079,17
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"Raiffeisen Switzerland",4.998892273146984,18
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"Deloitte Switzerland",4.703726648422721,19
+2020-12-01,ch,"Switzerland","All","All",Top Trending Employers,"CERN",2.5543833762162986,20
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Project Manager",3.120303352458547,1
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Software Engineer",2.5553081837886986,2
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Project Control Manager",1.8903017102347799,3
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Clerical Officer",1.7154029923112868,4
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Sales Manager",1.1882147241550436,5
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Postdoctoral Researcher",1.0572288240959475,6
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Product Manager",1.009187331662888,7
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Lecturer",0.8725639710751888,8
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Nurse",0.8427661866239458,9
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"System Engineer",0.7923140921853262,10
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Business Analyst",0.7765877828270551,11
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Sales Consultant",0.7445339859029664,12
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Key Account Manager",0.7355904561965486,13
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Teacher",0.7174515935567916,14
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Medical Doctor",0.69237188394012,15
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Accountant",0.6784207613132942,16
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Account Manager",0.6558365878106478,17
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Salesperson",0.6486364786130053,18
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Marketing Manager",0.6010433679384539,19
+2020-12-01,ch,"Switzerland","All","All",Top Trending Jobs,"Customer Advisor",0.5898200697703782,20
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Project Management",-1,1
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Java",-1,2
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Teaching",-1,3
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Change Management",-1,4
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Sales Management",-1,5
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Product Development",-1,6
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Account Management",-1,7
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Windows Server",-1,8
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Business Analysis",-1,9
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Marketing Strategy",-1,10
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Virtualization",-1,11
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Account Reconciliation",-1,12
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Scientific Writing",-1,13
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Negotiation",-1,14
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Project Leadership",-1,15
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Nursing",-1,16
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Medical Education",-1,17
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Client Counseling",-1,18
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Retail",-1,19
+2020-12-01,ch,"Switzerland","All","All",Top Trending Skills,"Solution Selling",-1,20

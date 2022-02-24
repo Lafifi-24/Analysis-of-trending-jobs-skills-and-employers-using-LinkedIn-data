@@ -1,0 +1,32 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,cn,"China","Guangdong","All",Top Trending Employers,"Tencent",2.52688190389226,1
+2021-05-01,cn,"China","Guangdong","All",Top Trending Employers,"ByteDance",6.819912240967195,2
+2021-05-01,cn,"China","Guangdong","All",Top Trending Employers,"Huawei",1.3332144170866367,3
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Sales Manager",12.993468275278678,1
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Salesperson",4.830764268824489,2
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Account Manager",3.0207280201228173,3
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Product Manager",2.7581570625278142,4
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Sales Director",2.495469809484952,5
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Project Manager",2.2434085732948543,6
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Business Development Manager",1.8675933745496098,7
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Sales Engineer",1.8600182813442,8
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Human Resources Business Partner",1.8554115232877366,9
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Software Engineer",1.8291442170311871,10
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Marketing Manager",1.7287092185768738,11
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Search Consultant",1.7038655558696123,12
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"General Manager",1.6589413011739729,13
+2021-05-01,cn,"China","Guangdong","All",Top Trending Jobs,"Data Analyst",1.3628280971476265,14
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Sales Management",-1,1
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Project Management",-1,2
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Merchandising",-1,3
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Java",-1,4
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Linux",-1,5
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"General Management",-1,6
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Recruiting",-1,7
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Project Planning",-1,8
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Executive Search",-1,9
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Account Management",-1,10
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Axure RP",-1,11
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Data Analysis",-1,12
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Python (Programming Language)",-1,13
+2021-05-01,cn,"China","Guangdong","All",Top Trending Skills,"Sales Engineering",-1,14

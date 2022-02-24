@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Employers,"Apple",5.434899749058417,1
+2020-01-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Employers,"SharkNinja",13.511920617979825,2
+2020-01-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Employers,"Bose Corporation",3.0079540319480955,3
+2020-01-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Employers,"Dunkin'​ Brands",6.563301510588395,4
+2020-01-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Jobs,"Salesperson",4.785791391769345,1
+2020-01-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Jobs,"Sales Manager",3.367667146736337,2
+2020-01-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Skills,"Sales Management",-1,1
+2020-01-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Skills,"Sales Operations",-1,2

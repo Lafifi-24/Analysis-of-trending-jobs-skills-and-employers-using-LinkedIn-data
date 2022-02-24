@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Amazon",6.179847135813631,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"UT Southwestern Medical Center",2.491724970586998,2
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"JPMorgan Chase & Co.",2.991977772282075,3
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Baylor Scott & White Health",2.688938148752853,4
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Fidelity Investments",3.6597456698019317,5
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Caliber Home Loans, Inc.",8.83111962884924,6
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Citi",3.2552442122817418,7
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Charles Schwab",4.758031084844033,8
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Microsoft",3.575404919864818,9
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Texas Health Resources",2.296848142067722,10
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Keller Williams Realty, Inc.",3.976746286414764,11
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Capital One",2.084511915880496,12
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Bell Flight",3.680491435692982,13
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Parkland Hospital",2.8575178006618263,14
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"University of North Texas",2.233123524317765,15
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Amazon Web Services (AWS)",4.443970309909343,16
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Lockheed Martin",0.7053848064666421,17
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"CVS Health",3.7641601035177725,18
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Methodist Health System",4.011719873962651,19
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"McKesson",3.1547417410711716,20
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Real Estate Agent",2.598010349134484,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Software Engineer",2.560314891242595,2
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Project Manager",1.9178334342011327,3
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Account Executive",1.6277736515493697,4
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Customer Service Representative",1.4725622639667444,5
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Account Manager",1.4382523691774676,6
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Salesperson",1.3244929419502167,7
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Recruiter",0.9749926200061453,8
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Teacher",0.9189034595119393,9
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Accountant",0.9011815681128941,10
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Nurse",0.8955269367285128,11
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Sales Manager",0.8787541526254355,12
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Sales Director",0.8164214564261177,13
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Operations Manager",0.762274082555958,14
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Business Analyst",0.7030577745278375,15
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"General Manager",0.6551310767262912,16
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Attorney",0.6192870564104164,17
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Business Development Manager",0.60298244329227,18
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Data Analyst",0.5402537502450468,19
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Mortgage Loan Officer",0.4838863148842223,20
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"JavaScript",-1,2
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Account Management",-1,4
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Sales Management",-1,5
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Investment Properties",-1,6
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Team Building",-1,8
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Operations Management",-1,9
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Legal Writing",-1,10
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Recruiting",-1,11
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Construction Management",-1,12
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Civil Litigation",-1,13
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Account Reconciliation",-1,14
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Business Analysis",-1,15
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Sales Operations",-1,16
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Inventory Management",-1,17
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"General Ledger",-1,18
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Customer Satisfaction",-1,19
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Data Analysis",-1,20

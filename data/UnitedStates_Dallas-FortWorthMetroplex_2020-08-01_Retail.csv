@@ -1,0 +1,18 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"Walmart",5.36832368673479,1
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"The Michaels Companies, Inc.",12.438876946811241,2
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"Target",7.756150763586221,3
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"7-Eleven",5.929005111538388,4
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"The Home Depot",7.666562226395475,5
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"Sally Beauty",12.67049497204131,6
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Jobs,"Salesperson",9.027311939255535,1
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Jobs,"Cashier",4.196449030358698,2
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Jobs,"Store Manager",3.6607187449239547,3
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Jobs,"Customer Service Representative",3.396275962182154,4
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Jobs,"Software Engineer",3.1911421562371505,5
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Merchandising",-1,2
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Store Management",-1,3
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Time Management",-1,4
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Customer Satisfaction",-1,5
+2020-08-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Cashiering",-1,6

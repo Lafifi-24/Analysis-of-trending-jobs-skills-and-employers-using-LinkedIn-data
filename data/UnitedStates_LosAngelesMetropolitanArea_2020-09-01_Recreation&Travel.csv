@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Employers,"Chipotle Mexican Grill",8.369750500659947,1
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Employers,"McDonald's",6.906913889265022,2
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Jobs,"General Manager",4.925969632194678,1
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Jobs,"Server",4.807470721350477,2
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Jobs,"Cashier",3.2486947920004527,3
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Jobs,"Hostess",3.234443782290116,4
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Skills,"Team Building",-1,1
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Skills,"Time Management",-1,2
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Skills,"Inventory Management",-1,3
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Recreation & Travel",Top Trending Skills,"Cashiering",-1,4

@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Seattle Area","Media & Communications",Top Trending Jobs,"Writer",5.538850663226601,1
+2020-01-01,us,"United States","Greater Seattle Area","Media & Communications",Top Trending Skills,"Writing",-1,1
+2020-01-01,us,"United States","Greater Seattle Area","Media & Communications",Top Trending Skills,"Editing",-1,2

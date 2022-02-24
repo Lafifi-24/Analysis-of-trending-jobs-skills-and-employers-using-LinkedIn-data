@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Shell",2.542457356439044,1
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"ExxonMobil",1.7985032027845724,2
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Baker Hughes",3.240801616575771,3
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Kinder Morgan, Inc.",4.7505912633675855,4
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Schlumberger",1.3690986681959727,5
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"bp",2.069841726967437,6
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Wood",3.059648859880294,7
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Worley",3.8045253241537145,8
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Occidental",2.6213695166212703,9
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Project Manager",2.7540169436251887,1
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Accountant",2.1237518013165197,2
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Account Manager",1.5872136041144038,3
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Software Engineer",1.528574322223203,4
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Business Development Manager",1.518472146476184,5
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"JavaScript",-1,1
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"Account Management",-1,2
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"Construction Management",-1,3
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"Account Reconciliation",-1,4
+2020-03-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"General Ledger",-1,5

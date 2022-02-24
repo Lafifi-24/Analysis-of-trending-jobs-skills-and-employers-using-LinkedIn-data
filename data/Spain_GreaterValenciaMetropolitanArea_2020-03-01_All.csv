@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,es,"Spain","Greater Valencia Metropolitan Area","All",Top Trending Employers,"Universitat Politècnica de València (UPV)",7.117528546116129,1
+2020-03-01,es,"Spain","Greater Valencia Metropolitan Area","All",Top Trending Employers,"Power Electronics",15.333448681884992,2
+2020-03-01,es,"Spain","Greater Valencia Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.9482221539322278,1
+2020-03-01,es,"Spain","Greater Valencia Metropolitan Area","All",Top Trending Jobs,"Professor",2.6655995716333076,2
+2020-03-01,es,"Spain","Greater Valencia Metropolitan Area","All",Top Trending Jobs,"Teacher",2.0553566651505433,3
+2020-03-01,es,"Spain","Greater Valencia Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.977059537207394,4
+2020-03-01,es,"Spain","Greater Valencia Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-03-01,es,"Spain","Greater Valencia Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-03-01,es,"Spain","Greater Valencia Metropolitan Area","All",Top Trending Skills,"Java",-1,3

@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Corporate Services",Top Trending Employers,"Deloitte",2.591266076804133,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Corporate Services",Top Trending Jobs,"Tax Associate",3.5847932598196826,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Corporate Services",Top Trending Jobs,"Recruiter",3.2810338335910507,2
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Corporate Services",Top Trending Jobs,"Project Manager",3.1917928257341828,3
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Corporate Services",Top Trending Skills,"Recruiting",-1,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Corporate Services",Top Trending Skills,"Construction Management",-1,2
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Corporate Services",Top Trending Skills,"Interviewing",-1,3
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Corporate Services",Top Trending Skills,"Tax",-1,4
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Corporate Services",Top Trending Skills,"Tax Preparation",-1,5

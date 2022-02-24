@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Employers,"University of North Texas",1.6505184458850057,1
+2021-05-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Jobs,"Teacher",14.40059539229885,1
+2021-05-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Teaching",-1,1
+2021-05-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Curriculum Development",-1,2

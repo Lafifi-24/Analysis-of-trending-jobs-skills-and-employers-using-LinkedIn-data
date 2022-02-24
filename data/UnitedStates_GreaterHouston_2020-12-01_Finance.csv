@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Greater Houston","Finance",Top Trending Jobs,"Insurance Agent",4.465453685596293,1
+2020-12-01,us,"United States","Greater Houston","Finance",Top Trending Jobs,"Mortgage Loan Officer",3.612506238019416,2
+2020-12-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Life Insurance",-1,1
+2020-12-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,2
+2020-12-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Mortgage Lending",-1,3

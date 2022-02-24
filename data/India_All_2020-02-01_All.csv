@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,in,"India","All","All",Top Trending Employers,"Accenture",5.457217466652542,1
+2020-02-01,in,"India","All","All",Top Trending Employers,"Tata Consultancy Services",2.5381484577426474,2
+2020-02-01,in,"India","All","All",Top Trending Employers,"Infosys",4.143054412949847,3
+2020-02-01,in,"India","All","All",Top Trending Employers,"Capgemini",4.170874211381274,4
+2020-02-01,in,"India","All","All",Top Trending Employers,"Wipro Limited",2.9440542859527756,5
+2020-02-01,in,"India","All","All",Top Trending Employers,"HCL Technologies",3.7844536520535663,6
+2020-02-01,in,"India","All","All",Top Trending Employers,"Deloitte",5.977140188162635,7
+2020-02-01,in,"India","All","All",Top Trending Employers,"Axis Bank",9.334901622345987,8
+2020-02-01,in,"India","All","All",Top Trending Employers,"HDFC Bank",6.445673631163339,9
+2020-02-01,in,"India","All","All",Top Trending Employers,"Amazon",5.9040253343444125,10
+2020-02-01,in,"India","All","All",Top Trending Employers,"Genpact",5.342607075957698,11
+2020-02-01,in,"India","All","All",Top Trending Employers,"ICICI Bank",4.008333934522783,12
+2020-02-01,in,"India","All","All",Top Trending Employers,"PwC",7.4556341236964085,13
+2020-02-01,in,"India","All","All",Top Trending Employers,"DXC Technology",6.262981288777539,14
+2020-02-01,in,"India","All","All",Top Trending Employers,"Kotak Mahindra Bank",7.090918365076458,15
+2020-02-01,in,"India","All","All",Top Trending Employers,"Oracle",4.6379421245351775,16
+2020-02-01,in,"India","All","All",Top Trending Employers,"IDFC FIRST Bank",14.859578166957018,17
+2020-02-01,in,"India","All","All",Top Trending Employers,"IndusInd Bank",7.008233308980849,18
+2020-02-01,in,"India","All","All",Top Trending Employers,"LIC",12.291426119168198,19
+2020-02-01,in,"India","All","All",Top Trending Employers,"Mindtree",6.175321149948918,20
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Software Engineer",9.869009499863825,1
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Sales Manager",1.977304240050431,2
+2020-02-01,in,"India","All","All",Top Trending Jobs,"System Engineer",1.607586641636958,3
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Sales Executive",1.4098086546588358,4
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Professor",1.2612441471895197,5
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Business Development Executive",1.176504426933643,6
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Business Development Manager",1.1593580578168095,7
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Business Analyst",1.1007306104356906,8
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Project Manager",1.0719145528677247,9
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Human Resources Executive",1.0293166299293843,10
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Recruiter",0.9818610309181917,11
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Relationship Manager",0.8765551830763968,12
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Human Resources Manager",0.862209679589029,13
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Design Engineer",0.7890155676232478,14
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Graphic Designer",0.7840370986770807,15
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Application Developer",0.6990765132306748,16
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Data Analyst",0.688581579064957,17
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Operations Manager",0.6598001498591881,18
+2020-02-01,in,"India","All","All",Top Trending Jobs,"General Manager",0.626084405825407,19
+2020-02-01,in,"India","All","All",Top Trending Jobs,"Web Developer",0.593317122247144,20
+2020-02-01,in,"India","All","All",Top Trending Skills,"SQL",-1,1
+2020-02-01,in,"India","All","All",Top Trending Skills,"JavaScript",-1,2
+2020-02-01,in,"India","All","All",Top Trending Skills,"Sales Management",-1,3
+2020-02-01,in,"India","All","All",Top Trending Skills,"Teaching",-1,4
+2020-02-01,in,"India","All","All",Top Trending Skills,"Business Analysis",-1,5
+2020-02-01,in,"India","All","All",Top Trending Skills,"Adobe Illustrator",-1,6
+2020-02-01,in,"India","All","All",Top Trending Skills,"Recruiting",-1,7
+2020-02-01,in,"India","All","All",Top Trending Skills,"AutoCAD",-1,8
+2020-02-01,in,"India","All","All",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,9
+2020-02-01,in,"India","All","All",Top Trending Skills,"Team Leadership",-1,10
+2020-02-01,in,"India","All","All",Top Trending Skills,"Employee Relations",-1,11
+2020-02-01,in,"India","All","All",Top Trending Skills,"Core Java",-1,12
+2020-02-01,in,"India","All","All",Top Trending Skills,"Higher Education",-1,13
+2020-02-01,in,"India","All","All",Top Trending Skills,"Operations Management",-1,14
+2020-02-01,in,"India","All","All",Top Trending Skills,"Requirements Analysis",-1,15
+2020-02-01,in,"India","All","All",Top Trending Skills,"CATIA",-1,16
+2020-02-01,in,"India","All","All",Top Trending Skills,"Data Analysis",-1,17
+2020-02-01,in,"India","All","All",Top Trending Skills,"Employee Engagement",-1,18
+2020-02-01,in,"India","All","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,19
+2020-02-01,in,"India","All","All",Top Trending Skills,"Requirements Gathering",-1,20

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. Department of Veterans Affairs",4.405193710913926,1
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. Census Bureau",13.96621957427123,2
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. Small Business Administration",28.745948517707916,3
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"United States Postal Service",3.357373471482515,4
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"Centers for Disease Control and Prevention",9.537938353693455,5
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"FDA",6.124820129346549,6
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"Social Security Administration",5.028636780924587,7
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"Maximus",7.089220564991945,8
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"Internal Revenue Service",6.471303395282249,9
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. Department of Homeland Security",3.1448478833804376,10
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"US Environmental Protection Agency (EPA)",6.491673036588909,11
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"FEMA",4.632184002559532,12
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"USAID",9.302544041783163,13
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. Courts of Appeals",41.81655079434248,14
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. Forest Service",4.036781860806954,15
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"USPTO",8.585866528848504,16
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. Department of Health and Human Services (HHS)",5.48032288955643,17
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. Department of Housing and Urban Development",7.739482016831863,18
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. House of Representatives",3.198363243574841,19
+2020-09-30,us,"United States","All","Public Administration",Top Trending Employers,"U.S. Department of Labor",6.034670182862138,20
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Judicial Law Clerk",4.770990923596817,1
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Law Clerk",2.1155394552470503,2
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Attorney",2.110440997686978,3
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Project Manager",1.3751623489205045,4
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Customer Service Representative",1.3583703778762612,5
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Epidemiologist",1.1829981060130879,6
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Program Manager",1.1067187557695357,7
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Nurse",1.0676037753191114,8
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Accountant",0.8848347349595375,9
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Social Worker",0.8021112329450981,10
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Data Analyst",0.7085831565933463,11
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Policy Analyst",0.7082101403753036,12
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Patent Examiner",0.6747962233862542,13
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Loan Officer",0.6618563281013199,14
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Program Coordinator",0.644906627042919,15
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Office Associate",0.6334256814625536,16
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Biologist",0.607612923175602,17
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Case Manager",0.5990002069626007,18
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Lawyer",0.5799060617112318,19
+2020-09-30,us,"United States","All","Public Administration",Top Trending Jobs,"Teacher",0.5674049050144506,20
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Teaching",-1,1
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Legal Writing",-1,3
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Construction Management",-1,4
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Program Management",-1,5
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Civil Litigation",-1,6
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Account Reconciliation",-1,7
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"General Ledger",-1,8
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Customer Satisfaction",-1,9
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Data Analysis",-1,10
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Case Management",-1,11
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Cross-functional Team Leadership",-1,12
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Tableau",-1,13
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Nursing",-1,14
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Public Speaking",-1,15
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Community Outreach",-1,16
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Nonprofit Organizations",-1,17
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Basic Life Support (BLS)",-1,18
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Legal Research",-1,19
+2020-09-30,us,"United States","All","Public Administration",Top Trending Skills,"Event Planning",-1,20

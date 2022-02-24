@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Houston","Retail",Top Trending Employers,"H-E-B",5.142964613577876,1
+2020-02-01,us,"United States","Greater Houston","Retail",Top Trending Jobs,"Salesperson",8.691792704928405,1
+2020-02-01,us,"United States","Greater Houston","Retail",Top Trending Jobs,"Cashier",6.574003741139012,2
+2020-02-01,us,"United States","Greater Houston","Retail",Top Trending Skills,"Time Management",-1,1
+2020-02-01,us,"United States","Greater Houston","Retail",Top Trending Skills,"Cashiering",-1,2

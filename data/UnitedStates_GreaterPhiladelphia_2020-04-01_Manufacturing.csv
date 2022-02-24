@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Greater Philadelphia","Manufacturing",Top Trending Employers,"Lockheed Martin",3.0764670889834544,1
+2020-04-01,us,"United States","Greater Philadelphia","Manufacturing",Top Trending Employers,"Boeing",4.529893041602898,2
+2020-04-01,us,"United States","Greater Philadelphia","Manufacturing",Top Trending Jobs,"Software Engineer",4.589275998692366,1
+2020-04-01,us,"United States","Greater Philadelphia","Manufacturing",Top Trending Skills,"JavaScript",-1,1

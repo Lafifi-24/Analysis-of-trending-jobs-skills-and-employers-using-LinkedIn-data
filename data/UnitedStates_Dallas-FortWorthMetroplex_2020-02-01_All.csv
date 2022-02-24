@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Lockheed Martin",3.9369438198501654,1
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"UT Southwestern Medical Center",4.729621957429926,2
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Baylor Scott & White Health",4.919252666423005,3
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Verizon",6.828946246309451,4
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Capital One",7.603973626459479,5
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"JPMorgan Chase & Co.",4.908773133401236,6
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"State Farm ®",5.730477506326288,7
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"American Airlines",3.006600700548157,8
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"University of North Texas",6.144834465809273,9
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Texas Health Resources",4.513806226920929,10
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Southwest Airlines",3.20339285147914,11
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Microsoft",7.19099058484596,12
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Amazon",6.365712505525822,13
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"McKesson",9.657291195901406,14
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Citi",4.427717563356051,15
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Charles Schwab",9.534866187422772,16
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Caliber Home Loans, Inc.",13.384174203132886,17
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Infosys",8.662986110365818,18
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"Wells Fargo",6.667601571075435,19
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Employers,"The University of Texas at Dallas",5.487478264176375,20
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Software Engineer",2.6797940284197423,1
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Real Estate Agent",2.2010248703269903,2
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Project Manager",1.948344187034129,3
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Nurse",1.3437604909247316,4
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Account Manager",1.3434324628141263,5
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Account Executive",1.2757934184032336,6
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Salesperson",1.132356787514249,7
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Sales Manager",1.0774736048475204,8
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Teacher",1.0771336490039634,9
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Customer Service Representative",1.0445551893806047,10
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Accountant",0.9743368246255932,11
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Recruiter",0.8042750616439883,12
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Financial Analyst",0.6891645650247507,13
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"General Manager",0.6750613969448437,14
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Operations Manager",0.6575648396081311,15
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Sales Director",0.648770515710339,16
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Business Analyst",0.556717441990362,18
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Professor",0.5138585588986271,19
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Jobs,"Attorney",0.5092435619828511,20
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"JavaScript",-1,2
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Account Management",-1,4
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Investment Properties",-1,6
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Team Building",-1,8
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Operations Management",-1,9
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Legal Writing",-1,10
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Recruiting",-1,11
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Construction Management",-1,12
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Higher Education",-1,13
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Civil Litigation",-1,14
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Account Reconciliation",-1,15
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Business Analysis",-1,16
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Sales Operations",-1,17
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Inventory Management",-1,18
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"Financial Analysis",-1,19
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","All",Top Trending Skills,"General Ledger",-1,20

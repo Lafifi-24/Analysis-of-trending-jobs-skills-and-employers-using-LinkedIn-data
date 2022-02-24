@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","New York City Metropolitan Area","Retail",Top Trending Employers,"Walgreens",3.234839707005624,1
+2021-03-01,us,"United States","New York City Metropolitan Area","Retail",Top Trending Employers,"Starbucks",1.76261779243744,2
+2021-03-01,us,"United States","New York City Metropolitan Area","Retail",Top Trending Employers,"Walmart",2.0518173756266873,3
+2021-03-01,us,"United States","New York City Metropolitan Area","Retail",Top Trending Jobs,"Salesperson",7.242339753494649,1
+2021-03-01,us,"United States","New York City Metropolitan Area","Retail",Top Trending Jobs,"Cashier",4.859302427089018,2
+2021-03-01,us,"United States","New York City Metropolitan Area","Retail",Top Trending Skills,"Time Management",-1,1
+2021-03-01,us,"United States","New York City Metropolitan Area","Retail",Top Trending Skills,"Cashiering",-1,2

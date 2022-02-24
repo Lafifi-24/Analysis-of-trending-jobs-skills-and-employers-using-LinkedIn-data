@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Employers,"Atkins",2.6798131945732035,1
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Jobs,"Architect",8.838546138576,1
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Jobs,"Graphic Designer",5.55625795515787,2
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Jobs,"Interior Designer",4.2297266651152965,3
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Jobs,"Creative Director",3.3904036901532555,4
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Jobs,"Project Manager",3.2990775420576552,5
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Skills,"Stakeholder Management",-1,1
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Skills,"Project Delivery",-1,2
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Skills,"Logo Design",-1,3
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Skills,"Architectural Design",-1,4
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Skills,"Art Direction",-1,5
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Skills,"Interior Design",-1,6
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Skills,"Brand Development",-1,7
+2020-05-01,gb,"United Kingdom","All","Design",Top Trending Skills,"Space Planning",-1,8

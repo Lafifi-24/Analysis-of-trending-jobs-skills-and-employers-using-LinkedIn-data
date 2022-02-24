@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","New York City Metropolitan Area","Hardware & Networking",Top Trending Employers,"Charter Communications",4.007879501681944,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Hardware & Networking",Top Trending Jobs,"Software Engineer",4.699660036843397,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Hardware & Networking",Top Trending Jobs,"Project Manager",4.655656352531348,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Hardware & Networking",Top Trending Jobs,"Account Manager",4.6349800577199165,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Hardware & Networking",Top Trending Skills,"Account Management",-1,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Hardware & Networking",Top Trending Skills,"Construction Management",-1,3

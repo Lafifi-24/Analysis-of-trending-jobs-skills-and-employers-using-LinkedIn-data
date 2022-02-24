@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","San Francisco Bay Area","Media & Communications",Top Trending Jobs,"Writer",5.454280779902948,1
+2020-02-01,us,"United States","San Francisco Bay Area","Media & Communications",Top Trending Jobs,"Account Executive",3.64376780645054,2
+2020-02-01,us,"United States","San Francisco Bay Area","Media & Communications",Top Trending Jobs,"Account Manager",3.4580507560323346,3
+2020-02-01,us,"United States","San Francisco Bay Area","Media & Communications",Top Trending Jobs,"Editor",3.437282325954049,4
+2020-02-01,us,"United States","San Francisco Bay Area","Media & Communications",Top Trending Skills,"Account Management",-1,1
+2020-02-01,us,"United States","San Francisco Bay Area","Media & Communications",Top Trending Skills,"Writing",-1,2
+2020-02-01,us,"United States","San Francisco Bay Area","Media & Communications",Top Trending Skills,"Editing",-1,3

@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,au,"Australia","Greater Melbourne Area","Software & IT Services",Top Trending Employers,"MYOB",10.279926755458717,1
+2020-01-01,au,"Australia","Greater Melbourne Area","Software & IT Services",Top Trending Employers,"Xero",16.31941482182699,2
+2020-01-01,au,"Australia","Greater Melbourne Area","Software & IT Services",Top Trending Jobs,"Software Engineer",8.48089539678616,1
+2020-01-01,au,"Australia","Greater Melbourne Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1

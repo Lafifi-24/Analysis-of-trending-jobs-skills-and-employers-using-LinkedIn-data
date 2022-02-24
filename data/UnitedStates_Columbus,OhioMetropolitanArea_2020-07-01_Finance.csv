@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Columbus, Ohio Metropolitan Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",2.0279392168481145,1
+2020-07-01,us,"United States","Columbus, Ohio Metropolitan Area","Finance",Top Trending Employers,"Huntington National Bank",4.055745454270357,2
+2020-07-01,us,"United States","Columbus, Ohio Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",10.673644357467198,1
+2020-07-01,us,"United States","Columbus, Ohio Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1

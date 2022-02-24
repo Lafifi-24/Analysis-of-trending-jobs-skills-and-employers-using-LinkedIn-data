@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,za,"South Africa","City of Cape Town","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",8.910463978100758,1
+2020-01-01,za,"South Africa","City of Cape Town","Software & IT Services",Top Trending Jobs,"Software Engineer",15.323460451248206,1
+2020-01-01,za,"South Africa","City of Cape Town","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,za,"South Africa","City of Cape Town","Software & IT Services",Top Trending Skills,"C#",-1,2

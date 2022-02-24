@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Bristol Myers Squibb",3.70340656886191,1
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Northwell Health",1.3923279357257807,2
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"NewYork-Presbyterian Hospital",1.480276218936552,3
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"NYU Langone Health",1.6269601233295892,4
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"NYC Health + Hospitals",2.7339665898677477,5
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Regeneron",2.902252204558333,6
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Hackensack Meridian Health",2.8505786074032797,7
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Mount Sinai Health System",1.3826926515706242,8
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Atlantic Health System",2.9163628203425542,9
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"CITYMD",5.538168745057279,10
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"RWJBarnabas Health",3.193691212240567,11
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Lehigh Valley Health Network",2.2405168308538514,12
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"St. Luke's University Health Network",2.5631979098552606,13
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Pfizer",1.2682667360414086,14
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Weill Cornell Medicine",1.3431206671483547,15
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Yale New Haven Hospital",2.3219146782935804,16
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"BioReference Laboratories",8.183517960846867,17
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Montefiore Health System",1.5196941079740105,18
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Columbia University Irving Medical Center",1.4229645809300673,19
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Yale New Haven Health",3.4618056859268718,20
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",8.142838701283676,1
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Project Manager",1.2969171677734421,2
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Medical Scribe",1.2244272729515377,3
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Occupational Therapist",1.134912948507786,4
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Emergency Medical Technician",1.0327004626414582,5
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Physical Therapist",1.0025708971487008,6
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Social Worker",0.9504108616116296,7
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Psychotherapist",0.8413922591816763,8
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Laboratory Technician",0.7763662121802237,9
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Pharmacy Technician",0.768970477016989,10
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Account Executive",0.7009261507870823,11
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Salesperson",0.6982696009789773,12
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Software Engineer",0.6871766874276345,13
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Account Manager",0.6798296992310426,14
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Patient Care Technician",0.6753434922364628,15
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Clinician",0.6470404014251175,16
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Data Analyst",0.5901551417381766,17
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Account Management",-1,2
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Construction Management",-1,3
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Data Analysis",-1,4
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Tableau",-1,5
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,6
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Pharmacy",-1,7
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Physical Therapy",-1,8
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Rehabilitation",-1,9
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Pharmacy Technicians",-1,10
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,11
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Case Management",-1,12
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Social Services",-1,13
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Occupational Therapy",-1,14
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Laboratory Skills",-1,15
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Emergency Medical Services (EMS)",-1,16
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"EMT",-1,17
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Psychotherapy",-1,18
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Mental Health Counseling",-1,19
+2021-03-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,20

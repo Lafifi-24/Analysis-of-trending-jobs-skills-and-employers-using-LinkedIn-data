@@ -1,0 +1,18 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Wells Fargo",3.331668544455567,1
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"First Republic Bank",5.424699186734667,2
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Robinhood",19.58389020885004,3
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Silicon Valley Bank",8.472645946958178,4
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Chime",24.498972284924566,5
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Blue Shield of California",4.860357603966562,6
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Charles Schwab",4.697520790039031,7
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Bank of the West",2.7843891094989615,8
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Software Engineer",8.980917246659324,1
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Financial Advisor",2.5992599322990837,2
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Product Manager",2.0485689446337196,3
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Investment Analyst",1.532849364229519,4
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Retirement Planning",-1,2
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Agile Methodologies",-1,3
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Investments",-1,4
+2020-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Financial Modeling",-1,5

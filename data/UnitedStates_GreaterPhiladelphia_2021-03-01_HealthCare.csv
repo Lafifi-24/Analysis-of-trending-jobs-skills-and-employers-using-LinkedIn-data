@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Penn Medicine, University of Pennsylvania Health System",2.388043033043458,1
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Thomas Jefferson University Hospitals",3.048960543153761,2
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Children's Hospital of Philadelphia",1.9126115766712568,3
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Main Line Health",3.350549902970194,4
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"ChristianaCare",2.6322483606748,5
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Virtua Health",2.73691741395664,6
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Einstein Healthcare Network",2.9834860576785687,7
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"GSK",1.460839338198748,8
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Cooper University Health Care",2.8255534502372806,9
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"The Janssen Pharmaceutical Companies of Johnson & Johnson",1.939979333607542,10
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Nurse",7.483204497695607,1
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Project Manager",1.9194565662791023,2
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Construction Management",-1,1
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Nursing",-1,2
+2021-03-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,3

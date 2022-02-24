@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Robinhood",17.183705381229096,1
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Chime",15.877796041255552,2
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",6.045489502266062,3
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Wells Fargo",1.0297967037000022,4
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Upstart",18.71008005960698,5
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Morgan Stanley",6.881408180353333,6
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Software Engineer",8.235397643641868,1
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Investment Analyst",3.763227212023248,2
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Product Manager",1.6914540675722851,3
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Financial Advisor",1.6166156950379091,4
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Agile Methodologies",-1,2
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Retirement Planning",-1,3
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Investments",-1,4
+2021-06-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Financial Modeling",-1,5

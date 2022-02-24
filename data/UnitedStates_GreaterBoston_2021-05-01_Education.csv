@@ -1,0 +1,18 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Northeastern University",2.737864372323192,1
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Massachusetts Institute of Technology",2.6643700130429173,2
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Broad Institute of MIT and Harvard",6.296108325949924,3
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard University",1.9810919147287633,4
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston University",2.0052049738314324,5
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Medical School",1.9039356152835751,6
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brown University",2.0441424581522583,7
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Tufts University",1.7682054795195412,8
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Medical School",2.5995714089518027,9
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Postdoctoral Researcher",6.66354004942471,1
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Teacher",6.541907795082635,2
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Professor",4.824127817357562,3
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Teaching",-1,1
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Higher Education",-1,3
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Molecular Biology",-1,4
+2021-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Cell Culture",-1,5

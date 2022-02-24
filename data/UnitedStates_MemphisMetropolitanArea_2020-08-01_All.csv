@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"Amazon",46.757416078782065,1
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"FedEx",3.020569200331404,2
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"Shelby County Schools",4.771628598333296,3
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"The University of Memphis",6.606724303226197,4
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"St. Jude Children's Research Hospital",4.031619407474017,5
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"The University of Tennessee Health Science Center",5.911018783537279,6
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"Baptist Memorial Health Care",4.987279306524626,7
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Jobs,"Teacher",2.212729688739459,1
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Jobs,"Nurse",1.9393043248261799,2
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.8359588669376437,3
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Jobs,"Operations Manager",1.6107042772331948,4
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Jobs,"Professor",1.399503646636239,5
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,2
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,3
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Team Building",-1,4
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Higher Education",-1,5
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Nursing",-1,6
+2020-08-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,7

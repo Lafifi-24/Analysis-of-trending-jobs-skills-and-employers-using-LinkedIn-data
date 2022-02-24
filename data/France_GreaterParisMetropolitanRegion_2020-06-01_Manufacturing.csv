@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"Groupe Renault",1.3577177411924122,1
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"Safran",0.8203324295435055,2
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"Air Liquide",2.693961388283557,3
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Jobs,"Project Manager",4.420316907567794,1
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Jobs,"Product Manager",2.3291049540793156,2
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Jobs,"Business Manager",1.907739537172317,3
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Skills,"Marketing Strategy",-1,2

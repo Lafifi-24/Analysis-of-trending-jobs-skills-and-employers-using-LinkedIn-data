@@ -1,0 +1,22 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Employers,"DBS Bank",3.766239271927673,1
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Employers,"Standard Chartered Bank",3.619488785310227,2
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Employers,"UOB",4.587292451220635,3
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Employers,"Citi",4.785711501531912,4
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Employers,"OCBC Bank",4.034216658340891,5
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Employers,"Prudential Assurance Company Singapore",6.012615393608867,6
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Employers,"GREAT EASTERN",6.787228868897492,7
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Employers,"UBS",3.0172129745417173,8
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Employers,"Credit Suisse",2.414868475970577,9
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Financial Advisor",7.106359414245827,1
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Software Engineer",3.5892373628708194,2
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Financial Services Consultant",2.8128292687260226,3
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Relationship Manager",2.657659812047497,4
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Business Analyst",2.5649946963547556,5
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Skills,"Java",-1,2
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Skills,"Business Analysis",-1,3
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Skills,"Financial Planning",-1,4
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Skills,"Requirements Gathering",-1,5
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Skills,"Portfolio Management",-1,6
+2020-02-01,sg,"Singapore","All","Finance",Top Trending Skills,"Financial Advisory",-1,7

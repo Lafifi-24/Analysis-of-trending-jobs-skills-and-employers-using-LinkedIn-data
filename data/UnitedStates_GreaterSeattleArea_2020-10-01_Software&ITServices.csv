@@ -1,0 +1,47 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Employers,"Amazon",4.985027059686585,1
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Employers,"Microsoft",2.962671110017703,2
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",5.071097909040365,3
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Employers,"Facebook",7.465252366474045,4
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Employers,"Oracle",4.333020527133022,5
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Employers,"Smartsheet",4.723120406022682,6
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Employers,"Nintex",34.26492504285577,7
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Software Engineer",28.43335861425463,1
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Program Manager",5.084786626280758,2
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Product Manager",2.980951946567013,3
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Financial Analyst",1.7779989413638735,4
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Technical Program Manager",1.4666763537746756,5
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Account Executive",1.434596498101587,6
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Data Scientist",1.4125650044654303,7
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"User Experience Designer",1.0832922421126898,8
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Project Manager",1.0538407363162883,9
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Software Engineering Manager",1.0079681674971626,10
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Business Intelligence Engineer",0.917602206726071,11
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Account Manager",0.8700867788420195,12
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Engineering Manager",0.8448918393524694,13
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Data Engineer",0.7973993374001715,14
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Recruiter",0.7798315113792914,15
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Applied Scientist",0.7707293040986986,16
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Business Analyst",0.7018463544526706,17
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Recruitment Coordinator",0.6717572099091341,18
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Jobs,"Solutions Architect",0.6542343184189137,19
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Recruiting",-1,3
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Construction Management",-1,4
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Program Management",-1,5
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Business Analysis",-1,6
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Financial Analysis",-1,7
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Interviewing",-1,8
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Financial Reporting",-1,9
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Cross-functional Team Leadership",-1,10
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,11
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,12
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Machine Learning",-1,13
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Data Science",-1,14
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"User Experience Design (UED)",-1,15
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Engineering Management",-1,16
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Wireframing",-1,17
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,18
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Cloud Computing",-1,19
+2020-10-01,us,"United States","Greater Seattle Area","Software & IT Services",Top Trending Skills,"Apache Spark",-1,20

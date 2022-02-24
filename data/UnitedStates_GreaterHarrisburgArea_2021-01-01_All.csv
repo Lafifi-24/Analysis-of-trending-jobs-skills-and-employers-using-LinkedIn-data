@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Harrisburg Area","All",Top Trending Employers,"Penn State Health",7.732076726372705,1
+2021-01-01,us,"United States","Greater Harrisburg Area","All",Top Trending Jobs,"Nurse",2.1436355751678136,1
+2021-01-01,us,"United States","Greater Harrisburg Area","All",Top Trending Skills,"Nursing",-1,1
+2021-01-01,us,"United States","Greater Harrisburg Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,2

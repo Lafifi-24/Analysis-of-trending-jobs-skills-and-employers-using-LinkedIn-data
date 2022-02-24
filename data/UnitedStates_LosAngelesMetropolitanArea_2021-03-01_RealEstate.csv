@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",3.131190528686287,1
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Employers,"Compass",4.104608124792717,2
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Employers,"eXp Realty",9.638627741745973,3
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Employers,"Redfin",14.798278385387103,4
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Agent",34.4402767857444,1
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Jobs,"Property Manager",2.9513237851907914,2
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Skills,"Property Management",-1,3

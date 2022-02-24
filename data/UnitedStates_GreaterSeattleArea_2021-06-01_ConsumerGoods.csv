@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Greater Seattle Area","Consumer Goods",Top Trending Employers,"Apple",8.29323915023188,1
+2021-06-01,us,"United States","Greater Seattle Area","Consumer Goods",Top Trending Jobs,"Software Engineer",5.620706216296567,1
+2021-06-01,us,"United States","Greater Seattle Area","Consumer Goods",Top Trending Skills,"JavaScript",-1,1

@@ -1,0 +1,29 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"ETH Zürich",11.402625249980977,1
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",8.590586686799053,2
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Zurich",8.83433231763453,3
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Geneva",6.711041201463044,4
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"CERN",4.380433483510025,5
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Bern",6.648225866907065,6
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Applied Sciences and Arts Northwestern Switzerland FHNW",9.65382227906229,7
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"Lucerne University of Applied Sciences and Arts",8.58093528984697,8
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of St.Gallen",9.810960117386083,9
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Lausanne - UNIL",6.421136027128194,10
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"ZHAW Zurich University of Applied Sciences",7.375426052910352,11
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Basel",6.287721642020133,12
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"Berner Fachhochschule BFH",7.739742925904601,13
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"Ecole hôtelière de Lausanne",13.523906103886873,14
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Employers,"Université de Fribourg - Universität Freiburg",8.433268731809692,15
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Lecturer",14.520865673822106,1
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Postdoctoral Researcher",11.066626643719403,2
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Teacher",8.131402757745377,3
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Professor",4.727336917518782,4
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Scientific Officer",2.602635816757969,5
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Project Manager",2.04474045742265,6
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Masters Student",1.989549046018044,7
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Skills,"Project Management",-1,1
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Skills,"Teaching",-1,2
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Skills,"Change Management",-1,3
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Skills,"Scientific Writing",-1,4
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Skills,"Research",-1,5
+2020-09-01,ch,"Switzerland","All","Education",Top Trending Skills,"MATLAB",-1,6

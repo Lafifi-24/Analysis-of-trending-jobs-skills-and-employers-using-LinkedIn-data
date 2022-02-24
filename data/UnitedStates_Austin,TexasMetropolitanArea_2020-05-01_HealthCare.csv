@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Austin, Texas Metropolitan Area","Health Care",Top Trending Employers,"Ascension",7.856543470927495,1
+2020-05-01,us,"United States","Austin, Texas Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",7.236110617832776,1
+2020-05-01,us,"United States","Austin, Texas Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-05-01,us,"United States","Austin, Texas Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,no,"Norway","All","Legal",Top Trending Jobs,"Lawyer",48.377101006671424,1
+2020-01-01,no,"Norway","All","Legal",Top Trending Jobs,"Attorney",23.171373590399533,2
+2020-01-01,no,"Norway","All","Legal",Top Trending Skills,"Legal Advice",-1,1
+2020-01-01,no,"Norway","All","Legal",Top Trending Skills,"Litigation",-1,2
+2020-01-01,no,"Norway","All","Legal",Top Trending Skills,"Contract Law",-1,3

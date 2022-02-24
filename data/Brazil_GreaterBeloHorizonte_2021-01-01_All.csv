@@ -1,0 +1,54 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"Inter",12.145921545933783,1
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"Vale",3.6364971065032683,2
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"Take Blip",22.060189202347605,3
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"Hotmart",9.756250706746002,4
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"dti digital",11.469925245724,5
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"Accenture",10.348645536633349,6
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"FCA Fiat Chrysler Automobiles",3.7194611697855087,7
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"Universidade Federal de Minas Gerais",2.6517156932598156,8
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"MRV",6.149771915278643,9
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"MCA Auditoria e Gerenciamento Ltda",23.888906692941305,10
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"Grupo Hermes Pardini",8.890860597488663,11
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"CI&T",11.51277558609246,12
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Employers,"Accenture Brasil",6.882171157210893,13
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Attorney",2.7800266028018066,1
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Software Engineer",2.5885491759742396,2
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"System Analyst",1.5961846978434089,3
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Sales Consultant",1.573002966687155,4
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Safety Officer",1.436681588854758,5
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Civil Engineer",1.426151856100345,6
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Nurse",1.2802212327665203,7
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Human Resources Analyst",1.2498535378988833,8
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Marketing Analyst",1.2380093612180283,9
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Teacher",1.1532067703835382,10
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Salesperson",1.0473081948822474,11
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Administrative Associate",0.9831517590408589,12
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Graphic Designer",0.8794723214538175,13
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Development Analyst",0.8592813269244967,14
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Sales Development Representative",0.8422328927617064,15
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Frontend Developer",0.8250973221404331,16
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Full Stack Engineer",0.8153980617335722,17
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Business Consultant",0.7874201968487574,18
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Project Manager",0.786349381304964,19
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Jobs,"Financial Analyst",0.7657277027329986,20
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Teaching",-1,1
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Litigation",-1,2
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Legal Advice",-1,3
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Negotiation",-1,4
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Higher Education",-1,5
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"SQL",-1,6
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"AutoCAD",-1,7
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Administration",-1,8
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"JavaScript",-1,9
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Microsoft SQL Server",-1,10
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Adobe Illustrator",-1,11
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Git",-1,12
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Financial Analysis",-1,13
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Recruiting",-1,14
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Nursing",-1,15
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Marketing Strategy",-1,16
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Microsoft Project",-1,17
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Digital Marketing",-1,18
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Business Planning",-1,19
+2021-01-01,br,"Brazil","Greater Belo Horizonte","All",Top Trending Skills,"Accounts Payable",-1,20

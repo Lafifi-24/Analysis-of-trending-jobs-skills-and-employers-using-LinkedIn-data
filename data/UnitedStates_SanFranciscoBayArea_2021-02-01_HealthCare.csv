@@ -1,0 +1,38 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Kaiser Permanente",1.1749154089051834,1
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Genentech",1.6624880788361818,2
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Health Care",2.5366464713165793,3
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Cepheid",8.000246892785327,4
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Carbon Health",27.28381889025461,5
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Gilead Sciences",1.9309508934459576,6
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Guardant Health",10.436257452372525,7
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Children's Health | Lucile Packard Children's Hospital Stanford",3.185911042909733,8
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Abbott",2.9646735112926095,9
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Natera",8.216572948271306,10
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Invitae",7.8063035029654015,11
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Intuitive",2.1067882979447305,12
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Color",17.97230709973972,13
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"John Muir Health",4.436278904555588,14
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Zymergen",5.5676155239950855,15
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Penumbra, Inc.",5.3120456351484835,16
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"One Medical",4.353861142558262,17
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Sutter Health",1.0976023500464793,18
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"10x Genomics",6.7998986917155,19
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Nurse",6.387179914975076,1
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Software Engineer",2.6615162056296446,2
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Behavioral Health Technician",1.071250158645907,3
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Project Manager",1.005624825314495,4
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Emergency Medical Technician",0.9775492849918757,5
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Product Manager",0.9768687014301258,6
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Recruiter",0.9172238860468545,7
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Recruiting",-1,2
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Construction Management",-1,3
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Interviewing",-1,4
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nursing",-1,5
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Agile Methodologies",-1,6
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,7
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Emergency Medical Services (EMS)",-1,8
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"EMT",-1,9
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Applied Behavior Analysis",-1,10
+2021-02-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Behavioral Health",-1,11

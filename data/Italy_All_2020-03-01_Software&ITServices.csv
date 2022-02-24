@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Accenture",5.9141644587842785,1
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Amazon",6.875732956611603,2
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"NTT DATA Italia",7.159236534938795,3
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Altran",6.298668669516013,4
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Capgemini",4.94647481950679,5
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Engineering Ingegneria Informatica Spa",3.3486007110766507,6
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Accenture Italia",4.958407877051455,7
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"ALTEN Italia",10.940852270450234,8
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Fincons Group",10.205433004111269,9
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"AlmavivA S.p.A.",5.454815903425039,10
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Lutech",9.885397825921848,11
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"DXC Technology",6.419189886488959,12
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Avanade",7.532397927944305,13
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"italiaonline",5.350508867553171,14
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Techedge Group",7.159902389097524,15
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Reply",2.970751177408413,16
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Facile.it",10.799101289832485,17
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Software Engineer",9.134181426512692,1
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Project Manager",3.35359007314019,2
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Account Manager",2.2152427227186315,3
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"System Engineer",2.111317911088356,4
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Information Technology Consultant",1.905439875598119,5
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",1.8361222420237637,6
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Java Software Engineer",1.8005163114743081,7
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Business Analyst",1.6458308523420389,8
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",1.4581743495792265,9
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Web Developer",1.3355369789750893,10
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Functional Analyst",1.170479614393153,11
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Data Scientist",1.1082490022396985,12
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Software Analyst",1.098176784179574,13
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Sales Manager",0.9719494278395336,14
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"SAP Consultant",0.7673808216436132,15
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",0.7568539236955438,16
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Solutions Architect",0.7535894918249337,17
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Graphic Designer",0.6811742992198946,18
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Social Media Manager",0.6317146750803181,19
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Business Consultant",0.6001498178354899,20
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Sales Management",-1,2
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Adobe Illustrator",-1,3
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,4
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Project Planning",-1,5
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Business Planning",-1,6
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Graphics",-1,7
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Social Media Marketing",-1,8
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"SQL",-1,9
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,10
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"jQuery",-1,11
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Instagram",-1,12
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"XML",-1,13
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Windows Server",-1,14
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"VMware",-1,15
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Linux",-1,16
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Management Consulting",-1,17
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Spring Framework",-1,18
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Python (Programming Language)",-1,19
+2020-03-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,20

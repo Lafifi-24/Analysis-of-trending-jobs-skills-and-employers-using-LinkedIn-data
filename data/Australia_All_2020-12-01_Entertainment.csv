@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Employers,"Australian Broadcasting Corporation (ABC)",3.398494524540025,1
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Jobs,"Editor",3.990270839482231,1
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Jobs,"Journalist",2.924576099064791,2
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Jobs,"Software Engineer",2.7050785981891683,3
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Jobs,"Post Producer",2.6110393816509476,4
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Skills,"Editing",-1,2
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Skills,"Journalism",-1,3
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Skills,"Copy Editing",-1,4
+2020-12-01,au,"Australia","All","Entertainment",Top Trending Skills,"News Writing",-1,5

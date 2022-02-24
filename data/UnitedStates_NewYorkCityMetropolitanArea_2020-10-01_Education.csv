@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"New York University",8.341847956330382,1
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Columbia University in the City of New York",5.741276578225761,2
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"NYC Department of Education",2.746224492935012,3
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Yale University",7.089547725395288,4
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Rutgers University",4.574679303737883,5
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Princeton University",7.945918921781043,6
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Stony Brook University",7.777225425302138,7
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Weill Cornell Medicine",4.6049464851683615,8
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Fordham University",7.089430215150412,9
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"New Jersey Institute of Technology",10.539980341854854,10
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Stevens Institute of Technology",9.265454562871215,11
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Cornell University",11.704787782683889,12
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Yale University School of Medicine",4.708523445283508,13
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Lehigh University",6.521903662641545,14
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Success Academy Charter Schools",3.739637418621516,15
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Rutgers Business School",16.416256855253916,16
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Marist College",9.65249861980301,17
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Montclair State University",4.6877518001475424,18
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Vassar College",13.208237803147002,19
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Seton Hall University",6.820347044442984,20
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Teacher",14.224517915492408,1
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Professor",9.87589286367549,2
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Elementary School Teacher",3.159951256345244,3
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.001203143828512,4
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Special Education Teacher",2.4645107743591885,5
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Lecturer",1.8969724220159105,6
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Mathematics Teacher",1.2986167132305484,7
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"English Teacher",0.9059529739462655,8
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Speech Language Pathologist",0.8620173208856451,9
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Member Of The Board Of Advisors",0.8601945263644143,10
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"School Counselor",0.792126941444206,12
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Software Engineer",0.769429963085014,13
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Middle School Teacher",0.7691731044524702,14
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Social Worker",0.681039978593326,15
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Physical Education Teacher",0.6664867363658205,16
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Science Teacher",0.6558658801902938,17
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Psychologist",0.6135652428489013,18
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Music Teacher",0.560704020103537,19
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Spanish Teacher",0.5467518174390096,20
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"JavaScript",-1,2
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,4
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Public Speaking",-1,5
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Special Education",-1,6
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Classroom Management",-1,7
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Elementary Education",-1,8
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Nonprofit Organizations",-1,9
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,10
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,11
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Speech Therapy",-1,12
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Case Management",-1,13
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Social Services",-1,14
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Speech",-1,15
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Music Education",-1,16
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Music",-1,17
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Psychotherapy",-1,18
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Strategy",-1,19
+2020-10-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Student Counseling",-1,20

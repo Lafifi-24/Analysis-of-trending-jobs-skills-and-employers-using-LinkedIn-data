@@ -1,0 +1,37 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,jp,"Japan","All","All",Top Trending Employers,"Rakuten",4.931331525480166,1
+2020-07-01,jp,"Japan","All","All",Top Trending Employers,"Accenture",5.889380359884445,2
+2020-07-01,jp,"Japan","All","All",Top Trending Employers,"Amazon",6.022726527534979,3
+2020-07-01,jp,"Japan","All","All",Top Trending Employers,"Amazon Web Services (AWS)",10.628386624913523,4
+2020-07-01,jp,"Japan","All","All",Top Trending Employers,"Deloitte",3.7023352066352855,5
+2020-07-01,jp,"Japan","All","All",Top Trending Employers,"PwC Japan",5.766093005878997,6
+2020-07-01,jp,"Japan","All","All",Top Trending Employers,"Microsoft",3.8044664042381195,7
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Software Engineer",5.674735180918193,1
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Project Manager",2.1094679205343225,2
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Account Manager",1.6962245419172,3
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"General Manager",1.6753924674226557,4
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Sales Manager",1.4714066875226683,5
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Account Executive",1.4598345118090539,6
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Professor",1.3608336221952193,7
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Salesperson",1.2909503103126798,8
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Marketing Manager",1.2170559946741009,9
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Data Scientist",1.1734017607302933,10
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Product Manager",0.9711590397477324,11
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"System Engineer",0.9351952167396975,12
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Business Development Manager",0.9053877757235217,13
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Teacher",0.8581311307160274,14
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Recruiter",0.841428369676679,15
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Translator",0.8369110083661544,16
+2020-07-01,jp,"Japan","All","All",Top Trending Jobs,"Human Resources Manager",0.7372848097753811,17
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Java",-1,2
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Project Management",-1,3
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Teaching",-1,4
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Translation",-1,5
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Sales Management",-1,6
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Linux",-1,7
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Python (Programming Language)",-1,8
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Marketing Strategy",-1,9
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Account Management",-1,10
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Recruiting",-1,11
+2020-07-01,jp,"Japan","All","All",Top Trending Skills,"Machine Learning",-1,12

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS",4.1959013376133285,1
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS England",5.872492491091426,2
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Public Health England",9.570990082983718,3
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"IQVIA",5.825097828186322,4
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"GSK",1.8523594481958596,5
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Bupa",3.03659127094312,6
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS Trust",5.901441283162759,7
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"UK Biocentre",40.1817861942213,8
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Guy's and St Thomas'​ NHS Foundation Trust",2.8636661453793355,9
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"PerkinElmer, Inc.",20.507965472427106,10
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS Digital",5.107603711410492,11
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Manchester University NHS Foundation Trust",4.943975889739871,12
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Priory Group",4.208796538900964,13
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS Grampian",7.546127841035452,14
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Cygnet Health Care",6.092501184475092,15
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS Greater Glasgow and Clyde",4.177944135301362,16
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS Blood and Transplant",5.81890631578817,17
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Spire Healthcare Group plc",4.199218721337255,18
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"The Newcastle Upon Tyne Hospitals NHS Foundation Trust",7.232396526822156,19
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Royal Berkshire NHS Foundation Trust",7.958199030532749,20
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Support Associate",4.585265332281152,1
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Nurse",2.770161076908134,2
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Project Manager",2.2916469491086673,3
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Laboratory Technician",1.8534191779822788,4
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Psychologist",1.6070354267197668,5
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Software Engineer",0.9573007658573581,6
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Operations Manager",0.9503733130983936,7
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Physical Therapist",0.9221019049933881,8
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Account Manager",0.8818230595604206,9
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Receptionist",0.7876468808582717,10
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Program Manager",0.7115029692115118,11
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Pharmacist",0.69443856104543,12
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Medical Writer",0.6901626317296938,13
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Human Resources Advisor",0.6642437601128203,14
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Business Development Manager",0.6636311385894378,15
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Clinical Fellow",0.6542265068470309,16
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Clinical Pharmacist",0.6145107400912672,17
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Mental Health Practitioner",0.5718906941046025,18
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Business Analyst",0.5663940647133898,19
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Biomedical Scientist",0.5473255212824527,20
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Account Management",-1,1
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"JavaScript",-1,2
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Operations Management",-1,3
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Business Analysis",-1,4
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Stakeholder Management",-1,5
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Project Delivery",-1,6
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Business-to-Business (B2B)",-1,7
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Change Management",-1,8
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Time Management",-1,9
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Requirements Gathering",-1,10
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Program Management",-1,11
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Receptionist Duties",-1,12
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Employee Relations",-1,13
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Nursing",-1,14
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Mental Health",-1,15
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Pharmacy",-1,16
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Rehabilitation",-1,17
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"HR Policies",-1,18
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Physical Therapy",-1,19
+2021-02-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Community Pharmacy",-1,20

@@ -1,0 +1,43 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Fidelity Investments",3.012406785964611,1
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Citizens",2.9456382396831486,2
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Liberty Mutual Insurance",1.0120997495395145,3
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Northwestern Mutual",17.21413841896148,4
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Software Engineer",3.5769093479669127,1
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Customer Service Representative",2.999874873451889,2
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Financial Advisor",2.4051110241248344,3
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Investment Analyst",2.0743113644032847,4
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Financial Analyst",1.5615655712966843,5
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Account Manager",1.5008212030725627,6
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Mortgage Loan Officer",1.4824222809469896,7
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Insurance Agent",1.3312357760068934,8
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Bank Teller",1.1168598413282336,9
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Accountant",1.0984548608354703,10
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Account Executive",1.0731339865245204,11
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Financial Representative",1.0323552161564549,12
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Underwriter",1.0279041710060024,13
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Financial Services Representative",0.939013240732248,14
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Private Equity Associate",0.8956927309829652,15
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Portfolio Manager",0.8789023888510374,16
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Loan Officer",0.8590542857206951,17
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Relationship Banker",0.8289455820589441,18
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Private Equity Analyst",0.8020295741532827,19
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Account Management",-1,2
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Account Reconciliation",-1,3
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Financial Analysis",-1,4
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"General Ledger",-1,5
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Customer Satisfaction",-1,6
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Financial Reporting",-1,7
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Retirement Planning",-1,8
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Investments",-1,9
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Life Insurance",-1,10
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,11
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Underwriting",-1,12
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Mortgage Lending",-1,13
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Insurance",-1,14
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Portfolio Management",-1,15
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Cash Handling",-1,16
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Financial Services",-1,17
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Financial Modeling",-1,18
+2020-10-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Private Equity",-1,19

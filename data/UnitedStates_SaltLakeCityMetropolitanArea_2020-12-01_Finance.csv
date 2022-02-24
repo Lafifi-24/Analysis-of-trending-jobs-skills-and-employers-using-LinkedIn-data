@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Employers,"Fidelity Investments",4.669865817799656,1
+2020-12-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",5.725295960213728,1
+2020-12-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1

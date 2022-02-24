@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Employers,"Amazon",3.459855519969667,1
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Employers,"3M",9.517213301873523,2
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Employers,"Intel Corporation",5.3610614481664145,3
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Employers,"Accenture",5.673364001485887,4
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Employers,"Microsoft",4.737540116591641,5
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Jobs,"Software Engineer",6.050055750960067,1
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Jobs,"Customer Service Representative",2.786807860582716,2
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Jobs,"Project Manager",2.121701330811239,3
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Skills,"C#",-1,2
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Skills,"Team Leadership",-1,3
+2021-01-01,cr,"Costa Rica","All","All",Top Trending Skills,"Microsoft Project",-1,4

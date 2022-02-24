@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"University of Sydney",1.7440668922451428,1
+2021-01-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"UNSW",1.640364296999873,2
+2021-01-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"NSW Department of Education",1.6530071813407492,3
+2021-01-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"University of Technology Sydney",1.6104255479954623,4
+2021-01-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"Macquarie University",1.5414245956073118,5
+2021-01-01,au,"Australia","Greater Sydney Area","Education",Top Trending Jobs,"Teacher",7.385485286152782,1
+2021-01-01,au,"Australia","Greater Sydney Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,au,"Australia","Greater Sydney Area","Education",Top Trending Skills,"Curriculum Development",-1,2

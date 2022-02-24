@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Employers,"Etat de Vaud",3.5154431431922166,1
+2020-06-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Employers,"CHUV | Lausanne university hospital",3.491496548509634,2
+2020-06-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",2.7560571029709946,3
+2020-06-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Jobs,"Project Manager",3.3178512368737785,1
+2020-06-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Jobs,"Software Engineer",1.8638159252308601,3
+2020-06-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2020-06-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Skills,"Java",-1,2
+2020-06-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Skills,"Change Management",-1,3

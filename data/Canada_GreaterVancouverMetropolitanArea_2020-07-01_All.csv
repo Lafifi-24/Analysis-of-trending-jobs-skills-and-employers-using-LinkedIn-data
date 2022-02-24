@@ -1,0 +1,50 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"The University of British Columbia",3.390788305891579,1
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Amazon",10.97231182063285,2
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Fraser Health Authority",5.871039034211282,3
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Amazon Web Services (AWS)",13.047685149634045,4
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Vancouver Coastal Health",3.9449605393835068,5
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Simon Fraser University",4.099142296875185,6
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"lululemon",4.759166352939856,7
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Provincial Health Services Authority",3.545631840618805,8
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Global Relay",17.369176274301644,9
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Fortinet",10.055648622335964,10
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Software Engineer",6.338356438071004,1
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.9732036336410224,2
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.4029737815490957,3
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Accountant",1.0213237860630355,4
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Teacher",1.016117300179738,5
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",0.9708770271255796,6
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.9271919652126638,7
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.7794563076486768,8
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Nurse",0.7725409775400719,9
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Account Manager",0.747558924327931,10
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Cashier",0.7210296593443983,12
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.7078354804924256,13
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.6484832542364937,14
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Account Executive",0.6425302707488676,15
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.6093466124516219,16
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Full Stack Engineer",0.581772455250224,17
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Server",0.5513693044078154,18
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",0.5372261395994947,19
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.5283736687994687,20
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Time Management",-1,2
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,3
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,4
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Adobe Illustrator",-1,5
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Account Management",-1,6
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,7
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,8
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Financial Reporting",-1,9
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,10
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,11
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,12
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Residential Real Estate",-1,13
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Team Building",-1,14
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,15
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Marketing Strategy",-1,16
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Cashiering",-1,17
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Requirements Gathering",-1,18
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Public Speaking",-1,19
+2020-07-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"React.js",-1,20

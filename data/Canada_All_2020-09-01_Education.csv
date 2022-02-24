@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"The University of British Columbia",9.144137870760002,1
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"McMaster University",11.341234098309604,2
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Ryerson University",14.231173647416954,3
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"University of Ottawa",11.061385490828656,4
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Carleton University",14.965046867457342,5
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"University of Waterloo",10.143452008472265,6
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Queen's University",12.354032611172281,7
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"McGill University",6.6646268027858575,8
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Western University",9.628098977463614,9
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"York University",8.957263572415789,10
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"University of Calgary",5.507279751308607,11
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Université de Montréal",5.966826486176762,12
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Simon Fraser University",8.943976760687224,13
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Concordia University",7.514923079242363,14
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"University of Alberta",4.253169839621191,15
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Dalhousie University",8.240770357435359,16
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"University of Victoria",9.841400023164741,17
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"University of Guelph",7.4961457377723,18
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Université de Sherbrooke",8.118513289382772,19
+2020-09-01,ca,"Canada","All","Education",Top Trending Employers,"Brock University",12.960593655997638,20
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Teacher",15.074856598068623,1
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Professor",8.716054597259422,2
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Postdoctoral Researcher",3.521656332139214,3
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Lecturer",2.7977356889768097,4
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Elementary School Teacher",1.0867001307403616,5
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Project Manager",0.9557641380944634,6
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Software Engineer",0.9440467738959578,7
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"French Teacher",0.7431659663221685,8
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Academic Tutor",0.6475202313174584,9
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Campus Ambassador",0.6035872736180777,10
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Mathematics Tutor",0.5883371708932491,11
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Early Childhood Educator",0.5703852902611528,12
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Clinical Fellow",0.5646300841980217,13
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Editor",0.5600071874088742,14
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"English Second Language Teacher",0.5165843375591593,15
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Web Developer",0.5097063534185831,16
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Secretary",0.49809961659469015,17
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Full Stack Engineer",0.4907000300145685,18
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Graphic Designer",0.4886314372132707,19
+2020-09-01,ca,"Canada","All","Education",Top Trending Jobs,"Mathematics Teacher",0.47575473527186807,20
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Project Planning",-1,3
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Adobe Illustrator",-1,4
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Curriculum Development",-1,5
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Construction Management",-1,6
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,7
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Higher Education",-1,8
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Editing",-1,9
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Writing",-1,10
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"React.js",-1,11
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Node.js",-1,12
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Early Childhood Education",-1,13
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Public Speaking",-1,14
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Scientific Writing",-1,15
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Event Planning",-1,16
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"English as a Second Language (ESL)",-1,17
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Child Development",-1,18
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Classroom Management",-1,19
+2020-09-01,ca,"Canada","All","Education",Top Trending Skills,"Elementary Education",-1,20

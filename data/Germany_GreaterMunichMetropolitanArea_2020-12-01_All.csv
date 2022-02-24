@@ -1,0 +1,52 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Technical University of Munich",11.043755609530177,1
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"BMW Group",1.3897060454451062,2
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Amazon",5.113974803906092,3
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"CHECK24 Vergleichsportal GmbH",9.546337841377058,4
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Amazon Web Services (AWS)",13.18581152646741,5
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Westwing",16.949227640873595,6
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"MediaMarktSaturn",12.369516129955368,7
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Infineon Technologies",2.9410383178520525,8
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Roche",5.33866205435671,9
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Celonis",11.764880521588928,10
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Lilium",11.42060256563176,11
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Accenture",5.015906798194311,12
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Software Engineer",4.429760190202628,1
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Project Manager",3.2140254710483998,2
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Sales Manager",1.8933292442026577,3
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Product Manager",1.373137328071991,4
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Lecturer",1.3055169448337982,5
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",1.2506730012843028,6
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.148027996586602,7
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Business Development Manager",1.121525508644594,8
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Scientific Officer",1.1212584532020675,9
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Key Account Manager",1.1098606085398948,10
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Law Clerk",1.10360755279211,11
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Data Scientist",0.846081953711721,12
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Project Engineer",0.7821668600645892,13
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Product Owner",0.7722642174265459,14
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Recruiter",0.7028083340896335,15
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Postdoctoral Researcher",0.6906711014161909,16
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.6669745573496079,17
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Social Media Manager",0.6612972228756471,18
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Solutions Architect",0.6361366813620882,19
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Java",-1,2
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,3
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Product Development",-1,5
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"International Sales",-1,6
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Recruiting",-1,7
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Online Marketing",-1,8
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Teaching",-1,9
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Molecular Biology",-1,10
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Scrum",-1,11
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Social Media Marketing",-1,12
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Agile Methodologies",-1,13
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"LaTeX",-1,14
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Machine Learning",-1,15
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Data Science",-1,16
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Project Engineering",-1,17
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,18
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Business Management",-1,19
+2020-12-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Instagram",-1,20

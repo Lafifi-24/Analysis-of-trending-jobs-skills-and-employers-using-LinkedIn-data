@@ -1,0 +1,29 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Employers,"H-E-B",5.861949697345324,1
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Employers,"United States Air Force",2.26164181954113,2
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Employers,"UT Health San Antonio",4.094945164052563,3
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Employers,"Amazon",16.245889938790075,4
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Employers,"Wells Fargo",4.5256354989887,5
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Employers,"The University of Texas at San Antonio",2.496696326004149,6
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Employers,"US Army",1.8999395360821891,7
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",2.2785912013614382,1
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.0152905411168582,2
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Jobs,"Nurse",1.7319066849195481,3
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Jobs,"Software Engineer",1.6664304110845625,4
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.244059883062465,5
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.941987410526626,6
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Jobs,"General Manager",0.9038927164693382,7
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.8620004749980934,8
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Jobs,"Program Manager",0.848785628431461,9
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,2
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,3
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Team Building",-1,4
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,5
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,6
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Program Management",-1,7
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,8
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,9
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Cross-functional Team Leadership",-1,10
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Nursing",-1,11
+2020-05-01,us,"United States","San Antonio, Texas Metropolitan Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,12

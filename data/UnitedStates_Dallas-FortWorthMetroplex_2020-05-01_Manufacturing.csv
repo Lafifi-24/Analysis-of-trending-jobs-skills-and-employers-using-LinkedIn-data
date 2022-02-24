@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Employers,"Lockheed Martin",2.7164389193698444,1
+2020-05-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Employers,"Toyota North America",3.8037019177620106,2
+2020-05-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Employers,"Bell Flight",4.733070756612117,3
+2020-05-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Jobs,"System Engineer",2.862745507835184,1
+2020-05-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Jobs,"Software Engineer",2.600627800638172,2
+2020-05-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Skills,"Systems Engineering",-1,2
+2020-05-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Skills,"Integration",-1,3

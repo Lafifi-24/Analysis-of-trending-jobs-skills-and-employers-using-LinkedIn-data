@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Facebook",8.002076625390405,1
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Amazon",16.00328732740647,2
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",15.586312238568542,3
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"VMware",7.510411985287995,4
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"DoorDash",13.613161068900942,5
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"PayPal",5.624976808877087,6
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"ServiceNow",8.74261331649752,7
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Microsoft",5.55261812355602,8
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Oracle",2.83698618683116,9
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Atlassian",12.401715192223817,10
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Instacart",14.16905554656177,11
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Asana",19.526698215430084,12
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Slack",9.86946726894993,13
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Stripe",9.542419792836254,14
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Palo Alto Networks",4.319170432577343,15
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Autodesk",4.472183033689727,16
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Intuit",3.6877597326546,17
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Pure Storage",7.822575648886261,18
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Snowflake",12.560802693215688,19
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Adobe",1.7510549734427252,20
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Software Engineer",22.646811478830745,1
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Product Manager",3.7614563803768126,2
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Data Scientist",1.8558358644412396,3
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Account Executive",1.581477641229677,4
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Product Designer",1.5528054354286882,5
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Program Manager",1.3799243573597908,6
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Engineering Manager",1.1804853924143806,7
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Recruiter",1.0162347975791688,9
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Sales Development Representative",0.8861034299909173,10
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Data Engineer",0.8825361113339958,11
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Technical Program Manager",0.8294410617193213,12
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Machine Learning Engineer",0.7689551257284863,13
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Data Analyst",0.7456724035927816,14
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Customer Success Manager",0.723436078462315,15
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Solutions Architect",0.669966068209048,16
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Member Of The Board Of Advisors",0.6611929984877246,17
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Operations Manager",0.635425547401699,18
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Project Manager",0.6156258183845108,19
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Director of Product Management",0.613483874853198,20
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Operations Management",-1,2
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Team Building",-1,3
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Recruiting",-1,4
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Construction Management",-1,5
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Account Management",-1,6
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Program Management",-1,7
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Data Analysis",-1,8
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Public Speaking",-1,9
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Interviewing",-1,10
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Cross-functional Team Leadership",-1,11
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Tableau",-1,12
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,13
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Nonprofit Organizations",-1,14
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Machine Learning",-1,15
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Data Science",-1,16
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Engineering Management",-1,17
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,18
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Cloud Computing",-1,19
+2020-08-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Salesforce.com",-1,20

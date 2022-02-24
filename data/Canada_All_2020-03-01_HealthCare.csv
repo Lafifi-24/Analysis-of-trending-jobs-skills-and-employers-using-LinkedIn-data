@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Alberta Health Services",1.9745406751185226,1
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Vancouver Coastal Health",5.420046079589509,2
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Fraser Health Authority",5.43848425577833,3
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"University Health Network",3.772276735331986,4
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"The Hospital for Sick Children",4.534283248761793,5
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Sunnybrook",5.228211439346763,6
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Roche",9.230874854491418,7
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"CIUSSS du Centre-Sud-de-l'Île-de-Montréal",6.0782387496520744,8
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Bayshore HealthCare",11.827078646180784,9
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Trillium Health Partners",5.586125081158557,10
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"CBI Health Group",7.354528891591327,11
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Provincial Health Services Authority",3.8917547862164676,12
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"The Ottawa Hospital",5.5153544391951,13
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Innomar Strategies",10.858968787609765,14
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Island Health - Vancouver Island Health Authority",4.836040855224107,15
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"CIUSSS du Centre-Ouest-de-l'Île-de-Montréal | CIUSSS West-Central Montreal",7.472121386268348,16
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"centre-hospitalier-de-l'universit-de-montr-al-chum-",6.720617165051667,17
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"London Health Sciences Centre (LHSC)",4.883790938219923,18
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"GSK",6.625907091337247,19
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Nova Scotia Health Authority",2.991075021317123,20
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Nurse",8.506609212066458,1
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Support Associate",1.5270961878425438,2
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Physical Therapist",1.3597380968252788,3
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Project Manager",1.2279005580515105,4
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Occupational Therapist",1.2248879343365322,5
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Software Engineer",1.0761472716850708,6
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Salesperson",0.8989969121694271,7
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Social Worker",0.8477999595720421,8
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Pharmacy Technician",0.7593187665363021,9
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Pharmacist",0.749006793213082,10
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Dental Hygienist",0.6941123240947545,11
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Customer Service Representative",0.6815170951601598,12
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Financial Analyst",0.6611359254019604,13
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Accountant",0.6468652220822374,14
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Dentist",0.6289086789538683,15
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Administrative Officer",0.6007577481364215,16
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Postdoctoral Researcher",0.5954026644812916,17
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Time Management",-1,1
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"JavaScript",-1,2
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Project Planning",-1,3
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Financial Reporting",-1,4
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Construction Management",-1,5
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Financial Analysis",-1,6
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Pharmacy",-1,7
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Physical Therapy",-1,8
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Nursing",-1,9
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Community Pharmacy",-1,10
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Manual Therapy",-1,11
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Scientific Writing",-1,12
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,13
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Occupational Therapy",-1,14
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Dentistry",-1,15
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Case Management",-1,16
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Crisis Intervention",-1,17
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Patient Education",-1,18
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Restorative Dentistry",-1,19
+2020-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Rehabilitation",-1,20

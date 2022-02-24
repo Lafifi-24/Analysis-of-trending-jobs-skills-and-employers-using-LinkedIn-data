@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,it,"Italy","All","Education",Top Trending Employers,"Università degli Studi di Padova",3.1361487466614997,1
+2020-08-01,it,"Italy","All","Education",Top Trending Employers,"Consiglio Nazionale delle Ricerche",5.682851710360291,2
+2020-08-01,it,"Italy","All","Education",Top Trending Employers,"Alma Mater Studiorum – Università di Bologna",2.2560343814127313,3
+2020-08-01,it,"Italy","All","Education",Top Trending Employers,"Sapienza Università di Roma",1.602912023396158,4
+2020-08-01,it,"Italy","All","Education",Top Trending Jobs,"Postdoctoral Researcher",19.838359057593006,1
+2020-08-01,it,"Italy","All","Education",Top Trending Jobs,"Teacher",9.39392539489546,2
+2020-08-01,it,"Italy","All","Education",Top Trending Jobs,"Professor",7.84462979150912,3
+2020-08-01,it,"Italy","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-08-01,it,"Italy","All","Education",Top Trending Skills,"Molecular Biology",-1,2

@@ -1,0 +1,21 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Columbia University in the City of New York",2.499866757859596,1
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Yale University",3.724823312968617,2
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"NYC Department of Education",0.6717371547895976,3
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Rutgers University",1.7545063613386442,4
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Success Academy Charter Schools",4.09699544497912,5
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Princeton University",2.3874646155007326,6
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Yale University School of Medicine",3.223620128811034,7
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Stony Brook University",2.097306514016886,8
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Teacher",9.21064656837158,1
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Professor",5.5631762561519045,2
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",2.57643699565434,3
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Software Engineer",1.5099497304828762,5
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"JavaScript",-1,2
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,4
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Public Speaking",-1,5
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Nonprofit Organizations",-1,6
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,7
+2021-06-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,8

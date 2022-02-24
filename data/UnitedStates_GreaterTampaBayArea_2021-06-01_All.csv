@@ -1,0 +1,54 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Citi",3.451565206937097,1
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"BayCare Health System",2.826944395275679,2
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"University of South Florida",1.8889816253406486,3
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Moffitt Cancer Center",3.7708899510820943,4
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Raymond James",3.123500727157468,5
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"KnowBe4",8.285123952296498,6
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Tampa General Hospital",3.2225984050132257,7
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"JPMorgan Chase & Co.",2.435461106880357,8
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Project Transition USA",10.709785565275707,9
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"AdventHealth",3.7242949058169197,10
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Power Design, Inc.",6.981193715761866,11
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Fisher Investments",42.09686452653278,12
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Ashley Furniture Industries",12.895474207549315,13
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Real Estate Agent",2.923140491634818,1
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Project Manager",2.1796490348322024,2
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Account Executive",1.8767576261477608,3
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Salesperson",1.7605460148779264,4
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Software Engineer",1.7389829244708537,5
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Account Manager",1.705259523121631,6
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Recruiter",1.2239994385714215,7
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Nurse",1.2232253719645556,8
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Attorney",1.1311083506738266,9
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Customer Service Representative",1.019564540716908,10
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Sales Manager",0.9285210584668887,11
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Sales Development Representative",0.8097425865040099,12
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Operations Manager",0.7430185332973426,13
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Sales Director",0.6975840057350222,14
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Accountant",0.6355646428504145,15
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"General Manager",0.6333212968357996,16
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Business Analyst",0.5944951218256167,17
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Financial Analyst",0.5714450066411951,18
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Business Development Manager",0.5402770210484208,19
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Sales Executive",0.523519516509055,20
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Account Management",-1,2
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Sales Management",-1,3
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Investment Properties",-1,4
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,5
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Team Building",-1,6
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Operations Management",-1,7
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Legal Writing",-1,8
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Recruiting",-1,9
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Construction Management",-1,10
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Civil Litigation",-1,11
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Account Reconciliation",-1,12
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Sales Operations",-1,13
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Business Analysis",-1,14
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Inventory Management",-1,15
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Financial Analysis",-1,16
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"General Ledger",-1,17
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Customer Satisfaction",-1,18
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Interviewing",-1,19
+2021-06-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Financial Reporting",-1,20

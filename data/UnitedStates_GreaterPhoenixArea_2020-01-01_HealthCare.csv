@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Phoenix Area","Health Care",Top Trending Employers,"Banner Health",3.7089052555584194,1
+2020-01-01,us,"United States","Greater Phoenix Area","Health Care",Top Trending Employers,"HonorHealth",4.468469870515599,2
+2020-01-01,us,"United States","Greater Phoenix Area","Health Care",Top Trending Employers,"Mayo Clinic",5.085574754897347,3
+2020-01-01,us,"United States","Greater Phoenix Area","Health Care",Top Trending Employers,"Phoenix Children's Hospital",5.296048110831695,4
+2020-01-01,us,"United States","Greater Phoenix Area","Health Care",Top Trending Jobs,"Nurse",9.717992556024077,1
+2020-01-01,us,"United States","Greater Phoenix Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,us,"United States","Greater Phoenix Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

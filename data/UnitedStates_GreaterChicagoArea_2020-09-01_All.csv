@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Amazon",15.247542463921462,1
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Chicago Public Schools",5.636181093516638,2
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"University of Chicago",6.392016120071907,3
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"University of Illinois Chicago",6.464372768878265,4
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"AbbVie",4.480298148262735,5
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Northwestern University",6.074039000476477,6
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Northwestern Medicine",4.996530387526746,7
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Guaranteed Rate",15.570175082690469,8
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Abbott",5.875343310217971,9
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Rush University Medical Center",4.827018212720092,10
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"GoHealth",32.529056568710836,11
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Northwestern Memorial Hospital",5.252448462215685,12
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"DePaul University",5.833990072090059,13
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Northern Trust Corporation",3.4135073273963084,14
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Loyola University Chicago",6.387440870030391,15
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Tempus Labs, Inc.",17.265392988178334,16
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"CVS Health",6.185000671520942,17
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"UChicago Medicine",4.821264014624362,18
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Target",6.807478235669715,19
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Employers,"Northwestern University - The Feinberg School of Medicine",7.263126922345878,20
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Software Engineer",2.2408547948203394,1
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Teacher",1.6949487432670562,2
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Project Manager",1.4803010722893264,3
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Account Executive",1.4026949059229197,4
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Account Manager",1.3846376971565506,5
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Nurse",1.3725056120807064,6
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Salesperson",1.2746186401055217,7
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Professor",1.0393980571110553,8
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Real Estate Broker",0.8847119492074771,9
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Customer Service Representative",0.8288516700465157,10
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Accountant",0.740477334792209,11
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Sales Manager",0.7162244010042932,12
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Financial Analyst",0.653549116847244,13
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Operations Manager",0.6435215859897576,14
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Attorney",0.6047424583972146,15
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Product Manager",0.5407672649696845,17
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"General Manager",0.5321455191667351,18
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Elementary School Teacher",0.5244339397985072,19
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Jobs,"Sales Director",0.5164921975145427,20
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Account Management",-1,4
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Team Building",-1,6
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Operations Management",-1,7
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Legal Writing",-1,8
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Construction Management",-1,9
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Higher Education",-1,10
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Civil Litigation",-1,11
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Account Reconciliation",-1,12
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Sales Operations",-1,13
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Inventory Management",-1,14
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Financial Analysis",-1,15
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"General Ledger",-1,16
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Customer Satisfaction",-1,17
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Public Speaking",-1,18
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Financial Reporting",-1,19
+2020-09-01,us,"United States","Greater Chicago Area","All",Top Trending Skills,"Classroom Management",-1,20

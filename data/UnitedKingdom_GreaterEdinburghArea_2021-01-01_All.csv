@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Employers,"The Scottish Government",5.078104734195365,1
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Employers,"The University of Edinburgh",2.027527047397657,2
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Employers,"Phoenix Group",18.902186315712807,3
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Employers,"Standard Life Aberdeen",4.303140388697869,4
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Jobs,"Software Engineer",4.446604733740616,1
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Jobs,"Project Manager",2.796254366074352,2
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Jobs,"Business Analyst",1.6006862976855674,3
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Skills,"Business Analysis",-1,2
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Skills,"Stakeholder Management",-1,3
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Skills,"Project Delivery",-1,4
+2021-01-01,gb,"United Kingdom","Greater Edinburgh Area","All",Top Trending Skills,"Requirements Gathering",-1,5

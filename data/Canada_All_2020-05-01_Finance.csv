@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"RBC",2.940399611796572,1
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"TD",2.1479725817919633,2
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"Desjardins",4.385268080134589,3
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"CIBC",2.3667579928075053,4
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"BMO Financial Group",2.9074265271964546,5
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"National Bank of Canada",3.742967521851851,6
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"Sun Life",4.387363570026976,7
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"HUB International",11.013790941524555,8
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"KPMG Canada",3.3657391348768377,9
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"Canada Life",3.7839482856271265,10
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"iA Financial Group (Industrial Alliance)",3.484144575400895,11
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"TD Insurance",4.953413032466376,12
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"Desjardins General Insurance Group",3.560716420656889,13
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"Allstate Canada",13.599099334154355,14
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"World Financial Group (WFG)",4.165982851311754,15
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"Citi",5.496503805263321,16
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"Gatestone & Co.",15.476157082490408,17
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"Aviva Canada",3.2251516348247593,18
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"BDO Canada",2.6676129406044864,19
+2020-05-01,ca,"Canada","All","Finance",Top Trending Employers,"RBC Capital Markets",2.7398838006216604,20
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Financial Advisor",4.93442034000137,1
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Customer Service Representative",3.308377627577335,2
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Software Engineer",2.394505545284516,3
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Business Analyst",1.5548357175587404,4
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Mortgage Agent",1.5459611903645214,5
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Insurance Advisor",1.4503481998786896,6
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Financial Services Representative",1.4252673499613258,7
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Financial Analyst",1.4119522506445752,8
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Insurance Agent",1.0773231530570482,9
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Project Manager",1.0352450684270909,10
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Account Manager",0.9614962166368004,11
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Full Stack Engineer",0.9212543514670904,12
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Mortgage Broker",0.8579739734560798,13
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Investment Analyst",0.8476760984602297,14
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Insurance Broker",0.8398344765147808,15
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Client Advisor",0.835633180349735,16
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Investment Advisor",0.8054126077866529,17
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Client Services Representative",0.7752307337518878,18
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Banking Advisor",0.7525710074826475,19
+2020-05-01,ca,"Canada","All","Finance",Top Trending Jobs,"Underwriter",0.7504421551501345,20
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Project Planning",-1,2
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Time Management",-1,3
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Account Management",-1,4
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Business Analysis",-1,5
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Construction Management",-1,6
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Investments",-1,7
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Financial Analysis",-1,8
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Financial Planning",-1,9
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Financial Reporting",-1,10
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Requirements Gathering",-1,11
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"React.js",-1,12
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Node.js",-1,13
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Insurance",-1,14
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Wealth Management",-1,15
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"General Insurance",-1,16
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Mortgage Lending",-1,17
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Mutual Funds",-1,18
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,19
+2020-05-01,ca,"Canada","All","Finance",Top Trending Skills,"Residential Mortgages",-1,20

@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Massachusetts General Hospital",5.277956210647555,1
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Northeastern University",7.0312715933834316,2
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Harvard University",5.05950481443644,3
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Boston University",6.055087733270783,4
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"CVS Health",5.467295431078615,5
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Massachusetts Institute of Technology",5.4808657177361955,6
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Boston Children's Hospital",4.674357953427057,7
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Dana-Farber Cancer Institute",6.911732333082263,8
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Wayfair",4.834504091493508,9
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Beth Israel Deaconess Medical Center",4.928151443591411,10
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Fidelity Investments",2.358966584653515,11
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Amazon",8.617636961694974,12
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Citizens",4.903292274960859,13
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Harvard Medical School",3.4152049216203677,14
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Liberty Mutual Insurance",2.4782633905936016,15
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Vertex Pharmaceuticals",8.194009293779557,16
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Boston Medical Center (BMC)",4.9545046109783675,17
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Tufts University",6.186607456614696,18
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"Brown University",4.020359406682916,19
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Employers,"athenahealth",8.843942961335562,20
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Software Engineer",3.387341671017007,1
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Project Manager",1.764963575604717,2
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Real Estate Agent",1.5880010594961806,3
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Nurse",1.5111794257615796,4
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Account Executive",1.238763329974628,5
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Account Manager",1.0760787484918228,6
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Professor",0.8786276704001185,8
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Teacher",0.8491373808428422,9
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Accountant",0.8194481033027612,10
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Salesperson",0.7373879431527094,11
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Sales Manager",0.7146380977158499,12
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Postdoctoral Researcher",0.7031034594530496,13
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Program Manager",0.5892388541398401,14
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Financial Analyst",0.5733165587041116,15
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Product Manager",0.5694478538493025,16
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Customer Service Representative",0.5358782630882164,17
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Sales Director",0.5267818264759805,18
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"General Manager",0.5131292453146805,19
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Jobs,"Attorney",0.48975108348704455,20
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Teaching",-1,1
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"JavaScript",-1,2
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Account Management",-1,4
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Sales Management",-1,5
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Investment Properties",-1,6
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Team Building",-1,8
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Legal Writing",-1,9
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Construction Management",-1,10
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Higher Education",-1,11
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Program Management",-1,12
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Civil Litigation",-1,13
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Account Reconciliation",-1,14
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Sales Operations",-1,15
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Inventory Management",-1,16
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Financial Analysis",-1,17
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"General Ledger",-1,18
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Customer Satisfaction",-1,19
+2020-03-01,us,"United States","Greater Boston","All",Top Trending Skills,"Public Speaking",-1,20

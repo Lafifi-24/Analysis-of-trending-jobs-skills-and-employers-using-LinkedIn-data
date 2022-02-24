@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,gb,"United Kingdom","Greater Bristol Area, United Kingdom","All",Top Trending Employers,"University of Bristol",1.758259784211723,1
+2020-05-01,gb,"United Kingdom","Greater Bristol Area, United Kingdom","All",Top Trending Jobs,"Software Engineer",2.901269781057331,1
+2020-05-01,gb,"United Kingdom","Greater Bristol Area, United Kingdom","All",Top Trending Skills,"JavaScript",-1,1

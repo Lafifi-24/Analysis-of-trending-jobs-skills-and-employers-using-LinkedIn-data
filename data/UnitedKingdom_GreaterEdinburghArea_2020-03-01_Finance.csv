@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,gb,"United Kingdom","Greater Edinburgh Area","Finance",Top Trending Employers,"Tesco Bank",10.606057916176011,1
+2020-03-01,gb,"United Kingdom","Greater Edinburgh Area","Finance",Top Trending Employers,"Lloyds Banking Group",2.451690146631239,2
+2020-03-01,gb,"United Kingdom","Greater Edinburgh Area","Finance",Top Trending Jobs,"Software Engineer",5.0665702712942915,1
+2020-03-01,gb,"United Kingdom","Greater Edinburgh Area","Finance",Top Trending Skills,"JavaScript",-1,1

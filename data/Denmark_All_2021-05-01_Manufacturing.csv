@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Employers,"GRUNDFOS",4.550240675645476,1
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Employers,"Energinet",5.714317563874538,2
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Jobs,"Project Manager",7.451051375494915,1
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.8580407234721683,2
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Jobs,"Software Engineer",2.5569091489282063,3
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.9538201800970008,4
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Jobs,"Sales Consultant",1.9052637928302314,5
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Jobs,"Service Technician",1.5979884817167438,6
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Skills,"Project Planning",-1,1
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Skills,"Change Management",-1,2
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Skills,"C#",-1,4
+2021-05-01,dk,"Denmark","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,5

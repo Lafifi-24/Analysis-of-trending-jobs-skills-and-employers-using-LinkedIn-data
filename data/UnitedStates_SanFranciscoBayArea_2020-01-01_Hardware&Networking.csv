@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"NVIDIA",4.46648522752629,1
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Intel Corporation",2.1604474278815284,2
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"NXP Semiconductors",60.03917985030359,3
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Juniper Networks",5.9012706228845975,4
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Lam Research",5.571230717185901,5
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Supermicro",6.930371838246365,6
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Broadcom Inc.",3.564822734193486,7
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"AMD",8.901418598050984,8
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Software Engineer",9.028557682412265,1
+2020-01-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1

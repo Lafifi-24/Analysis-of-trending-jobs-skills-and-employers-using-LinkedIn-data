@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,ph,"Philippines","All","Education",Top Trending Jobs,"Professor",10.707555584362732,1
+2021-03-01,ph,"Philippines","All","Education",Top Trending Jobs,"Teacher",9.23206888872346,2
+2021-03-01,ph,"Philippines","All","Education",Top Trending Skills,"Teaching",-1,1
+2021-03-01,ph,"Philippines","All","Education",Top Trending Skills,"Higher Education",-1,2

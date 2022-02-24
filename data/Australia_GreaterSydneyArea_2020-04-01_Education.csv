@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"University of Sydney",5.94207355301712,1
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"UNSW",4.472406434046238,2
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"University of Technology Sydney",5.102802397135751,3
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"NSW Department of Education",2.8550310109763632,4
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"Macquarie University",3.94950129375091,5
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"Western Sydney University",3.743197532419059,6
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Employers,"TAFE NSW",3.9480987661024667,7
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Jobs,"Teacher",10.042632832741763,1
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Jobs,"Lecturer",9.158101069146568,2
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Jobs,"Academic Tutor",8.236502268356011,3
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Jobs,"Postdoctoral Researcher",2.887017252095614,4
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Skills,"Public Speaking",-1,3
+2020-04-01,au,"Australia","Greater Sydney Area","Education",Top Trending Skills,"Scientific Writing",-1,4

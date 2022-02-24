@@ -1,0 +1,53 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"BNP Paribas",7.527404203671735,1
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"Teleperformance",7.162354166647192,2
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"Accenture",8.97275305598357,3
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"TAP Air Portugal",4.037272160299613,4
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"Accenture Portugal",11.408009107850763,5
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"Axians",62.26332223664974,6
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"EDP",4.181931726721326,7
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"Talkdesk",27.314521174144822,8
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"Altran",6.456195056874013,9
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"Microsoft",8.052406720181278,10
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"Sitel",8.763227051267982,11
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"Deloitte",3.8226448110229683,12
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Employers,"everis",8.509010921809047,13
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Software Engineer",3.838548415957371,1
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.9084836201735373,2
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Real Estate Consultant",1.5874741453248218,3
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.152338422305104,4
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Teacher",1.0968179407092207,5
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Medical Doctor",1.0478132398348534,6
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Nurse",1.0303516866869238,7
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.8314687062694349,8
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.8225851062681234,9
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Lawyer",0.8122196495447,10
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Architect",0.8118113158152607,11
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.7884893669031733,12
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.7819618821940407,13
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Information Technology Consultant",0.7702183210984379,14
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Attorney",0.7437684112817723,15
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Accountant",0.6979828925437368,16
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Data Analyst",0.657729108719129,17
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Frontend Developer",0.6353119863007317,18
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",0.6024477707023606,20
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Adobe Illustrator",-1,3
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"C#",-1,4
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Legal Advice",-1,5
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Nursing",-1,6
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Litigation",-1,7
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Higher Education",-1,8
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Architectural Design",-1,9
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Negotiation",-1,10
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Team Leadership",-1,11
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,12
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Financial Accounting",-1,13
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Account Management",-1,14
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Microsoft Project",-1,15
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"SQL",-1,16
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Real Estate Transactions",-1,17
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"React.js",-1,18
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Microsoft SQL Server",-1,19
+2020-01-01,pt,"Portugal","Lisbon Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,20

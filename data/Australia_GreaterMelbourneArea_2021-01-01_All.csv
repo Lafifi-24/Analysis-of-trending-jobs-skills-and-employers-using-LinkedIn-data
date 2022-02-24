@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"ANZ",2.5144341448074172,1
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Department of Justice and Community Safety, Victoria",10.576614085327844,2
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Victorian Department of Health",6.652240024885862,3
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Bega Cheese Limited",30.823305162624987,4
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Monash University",1.5198891221133433,5
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"University of Melbourne",1.4359080810540799,6
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Department of Environment, Land, Water and Planning",5.950230039760066,7
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Australia Post",3.527664010000268,8
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"KPMG Australia",5.411435773280843,9
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Deloitte Australia",5.3908889593673255,10
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Department of Jobs, Precincts and Regions",6.445772084719964,11
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Department of Education & Training, Victoria",2.581408251266346,12
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Monash Health",2.939328332064747,13
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Tennis Australia",10.59237567748192,14
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Commonwealth Bank",2.9519599593115298,15
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"PwC Australia",4.4813234956697325,16
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Officeworks",6.362599919107187,17
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"RMIT University",1.11267695740765,18
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Metro Trains Melbourne",3.248707286952696,19
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"MYER",5.232090152900155,20
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Project Manager",2.424372132809825,1
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Software Engineer",2.088251906804194,2
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Business Analyst",1.6027518127918285,3
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Business Development Manager",1.267036628635574,4
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Account Manager",1.1867768592089352,5
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Customer Service Representative",1.1525820456139497,6
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Support Associate",1.0609537322272142,7
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Teacher",0.8440357387723054,8
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Salesperson",0.7928221672403291,9
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"General Manager",0.7925941296582248,10
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Data Analyst",0.7547609314377062,11
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Lawyer",0.7217020684090791,12
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Sales Consultant",0.7207938474604308,13
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Accountant",0.6719279153893636,14
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Operations Manager",0.6342557034609602,16
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Marketing Manager",0.6051614013643003,17
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Physical Therapist",0.595589444894943,18
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Nurse",0.5407964451955949,19
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Sales Manager",0.5258503748577427,20
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Teaching",-1,1
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Account Management",-1,2
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Business Analysis",-1,4
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Sales Management",-1,5
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"JavaScript",-1,6
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Operations Management",-1,7
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"MYOB",-1,8
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Stakeholder Management",-1,9
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Project Delivery",-1,10
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Marketing Strategy",-1,11
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Legal Advice",-1,12
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Change Management",-1,13
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Legal Research",-1,14
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Time Management",-1,15
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Requirements Gathering",-1,16
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Digital Marketing",-1,17
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Rehabilitation",-1,18
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Physical Therapy",-1,19
+2021-01-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Data Analysis",-1,20

@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Charles Schwab",4.5436601293573045,1
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Fidelity Investments",13.480951394353898,2
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Robinhood",150.34576766885493,3
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Wells Fargo",4.1950676784598135,4
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Northwestern Mutual",21.922613634929057,5
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Customer Service Representative",5.3199758739592875,1
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Financial Representative",3.4057705330683823,2
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",3.3173488723942284,3
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",3.2171207999987543,4
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Customer Satisfaction",-1,2
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Retirement Planning",-1,3
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Investments",-1,4
+2020-06-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Life Insurance",-1,5

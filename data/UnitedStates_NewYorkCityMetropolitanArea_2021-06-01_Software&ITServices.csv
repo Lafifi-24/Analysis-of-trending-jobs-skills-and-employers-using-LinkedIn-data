@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Facebook",7.255564066843408,1
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",7.465372768999644,2
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Accenture",4.613590245334906,3
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"EDoors Inc",490.61317215745845,4
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Microsoft",5.7821375342032,5
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"DoorDash",12.360889834337323,6
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Verizon",1.4005720322172448,7
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Uber",6.188967279426788,8
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"FanDuel",13.73776159235249,9
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Stripe",24.62285737857406,10
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Tata Consultancy Services",2.9807292819827245,11
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Mastercard",3.371632906036969,12
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Squarespace",7.896744046893015,13
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Etsy",6.257920024397621,14
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Datadog",8.468748872830503,15
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"SHI International Corp.",3.6376642321559864,16
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Yext",9.591593647250104,17
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Capgemini",4.70749137247752,18
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Infosys",4.034820436171662,19
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Employers,"Twitter",7.088512001711236,20
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",9.663212643116594,1
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Account Executive",4.026609501909084,2
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Recruiter",2.6555987480107945,3
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Account Manager",2.3684354597431403,4
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Product Manager",2.0997797652037633,5
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Customer Success Manager",2.0900769511949626,6
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Sales Development Representative",1.999872709308132,7
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Project Manager",1.2191524332662609,8
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Business Development Representative",1.1653831645355377,9
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Enterprise Account Executive",1.0683848362946236,10
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Product Designer",1.038820471727182,11
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Program Manager",0.9949213874325723,12
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Sales Director",0.9648354644935242,13
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Marketing Manager",0.8436011771564046,14
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Data Scientist",0.8323370575947947,15
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Operations Manager",0.7650315809650757,16
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Product Marketing Manager",0.7634667945251291,17
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Data Analyst",0.6983441163902804,18
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Business Analyst",0.6972530112021305,19
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Solutions Architect",0.6730489126267367,20
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Operations Management",-1,3
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Team Building",-1,4
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Recruiting",-1,5
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Construction Management",-1,6
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Program Management",-1,7
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Business Analysis",-1,8
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Data Analysis",-1,9
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Social Media Marketing",-1,10
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Interviewing",-1,11
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Sales Management",-1,12
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Cross-functional Team Leadership",-1,13
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Tableau",-1,14
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,15
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,16
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Machine Learning",-1,17
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Data Science",-1,18
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,19
+2021-06-01,us,"United States","New York City Metropolitan Area","Software & IT Services",Top Trending Skills,"Cloud Computing",-1,20

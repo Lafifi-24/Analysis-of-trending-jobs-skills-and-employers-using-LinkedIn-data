@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Lonza",13.064996023589224,1
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Credit Suisse",2.326123033668444,2
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"ETH Zürich",3.9132413523231455,3
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Roche",1.5847330742413548,4
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"UBS",1.0564532088732066,5
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Swisscom",1.9015502104346955,6
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",3.442450715783875,7
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"SBB CFF FFS",1.8757478887561878,8
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"CHUV | Lausanne university hospital",3.523139142874685,9
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"AXA",3.1710005776782637,10
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Swiss Post",3.30999617192856,11
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Etat de Vaud",2.6021611190772935,12
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"University of Zurich",2.6402742541050714,13
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Universitätsspital Zürich",4.451933711459324,14
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"HUG - Hopitaux Universitaires de Genève",2.882034784839065,15
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"CERN",2.5813755915450303,16
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Deloitte Switzerland",4.617767969864819,17
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"University of Geneva",2.4316904741252396,18
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Implenia",7.44187393118976,19
+2021-05-01,ch,"Switzerland","All","All",Top Trending Employers,"Julius Baer",2.916785559684356,20
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Project Manager",3.233872823465772,1
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Software Engineer",2.4450209076379545,2
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Project Control Manager",2.1234056659123044,3
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Clerical Officer",1.349039691271805,4
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Sales Manager",1.1052816891062947,5
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Product Manager",0.9721775901759981,6
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Postdoctoral Researcher",0.9092280314649731,7
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Customer Advisor",0.8217895052014521,8
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Lecturer",0.7587765910025679,9
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Account Manager",0.7587544180297281,10
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Business Analyst",0.7383207627936732,11
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Sales Consultant",0.730000903666751,12
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"System Engineer",0.7247711216258385,13
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Key Account Manager",0.6949425689290869,14
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Salesperson",0.6762812942469537,15
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Nurse",0.6467140498554482,16
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Accountant",0.6408599780507771,17
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Marketing Manager",0.5579973895684063,18
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Project Engineer",0.5473900407705059,19
+2021-05-01,ch,"Switzerland","All","All",Top Trending Jobs,"Financial Advisor",0.5104679607469096,20
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Project Management",-1,1
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Java",-1,2
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Change Management",-1,3
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Sales Management",-1,4
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Product Development",-1,5
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Teaching",-1,6
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Account Management",-1,7
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Windows Server",-1,8
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Business Analysis",-1,9
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Marketing Strategy",-1,10
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Virtualization",-1,11
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Scientific Writing",-1,12
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Project Leadership",-1,13
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Account Reconciliation",-1,14
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Negotiation",-1,15
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Nursing",-1,16
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Client Counseling",-1,17
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Solution Selling",-1,18
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Requirements Engineering",-1,19
+2021-05-01,ch,"Switzerland","All","All",Top Trending Skills,"Retail",-1,20

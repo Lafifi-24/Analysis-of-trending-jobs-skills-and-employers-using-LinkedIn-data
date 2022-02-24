@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,ph,"Philippines","Metro Manila","Finance",Top Trending Employers,"Wells Fargo",7.83407723023652,1
+2021-02-01,ph,"Philippines","Metro Manila","Finance",Top Trending Jobs,"Financial Advisor",5.684268825971108,1
+2021-02-01,ph,"Philippines","Metro Manila","Finance",Top Trending Jobs,"Software Engineer",5.375603683912565,2
+2021-02-01,ph,"Philippines","Metro Manila","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-02-01,ph,"Philippines","Metro Manila","Finance",Top Trending Skills,"Financial Planning",-1,2
+2021-02-01,ph,"Philippines","Metro Manila","Finance",Top Trending Skills,"Financial Advisory",-1,3

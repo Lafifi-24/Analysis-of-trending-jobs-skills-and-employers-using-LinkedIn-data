@@ -1,0 +1,31 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"UBS",3.8320516038249957,1
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"Credit Suisse",3.4914533042240374,2
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"AXA",5.0782466512139735,3
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"Julius Baer",5.123719922305552,4
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"Zürcher Kantonalbank",4.208081121692713,5
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"Die Mobiliar",5.200440497200692,6
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"Helvetia Versicherungen Schweiz",5.5429915707700586,7
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"Swiss Re",3.1891323580938784,8
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"SIX",4.907669828163646,9
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"PostFinance",4.273355333187162,10
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"Raiffeisen Switzerland",4.5279724751506825,11
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"Vontobel",6.1961777435624885,12
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Employers,"Swiss Life",6.286626731132394,13
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Jobs,"Customer Advisor",3.6335016366663266,1
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Jobs,"Financial Advisor",2.647496625882779,2
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Jobs,"Software Engineer",2.522676632512666,3
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Jobs,"Insurance Advisor",2.3212925121342924,4
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Jobs,"Project Manager",2.3212049506711714,5
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Jobs,"Relationship Manager",2.1480705747136386,6
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Jobs,"Business Analyst",2.0049431896894334,7
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Jobs,"Clerical Officer",1.6949131509026782,8
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Skills,"Project Management",-1,1
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Skills,"Java",-1,2
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Skills,"Change Management",-1,3
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Skills,"Business Analysis",-1,4
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Skills,"Private Banking",-1,5
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Skills,"Financial Markets",-1,6
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Skills,"Insurance",-1,7
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Skills,"Client Counseling",-1,8
+2020-01-01,ch,"Switzerland","All","Finance",Top Trending Skills,"Requirements Engineering",-1,9

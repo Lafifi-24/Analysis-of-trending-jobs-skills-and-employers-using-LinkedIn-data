@@ -1,0 +1,22 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Chicago",5.764688518696255,1
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Illinois Chicago",4.945186050462356,2
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northwestern University",4.830822851326286,3
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Chicago Public Schools",3.013844258637737,4
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Loyola University Chicago",6.01013492034883,5
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"DePaul University",4.906849159979652,6
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northwestern University - The Feinberg School of Medicine",4.8450137555823165,7
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Roosevelt University",14.396799066618943,8
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Argonne National Laboratory",5.055917798292805,9
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Columbia College Chicago",6.109161890057949,10
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"College of DuPage",5.888877462412557,11
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Illinois Institute of Technology",4.654587129665192,12
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northern Illinois University",3.9009462278794595,13
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Teacher",9.822915276741764,1
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Professor",9.204915215969237,2
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.130710102545711,3
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Cell Culture",-1,5

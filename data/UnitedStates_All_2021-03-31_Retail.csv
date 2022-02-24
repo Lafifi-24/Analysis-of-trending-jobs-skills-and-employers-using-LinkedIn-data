@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Walmart",0.7373811850807014,1
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Walmart",0.7275538259090377,2
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"The Home Depot",1.3275413965685514,3
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"The Home Depot",1.3009741522287004,4
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Lowe's Companies, Inc.",1.2715739501263477,5
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Lowe's Companies, Inc.",1.2539497308874534,6
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Starbucks",0.8905987821432519,7
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Starbucks",0.8862838739448056,8
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Target",0.5686923568002133,9
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Target",0.5665903797746503,10
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Walgreens",1.1554022982195287,11
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Walgreens",1.1108107626368646,12
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Whole Foods Market",1.261690354697487,13
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Whole Foods Market",1.2583431187423813,14
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Chewy",4.21098976804145,15
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Kroger",0.9799631793132402,16
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Kroger",0.9445187451367049,17
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Chewy",3.963009671207216,18
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"Nordstrom",0.9355473436064731,19
+2021-03-31,us,"United States","All","Retail",Top Trending Employers,"DICK'S Sporting Goods",1.547516034337384,20
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Salesperson",8.923352170719443,1
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Salesperson",8.87726112650645,2
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Store Manager",4.661960385051757,3
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Store Manager",4.6390342281093,4
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Cashier",3.9413192737895884,5
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Cashier",3.91941356664116,6
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Barista",2.639952676503618,7
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Barista",2.5704738371467255,8
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Software Engineer",1.720364829041227,9
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Pharmacy Technician",1.70889429446907,10
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Software Engineer",1.6430633002447435,11
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Pharmacy Technician",1.6344266123440931,12
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"General Manager",1.5861101992882587,13
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"General Manager",1.5636840858298782,14
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Operations Manager",1.5241852621617036,15
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Operations Manager",1.4969203751793851,16
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Customer Service Representative",1.493512671879336,17
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Sales Manager",1.4787012050717987,18
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Sales Manager",1.470713701644919,19
+2021-03-31,us,"United States","All","Retail",Top Trending Jobs,"Customer Service Representative",1.4308358930118414,20
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"JavaScript",-1,1
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"JavaScript",-1,2
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"JavaScript",-1,3
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"JavaScript",-1,4
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Sales Management",-1,5
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Sales Management",-1,6
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Sales Management",-1,7
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Sales Management",-1,8
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Team Building",-1,9
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Team Building",-1,10
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Team Building",-1,11
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Team Building",-1,12
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Operations Management",-1,13
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Operations Management",-1,14
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Operations Management",-1,15
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Operations Management",-1,16
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Merchandising",-1,17
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Merchandising",-1,18
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Merchandising",-1,19
+2021-03-31,us,"United States","All","Retail",Top Trending Skills,"Merchandising",-1,20

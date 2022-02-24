@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Hartford","Real Estate",Top Trending Jobs,"Real Estate Agent",48.5830235235097,1
+2020-08-01,us,"United States","Greater Hartford","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-08-01,us,"United States","Greater Hartford","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2

@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Employers,"Tesla",16.310474389029753,1
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Employers,"Lockheed Martin",3.775081049671364,2
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",2.8965289862000554,1
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",2.5038052258430175,2
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Salesperson",2.4976841421562415,3
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.941918089020684,4
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",1.6325954196961745,5
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Customer Service Representative",1.5418972839237908,6
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Consultant",1.3630545064974953,7
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Construction Management",-1,3
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,4
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Customer Satisfaction",-1,5
+2020-10-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,6

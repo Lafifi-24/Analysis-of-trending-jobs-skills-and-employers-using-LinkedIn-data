@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"The University of British Columbia",3.6978568283636872,1
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Microsoft",15.225014510208856,2
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Fraser Health Authority",5.512866319365835,3
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Vancouver Coastal Health",4.943651468201558,4
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Sony Pictures Imageworks",20.941756548430504,5
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Atomic Cartoons",23.142078876743515,6
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"ICON Creative Studio",23.941681240548096,7
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"lululemon",4.505576038730952,8
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Provincial Health Services Authority",3.9933709581269086,9
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Amazon Web Services (AWS)",7.948025474436624,10
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Simon Fraser University",3.538314200861945,11
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Aritzia",8.701312831478823,12
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Statistics Canada",119.1357882660278,13
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Canada Revenue Agency - Agence du revenu du Canada",19.17806671435203,14
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"Digital Domain",23.911007037437017,15
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"City of Vancouver",4.075479251816943,16
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"SAP",7.271074267209109,17
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"RBC",4.462005302157346,18
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"ICBC (Insurance Corporation of British Columbia)",3.8263842485264252,19
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Employers,"BMO Financial Group",9.257493501449238,20
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Software Engineer",6.749158726518373,1
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.908902233393691,2
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",1.4392583707167284,3
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.4117332250342074,4
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Animator",1.2230493268709317,5
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Accountant",1.0932181962169103,6
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Account Executive",0.8312359035198675,7
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.7746348293305493,8
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.7708165163928904,9
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Marketing Coordinator",0.7656424651381006,10
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Account Manager",0.7481838346576776,11
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",0.7480645298903288,12
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.7366904131914507,13
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Full Stack Engineer",0.6608747378032175,14
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Financial Analyst",0.5978271089480781,15
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Artist",0.5968470900329811,16
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Business Development Manager",0.5958767122426161,17
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Data Analyst",0.5902628932257384,18
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.5843809548432363,19
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",0.5789411175407527,20
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Time Management",-1,1
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,3
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Adobe Illustrator",-1,4
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Account Management",-1,5
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,6
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Financial Reporting",-1,7
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,8
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,9
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Residential Real Estate",-1,10
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Financial Analysis",-1,11
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,12
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Marketing Strategy",-1,13
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Data Analysis",-1,14
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"React.js",-1,15
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Requirements Gathering",-1,16
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Social Media Marketing",-1,17
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Node.js",-1,18
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Tableau",-1,19
+2021-05-01,ca,"Canada","Greater Vancouver Metropolitan Area","All",Top Trending Skills,"Agile Methodologies",-1,20

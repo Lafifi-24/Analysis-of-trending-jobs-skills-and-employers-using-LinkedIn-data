@@ -1,0 +1,34 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,jp,"Japan","All","All",Top Trending Employers,"Rakuten",4.307807244947723,1
+2020-11-01,jp,"Japan","All","All",Top Trending Employers,"Amazon",5.824026442992973,2
+2020-11-01,jp,"Japan","All","All",Top Trending Employers,"Amazon Web Services (AWS)",9.162347965009117,3
+2020-11-01,jp,"Japan","All","All",Top Trending Employers,"Accenture",3.2465118968161684,4
+2020-11-01,jp,"Japan","All","All",Top Trending Employers,"Deloitte",2.967801864191827,5
+2020-11-01,jp,"Japan","All","All",Top Trending Employers,"The University of Tokyo",4.7814020753578514,6
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Software Engineer",4.999319099859993,1
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Professor",2.4159257741274325,2
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Project Manager",2.2725965228456944,3
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Postdoctoral Researcher",1.802833199201679,4
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"General Manager",1.3556873851827915,5
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Sales Manager",1.3364906534465866,6
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Account Manager",1.2618964364591878,7
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Account Executive",1.1906378456195583,8
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Data Scientist",1.0573233495790413,9
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Product Manager",1.0559907177694665,10
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Recruiter",1.047031296054129,11
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Salesperson",1.041301005774081,12
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Lecturer",0.9811672541568962,13
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Teacher",0.9274902652502103,14
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Solutions Architect",0.9008829874789724,15
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Marketing Manager",0.8950691883667058,16
+2020-11-01,jp,"Japan","All","All",Top Trending Jobs,"Business Analyst",0.8735996745233048,17
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"Java",-1,2
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"Project Management",-1,3
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"Teaching",-1,4
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"Sales Management",-1,5
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"Marketing Strategy",-1,6
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"Python (Programming Language)",-1,7
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"Account Management",-1,8
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"Recruiting",-1,9
+2020-11-01,jp,"Japan","All","All",Top Trending Skills,"Machine Learning",-1,10

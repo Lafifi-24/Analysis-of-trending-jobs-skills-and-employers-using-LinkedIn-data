@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Employers,"Ochsner Health",2.828185702755752,1
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Employers,"Latter & Blum Companies",25.444078748917683,2
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Jobs,"Real Estate Agent",4.387035319359444,1
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Jobs,"Attorney",2.260514681149063,2
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Jobs,"Account Manager",1.8656284762867552,3
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Jobs,"Software Engineer",1.7195814468315216,4
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Jobs,"Nurse",1.6806631646056502,5
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Jobs,"Salesperson",1.5369008204930505,6
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Skills,"JavaScript",-1,1
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Skills,"Account Management",-1,2
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Skills,"Investment Properties",-1,3
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,4
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Skills,"Legal Writing",-1,5
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Skills,"Civil Litigation",-1,6
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Skills,"Nursing",-1,7
+2020-12-01,us,"United States","Greater New Orleans Region","All",Top Trending Skills,"Basic Life Support (BLS)",-1,8

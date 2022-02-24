@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,de,"Germany","All","Legal",Top Trending Employers,"Hogan Lovells",10.80703204065056,1
+2020-03-01,de,"Germany","All","Legal",Top Trending Jobs,"Attorney",23.235479069925667,1
+2020-03-01,de,"Germany","All","Legal",Top Trending Jobs,"Lawyer",20.147377796623733,2
+2020-03-01,de,"Germany","All","Legal",Top Trending Jobs,"Law Clerk",9.619623950545868,3
+2020-03-01,de,"Germany","All","Legal",Top Trending Jobs,"Scientific Officer",9.55588242969281,4
+2020-03-01,de,"Germany","All","Legal",Top Trending Skills,"Litigation",-1,1
+2020-03-01,de,"Germany","All","Legal",Top Trending Skills,"Corporate Law",-1,2
+2020-03-01,de,"Germany","All","Legal",Top Trending Skills,"LaTeX",-1,3
+2020-03-01,de,"Germany","All","Legal",Top Trending Skills,"Legal Research",-1,4
+2020-03-01,de,"Germany","All","Legal",Top Trending Skills,"Legal Writing",-1,5

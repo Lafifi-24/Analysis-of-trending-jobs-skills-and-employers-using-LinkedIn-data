@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,ca,"Canada","All","Legal",Top Trending Employers,"Ontario Ministry of the Attorney General",3.2053136757611593,1
+2021-01-01,ca,"Canada","All","Legal",Top Trending Jobs,"Lawyer",26.285671662664136,1
+2021-01-01,ca,"Canada","All","Legal",Top Trending Jobs,"Law Clerk",8.08417801081581,2
+2021-01-01,ca,"Canada","All","Legal",Top Trending Jobs,"Paralegal",7.428074357267302,3
+2021-01-01,ca,"Canada","All","Legal",Top Trending Jobs,"Attorney",7.409664404965195,4
+2021-01-01,ca,"Canada","All","Legal",Top Trending Skills,"Legal Writing",-1,1
+2021-01-01,ca,"Canada","All","Legal",Top Trending Skills,"Legal Advice",-1,2
+2021-01-01,ca,"Canada","All","Legal",Top Trending Skills,"Legal Research",-1,3

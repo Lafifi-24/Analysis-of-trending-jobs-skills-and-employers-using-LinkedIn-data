@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Nordstrom",5.303462395594574,1
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Starbucks",1.785616088903938,2
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Costco Wholesale",3.1179658044148963,3
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"lululemon",16.63945795697072,4
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Target",8.980185602067984,5
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Blue Nile",23.582965573296168,6
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"REI",3.1443706547631662,7
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Jobs,"Salesperson",7.377338038347034,1
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Jobs,"Cashier",4.036633447228119,2
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Jobs,"Software Engineer",3.8304222647836186,3
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Skills,"Time Management",-1,2
+2020-11-01,us,"United States","Greater Seattle Area","Retail",Top Trending Skills,"Cashiering",-1,3

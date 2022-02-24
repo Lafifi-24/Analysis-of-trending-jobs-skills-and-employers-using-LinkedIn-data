@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Greater Chicago Area","Legal",Top Trending Jobs,"Attorney",32.280859853976466,1
+2020-04-01,us,"United States","Greater Chicago Area","Legal",Top Trending Jobs,"Paralegal",9.301060739954572,2
+2020-04-01,us,"United States","Greater Chicago Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-04-01,us,"United States","Greater Chicago Area","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2020-04-01,us,"United States","Greater Chicago Area","Legal",Top Trending Skills,"Legal Research",-1,3

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Tampa Bay Area","Health Care",Top Trending Employers,"BayCare Health System",2.65603270435506,1
+2021-01-01,us,"United States","Greater Tampa Bay Area","Health Care",Top Trending Employers,"Tampa General Hospital",3.210558471198156,2
+2021-01-01,us,"United States","Greater Tampa Bay Area","Health Care",Top Trending Employers,"Moffitt Cancer Center",2.51946469075532,3
+2021-01-01,us,"United States","Greater Tampa Bay Area","Health Care",Top Trending Employers,"Centene Corporation",3.3897902637338357,4
+2021-01-01,us,"United States","Greater Tampa Bay Area","Health Care",Top Trending Employers,"AdventHealth",4.030849048154436,5
+2021-01-01,us,"United States","Greater Tampa Bay Area","Health Care",Top Trending Jobs,"Nurse",9.481948625331759,1
+2021-01-01,us,"United States","Greater Tampa Bay Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-01-01,us,"United States","Greater Tampa Bay Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

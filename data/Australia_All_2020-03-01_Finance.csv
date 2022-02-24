@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Commonwealth Bank",5.702739405231181,1
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Westpac",6.406645266750342,2
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"ANZ",3.219828801708449,3
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Suncorp Group",5.215975860363717,4
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Macquarie Group",6.092595177658397,5
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"IAG",6.976726327783092,6
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"AMP",8.267497901228008,7
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"IOOF Holdings Ltd",22.343433804681386,8
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Bendigo and Adelaide Bank",7.250636948374106,9
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"BT",7.014169622713825,10
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"QBE Insurance",5.546108938534329,11
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"EML (Employers Mutual Limited)",10.980174770156816,12
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Allianz Australia",8.044555570371552,13
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"AustralianSuper",10.859423658070012,14
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"MLC Australia",9.352369704933249,15
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Medibank",4.543020787265468,16
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Australian Prudential Regulation Authority",14.269651801117126,17
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"ING Australia",7.8695167455662105,18
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Gallagher",9.643011659980267,19
+2020-03-01,au,"Australia","All","Finance",Top Trending Employers,"Latitude Financial Services",7.813503260470712,20
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Business Analyst",4.2810244950002385,1
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Software Engineer",2.5595260399748105,2
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Financial Advisor",2.1226969460831397,3
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Project Manager",1.7680619057113427,4
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Business Development Manager",1.4945292044677352,5
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Relationship Manager",1.4296691656287943,6
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Account Manager",1.3095367737154757,7
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Data Analyst",1.237270199415077,8
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Customer Service Representative",1.2358867681702217,9
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Investment Analyst",1.1296454125160948,10
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Claims Consultant",1.1022158734413798,11
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Accountant",1.0591902015033876,12
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Account Executive",1.0312179959413277,13
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Credit Analyst",0.8361712912008422,14
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Finance Broker",0.8153345343824038,15
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Finance Manager",0.7622302614674165,16
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Case Manager",0.7280604390068433,17
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Marketing Manager",0.705048562661783,18
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Financial Analyst",0.6943502630191472,19
+2020-03-01,au,"Australia","All","Finance",Top Trending Jobs,"Underwriter",0.6748366437255124,20
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Account Management",-1,1
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Business Analysis",-1,2
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"JavaScript",-1,3
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"MYOB",-1,4
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Stakeholder Management",-1,5
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Project Delivery",-1,6
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Marketing Strategy",-1,7
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Requirements Gathering",-1,8
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Time Management",-1,9
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Digital Marketing",-1,10
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Data Analysis",-1,11
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Financial Reporting",-1,12
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Business Relationship Management",-1,13
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Case Management",-1,14
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Financial Analysis",-1,15
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Financial Planning",-1,16
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Managerial Finance",-1,17
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Portfolio Management",-1,18
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Tableau",-1,19
+2020-03-01,au,"Australia","All","Finance",Top Trending Skills,"Superannuation",-1,20

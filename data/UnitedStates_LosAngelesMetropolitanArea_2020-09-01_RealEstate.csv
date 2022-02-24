@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",4.858967402499998,1
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Employers,"eXp Realty",24.133940502567828,2
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Employers,"Compass",5.0852004340693915,3
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Employers,"Greystar",22.467487136710353,4
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Employers,"Coldwell Banker",10.157960488141724,5
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Agent",35.22093078589237,1
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Jobs,"Property Manager",2.9663206469811776,2
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Jobs,"Community Manager",2.5053192579505614,3
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Jobs,"Accountant",1.4093387592289615,4
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Skills,"Account Reconciliation",-1,3
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Skills,"General Ledger",-1,4
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Skills,"Property Management",-1,5
+2020-09-01,us,"United States","Los Angeles Metropolitan Area","Real Estate",Top Trending Skills,"Apartments",-1,6

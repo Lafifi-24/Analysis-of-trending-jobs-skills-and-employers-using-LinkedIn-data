@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","San Francisco Bay Area","Transportation & Logistics",Top Trending Employers,"Waymo",11.104218997331639,1
+2020-03-01,us,"United States","San Francisco Bay Area","Transportation & Logistics",Top Trending Jobs,"Software Engineer",12.898902273895288,1
+2020-03-01,us,"United States","San Francisco Bay Area","Transportation & Logistics",Top Trending Skills,"JavaScript",-1,1

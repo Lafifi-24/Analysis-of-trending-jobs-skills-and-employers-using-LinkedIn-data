@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,fr,"France","Greater Nice Metropolitan Area","All",Top Trending Employers,"Amadeus",1.78165853363992,1
+2020-01-01,fr,"France","Greater Nice Metropolitan Area","All",Top Trending Jobs,"Project Manager",3.08917606870925,1
+2020-01-01,fr,"France","Greater Nice Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.524174216227097,2
+2020-01-01,fr,"France","Greater Nice Metropolitan Area","All",Top Trending Jobs,"Business Manager",2.411842781933066,3
+2020-01-01,fr,"France","Greater Nice Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2020-01-01,fr,"France","Greater Nice Metropolitan Area","All",Top Trending Skills,"Java",-1,2
+2020-01-01,fr,"France","Greater Nice Metropolitan Area","All",Top Trending Skills,"Git",-1,3

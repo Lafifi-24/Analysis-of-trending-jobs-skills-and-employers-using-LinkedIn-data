@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Employers,"Target",9.931909903067671,1
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Employers,"Burlington Stores, Inc.",8.464872993996932,2
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Salesperson",10.352238098606279,1
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Cashier",6.872895193886236,2
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Store Manager",3.663842559318118,3
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Barista",3.6429427115939874,4
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Buyer",3.4761679113894632,5
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Store Management",-1,2
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Time Management",-1,3
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Cashiering",-1,4
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Inventory Management",-1,5
+2020-10-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Barista",-1,6

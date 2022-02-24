@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Cleveland Clinic",0.886397997991377,1
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Sherwin-Williams",1.4146593275972863,2
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Progressive Insurance",0.9398640216903511,3
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Real Estate Agent",3.0118644516698145,1
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Project Manager",2.391347124206205,2
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Salesperson",2.0238852777999847,3
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Account Manager",1.6434847829013395,4
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Account Management",-1,1
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Investment Properties",-1,2
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,3
+2021-04-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Construction Management",-1,4

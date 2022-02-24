@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Charles Schwab",3.5779061480577266,1
+2020-03-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",3.523274863300689,1
+2020-03-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",2.5823949186926884,2
+2020-03-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-03-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Retirement Planning",-1,2
+2020-03-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Investments",-1,3

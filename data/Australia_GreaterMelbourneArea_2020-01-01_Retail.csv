@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,au,"Australia","Greater Melbourne Area","Retail",Top Trending Employers,"Woolworths Supermarkets",9.9538088313097,1
+2020-01-01,au,"Australia","Greater Melbourne Area","Retail",Top Trending Employers,"Coles",5.095619830191339,2
+2020-01-01,au,"Australia","Greater Melbourne Area","Retail",Top Trending Employers,"Chemist Warehouse",9.120242926243948,3
+2020-01-01,au,"Australia","Greater Melbourne Area","Retail",Top Trending Employers,"David Jones",8.670195082755743,4
+2020-01-01,au,"Australia","Greater Melbourne Area","Retail",Top Trending Jobs,"Customer Service Representative",5.632483274239445,1
+2020-01-01,au,"Australia","Greater Melbourne Area","Retail",Top Trending Jobs,"Store Manager",5.506094726947272,2
+2020-01-01,au,"Australia","Greater Melbourne Area","Retail",Top Trending Skills,"Store Management",-1,1
+2020-01-01,au,"Australia","Greater Melbourne Area","Retail",Top Trending Skills,"Visual Merchandising",-1,2
+2020-01-01,au,"Australia","Greater Melbourne Area","Retail",Top Trending Skills,"Time Management",-1,3

@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Greater Cleveland","Legal",Top Trending Jobs,"Law Clerk",35.312673122132516,1
+2021-06-01,us,"United States","Greater Cleveland","Legal",Top Trending Jobs,"Attorney",24.922082255103025,2
+2021-06-01,us,"United States","Greater Cleveland","Legal",Top Trending Skills,"Legal Writing",-1,1
+2021-06-01,us,"United States","Greater Cleveland","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2021-06-01,us,"United States","Greater Cleveland","Legal",Top Trending Skills,"Legal Research",-1,3

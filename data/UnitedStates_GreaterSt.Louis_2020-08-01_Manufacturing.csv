@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater St. Louis","Manufacturing",Top Trending Employers,"Boeing",3.1588237526860268,1
+2020-08-01,us,"United States","Greater St. Louis","Manufacturing",Top Trending Employers,"Bayer Crop Science",2.922948546364829,2
+2020-08-01,us,"United States","Greater St. Louis","Manufacturing",Top Trending Jobs,"Software Engineer",5.4205770946893415,1
+2020-08-01,us,"United States","Greater St. Louis","Manufacturing",Top Trending Skills,"JavaScript",-1,1

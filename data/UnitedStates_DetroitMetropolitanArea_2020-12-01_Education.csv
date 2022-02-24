@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Employers,"University of Michigan",1.9778972948165103,1
+2020-12-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Jobs,"Teacher",8.131358068642095,1
+2020-12-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-12-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2

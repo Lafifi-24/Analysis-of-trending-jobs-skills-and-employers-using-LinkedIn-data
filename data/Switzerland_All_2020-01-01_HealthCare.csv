@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Employers,"Roche",3.130136947039567,1
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Employers,"CHUV | Lausanne university hospital",5.517154726324583,2
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Employers,"Novartis",2.0666653481259325,3
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Employers,"HUG - Hopitaux Universitaires de Genève",5.839504885467171,4
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Employers,"Lonza",8.692905971342924,5
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Employers,"Bristol Myers Squibb",31.21300096560788,6
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Employers,"Universitätsspital Zürich",5.7039130463398315,7
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Employers,"Hirslanden",6.607254582102419,8
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Employers,"Insel Gruppe",6.9335566130648045,9
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Jobs,"Medical Doctor",4.334524226829632,1
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Jobs,"Project Manager",2.6857123433942793,2
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Jobs,"Nurse",2.6626632745087973,3
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Skills,"Project Management",-1,1
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Skills,"Change Management",-1,2
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Skills,"Nursing",-1,3
+2020-01-01,ch,"Switzerland","All","Health Care",Top Trending Skills,"Medical Education",-1,4

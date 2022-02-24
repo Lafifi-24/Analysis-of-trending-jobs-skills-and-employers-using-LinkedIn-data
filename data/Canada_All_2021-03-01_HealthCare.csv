@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Alberta Health Services",2.920419680968627,1
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"University Health Network",3.459596370662236,2
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Fraser Health Authority",3.6925961675091163,3
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Vancouver Coastal Health",3.1036977731540443,4
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"LifeLabs Medical Laboratory Services",8.139975722019535,5
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"CIUSSS du Centre-Sud-de-l'Île-de-Montréal",4.749692799556324,6
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Provincial Health Services Authority",3.6057884604532595,7
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"The Hospital for Sick Children",3.0663451213510227,8
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Nova Scotia Health Authority",3.3402475005638927,9
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Mackenzie Health",9.350128994368314,10
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Sunnybrook",3.2796270001590826,11
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"CBI Health Group",4.813540784837439,12
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Bayshore HealthCare",6.315149246859958,13
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"ciusss-de-l'est-de-l'île-de-montréal",5.503424102842137,14
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Island Health - Vancouver Island Health Authority",3.1598717654464146,15
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"St. Michael's Hospital",3.6341987520115873,16
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Hamilton Health Sciences",3.7491231645078247,17
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Interior Health Authority",3.2765882355311513,18
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"The Ottawa Hospital",3.003937884568204,19
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Employers,"Trillium Health Partners",2.661269867876815,20
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Nurse",7.742337980230457,1
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Support Associate",1.8030214487510183,2
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Project Manager",1.4531724468984244,3
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Occupational Therapist",1.3280069397793595,4
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Software Engineer",1.2580515431959507,5
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Pharmacist",1.1847884256075836,6
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Social Worker",0.9381114596261033,7
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Physical Therapist",0.8341370726063206,8
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Laboratory Technician",0.806031792028933,9
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Case Manager",0.7401205936505435,10
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Administrative Officer",0.659729129309436,11
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Business Analyst",0.6588493787469489,12
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Salesperson",0.6466209514575003,13
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Account Manager",0.633961323412458,14
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Postdoctoral Researcher",0.585431959106897,15
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Psychotherapist",0.570537116691053,16
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Dietitian",0.5625314932472101,17
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Data Analyst",0.5423832864004373,18
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Time Management",-1,1
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"JavaScript",-1,2
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Project Planning",-1,3
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Account Management",-1,4
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Business Analysis",-1,5
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Construction Management",-1,6
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Data Analysis",-1,7
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Requirements Gathering",-1,8
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Pharmacy",-1,9
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Nursing",-1,10
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Physical Therapy",-1,11
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Community Pharmacy",-1,12
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Manual Therapy",-1,13
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Tableau",-1,14
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Scientific Writing",-1,15
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,16
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Laboratory Skills",-1,17
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Occupational Therapy",-1,18
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Case Management",-1,19
+2021-03-01,ca,"Canada","All","Health Care",Top Trending Skills,"Crisis Intervention",-1,20

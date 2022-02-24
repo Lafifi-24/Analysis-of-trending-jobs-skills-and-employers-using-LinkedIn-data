@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Cleveland","Finance",Top Trending Employers,"KeyBank",3.9260427309076715,1
+2020-10-01,us,"United States","Greater Cleveland","Finance",Top Trending Employers,"Progressive Insurance",2.4151125649300744,2
+2020-10-01,us,"United States","Greater Cleveland","Finance",Top Trending Jobs,"Software Engineer",4.283268052758806,1
+2020-10-01,us,"United States","Greater Cleveland","Finance",Top Trending Skills,"JavaScript",-1,1

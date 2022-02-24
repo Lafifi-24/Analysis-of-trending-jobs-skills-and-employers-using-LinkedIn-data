@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Employers,"Caterpillar Inc.",5.126282454362629,1
+2020-08-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Jobs,"Sales Manager",3.5097001327986472,1
+2020-08-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Jobs,"Software Engineer",2.473377014788947,2
+2020-08-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Jobs,"Salesperson",2.059494963697047,3
+2020-08-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-08-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

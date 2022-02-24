@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Health Care",Top Trending Employers,"Karolinska University Hospital",2.930508823584974,1
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",8.030082986945915,1
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Health Care",Top Trending Skills,"Hospitals",-1,1
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,2

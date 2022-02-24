@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Wayfair",3.1799310768539764,1
+2021-01-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Whole Foods Market",7.838976220909275,2
+2021-01-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Target",4.111407835853713,3
+2021-01-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Salesperson",10.95830623755578,1

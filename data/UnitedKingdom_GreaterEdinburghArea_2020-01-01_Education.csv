@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,gb,"United Kingdom","Greater Edinburgh Area","Education",Top Trending Employers,"The University of Edinburgh",4.438091675390835,1
+2020-01-01,gb,"United Kingdom","Greater Edinburgh Area","Education",Top Trending Jobs,"Postdoctoral Researcher",10.388847185192551,1
+2020-01-01,gb,"United Kingdom","Greater Edinburgh Area","Education",Top Trending Skills,"Molecular Biology",-1,1

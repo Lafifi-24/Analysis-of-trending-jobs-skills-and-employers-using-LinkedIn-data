@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of Southern California",2.067700232553998,1
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Los Angeles",1.5087485666034284,2
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"UC Irvine",1.565301217349193,3
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Riverside",2.4046472601382867,4
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Los Angeles Unified School District",0.8052839146154981,5
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Teacher",10.089919925161935,1
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Professor",7.4075457187433456,2
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.4225101972236613,3
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,5

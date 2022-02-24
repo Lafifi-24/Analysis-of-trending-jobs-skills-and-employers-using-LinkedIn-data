@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Itaú Unibanco",4.660803018924975,1
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Vivo (Telefônica Brasil)",8.154321457873948,2
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Teleperformance",14.113460867491462,3
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Autônomo",13.687681903452667,4
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Banco Bradesco",3.561323798428847,5
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Atento Brasil",7.126667779146412,6
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Porto Seguro",6.8532484998862495,7
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Concentrix",16.582193125246107,8
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Nubank",18.734612457697423,9
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Grupo NotreDame Intermédica",10.301700535431575,10
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Creditas",27.335605745146168,11
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Mercado Livre Brasil",14.71591129524627,12
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Hospital Albert Einstein",5.443545079088022,13
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"PagSeguro PagBank",12.65432943336447,14
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Santander Brasil",4.2296909677928545,15
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"banco BV",13.639272354958301,16
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"rdoficial",9.471184460230937,17
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Uber",5.484843827499981,18
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Lojas Riachuelo S/A",11.97951254127552,19
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Employers,"Indra",9.882469208146693,20
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Teacher",2.4195274718352366,1
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Attorney",1.976328136489066,2
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Software Engineer",1.651090532573534,3
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"System Analyst",1.4196625208068616,4
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Administrative Associate",1.3349677939768858,5
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Financial Analyst",1.0224263566624512,6
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Nurse",0.9803253523236558,7
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Salesperson",0.9637325544197239,8
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Marketing Analyst",0.8783926733629879,9
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Receptionist",0.8703500914292561,10
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Sales Consultant",0.8452699137879752,11
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Project Manager",0.7993761267500936,12
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Sales Manager",0.7669366562225769,13
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Human Resources Analyst",0.7668842438974768,14
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Commercial Manager",0.7647135240330336,15
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Account Executive",0.7336161002505787,16
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Business Consultant",0.6965638999217727,17
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Sales Executive",0.6922268169193931,18
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Account Manager",0.6759186360703658,19
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Jobs,"Business Analyst",0.6446652257763715,20
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Teaching",-1,1
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Litigation",-1,2
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Legal Advice",-1,3
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Negotiation",-1,4
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Higher Education",-1,5
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"SQL",-1,6
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Administration",-1,7
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"JavaScript",-1,8
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Microsoft SQL Server",-1,9
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Git",-1,10
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Business Planning",-1,11
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Sales Management",-1,12
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Financial Analysis",-1,13
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Recruiting",-1,14
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Nursing",-1,15
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Marketing Strategy",-1,16
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Microsoft Project",-1,17
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Digital Marketing",-1,18
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Accounts Payable",-1,19
+2020-01-01,br,"Brazil","Greater São Paulo Area","All",Top Trending Skills,"Receptionist Duties",-1,20

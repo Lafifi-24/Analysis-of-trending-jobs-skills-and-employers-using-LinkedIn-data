@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Employers,"Fidelity Investments",13.00415682297738,1
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Employers,"GoHealth",31.60677450611057,2
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Employers,"Wells Fargo",5.008572135985765,3
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Employers,"Zions Bancorporation",3.4660219420906544,4
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Jobs,"Customer Service Representative",5.613421939288854,1
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",4.899714602466487,2
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Jobs,"Mortgage Loan Officer",3.9697771928019177,3
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Skills,"Customer Satisfaction",-1,2
+2020-07-01,us,"United States","Salt Lake City Metropolitan Area","Finance",Top Trending Skills,"Mortgage Lending",-1,3

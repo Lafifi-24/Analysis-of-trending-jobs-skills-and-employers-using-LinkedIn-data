@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Netflix",3.4188017598682015,1
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"NBCUniversal Media, LLC",2.3187265628464635,2
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"iHeartMedia",3.4624701026149265,3
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Spotify",4.2411388280800155,4
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Riot Games",5.0133920562807965,5
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Discovery Inc",3.4506554871042705,6
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Epic Games",7.5599738945910335,7
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"The Walt Disney Company",0.7512809899383804,8
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Sinclair Broadcast Group",3.8881750770978454,9
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Topgolf",3.2854870164440046,10
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Meredith Corporation",3.7946199095789037,11
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Roku Inc.",5.209638836933043,12
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Sony Pictures Entertainment",2.6960518670997837,13
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Bento Box Entertainment LLC",14.106050029856174,14
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Gannett | USA TODAY NETWORK",2.0447266274262503,15
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"PlayStation",2.3773680623706923,16
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Lionsgate",7.257720687025169,17
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"THE THIRD FLOOR Inc.",26.031766343044843,18
+2020-12-31,us,"United States","All","Entertainment",Top Trending Employers,"Entercom",2.3185134650615336,19
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Software Engineer",3.309870821453225,1
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Editor",2.6713867821663033,2
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Writer",2.312602686201701,3
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Account Executive",2.115925485958271,4
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Video Editor",1.247791621922679,5
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Animator",1.2141276774326997,6
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Reporter",1.1956477683343796,7
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Artist",1.0997240603877718,8
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Production Coordinator",1.0557854009521326,9
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Project Manager",1.0124660148497473,10
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Product Manager",0.9649035365000049,11
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Host",0.9153616622887032,12
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Actor",0.8460499644713473,13
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Graphic Designer",0.7254582043314829,14
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"General Manager",0.7113928825128742,15
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Account Manager",0.701363466839051,16
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Social Media Manager",0.7003778214387335,17
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Creative Director",0.6584538459829473,18
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Game Designer",0.621707709172706,19
+2020-12-31,us,"United States","All","Entertainment",Top Trending Jobs,"Marketing Manager",0.5665548211234416,20
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Account Management",-1,2
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Writing",-1,3
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Team Building",-1,4
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Editing",-1,5
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Adobe Creative Suite",-1,6
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Construction Management",-1,7
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Inventory Management",-1,8
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Social Media Marketing",-1,9
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Social Media",-1,10
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Acting",-1,11
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Agile Methodologies",-1,12
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Art Direction",-1,13
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Public Speaking",-1,14
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Video Editing",-1,15
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Adobe Premiere Pro",-1,16
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Journalism",-1,17
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"News Writing",-1,18
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Animation",-1,19
+2020-12-31,us,"United States","All","Entertainment",Top Trending Skills,"Video Production",-1,20

@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Employers,"University of Wisconsin-Madison",7.050008441632155,1
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Employers,"Wisconsin School of Business",22.612979252806753,2
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Jobs,"Professor",10.290466389131527,1
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Jobs,"Teacher",8.205982171259553,2
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Jobs,"Postdoctoral Researcher",7.767967059636492,3
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-10-01,us,"United States","Greater Madison Area","Education",Top Trending Skills,"Cell Culture",-1,5

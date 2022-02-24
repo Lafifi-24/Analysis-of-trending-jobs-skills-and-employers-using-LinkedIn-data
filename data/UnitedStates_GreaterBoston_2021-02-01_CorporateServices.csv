@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"CLA (CliftonLarsonAllen)",117.69188882104868,1
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"PwC",2.436582855900083,2
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Bain & Company",5.965418381694496,3
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"McKinsey & Company",4.983143657655878,4
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Tax Associate",4.178737804050934,1
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Accountant",3.554531222032812,2
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,1
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"General Ledger",-1,2
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Tax",-1,3
+2021-02-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Tax Preparation",-1,4

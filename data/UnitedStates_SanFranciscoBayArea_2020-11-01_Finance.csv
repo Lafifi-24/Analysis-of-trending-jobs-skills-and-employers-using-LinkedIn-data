@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Robinhood",18.339240896344442,1
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"First Republic Bank",4.610111257880147,2
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Wells Fargo",0.8848064580679084,3
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Chime",16.124593520603188,4
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Blue Shield of California",4.454625276065994,5
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Upstart",20.209477497115056,6
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Affirm, Inc.",7.926752344697019,7
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Software Engineer",5.961488476454246,1
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Investment Analyst",2.7540218547727706,2
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Product Manager",2.5091407267885275,3
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Financial Advisor",2.4558081964007283,4
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Retirement Planning",-1,2
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Agile Methodologies",-1,3
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Investments",-1,4
+2020-11-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Financial Modeling",-1,5

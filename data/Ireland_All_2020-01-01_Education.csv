@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ie,"Ireland","All","Education",Top Trending Employers,"University College Dublin",4.880558350302491,1
+2020-01-01,ie,"Ireland","All","Education",Top Trending Employers,"Trinity College Dublin",3.504673668952362,2
+2020-01-01,ie,"Ireland","All","Education",Top Trending Employers,"University of Limerick",6.287360009692707,3
+2020-01-01,ie,"Ireland","All","Education",Top Trending Employers,"University College Cork",4.188898688020749,4
+2020-01-01,ie,"Ireland","All","Education",Top Trending Employers,"National University of Ireland, Galway",4.074889878835656,5
+2020-01-01,ie,"Ireland","All","Education",Top Trending Jobs,"Lecturer",14.609142041370744,1
+2020-01-01,ie,"Ireland","All","Education",Top Trending Jobs,"Postdoctoral Researcher",8.893709976610873,2
+2020-01-01,ie,"Ireland","All","Education",Top Trending Jobs,"Professor",6.089597041236196,3
+2020-01-01,ie,"Ireland","All","Education",Top Trending Jobs,"Teacher",5.67448962145127,4
+2020-01-01,ie,"Ireland","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,ie,"Ireland","All","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-01-01,ie,"Ireland","All","Education",Top Trending Skills,"Higher Education",-1,3

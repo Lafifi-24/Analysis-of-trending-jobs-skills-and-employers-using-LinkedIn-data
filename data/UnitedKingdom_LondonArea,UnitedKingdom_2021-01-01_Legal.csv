@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,gb,"United Kingdom","London Area, United Kingdom","Legal",Top Trending Jobs,"Solicitor",18.761545984392562,1
+2021-01-01,gb,"United Kingdom","London Area, United Kingdom","Legal",Top Trending Jobs,"Paralegal",18.383507009851222,2
+2021-01-01,gb,"United Kingdom","London Area, United Kingdom","Legal",Top Trending Jobs,"Barrister",6.10535094914505,3
+2021-01-01,gb,"United Kingdom","London Area, United Kingdom","Legal",Top Trending Jobs,"Lawyer",5.918149864753988,4
+2021-01-01,gb,"United Kingdom","London Area, United Kingdom","Legal",Top Trending Skills,"Legal Advice",-1,1
+2021-01-01,gb,"United Kingdom","London Area, United Kingdom","Legal",Top Trending Skills,"Legal Research",-1,2
+2021-01-01,gb,"United Kingdom","London Area, United Kingdom","Legal",Top Trending Skills,"Litigation",-1,3

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,it,"Italy","All","Nonprofit",Top Trending Employers,"Croce Rossa Italiana",5.929588108212891,1
+2021-06-01,it,"Italy","All","Nonprofit",Top Trending Jobs,"Teacher",5.393609853252104,1
+2021-06-01,it,"Italy","All","Nonprofit",Top Trending Jobs,"Social Worker",4.271283793728423,2
+2021-06-01,it,"Italy","All","Nonprofit",Top Trending Jobs,"Social Educator",4.241536049616409,3
+2021-06-01,it,"Italy","All","Nonprofit",Top Trending Skills,"Teaching",-1,1
+2021-06-01,it,"Italy","All","Nonprofit",Top Trending Skills,"Social Services",-1,2
+2021-06-01,it,"Italy","All","Nonprofit",Top Trending Skills,"Nonprofit Organizations",-1,3

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Houston","Manufacturing",Top Trending Employers,"KBR, Inc.",4.015873417898562,1
+2020-07-01,us,"United States","Greater Houston","Manufacturing",Top Trending Employers,"Dow",2.3111309551347494,2
+2020-07-01,us,"United States","Greater Houston","Manufacturing",Top Trending Employers,"NASA - National Aeronautics and Space Administration",4.091184213757959,3
+2020-07-01,us,"United States","Greater Houston","Manufacturing",Top Trending Jobs,"Sales Manager",2.8810626225555978,1
+2020-07-01,us,"United States","Greater Houston","Manufacturing",Top Trending Jobs,"Project Manager",2.4422797366646884,2
+2020-07-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Sales Management",-1,1
+2020-07-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Construction Management",-1,2
+2020-07-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

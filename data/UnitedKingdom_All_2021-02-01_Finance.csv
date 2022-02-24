@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"HSBC",0.9156048230149715,1
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Barclays",1.291302587153928,2
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Citi",2.459054891147438,3
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Lloyds Banking Group",0.8296059701010347,4
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Morgan Stanley",2.6484302269101647,5
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Aviva",1.9092990885606422,6
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"JPMorgan Chase & Co.",1.7832819922995007,7
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Legal & General",3.3480510363600495,8
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Santander UK",1.5645767477534298,9
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Deutsche Bank",1.4428808043556733,10
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Metro Bank (UK)",3.9079238198856907,11
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Nationwide Building Society",1.53760800267759,12
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Hargreaves Lansdown",9.336659917052785,13
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Capco",8.797973380834566,14
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"J.P. Morgan",1.634398229875797,15
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Bloomberg LP",2.359777729412817,16
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Gallagher",3.6387593515301258,17
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Bank of England",2.7836076586035383,18
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Phoenix Group",8.224393241329887,19
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Monzo Bank",8.533222696131372,20
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Software Engineer",3.1140180822675285,1
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Business Analyst",2.1114144204815952,2
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Financial Advisor",2.0733151566721704,3
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Project Manager",1.8506024560153587,4
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Underwriter",1.6856829238623798,5
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Investment Analyst",1.3644692718363185,6
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Business Development Manager",1.3457634935327967,7
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Customer Service Representative",1.2469621913842281,8
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Mortgage Advisor",1.1962075702950747,9
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Account Manager",1.15985423839339,10
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Relationship Manager",0.8242858492957919,11
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Account Handler",0.8045796472631433,12
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Data Analyst",0.7822345050642632,13
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Financial Analyst",0.6855138073985172,14
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Portfolio Manager",0.671887191302067,15
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Product Manager",0.6476611717540901,16
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Account Executive",0.619172235311771,17
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Financial Planner",0.5940560539839671,18
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Paraplanner",0.5704747922473007,19
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Legal Counsel",0.5395016824117539,20
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Account Management",-1,1
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"JavaScript",-1,2
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Business Analysis",-1,3
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Stakeholder Management",-1,4
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Project Delivery",-1,5
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Data Analysis",-1,7
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Requirements Gathering",-1,8
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Analysis",-1,9
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Time Management",-1,10
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"SQL",-1,11
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Product Development",-1,12
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Business Relationship Management",-1,13
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Services",-1,14
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Underwriting",-1,15
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Digital Marketing",-1,16
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Mortgage Lending",-1,17
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Reporting",-1,18
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Advisory",-1,19
+2021-02-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Working with Brokers",-1,20

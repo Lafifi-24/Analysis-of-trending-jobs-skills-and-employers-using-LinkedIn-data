@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ph,"Philippines","Metro Manila","Education",Top Trending Jobs,"Professor",19.10156336944456,1
+2020-01-01,ph,"Philippines","Metro Manila","Education",Top Trending Jobs,"Lecturer",12.019588511892804,2
+2020-01-01,ph,"Philippines","Metro Manila","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,ph,"Philippines","Metro Manila","Education",Top Trending Skills,"Higher Education",-1,2

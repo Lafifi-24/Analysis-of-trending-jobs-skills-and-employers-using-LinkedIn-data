@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"BNP Paribas",1.8113256720781474,1
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"AXA",3.7792980692215457,2
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Bpifrance",7.472265096838152,3
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"KPMG France",4.654931811159829,4
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"La Banque Postale",1.9926895266813325,5
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"LCL",1.9609957266013045,6
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Natixis",2.710533122507565,7
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Crédit Agricole CIB",3.3593677234990134,8
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Crédit Mutuel",2.6994096180850966,9
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Generali",4.531487588709688,10
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Societe Generale Corporate and Investment Banking - SGCIB",2.7135563841978594,11
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"PwC France",4.009818259239904,12
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"MAIF",4.280046951839713,13
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Banque de France",3.4948290549308694,14
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"MACIF",3.64825011664574,15
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Allianz France",2.288341381055295,16
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"HSBC",1.9477417631983251,17
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Amundi",4.944982033027722,18
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Groupe BPCE",2.7687526794592494,19
+2021-03-01,fr,"France","All","Finance",Top Trending Employers,"Harmonie Mutuelle",4.164011972203255,20
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Client Advisor",3.791902066375351,1
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Wealth Management Advisor",3.3291953484172514,2
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Customer Associate",3.322080915606155,3
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Financial Advisor",3.27291926883069,4
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Project Manager",2.790576359608512,5
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Sales Advisor",2.7886483809517344,6
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Mergers and Acquisitions Analyst",1.598069138163146,7
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Legal Officer",1.5966530697681447,8
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Business Account Executive",1.5032113493494215,9
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Financial Analyst",1.405896086166442,10
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Financial Auditor",1.3731541690944995,11
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Private Equity Analyst",1.211962092733337,12
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Mortgage Broker",1.1883487466760423,13
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Communications Manager",1.1510157500658058,14
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Account Manager",1.0595203742031327,15
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Auditor",0.9290061643463448,16
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Salesperson",0.9185941042076093,17
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Software Engineer",0.9104174930138786,18
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Business Analyst",0.9095607214666562,19
+2021-03-01,fr,"France","All","Finance",Top Trending Jobs,"Insurance Advisor",0.8865735652152984,20
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Project Management",-1,1
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Negotiation",-1,2
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Social Media",-1,3
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Java",-1,4
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Git",-1,5
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Internal Communications",-1,6
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Legal Research",-1,7
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Legal Advice",-1,8
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Wealth Management",-1,9
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Account Management",-1,10
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Assurance",-1,11
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Commerce",-1,12
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Auditing",-1,13
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Financial Analysis",-1,14
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"SQL",-1,15
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Financial Audits",-1,16
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Agile Methodologies",-1,17
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Corporate Finance",-1,18
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Mergers & Acquisitions (M&A)",-1,19
+2021-03-01,fr,"France","All","Finance",Top Trending Skills,"Insurance",-1,20

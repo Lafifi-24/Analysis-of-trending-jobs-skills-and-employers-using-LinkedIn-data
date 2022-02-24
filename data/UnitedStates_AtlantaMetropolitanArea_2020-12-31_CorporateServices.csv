@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Corporate Services",Top Trending Employers,"Deloitte",4.692257238881486,1
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Corporate Services",Top Trending Jobs,"Tax Associate",4.31209836201072,1
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Corporate Services",Top Trending Skills,"Tax",-1,1
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Corporate Services",Top Trending Skills,"Tax Preparation",-1,2

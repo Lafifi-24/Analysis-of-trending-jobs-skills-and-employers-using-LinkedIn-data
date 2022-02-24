@@ -1,0 +1,54 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Aalto University",6.279468805003913,1
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"OP Financial Group",3.2449625075080144,2
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Helsingin kaupunki – Helsingfors stad – City of Helsinki",4.256553933469692,3
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Mehiläinen",6.533094522917217,4
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Nokia",2.494751490063108,5
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"KONE",4.933429687246236,6
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Wolt",14.124911891014873,7
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Terveystalo",5.137251302711392,8
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Nordea",2.0941632647801907,9
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Helsingin ja Uudenmaan sairaanhoitopiiri - Hospital District of Helsinki and Uusimaa (HUS)",4.27324657897954,10
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Gofore",10.003329854472307,11
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Kesko - K-Group",3.3017718794816084,12
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Valmet",2.8986590331773487,13
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Tampereen kaupunki - City of Tampere",5.75237990643713,14
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"CGI",2.5982260551935434,15
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Kela",3.1737480368396063,16
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"Vincit",11.918687379144844,17
+2021-03-01,fi,"Finland","All","All",Top Trending Employers,"University of Oulu",3.2296163075239184,18
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Software Engineer",4.587875681127264,1
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Project Manager",4.100339880915829,2
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Sales Manager",2.778065436762242,3
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Teacher",1.8409944850845288,4
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Salesperson",1.7390895607157366,5
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Account Manager",1.7085940934570947,6
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Project Engineer",0.8766391389097955,7
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Product Manager",0.8669529725839431,8
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Nurse",0.8446247138384475,9
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Customer Service Representative",0.8362819439262075,10
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Key Account Manager",0.8034534100706848,11
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Service Manager",0.7724499452576411,12
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Marketing Manager",0.7217679271817409,13
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Design Engineer",0.6946167857411846,14
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Sales Director",0.6871352693781694,15
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Postdoctoral Researcher",0.6572816674447572,16
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Full Stack Engineer",0.6524314352887078,17
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Service Advisor",0.6413569281420758,18
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Lecturer",0.5893903227052976,19
+2021-03-01,fi,"Finland","All","All",Top Trending Jobs,"Human Resources Manager",0.5499601295397555,20
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Project Management",-1,1
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Teaching",-1,2
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Sales Management",-1,3
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Project Planning",-1,4
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Business-to-Business (B2B)",-1,5
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Git",-1,6
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Account Management",-1,7
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Product Development",-1,8
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Project Engineering",-1,9
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Adult Education",-1,10
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Change Management",-1,11
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Teamwork",-1,12
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Computer-Aided Design (CAD)",-1,13
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"IT Service Management",-1,14
+2021-03-01,fi,"Finland","All","All",Top Trending Skills,"Marketing Management",-1,15

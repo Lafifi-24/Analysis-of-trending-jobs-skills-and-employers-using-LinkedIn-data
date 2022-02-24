@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Tucson Area","All",Top Trending Employers,"University of Arizona",3.9795523391187526,1
+2020-01-01,us,"United States","Greater Tucson Area","All",Top Trending Jobs,"Real Estate Agent",2.917726540892528,1
+2020-01-01,us,"United States","Greater Tucson Area","All",Top Trending Skills,"Investment Properties",-1,1
+2020-01-01,us,"United States","Greater Tucson Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,2

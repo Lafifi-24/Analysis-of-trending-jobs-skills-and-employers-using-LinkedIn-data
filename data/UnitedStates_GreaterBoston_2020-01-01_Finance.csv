@@ -1,0 +1,19 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Fidelity Investments",2.751666076662194,1
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Citizens",4.387035316949612,2
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Liberty Mutual Insurance",2.400441710564198,3
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Santander Bank, N.A.",3.9537729240841557,4
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"State Street",1.4567076921194861,5
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Tufts Health Plan",3.915027917093567,6
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Digital Federal Credit Union",11.62891623924785,7
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"John Hancock",2.7736926694691553,8
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Software Engineer",3.3119900451421165,1
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Financial Advisor",2.7662816950248983,2
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Customer Service Representative",1.8373810233047505,3
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Business Analyst",1.6274744470533822,4
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Business Analysis",-1,2
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Customer Satisfaction",-1,3
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,4
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Retirement Planning",-1,5
+2020-01-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Investments",-1,6

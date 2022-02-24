@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Greater Tampa Bay Area","Legal",Top Trending Jobs,"Attorney",34.65323274492374,1
+2020-05-01,us,"United States","Greater Tampa Bay Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-05-01,us,"United States","Greater Tampa Bay Area","Legal",Top Trending Skills,"Civil Litigation",-1,2

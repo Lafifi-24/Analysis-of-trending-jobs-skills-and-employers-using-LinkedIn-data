@@ -1,0 +1,27 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University",4.015324290123588,1
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Berkeley",3.8249508526024183,2
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, San Francisco",3.0269864193825176,3
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University School of Medicine",4.75326854264618,4
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Santa Cruz",6.866353472547111,5
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Santa Clara University",6.53186381953607,6
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Lawrence Livermore National Laboratory",3.5573650186001866,7
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Springboard",21.844214319386566,8
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"San Francisco State University",2.5457652246998688,9
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"San Jose State University",2.2235496338174614,10
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Postdoctoral Researcher",7.91750212098028,1
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Teacher",7.641261948474979,2
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Professor",3.6147917173905606,3
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Software Engineer",3.048434699323594,4
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Clinical Research Coordinator",1.4750340268009026,6
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Lecturer",1.3946285803094407,7
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"JavaScript",-1,2
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Higher Education",-1,4
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Public Speaking",-1,5
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Nonprofit Organizations",-1,6
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Molecular Biology",-1,7
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Cell Culture",-1,8
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Clinical Research",-1,9
+2020-11-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Good Clinical Practice (GCP)",-1,10

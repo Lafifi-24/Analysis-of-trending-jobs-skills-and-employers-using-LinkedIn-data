@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Intel Corporation",0.708438737822002,1
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Intel Corporation",0.6803070480255121,2
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Comcast",0.7491376766015179,3
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Comcast",0.7429149282183948,4
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Qualcomm",1.40725788621929,5
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Qualcomm",1.3897710402715813,6
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Charter Communications",0.9157569893900503,7
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Charter Communications",0.8930581185783313,8
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"NVIDIA",1.9537811888219971,9
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"NVIDIA",1.8177164870418119,10
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"AMD",2.5883337977571688,11
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"AMD",2.5715853076250483,12
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"TSMC",14.72694806121056,13
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"TSMC",14.630812779168226,14
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Comcast Business",1.0548063941093537,15
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Cox Communications",0.919226699200938,16
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Comcast Business",1.0440393813245583,17
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Cox Communications",0.9099001567614664,18
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Micron Technology",0.8948479629529377,19
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Lam Research",1.6256964760603005,20
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Software Engineer",4.75804118819916,1
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Software Engineer",4.652558736583415,2
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Account Executive",3.00362680784917,3
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Account Manager",2.955736991731975,4
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Account Executive",2.9379989794070482,5
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Account Manager",2.8273207370789177,6
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Project Manager",2.0147378775826335,7
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Project Manager",1.8145719272422547,8
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Recruiter",1.2687226292838933,9
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Sales Manager",1.2170176874749246,10
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Process Engineer",1.169228051900667,11
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Program Manager",1.1687200194807712,12
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Sales Manager",1.1616188066806996,13
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Process Engineer",1.1436694951240622,14
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Program Manager",1.1420451893467398,15
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Business Account Executive",1.1109948350724355,16
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Recruiter",1.043803604888589,17
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Customer Service Representative",1.010738162491415,18
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Customer Service Representative",1.0017523915883406,19
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Business Account Executive",0.9971306962087371,20
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"JavaScript",-1,2
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"JavaScript",-1,3
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"JavaScript",-1,4
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Account Management",-1,5
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Account Management",-1,6
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Account Management",-1,7
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Account Management",-1,8
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Sales Management",-1,9
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Sales Management",-1,10
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Sales Management",-1,11
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Sales Management",-1,12
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Recruiting",-1,13
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Recruiting",-1,14
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Recruiting",-1,15
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Recruiting",-1,16
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Construction Management",-1,17
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Construction Management",-1,18
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Construction Management",-1,19
+2021-03-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Construction Management",-1,20

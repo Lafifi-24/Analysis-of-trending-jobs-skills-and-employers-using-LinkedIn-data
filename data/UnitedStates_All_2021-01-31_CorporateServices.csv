@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Deloitte",4.2138124418843566,1
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"PwC",2.0930737650394113,2
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"RSM US LLP",5.5820252580652046,3
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"CLA (CliftonLarsonAllen)",12.443622370318298,4
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"ADP",2.62549724509548,5
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Slalom",7.424734759223522,6
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Allied Universal",2.594029108786623,7
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"BDO USA, LLP",4.736361339567648,8
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Cintas",3.42415482489431,9
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Baker Tilly US",8.511329668602775,10
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"McKinsey & Company",3.0334926330212983,11
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Bain & Company",6.350711913444552,12
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Gartner",3.0581951961853777,13
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"ADT",4.291605505473113,14
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Paychex",2.894525303834979,15
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Plante Moran",7.811681262482336,16
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Sodexo",1.737570133826949,17
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Moss Adams",6.321745621070144,18
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"Staples",1.9093473640056609,19
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Employers,"ZS",7.798098863925175,20
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Accountant",3.9347944572914746,1
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Tax Associate",3.001923564374587,2
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Project Manager",2.326144480529723,3
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Account Manager",1.9136372878305947,4
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Tax Accountant",1.7152168615766774,5
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Audit Associate",1.6520085891019463,6
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Customer Service Representative",1.5857371348379425,7
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Recruiter",1.5721544877044242,8
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Account Executive",1.513596285147863,9
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Tax Manager",1.3955569938577403,10
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Security Officer",1.222339719432223,11
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Salesperson",1.1660248819939714,12
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Business Analyst",1.1641793049245996,13
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Software Engineer",1.0180852952855084,14
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Auditor",0.9036099301261724,15
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Assurance Associate",0.9015452004641816,16
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Business Development Manager",0.8928838353178838,17
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Operations Manager",0.868561102397766,18
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Sales Manager",0.828980925835357,19
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Jobs,"Audit",0.6605307052690417,20
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"JavaScript",-1,1
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Account Management",-1,2
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Sales Management",-1,3
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Operations Management",-1,4
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Team Building",-1,5
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Recruiting",-1,6
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Construction Management",-1,7
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,8
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Sales Operations",-1,9
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Business Analysis",-1,10
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"General Ledger",-1,11
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Customer Satisfaction",-1,12
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Interviewing",-1,13
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,14
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Security",-1,15
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Physical Security",-1,16
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Auditing",-1,17
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Tax",-1,18
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Tax Preparation",-1,19
+2021-01-31,us,"United States","All","Corporate Services",Top Trending Skills,"Internal Controls",-1,20

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,nl,"Netherlands","All","Recreation & Travel",Top Trending Employers,"ANWB",3.9474268713229335,1
+2021-03-01,nl,"Netherlands","All","Recreation & Travel",Top Trending Employers,"KLM Royal Dutch Airlines",0.9199812362663006,2
+2021-03-01,nl,"Netherlands","All","Recreation & Travel",Top Trending Jobs,"Chef",2.9370858229694683,1
+2021-03-01,nl,"Netherlands","All","Recreation & Travel",Top Trending Jobs,"Account Manager",2.876190603391286,2
+2021-03-01,nl,"Netherlands","All","Recreation & Travel",Top Trending Jobs,"Delivery Driver",2.569455287678218,3
+2021-03-01,nl,"Netherlands","All","Recreation & Travel",Top Trending Skills,"Account Management",-1,1
+2021-03-01,nl,"Netherlands","All","Recreation & Travel",Top Trending Skills,"Culinary Skills",-1,2
+2021-03-01,nl,"Netherlands","All","Recreation & Travel",Top Trending Skills,"Cooking",-1,3

@@ -1,0 +1,53 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Banco Bci",5.210935746154624,1
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Entel",5.533500031040876,2
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Falabella Retail",5.650029151433632,3
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"afp-planvital",22.557636890439138,4
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"ACHS",5.62562749520481,5
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Banco de Chile",3.077726476877485,6
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Universidad de Chile",2.624189826563241,7
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"CODELCO – Corporación Nacional del Cobre de Chile",3.6529212972525746,8
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Pontificia Universidad Católica de Chile",1.9501485818561113,9
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Deloitte",6.171485835508671,10
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"BancoEstado",4.55057965670814,11
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Itaú",5.345537545529809,12
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"redsaludcchc",9.699217239813931,13
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"BHP",5.580614614686261,14
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"SMU S.A. (Unimarc, M10, Ok Market)",6.609796589497406,15
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"ARAUCO",4.363842435234681,16
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Claro Chile S.A.",3.7083963863944067,17
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"AFP Cuprum",13.07667019082758,18
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"Globant",16.291743396189343,19
+2020-01-01,cl,"Chile","All","All",Top Trending Employers,"everis",7.44465004416221,20
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Attorney",1.8728336021291463,1
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Software Engineer",1.8345788379235437,2
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Project Manager",1.6269261824447458,3
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Project Engineer",1.4124544334583253,4
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Sales Executive",1.4113421323657194,5
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Commercial Associate",1.387830353036923,6
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Nurse",1.35632750093412,7
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Teacher",1.2380981290683546,8
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Assignment Manager",1.0870025819173,9
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Operations Manager",0.8969257588931606,10
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Salesperson",0.8795644302648158,11
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Architect",0.8304497500267839,12
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Psychologist",0.8271351102787246,13
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Accounting Analyst",0.7999272548744693,14
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Financial Advisor",0.7965366360250047,15
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Professor",0.7784969499283919,16
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Key Account Manager",0.7733951483570884,17
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Accountant",0.766451327990649,18
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Sales Manager",0.7647902218533308,19
+2020-01-01,cl,"Chile","All","All",Top Trending Jobs,"Account Executive",0.7642806116203512,20
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Teaching",-1,1
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Legal Advice",-1,2
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Legal Research",-1,3
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Team Leadership",-1,4
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Architectural Design",-1,5
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"JavaScript",-1,6
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Negotiation",-1,7
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Microsoft Project",-1,8
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"MySQL",-1,9
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Nursing",-1,10
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Psychotherapy",-1,11
+2020-01-01,cl,"Chile","All","All",Top Trending Skills,"Financial Analysis",-1,12

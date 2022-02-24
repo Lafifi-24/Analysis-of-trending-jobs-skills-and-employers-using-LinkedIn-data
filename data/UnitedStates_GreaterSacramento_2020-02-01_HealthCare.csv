@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Sacramento","Health Care",Top Trending Employers,"Sutter Health",2.8266929848944944,1
+2020-02-01,us,"United States","Greater Sacramento","Health Care",Top Trending Employers,"UC Davis Health",4.803228851821396,2
+2020-02-01,us,"United States","Greater Sacramento","Health Care",Top Trending Jobs,"Nurse",9.539336882427243,1
+2020-02-01,us,"United States","Greater Sacramento","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-02-01,us,"United States","Greater Sacramento","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"New York Life Insurance Company",7.844243624048736,1
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"JPMorgan Chase & Co.",1.9931764182335905,2
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Northwestern Mutual",6.029175246497322,3
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Fidelity Investments",3.8609066076051954,4
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Citi",2.7681248586986538,5
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Wells Fargo",0.9890761419303016,6
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"KPMG US",3.866326823566796,7
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Morgan Stanley",2.6044388048571157,8
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"State Farm ®",1.8661356401906077,9
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"U.S. Bank",1.9180135085731589,10
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Empower Retirement",28.363658797721552,11
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Charles Schwab",3.599265258702998,12
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"PNC",1.9937913153299909,13
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Allstate",2.046009757990196,14
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Guaranteed Rate",9.50234509379704,15
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Farmers Insurance",2.4930967565410316,16
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"loanDepot",7.862447896632384,17
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"Family First Life",17.306607091062727,18
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"United Wholesale Mortgage",11.917814535574884,19
+2021-01-31,us,"United States","All","Finance",Top Trending Employers,"UBS",2.5992912053095845,20
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Software Engineer",3.4864848471305887,1
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Insurance Agent",2.3903218123771377,2
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Mortgage Loan Officer",2.310225287783051,3
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Financial Advisor",2.291339007374583,4
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Customer Service Representative",2.0030724650872327,5
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Account Executive",1.8407515017210565,6
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Underwriter",1.6756517898010477,7
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Account Manager",1.5485873662674314,8
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Investment Analyst",1.3600849716739087,9
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Loan Officer",1.2730950331597832,10
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Financial Representative",1.1667451110401768,11
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Mortgage Loan Originator",1.0254855799649876,12
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Financial Analyst",0.9245035241483364,13
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Business Analyst",0.871119286412179,14
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Relationship Manager",0.7971248620393818,15
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Banker",0.7769003750524703,16
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Accountant",0.7534272120698081,17
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Bank Teller",0.7164076193477422,18
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Project Manager",0.6805915052409067,19
+2021-01-31,us,"United States","All","Finance",Top Trending Jobs,"Salesperson",0.6660572909588081,20
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Account Management",-1,2
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Construction Management",-1,3
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Account Reconciliation",-1,4
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Business Analysis",-1,5
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Financial Analysis",-1,6
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"General Ledger",-1,7
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Customer Satisfaction",-1,8
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Financial Reporting",-1,9
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,10
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Retirement Planning",-1,11
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Life Insurance",-1,12
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Investments",-1,13
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,14
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Underwriting",-1,15
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Mortgage Lending",-1,16
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Insurance",-1,17
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Business Relationship Management",-1,18
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Cash Handling",-1,19
+2021-01-31,us,"United States","All","Finance",Top Trending Skills,"Financial Modeling",-1,20

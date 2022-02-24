@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Starbucks",2.1746294124141197,1
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Salesperson",6.614983462606043,1
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Barista",5.677273949976278,2
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Time Management",-1,1
+2021-03-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Barista",-1,2

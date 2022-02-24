@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"University of Colorado Boulder",10.729235444104251,1
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Amazon",15.247284648940603,2
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Lockheed Martin",3.995237701059852,3
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"UCHealth",5.398248106966016,4
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"University of Denver",8.394324526212554,5
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Ball Aerospace",7.620134062342202,6
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Colorado School of Mines",12.100153088706024,7
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Denver Public Schools",5.315726579054389,8
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Charles Schwab",4.054708427661731,9
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Denver Health",7.156247934805525,10
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"University of Colorado Anschutz Medical Campus",4.617558465808569,11
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Colorado Department of Public Health and Environment",17.427847037792617,12
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"HomeAdvisor",12.173109187455475,13
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Charter Communications",3.089626804999275,14
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"University of Colorado Denver",5.687613242161694,15
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Zoom",18.731566364635615,16
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Children's Hospital Colorado",3.6309130176894833,17
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Robinhood",74.07306373213095,18
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Cherry Creek School District",7.927009860632772,19
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Employers,"Sierra Nevada Corporation",6.743089428539818,20
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Software Engineer",3.0420630700695623,1
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.695097643143545,2
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Teacher",1.3088353853701238,3
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.2637226809058955,4
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Account Executive",1.2363354740336836,5
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.2271366805971315,6
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Nurse",1.0613310149994324,7
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",0.9570614789647633,8
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.8859152261321982,9
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Professor",0.7685727880914651,10
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Accountant",0.7180122938520727,11
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.7075148849416879,12
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Attorney",0.6573617198044579,13
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"General Manager",0.6570063738590558,14
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Sales Director",0.6345806366563953,15
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.5922894227445061,16
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"System Engineer",0.5472312681365274,18
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Program Manager",0.5447688026075008,19
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",0.5184637568420537,20
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Team Building",-1,8
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,9
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,10
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,11
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Higher Education",-1,12
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Program Management",-1,13
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Civil Litigation",-1,14
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,15
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,16
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,17
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,18
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,19
+2020-09-01,us,"United States","Denver Metropolitan Area","All",Top Trending Skills,"Public Speaking",-1,20

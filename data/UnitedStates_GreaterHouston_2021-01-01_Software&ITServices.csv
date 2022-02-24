@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Employers,"Amazon",5.623449137642705,1
+2021-01-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Jobs,"Software Engineer",5.503915618668076,1
+2021-01-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Skills,"JavaScript",-1,1

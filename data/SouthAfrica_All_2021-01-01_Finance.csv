@@ -1,0 +1,21 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"Absa Group",1.0973498425327048,1
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"Standard Bank Group",1.0568438348139297,2
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"Discovery Limited",1.74546770348564,3
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"FNB South Africa",0.8369581360746191,4
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"Old Mutual South Africa",2.1292234389464704,5
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"Telesure Investment Holdings (TIH)",4.26365514996331,6
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"Liberty Group South Africa",2.555322970935534,7
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"Nedbank",0.6698820558423023,8
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"Capitec Bank",1.326092183460267,9
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"OUTsurance",3.367627964565245,10
+2021-01-01,za,"South Africa","All","Finance",Top Trending Employers,"Sanlam",1.1157908770844056,11
+2021-01-01,za,"South Africa","All","Finance",Top Trending Jobs,"Financial Advisor",8.715465940578664,1
+2021-01-01,za,"South Africa","All","Finance",Top Trending Jobs,"Software Engineer",3.033929787279263,2
+2021-01-01,za,"South Africa","All","Finance",Top Trending Jobs,"Business Analyst",2.4615845721358403,3
+2021-01-01,za,"South Africa","All","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,za,"South Africa","All","Finance",Top Trending Skills,"C#",-1,2
+2021-01-01,za,"South Africa","All","Finance",Top Trending Skills,"Business Analysis",-1,3
+2021-01-01,za,"South Africa","All","Finance",Top Trending Skills,"Financial Planning",-1,4
+2021-01-01,za,"South Africa","All","Finance",Top Trending Skills,"Retirement Planning",-1,5
+2021-01-01,za,"South Africa","All","Finance",Top Trending Skills,"Requirements Analysis",-1,6

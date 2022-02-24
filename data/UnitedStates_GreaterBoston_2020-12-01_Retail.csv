@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Wayfair",2.886599725444566,1
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Target",7.637818975230804,2
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Whole Foods Market",10.18311507310279,3
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Salesperson",11.003160975552941,1
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Cashier",5.1742107541975955,2
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Store Manager",3.9234774143544358,3
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Store Management",-1,2
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Time Management",-1,3
+2020-12-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Cashiering",-1,4

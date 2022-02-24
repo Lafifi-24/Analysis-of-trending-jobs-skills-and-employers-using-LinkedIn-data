@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Seattle Area","Finance",Top Trending Employers,"Premera Blue Cross",3.96572815560964,1
+2020-06-01,us,"United States","Greater Seattle Area","Finance",Top Trending Jobs,"Software Engineer",4.978333697203488,1
+2020-06-01,us,"United States","Greater Seattle Area","Finance",Top Trending Skills,"JavaScript",-1,1

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Apple",0.9073876135291983,1
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Apple",0.9062578795498738,2
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Techtronic Industries - TTI",9.775743018312502,3
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Techtronic Industries - TTI",9.63472217878213,4
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"PepsiCo",0.843901765353958,5
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"PepsiCo",0.8140882570581487,6
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Stitch Fix",3.0996100399866244,7
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Stitch Fix",3.097467190785629,8
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Procter & Gamble",1.0802773050650192,9
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Procter & Gamble",1.0612269602061424,10
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"HelloFresh",8.791324969408814,11
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Milwaukee Tool",4.2059313164192735,12
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Milwaukee Tool",3.967989692260205,13
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"L'Oréal",1.6858461244837686,14
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Stanley Black & Decker, Inc.",2.197266366441474,15
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"HelloFresh",7.991554964382444,16
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"L'Oréal",1.6568653404424598,17
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Stanley Black & Decker, Inc.",2.1441994108580915,18
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Anheuser-Busch",2.448663604205447,19
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Employers,"The RealReal",4.540418896856796,20
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Salesperson",4.447405764280261,1
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Salesperson",4.4264541363164,2
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Sales Manager",1.9985922631344502,3
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Sales Manager",1.9551532683504589,4
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Software Engineer",1.897464897814723,5
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Software Engineer",1.8874973914880455,6
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Account Manager",1.4782638954737375,7
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Account Manager",1.4411971627771114,8
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Customer Service Representative",1.3170889939270345,9
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Customer Service Representative",1.2849682552975006,10
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"General Manager",1.2584361106475537,11
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"General Manager",1.2304520363714868,12
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Graphic Designer",1.213140757084497,13
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Project Manager",1.1963054302706655,14
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Operations Manager",1.1535323414543126,15
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Graphic Designer",1.1410571204024758,16
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Operations Manager",1.1342431556575125,17
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Project Manager",1.1328044973397378,18
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Store Manager",1.0909525522239802,19
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Store Manager",1.0778102507535268,20
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"JavaScript",-1,1
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"JavaScript",-1,2
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"JavaScript",-1,3
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"JavaScript",-1,4
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Account Management",-1,5
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Account Management",-1,6
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Account Management",-1,7
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Account Management",-1,8
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Sales Management",-1,9
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Sales Management",-1,10
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Sales Management",-1,11
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Sales Management",-1,12
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Team Building",-1,13
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Team Building",-1,14
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Team Building",-1,15
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Team Building",-1,16
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Operations Management",-1,17
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Operations Management",-1,18
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Operations Management",-1,19
+2021-03-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Operations Management",-1,20

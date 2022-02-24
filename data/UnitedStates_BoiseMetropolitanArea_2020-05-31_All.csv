@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-31,us,"United States","Boise Metropolitan Area","All",Top Trending Employers,"Micron Technology",1.6255540205074543,1
+2020-05-31,us,"United States","Boise Metropolitan Area","All",Top Trending Employers,"St. Luke's Health System",1.774582083169891,2
+2020-05-31,us,"United States","Boise Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.638094699095242,1
+2020-05-31,us,"United States","Boise Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",2.4547271259914503,2
+2020-05-31,us,"United States","Boise Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-05-31,us,"United States","Boise Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,2
+2020-05-31,us,"United States","Boise Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,3

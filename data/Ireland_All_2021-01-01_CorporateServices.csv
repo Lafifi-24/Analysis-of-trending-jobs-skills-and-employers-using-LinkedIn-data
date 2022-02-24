@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,ie,"Ireland","All","Corporate Services",Top Trending Employers,"KPMG Ireland",10.536497677838204,1
+2021-01-01,ie,"Ireland","All","Corporate Services",Top Trending Employers,"PwC Ireland",7.607552637487515,2
+2021-01-01,ie,"Ireland","All","Corporate Services",Top Trending Employers,"Deloitte",8.273620488514608,3
+2021-01-01,ie,"Ireland","All","Corporate Services",Top Trending Employers,"Abtran",9.826823234156517,4
+2021-01-01,ie,"Ireland","All","Corporate Services",Top Trending Employers,"PwC",5.527811228317044,5
+2021-01-01,ie,"Ireland","All","Corporate Services",Top Trending Employers,"Grant Thornton Ireland",5.613624243586142,6
+2021-01-01,ie,"Ireland","All","Corporate Services",Top Trending Jobs,"Audit Associate",8.712692892316626,1
+2021-01-01,ie,"Ireland","All","Corporate Services",Top Trending Jobs,"Assurance Associate",6.3308006712887135,2
+2021-01-01,ie,"Ireland","All","Corporate Services",Top Trending Jobs,"Tax Associate",5.679367005199495,3

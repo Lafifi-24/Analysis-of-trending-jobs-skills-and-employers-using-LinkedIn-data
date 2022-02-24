@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"Amazon",10.391719169358037,1
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"goPuff",20.62970945567127,2
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"DoorDash",48.79049170213774,3
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"Accenture",3.5634313807355995,4
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"SAP",2.5403832380599365,5
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Software Engineer",7.552429484139517,1
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Account Executive",4.2279515669900976,2
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Delivery Driver",2.610587893016965,3
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-04-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Skills,"Account Management",-1,2

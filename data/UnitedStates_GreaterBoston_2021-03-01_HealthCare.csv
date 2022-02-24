@@ -1,0 +1,54 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Massachusetts General Hospital",2.9503738598069833,1
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Beth Israel Deaconess Medical Center",3.983564254045936,2
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Dana-Farber Cancer Institute",4.398126348931877,3
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Moderna",9.840746712463298,4
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Boston Children's Hospital",2.2151419792060643,5
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Boston Medical Center (BMC)",3.253435050033161,6
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Tufts Medical Center",3.5481745214809415,7
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Cataldo Ambulance Service Inc.",32.28727741543372,8
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Ginkgo Bioworks, Inc.",14.522644734313007,9
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Pfizer",3.2709128577751225,10
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Boston Scientific",3.1033979090532418,11
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Sanofi",3.5261039458720695,12
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Bristol Myers Squibb",4.517849308014979,13
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Lifespan",2.93117511561768,14
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Vertex Pharmaceuticals",2.3687667248044466,15
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Abiomed",11.280301889049861,16
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"bluebird bio",5.1175863198018705,17
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"IQVIA",9.61778131753947,18
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"AbbVie",5.076616481847236,19
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Philips",2.3069596435926467,20
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Nurse",5.974869090019947,1
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Software Engineer",1.668922984581677,2
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Project Manager",1.5170591786341137,3
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Emergency Medical Technician",0.8974414454658158,4
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Postdoctoral Researcher",0.8962918584685479,5
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Clinical Research Coordinator",0.8678304372225359,6
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Manufacturing Associate",0.8036637114875731,8
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Data Scientist",0.7376334536039849,9
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Physical Therapist",0.7370211273639707,10
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Laboratory Technician",0.6927100444421581,11
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Quality Assurance Manager",0.6912778232386784,12
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Behavioral Health Technician",0.6831121651268836,13
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Recruiter",0.6566768915995932,14
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"JavaScript",-1,1
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Recruiting",-1,2
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Construction Management",-1,3
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Public Speaking",-1,4
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Interviewing",-1,5
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Nursing",-1,6
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Physical Therapy",-1,7
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Nonprofit Organizations",-1,8
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Rehabilitation",-1,9
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Molecular Biology",-1,10
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Machine Learning",-1,11
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,12
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Cell Culture",-1,13
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Data Science",-1,14
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Quality Management",-1,15
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Laboratory Skills",-1,16
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Emergency Medical Services (EMS)",-1,17
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Clinical Research",-1,18
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"EMT",-1,19
+2021-03-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Good Clinical Practice (GCP)",-1,20

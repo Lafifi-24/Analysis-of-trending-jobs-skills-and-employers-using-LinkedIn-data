@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Cleveland","Software & IT Services",Top Trending Employers,"Amazon",11.84867582693884,1
+2020-01-01,us,"United States","Greater Cleveland","Software & IT Services",Top Trending Jobs,"Software Engineer",8.310381768183339,1
+2020-01-01,us,"United States","Greater Cleveland","Software & IT Services",Top Trending Skills,"JavaScript",-1,1

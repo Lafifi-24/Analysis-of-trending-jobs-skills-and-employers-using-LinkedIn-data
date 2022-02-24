@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"The National Institutes of Health",2.6760874845021108,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"The George Washington University",2.123712943104129,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"The Johns Hopkins University",1.624677332893348,3
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"Fairfax County Public Schools",1.7424132756096258,4
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"George Mason University",2.0333680636869174,5
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"Georgetown University",1.600130922750188,6
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Jobs,"Professor",8.081149428962418,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Jobs,"Teacher",6.003019506823105,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Jobs,"Postdoctoral Researcher",5.233305595473909,3
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Higher Education",-1,3
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Cell Culture",-1,5

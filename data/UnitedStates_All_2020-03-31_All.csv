@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Amazon",10.424877522050881,1
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Microsoft",5.920411265111967,2
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Amazon Web Services (AWS)",11.321926087972301,3
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Wells Fargo",3.5852758769585935,4
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Facebook",8.661740855024846,5
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Walmart",5.336008677279541,6
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Target",5.700267597704844,7
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Lowe's Companies, Inc.",9.168336919546395,8
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Apple",4.142030530731984,9
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Keller Williams Realty, Inc.",4.499947829534515,10
+2020-03-31,us,"United States","All","All",Top Trending Employers,"The Home Depot",6.476592500603408,11
+2020-03-31,us,"United States","All","All",Top Trending Employers,"DoorDash",22.157243509620244,12
+2020-03-31,us,"United States","All","All",Top Trending Employers,"U.S. Department of Veterans Affairs",4.062077889672248,13
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Starbucks",3.9127021902772645,14
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Capital One",4.934533578435333,15
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Accenture",4.038155046543908,16
+2020-03-31,us,"United States","All","All",Top Trending Employers,"CVS Health",5.460409942785791,17
+2020-03-31,us,"United States","All","All",Top Trending Employers,"JPMorgan Chase & Co.",2.4885257971409414,18
+2020-03-31,us,"United States","All","All",Top Trending Employers,"eXp Realty",11.053221959043698,19
+2020-03-31,us,"United States","All","All",Top Trending Employers,"Oracle",4.590124776149369,20
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Software Engineer",3.3280309729993927,1
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Project Manager",1.8787880438587357,2
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Nurse",1.6715268702464452,3
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Real Estate Agent",1.653512996628758,4
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Account Manager",1.1998883830590097,5
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Account Executive",1.1591921120816642,6
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Salesperson",1.0787530251078625,7
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Customer Service Representative",0.8746988498256671,8
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Sales Manager",0.8552289124268481,9
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Accountant",0.7649963884557085,10
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Teacher",0.7096921286813246,11
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Operations Manager",0.6507478539958761,12
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Attorney",0.643423613331133,13
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Program Manager",0.6368295472994245,14
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"General Manager",0.5785527773329504,15
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Sales Director",0.5055214771252172,16
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Product Manager",0.49913603501229725,17
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Financial Analyst",0.4940872704317448,18
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Recruiter",0.4862688169977852,19
+2020-03-31,us,"United States","All","All",Top Trending Jobs,"Business Analyst",0.45812244208328423,20
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Teaching",-1,1
+2020-03-31,us,"United States","All","All",Top Trending Skills,"JavaScript",-1,2
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Account Management",-1,4
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Sales Management",-1,5
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Investment Properties",-1,6
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Team Building",-1,8
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Operations Management",-1,9
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Legal Writing",-1,10
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Recruiting",-1,11
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Construction Management",-1,12
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Program Management",-1,13
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Civil Litigation",-1,14
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Account Reconciliation",-1,15
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Business Analysis",-1,16
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Sales Operations",-1,17
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Inventory Management",-1,18
+2020-03-31,us,"United States","All","All",Top Trending Skills,"Financial Analysis",-1,19
+2020-03-31,us,"United States","All","All",Top Trending Skills,"General Ledger",-1,20

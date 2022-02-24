@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"Amazon",7.772707159686518,1
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"goPuff",25.588250605341777,2
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"Vertex Inc.",10.698306221906531,3
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Software Engineer",5.616674207509794,1
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Account Executive",3.3354379211938054,2
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Account Manager",2.4890077132425215,3
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Project Manager",2.0619251164407397,4
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2020-01-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Skills,"Construction Management",-1,3

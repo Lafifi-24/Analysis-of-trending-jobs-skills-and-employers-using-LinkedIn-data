@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Seattle Area","Transportation & Logistics",Top Trending Employers,"Convoy Inc",13.037548206964654,1
+2020-01-01,us,"United States","Greater Seattle Area","Transportation & Logistics",Top Trending Jobs,"Software Engineer",11.92608029226135,1
+2020-01-01,us,"United States","Greater Seattle Area","Transportation & Logistics",Top Trending Skills,"JavaScript",-1,1

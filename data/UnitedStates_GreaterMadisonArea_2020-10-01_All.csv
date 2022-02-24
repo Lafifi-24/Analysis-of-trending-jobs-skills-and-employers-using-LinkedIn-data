@@ -1,0 +1,29 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"University of Wisconsin-Madison",7.011726544684982,1
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"Epic",7.050972352486191,2
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"Exact Sciences",11.111368542470778,3
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"UW Health",4.052962762448234,4
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"PPD",6.432701512048629,5
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"Amazon",33.025382958294855,6
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Software Engineer",3.816044367861054,1
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Project Manager",2.7259812924388114,2
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Technical Solutions Engineer",2.241450021745605,3
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Professor",1.4837190792447434,4
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Teacher",1.3898956389060384,5
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Customer Service Representative",1.359426383956754,6
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Nurse",1.3256640287887622,7
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Real Estate Agent",1.2325148194070676,8
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Postdoctoral Researcher",1.1652793892892077,9
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Salesperson",1.069954649039665,10
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Investment Properties",-1,4
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,5
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Construction Management",-1,6
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Higher Education",-1,7
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Customer Satisfaction",-1,8
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Nursing",-1,9
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Molecular Biology",-1,10
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,11
+2020-10-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Cell Culture",-1,12

@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Greater Richmond Region","Finance",Top Trending Employers,"Capital One",3.2640952410997635,1
+2020-04-01,us,"United States","Greater Richmond Region","Finance",Top Trending Jobs,"Software Engineer",8.204227250350362,1
+2020-04-01,us,"United States","Greater Richmond Region","Finance",Top Trending Skills,"JavaScript",-1,1

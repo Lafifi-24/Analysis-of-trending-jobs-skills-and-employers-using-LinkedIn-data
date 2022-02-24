@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Amazon",7.822236406817639,1
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"SAP",3.0215987122745833,2
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Accenture",6.236476130137811,3
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Delivery Hero",18.93082687347329,4
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"PwC Deutschland",6.148713117793287,5
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Volkswagen AG",3.3939847652152535,6
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"CGI",12.059752287021922,7
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"BMW Group",1.8781317574523577,8
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Technical University of Munich",6.7837137574457556,9
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Vodafone",3.9257522772960227,10
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Bosch",1.2933960516577752,11
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Amazon Web Services (AWS)",13.25122198850764,12
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Boehringer Ingelheim",4.117141043154548,13
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"BASF",2.178635686938267,14
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Deloitte",5.4008190641827385,15
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Siemens Healthineers",3.661902093416348,16
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Technische Universität Berlin",8.235167882116905,17
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"ZF Group",2.6292177090471838,18
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Karlsruhe Institute of Technology (KIT)",6.221056032971608,19
+2020-04-01,de,"Germany","All","All",Top Trending Employers,"Microsoft",4.6155906581212705,20
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Software Engineer",3.953190466185831,1
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Project Manager",3.7922914072278537,2
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Sales Manager",2.129259497929166,3
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Lecturer",1.5589542118614304,4
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Product Manager",1.3434374324247629,5
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Marketing Manager",1.3272506843415113,6
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Account Manager",1.254734886334917,7
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Scientific Officer",1.2431383382344314,8
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Key Account Manager",1.172922867978172,9
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Project Engineer",0.8990778802640046,10
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Project Control Manager",0.8381207715331025,11
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Business Development Manager",0.8087726055763118,12
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Postdoctoral Researcher",0.7849033955020658,13
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Recruiter",0.6903024266278914,14
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Information Technology Consultant",0.6718925745194348,15
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Architect",0.6035760134773573,16
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Data Scientist",0.5823209193371142,17
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Development Engineer",0.5668618104851775,18
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Human Resources Manager",0.5428113251244377,19
+2020-04-01,de,"Germany","All","All",Top Trending Jobs,"Law Clerk",0.5386071918053015,20
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Project Management",-1,1
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Java",-1,2
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Project Planning",-1,3
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Account Management",-1,4
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Product Development",-1,5
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"International Sales",-1,6
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Recruiting",-1,7
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Online Marketing",-1,8
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Teaching",-1,9
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Molecular Biology",-1,10
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Architectural Design",-1,11
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Scrum",-1,12
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"LaTeX",-1,13
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Machine Learning",-1,14
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Data Science",-1,15
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"MATLAB",-1,16
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Automotive",-1,17
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Project Engineering",-1,18
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"IT Consulting",-1,19
+2020-04-01,de,"Germany","All","All",Top Trending Skills,"Project Leadership",-1,20

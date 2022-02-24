@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Employers,"Spectrum Health",2.676100045780407,1
+2021-01-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Jobs,"Software Engineer",1.8636261818634525,1
+2021-01-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",1.826763380566951,2
+2021-01-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.7911314123229403,3
+2021-01-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.67321740746197,4
+2021-01-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Skills,"Account Management",-1,2
+2021-01-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,3
+2021-01-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,4

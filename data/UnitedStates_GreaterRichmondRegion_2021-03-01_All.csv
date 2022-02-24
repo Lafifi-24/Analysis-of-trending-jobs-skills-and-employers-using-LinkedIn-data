@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"VCU Health",2.3930646101131887,1
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Virginia Commonwealth University",1.638351421784448,2
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"CarMax",4.1403015879151255,3
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"CoStar Group",6.1905172136631315,4
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"PPD",5.630441150438545,5
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Dominion Energy",2.0667101216407526,6
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Software Engineer",2.6972134883955996,1
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Real Estate Agent",2.441610298423523,2
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Project Manager",2.0531273313018237,3
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Salesperson",1.6041116106258606,4
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Account Manager",1.420067797074676,5
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"JavaScript",-1,1
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Account Management",-1,2
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Investment Properties",-1,3
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,4
+2021-03-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Construction Management",-1,5

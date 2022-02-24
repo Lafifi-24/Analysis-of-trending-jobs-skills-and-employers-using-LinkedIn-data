@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Metro Jacksonville","Education",Top Trending Employers,"University of North Florida",7.597902545359367,1
+2020-01-01,us,"United States","Metro Jacksonville","Education",Top Trending Jobs,"Teacher",24.379596961991055,1
+2020-01-01,us,"United States","Metro Jacksonville","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,us,"United States","Metro Jacksonville","Education",Top Trending Skills,"Curriculum Development",-1,2

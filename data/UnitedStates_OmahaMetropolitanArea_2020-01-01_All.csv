@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Employers,"Mutual of Omaha",3.640848930635739,1
+2020-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Employers,"Nebraska Medicine",4.2499023150936415,2
+2020-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.728468035685361,1
+2020-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",2.250688265691169,2
+2020-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",1.5975373382311233,3
+2020-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,2
+2020-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,3
+2020-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,4

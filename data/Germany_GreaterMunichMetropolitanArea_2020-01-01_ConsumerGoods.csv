@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,de,"Germany","Greater Munich Metropolitan Area","Consumer Goods",Top Trending Employers,"Apple",111.38005465005453,1
+2020-01-01,de,"Germany","Greater Munich Metropolitan Area","Consumer Goods",Top Trending Jobs,"Software Engineer",6.9143784278116645,1
+2020-01-01,de,"Germany","Greater Munich Metropolitan Area","Consumer Goods",Top Trending Skills,"Java",-1,1

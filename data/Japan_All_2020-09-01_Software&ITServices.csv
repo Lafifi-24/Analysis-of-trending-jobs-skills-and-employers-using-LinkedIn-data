@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",13.279852494209642,1
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Employers,"Amazon",7.0391698263512135,2
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Employers,"Rakuten",4.548859955499319,3
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Employers,"Accenture",3.6864489744811033,4
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Jobs,"Software Engineer",9.521863171560444,1
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Jobs,"Account Executive",3.3138896834219627,2
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Jobs,"Account Manager",3.013427577316955,3
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Skills,"Java",-1,1
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,jp,"Japan","All","Software & IT Services",Top Trending Skills,"Account Management",-1,3

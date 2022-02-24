@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,pt,"Portugal","All","Manufacturing",Top Trending Jobs,"Software Engineer",3.8453610481884217,1
+2021-01-01,pt,"Portugal","All","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,pt,"Portugal","All","Manufacturing",Top Trending Skills,"C#",-1,2

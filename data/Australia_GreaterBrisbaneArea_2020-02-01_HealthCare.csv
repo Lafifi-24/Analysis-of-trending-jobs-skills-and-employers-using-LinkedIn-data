@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,au,"Australia","Greater Brisbane Area","Health Care",Top Trending Employers,"Queensland Health",3.9392637459764193,1
+2020-02-01,au,"Australia","Greater Brisbane Area","Health Care",Top Trending Employers,"Mater",6.204512392364313,2
+2020-02-01,au,"Australia","Greater Brisbane Area","Health Care",Top Trending Jobs,"Nurse",14.20875764348045,1
+2020-02-01,au,"Australia","Greater Brisbane Area","Health Care",Top Trending Jobs,"Physical Therapist",3.956249663217832,2
+2020-02-01,au,"Australia","Greater Brisbane Area","Health Care",Top Trending Skills,"Rehabilitation",-1,1
+2020-02-01,au,"Australia","Greater Brisbane Area","Health Care",Top Trending Skills,"Physical Therapy",-1,2
+2020-02-01,au,"Australia","Greater Brisbane Area","Health Care",Top Trending Skills,"Nursing",-1,3

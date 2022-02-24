@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Portland, Maine Metropolitan Area","Health Care",Top Trending Employers,"Abbott",54.56985283217895,1
+2020-06-01,us,"United States","Portland, Maine Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",12.435336091528576,1
+2020-06-01,us,"United States","Portland, Maine Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-06-01,us,"United States","Portland, Maine Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

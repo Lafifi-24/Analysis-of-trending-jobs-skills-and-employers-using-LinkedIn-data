@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Tesla",7.636517457386785,1
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Rivian",21.959589644530446,2
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Lucid Motors",12.830798933762825,3
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Aurora",29.63309615535889,4
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Cruise",4.292074364056489,5
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Zoox",5.606209834657993,6
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Software Engineer",8.024187919000804,1
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Production Associate",1.9482208241145813,2
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",1.8318593980402567,3
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,2
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Manufacturing Engineering",-1,3
+2021-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Time Management",-1,4

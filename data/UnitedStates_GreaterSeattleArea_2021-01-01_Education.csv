@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"University of Washington",2.0879391441565085,1
+2021-01-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Teacher",6.571127197721404,1
+2021-01-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Curriculum Development",-1,2

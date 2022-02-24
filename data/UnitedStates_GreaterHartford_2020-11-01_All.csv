@@ -1,0 +1,21 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Employers,"General Dynamics Electric Boat",4.791238081857156,1
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Employers,"University of Connecticut",4.511854518948914,2
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Employers,"Hartford HealthCare",4.613733069944055,3
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Employers,"Travelers",1.3461911658802372,4
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Employers,"Hartford Hospital",3.5964598963000425,5
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Employers,"Amazon",10.224038316291958,6
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Jobs,"Real Estate Agent",2.1269826926107704,1
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Jobs,"Software Engineer",1.8547318085044013,2
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Jobs,"Nurse",1.7871091344317147,3
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Jobs,"Salesperson",1.6277143228723387,4
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Jobs,"Project Manager",1.4264825571745763,5
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Jobs,"Teacher",1.3594889998368922,6
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Teaching",-1,1
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Skills,"JavaScript",-1,2
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Investment Properties",-1,4
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,5
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Construction Management",-1,6
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Nursing",-1,7
+2020-11-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Basic Life Support (BLS)",-1,8

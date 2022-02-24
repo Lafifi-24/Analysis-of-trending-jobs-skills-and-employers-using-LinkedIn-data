@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,sg,"Singapore","All","Education",Top Trending Employers,"National University of Singapore",6.6265809674187315,1
+2020-10-01,sg,"Singapore","All","Education",Top Trending Employers,"Nanyang Technological University",6.208078229240332,2
+2020-10-01,sg,"Singapore","All","Education",Top Trending Employers,"A*STAR - Agency for Science, Technology and Research",8.960707945632256,3
+2020-10-01,sg,"Singapore","All","Education",Top Trending Employers,"Ministry of Education, Singapore (MOE)",2.498026222549942,4
+2020-10-01,sg,"Singapore","All","Education",Top Trending Employers,"Singapore Polytechnic",8.767446278887036,5
+2020-10-01,sg,"Singapore","All","Education",Top Trending Employers,"Singapore University of Technology and Design (SUTD)",7.820738725249033,6
+2020-10-01,sg,"Singapore","All","Education",Top Trending Jobs,"Lecturer",9.133959643441298,1
+2020-10-01,sg,"Singapore","All","Education",Top Trending Jobs,"Teacher",7.38054728845194,2
+2020-10-01,sg,"Singapore","All","Education",Top Trending Jobs,"Research Engineer",4.105851757314256,3
+2020-10-01,sg,"Singapore","All","Education",Top Trending Jobs,"Professor",3.8694338498402274,4
+2020-10-01,sg,"Singapore","All","Education",Top Trending Jobs,"Postdoctoral Researcher",2.786613865249487,5
+2020-10-01,sg,"Singapore","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,sg,"Singapore","All","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-10-01,sg,"Singapore","All","Education",Top Trending Skills,"Higher Education",-1,3
+2020-10-01,sg,"Singapore","All","Education",Top Trending Skills,"Python (Programming Language)",-1,4

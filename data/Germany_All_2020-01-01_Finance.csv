@@ -1,0 +1,30 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,de,"Germany","All","Finance",Top Trending Employers,"N26",18.34659340888642,1
+2020-01-01,de,"Germany","All","Finance",Top Trending Employers,"Deutsche Bank",1.8970971535879833,2
+2020-01-01,de,"Germany","All","Finance",Top Trending Employers,"Klarna",19.032975233728095,3
+2020-01-01,de,"Germany","All","Finance",Top Trending Employers,"DVAG",7.805835287661332,4
+2020-01-01,de,"Germany","All","Finance",Top Trending Employers,"Commerzbank AG",1.7878023285830194,5
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Software Engineer",5.356188767141824,1
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Project Manager",3.008077314781786,2
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Product Manager",1.969722875198084,3
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Financial Advisor",1.5527770678007795,4
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Business Analyst",1.295279762245719,5
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Data Scientist",1.2397494422536202,6
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Legal Counsel",1.2348582471023823,7
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Portfolio Manager",1.2081294939387897,8
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Marketing Manager",1.1277498540533628,9
+2020-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Sales Manager",1.0944352878041177,10
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Project Management",-1,1
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Java",-1,2
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Project Planning",-1,3
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Product Development",-1,4
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"International Sales",-1,5
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Online Marketing",-1,6
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Machine Learning",-1,7
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Data Science",-1,8
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Business Analysis",-1,9
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Corporate Law",-1,10
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Portfolio Management",-1,11
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Scrum",-1,12
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Contract Law",-1,13
+2020-01-01,de,"Germany","All","Finance",Top Trending Skills,"Asset Management",-1,14

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"Deloitte",6.1655612412592475,1
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"PwC",8.590331908038836,2
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"Teleperformance",8.310043340950363,3
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"WNS Global Services",6.225099697094431,4
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"S&P Global",6.706449344302298,5
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"ZS",8.92783483063249,6
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"Mercer",10.351694467413743,7
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"IHS Markit",7.623293513692782,8
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"ADP",3.244408642652461,9
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"KPMG Global Services (KGS)",9.276047555514264,10
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"Axtria - Ingenious Insights",25.21591000556198,11
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"Grant Thornton LLP",8.272526335073884,12
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"Bada Business Pvt. Ltd. ",53.1886754899424,13
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"McKinsey & Company",5.952674478671914,14
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"HGS - Hinduja Global Solutions",3.5463753401100933,15
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"Firstsource",8.59047141977169,16
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"I-PAC (Indian Political Action Committee)",25.57133697599002,17
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"Datamatics Business Solutions Ltd.",7.118188252848326,18
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"TUV India Pvt. Ltd.",18.208234196281,19
+2020-01-01,in,"India","All","Corporate Services",Top Trending Employers,"NeoSOFT Technologies (A CMMi Level 5 Organization)",8.643927097779747,20
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Software Engineer",3.907036500832107,1
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Recruiter",3.790075765637678,2
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Human Resources Executive",2.305462509719683,3
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Tax Consultant",2.1195893778002737,4
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Accountant",1.9719436651538573,5
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Tax Analyst",1.6620033015606666,6
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Analyst",1.6248587725500012,7
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Data Analyst",1.4588187887432122,8
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Technology Analyst",1.3245113729352533,9
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Financial Analyst",1.3151895524786257,10
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Human Resources Manager",1.1786322859254326,11
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Development Manager",1.1587636990251342,12
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Research Analyst",1.10614825755126,13
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Development Executive",1.1036440981621476,14
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Project Manager",1.084189565614699,15
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Account Executive",1.0366770668334642,16
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Legal Associate",0.9202705050508806,17
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Operations Manager",0.8979544353397125,18
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Customer Service Representative",0.8786444504117916,19
+2020-01-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Consultant",0.8433990294598255,20
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"SQL",-1,1
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Business Analysis",-1,3
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Recruiting",-1,4
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Team Leadership",-1,5
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Employee Relations",-1,6
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Tally ERP",-1,7
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Operations Management",-1,8
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Requirements Analysis",-1,9
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Data Analysis",-1,10
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Employee Engagement",-1,11
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,12
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Requirements Gathering",-1,13
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Financial Analysis",-1,14
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Screening",-1,15
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Market Research",-1,16
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Tableau",-1,17
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Goods and Services Tax (GST)",-1,18
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Lead Generation",-1,19
+2020-01-01,in,"India","All","Corporate Services",Top Trending Skills,"Financial Reporting",-1,20

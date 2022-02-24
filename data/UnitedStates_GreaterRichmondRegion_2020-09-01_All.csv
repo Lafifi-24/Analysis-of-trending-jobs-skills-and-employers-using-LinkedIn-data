@@ -1,0 +1,29 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Capital One",2.9030240517910055,1
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Virginia Commonwealth University",5.682169767308082,2
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"VCU Health",4.361646998874423,3
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Chesterfield County Public Schools",10.59897724194027,4
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"CarMax",9.64913766425554,5
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Richmond Public Schools",18.80770723259035,6
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Amazon",10.804066591468716,7
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"GENETWORx",72.8546996199113,8
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"PPD",6.825640813583883,9
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"University of Richmond",4.6446000950243524,10
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Software Engineer",2.857608333116638,1
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Teacher",2.0792562799203704,2
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Project Manager",1.5533013825297404,3
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Real Estate Agent",1.49504163740418,4
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Professor",1.3638754340389514,5
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Nurse",1.3549008702930028,6
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Salesperson",1.1194877234575125,7
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Account Manager",1.0081296745756898,8
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Account Management",-1,4
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Investment Properties",-1,5
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,6
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Construction Management",-1,7
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Higher Education",-1,8
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Nursing",-1,9
+2020-09-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Basic Life Support (BLS)",-1,10

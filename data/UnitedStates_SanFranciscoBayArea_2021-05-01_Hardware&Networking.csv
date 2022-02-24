@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"NVIDIA",3.655510605172027,1
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Intel Corporation",2.3645106008680035,2
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Lam Research",3.6282451413212646,3
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Qualcomm",4.294197956269688,4
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Software Engineer",8.989784226587892,1
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Test Engineer",3.004042552608203,2
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Process Engineer",2.9681486843336993,3
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Process Engineering",-1,2
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Testing",-1,3
+2021-05-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Test Engineering",-1,4

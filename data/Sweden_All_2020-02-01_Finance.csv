@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,se,"Sweden","All","Finance",Top Trending Employers,"Swedbank",6.830143535498309,1
+2020-02-01,se,"Sweden","All","Finance",Top Trending Employers,"SEB",4.380869832055364,2
+2020-02-01,se,"Sweden","All","Finance",Top Trending Employers,"Klarna",14.526412100804151,3
+2020-02-01,se,"Sweden","All","Finance",Top Trending Employers,"Länsförsäkringar",5.482613703928441,4
+2020-02-01,se,"Sweden","All","Finance",Top Trending Employers,"Trygg-Hansa",8.60618377205964,5
+2020-02-01,se,"Sweden","All","Finance",Top Trending Employers,"Skandia",6.395684811928974,6
+2020-02-01,se,"Sweden","All","Finance",Top Trending Jobs,"Software Engineer",5.799374592898351,1
+2020-02-01,se,"Sweden","All","Finance",Top Trending Jobs,"Financial Representative",2.842096751274074,2
+2020-02-01,se,"Sweden","All","Finance",Top Trending Jobs,"Customer Advisor",2.3741523847548374,3
+2020-02-01,se,"Sweden","All","Finance",Top Trending Jobs,"Financial Advisor",2.3055728195915046,4
+2020-02-01,se,"Sweden","All","Finance",Top Trending Jobs,"Claims Adjuster",2.2919373293364993,5
+2020-02-01,se,"Sweden","All","Finance",Top Trending Jobs,"Business Analyst",2.0760111848048712,6
+2020-02-01,se,"Sweden","All","Finance",Top Trending Skills,"Git",-1,1
+2020-02-01,se,"Sweden","All","Finance",Top Trending Skills,"Business Analysis",-1,2
+2020-02-01,se,"Sweden","All","Finance",Top Trending Skills,"Insurance",-1,3
+2020-02-01,se,"Sweden","All","Finance",Top Trending Skills,"Requirements Analysis",-1,4

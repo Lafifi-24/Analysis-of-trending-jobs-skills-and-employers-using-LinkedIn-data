@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","San Antonio, Texas Metropolitan Area","Health Care",Top Trending Employers,"University Health",5.173887710968937,1
+2020-09-01,us,"United States","San Antonio, Texas Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",11.305651151310744,1
+2020-09-01,us,"United States","San Antonio, Texas Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-09-01,us,"United States","San Antonio, Texas Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

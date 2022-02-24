@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"Vanguard",3.3102779191248564,1
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"JPMorgan Chase & Co.",2.104743813547837,2
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"TD",2.652613053387697,3
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"Freedom Mortgage",8.479557084773013,4
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"Capital One",5.45909344876635,5
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"Wells Fargo",3.3074458827342945,6
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Jobs,"Software Engineer",3.8362498396249745,1
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Jobs,"Financial Advisor",3.258033036811872,2
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Jobs,"Mortgage Loan Officer",2.4576755981047156,3
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Jobs,"Underwriter",2.0324274055606306,4
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Retirement Planning",-1,2
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Investments",-1,3
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Underwriting",-1,4
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Mortgage Lending",-1,5
+2020-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Insurance",-1,6

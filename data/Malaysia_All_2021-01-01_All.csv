@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"PETRONAS",1.6285285883261718,1
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"Accenture",4.9161944978712615,2
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"Shopee",11.08343844372671,3
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"RHB Banking Group",4.293261491963599,4
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"Concentrix",9.745868083835921,5
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"ByteDance",12.73146984874166,6
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"Top Glove",5.387038055513694,7
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"KPMG Malaysia",8.748606174886193,8
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"foodpanda",9.99675316387509,9
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"International Council of Malaysian Scholars and Associates",44.41008793892345,10
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"Maybank",1.9374872311068314,11
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"CIMB",2.0491728809179333,12
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"EPF Malaysia",9.146039818631598,13
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"Citi",3.2358951268408167,14
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"TDCX",4.506929999877243,15
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"Intel Corporation",1.3401774526708967,16
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"AmBank Group",3.049922020840276,17
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"Universiti Teknologi MARA",4.220741734152298,18
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"Shell",1.9668405711130807,19
+2021-01-01,my,"Malaysia","All","All",Top Trending Employers,"IQI Global",7.3130164345667135,20
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Software Engineer",2.723935806008517,1
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Audit Associate",1.6665708563128645,2
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Marketing Executive",1.3036124090415022,3
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Business Development Executive",1.2411813778479501,4
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Project Manager",1.120423518396943,5
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Lecturer",1.1111730179641688,6
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Sales Executive",1.1009816337862217,7
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Project Engineer",1.069804323308835,8
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Customer Service Representative",1.0246386732899107,9
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Business Development Manager",0.9902316012072563,10
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Account Executive",0.9381930670351214,11
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Human Resources Executive",0.9234172789685972,12
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Graphic Designer",0.9069952443944139,13
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Finance Executive",0.8603477086425355,14
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Process Engineer",0.8120431827793304,15
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Sales Manager",0.7636833247043948,16
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Business Analyst",0.7100182078666661,17
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Account Manager",0.6711123446444176,18
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Data Analyst",0.6445494797943256,19
+2021-01-01,my,"Malaysia","All","All",Top Trending Jobs,"Marketing Manager",0.6354504122022414,20
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Project Management",-1,1
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"JavaScript",-1,2
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Adobe Illustrator",-1,3
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"AutoCAD",-1,4
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Sales Management",-1,5
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Higher Education",-1,6
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"C#",-1,7
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Project Planning",-1,8
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Teaching",-1,9
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Project Engineering",-1,10
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Recruiting",-1,11
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Marketing Strategy",-1,12
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Accounts Payable",-1,13
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Process Engineering",-1,14
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Auditing",-1,15
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Business Analysis",-1,16
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Account Management",-1,17
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"External Audit",-1,18
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Data Analysis",-1,19
+2021-01-01,my,"Malaysia","All","All",Top Trending Skills,"Statistical Process Control (SPC)",-1,20

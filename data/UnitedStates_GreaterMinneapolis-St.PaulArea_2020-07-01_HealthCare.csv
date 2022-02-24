@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Employers,"Optum",6.260505492660473,1
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Employers,"UnitedHealth Group",2.481510746298193,2
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Employers,"Allina Health",2.798596425806112,3
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Employers,"Fairview Health Services",3.1343803145362408,4
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Employers,"Abbott",3.853854971613778,5
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Employers,"Hennepin Healthcare",4.080379072377789,6
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Jobs,"Nurse",6.116033808903615,1
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Jobs,"Software Engineer",2.6963691339752884,2
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Jobs,"Medical Scribe",2.3596720429889686,3
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,3
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Skills,"Electronic Medical Record (EMR)",-1,4
+2020-07-01,us,"United States","Greater Minneapolis-St. Paul Area","Health Care",Top Trending Skills,"Medical Terminology",-1,5

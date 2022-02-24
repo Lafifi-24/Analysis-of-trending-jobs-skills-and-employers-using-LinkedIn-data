@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Employers,"Nebraska Medicine",3.6970950184838336,1
+2021-05-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Employers,"Spreetail",29.83111099409331,2
+2021-05-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.5252751277338357,1
+2021-05-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.3790666905592084,2
+2021-05-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.5216596227887438,3
+2021-05-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Skills,"Account Management",-1,2
+2021-05-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,3

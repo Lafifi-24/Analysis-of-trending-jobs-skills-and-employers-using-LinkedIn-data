@@ -1,0 +1,56 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"CIBC",4.068336360464194,1
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"RBC",3.803301635268092,2
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"TD",2.1987905870316027,3
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"BMO Financial Group",4.200578620571375,4
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"Sun Life",4.655737036710071,5
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"KPMG Canada",5.412615490087927,6
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"RBC Capital Markets",4.585788389873239,7
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"TD Insurance",10.471275250051235,8
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"Citi",5.363442757092294,9
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"Aviva Canada",4.781235523094848,10
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"Workplace Safety and Insurance Board (WSIB)",3.836421496094083,11
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"Capco",11.937159848437545,12
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"HSBC",3.42920784852093,13
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"Economical Insurance",11.894983102677632,14
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Employers,"Wealthsimple",12.247389908587818,15
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Software Engineer",3.358160153892472,1
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Business Analyst",2.5199134364585034,2
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Customer Service Representative",2.496248500559863,3
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Financial Advisor",2.2069645362648442,4
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Mortgage Agent",1.7667713889195258,5
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Investment Analyst",1.6340309693249309,6
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Financial Analyst",1.6099758766851078,7
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Financial Services Representative",1.4620495576689718,8
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Insurance Advisor",1.4116756593448774,9
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Underwriter",1.2814082820364923,10
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Customer Associate",1.1099610423795525,11
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Project Manager",1.0485154966887202,12
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Data Analyst",0.9770856107590348,13
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Business System Analyst",0.9674172309257181,14
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Banking Advisor",0.9044024009401564,15
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Data Scientist",0.8441894732871833,16
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Risk Analyst",0.7817719475999845,17
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Account Manager",0.7208158577316746,18
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Accountant",0.6687643385450968,19
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Jobs,"Client Services Representative",0.663053167623634,20
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Project Planning",-1,2
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Time Management",-1,3
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Account Management",-1,4
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Financial Reporting",-1,5
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Business Analysis",-1,6
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Construction Management",-1,7
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Financial Analysis",-1,8
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Investments",-1,9
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Financial Planning",-1,10
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Data Analysis",-1,11
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Requirements Gathering",-1,12
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Machine Learning",-1,13
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Tableau",-1,14
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Insurance",-1,15
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Data Science",-1,16
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Mortgage Lending",-1,17
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Residential Mortgages",-1,18
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Underwriting",-1,19
+2021-05-01,ca,"Canada","Greater Toronto Area, Canada","Finance",Top Trending Skills,"Requirements Analysis",-1,20

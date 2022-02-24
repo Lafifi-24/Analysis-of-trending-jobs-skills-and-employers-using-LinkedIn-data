@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Employers,"Swisscom",1.7683259926144457,1
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Jobs,"Software Engineer",10.71647424901108,1
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Jobs,"System Engineer",3.4817515049337096,2
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Jobs,"Project Manager",3.4267315657597512,3
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",1.897252990846974,4
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Skills,"Java",-1,2
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Skills,"Change Management",-1,3
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Skills,"Windows Server",-1,4
+2020-12-01,ch,"Switzerland","All","Software & IT Services",Top Trending Skills,"Virtualization",-1,5

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","Education",Top Trending Employers,"KTH Royal Institute of Technology",3.553593940631114,1
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","Education",Top Trending Employers,"Karolinska Institutet",2.3022307329523617,2
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","Education",Top Trending Jobs,"Teacher",14.768134478903264,1
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",10.83334178035834,2
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","Education",Top Trending Skills,"Pedagogy",-1,2
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","Education",Top Trending Skills,"Scientific Writing",-1,3

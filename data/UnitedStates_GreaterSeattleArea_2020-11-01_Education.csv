@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"University of Washington",5.096315747849544,1
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"Seattle University",4.841997575751614,2
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"University of Washington Bothell",12.236953164064063,3
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Teacher",9.32900356830501,1
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Professor",6.449682010234574,2
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.897088827692865,3
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-11-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Cell Culture",-1,5

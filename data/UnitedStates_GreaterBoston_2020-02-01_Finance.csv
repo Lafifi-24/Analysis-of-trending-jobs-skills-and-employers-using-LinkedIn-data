@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Citizens",4.964838313179837,1
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Fidelity Investments",2.2043987686243383,2
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Liberty Mutual Insurance",2.2981440158449598,3
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"State Street",1.8387708671463208,4
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Santander Bank, N.A.",3.921805974350649,5
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"John Hancock",2.9146659076993995,6
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Tufts Health Plan",3.8863337906762365,7
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Software Engineer",3.091718740311302,1
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Financial Advisor",2.768112855300905,2
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Customer Service Representative",1.771363224081703,3
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Customer Satisfaction",-1,2
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Retirement Planning",-1,3
+2020-02-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Investments",-1,4

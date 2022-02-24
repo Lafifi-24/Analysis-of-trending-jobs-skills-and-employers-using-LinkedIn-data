@@ -1,0 +1,24 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Penn Medicine, University of Pennsylvania Health System",4.644871696514414,1
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Children's Hospital of Philadelphia",5.314676618732663,2
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Thomas Jefferson University Hospitals",5.568072039853204,3
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"GSK",4.861282191896729,4
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Main Line Health",7.532896481345773,5
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"The Janssen Pharmaceutical Companies of Johnson & Johnson",6.507610710025551,6
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Virtua Health",6.293525778115153,7
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"ChristianaCare",4.831274226810237,8
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Cooper University Health Care",5.670745790484047,9
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"AmeriHealth Caritas",4.113687257783802,10
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Einstein Healthcare Network",3.747602174569754,11
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Nemours",6.601727523004332,12
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Pfizer",4.5105485716730325,13
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Nurse",10.240215610787184,1
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Project Manager",1.342735220782362,2
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Account Manager",1.0759481134460263,3
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Occupational Therapist",0.9786913299261922,4
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Account Management",-1,1
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Construction Management",-1,2
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Nursing",-1,3
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,4
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Occupational Therapy",-1,5
+2020-01-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Rehabilitation",-1,6

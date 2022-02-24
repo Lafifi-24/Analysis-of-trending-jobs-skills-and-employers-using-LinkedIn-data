@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Brigham Young University",3.9615931240303834,1
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Amazon",25.69709480177967,2
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"The Church of Jesus Christ of Latter-day Saints",3.6157109629274236,3
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"University of Utah Health",2.9006995621319844,4
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"University of Utah",2.794129880878275,5
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Intermountain Healthcare",1.4655851654319025,6
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Western Governors University",5.748139289233501,7
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Fidelity Investments",8.565100091297685,8
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Vivint",4.523970238161545,9
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Route",63.169445075377816,10
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Wells Fargo",6.613745888493675,11
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"GoHealth",36.19540979431475,12
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Qualtrics",5.532447678166042,13
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"BioFire Diagnostics, LLC",5.66873360427371,14
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"BambooHR",9.817766551387319,15
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Zions Bancorporation",3.7782064981425165,16
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Pluralsight",5.369696050308365,17
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"Utah Valley University",2.9642399268488684,18
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"MX",13.146982291272662,19
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Employers,"doTERRA International LLC",4.960485138551693,20
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Software Engineer",4.483842810455362,1
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.7681487830543476,2
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",1.60542350306531,3
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Account Executive",1.4042156338514482,4
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.2404939828478618,5
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.2371470013283694,6
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",1.200365114176349,7
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.8925579518867809,8
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Nurse",0.8817995043800564,9
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.7442740777247285,10
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Teacher",0.6916950300714647,11
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.6463899373262313,13
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Accountant",0.6337143484503095,14
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.6145720019278607,15
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Customer Success Manager",0.5979624401758507,16
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Marketing Director",0.5691591650934491,17
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Data Analyst",0.5394581645941315,18
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Sales Director",0.5180955901136275,19
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Jobs,"Vice President of Sales",0.4887374873129422,20
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,8
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Team Building",-1,9
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Adobe Creative Suite",-1,10
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,11
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,12
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,13
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,14
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,15
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Data Analysis",-1,16
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Public Speaking",-1,17
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Marketing Strategy",-1,18
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Social Media Marketing",-1,19
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","All",Top Trending Skills,"Tableau",-1,20

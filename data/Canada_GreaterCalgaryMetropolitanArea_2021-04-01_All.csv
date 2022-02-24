@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-04-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Alberta Health Services",0.9746840543402974,1
+2021-04-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Cenovus Energy",3.370847827172129,2
+2021-04-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Deloitte Canada",7.958244001006522,3
+2021-04-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"University of Calgary",0.8160807439922174,4
+2021-04-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Software Engineer",3.112814882002401,1
+2021-04-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.598277603410661,2
+2021-04-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-04-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,2
+2021-04-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,3

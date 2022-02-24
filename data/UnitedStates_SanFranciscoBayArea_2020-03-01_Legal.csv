@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","San Francisco Bay Area","Legal",Top Trending Jobs,"Attorney",31.002854024893033,1
+2020-03-01,us,"United States","San Francisco Bay Area","Legal",Top Trending Jobs,"Paralegal",8.217132272450632,2
+2020-03-01,us,"United States","San Francisco Bay Area","Legal",Top Trending Jobs,"Lawyer",4.977294795533948,3
+2020-03-01,us,"United States","San Francisco Bay Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-03-01,us,"United States","San Francisco Bay Area","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2020-03-01,us,"United States","San Francisco Bay Area","Legal",Top Trending Skills,"Legal Research",-1,3

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Employers,"The University of Kansas",3.1916356810376008,1
+2020-01-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Employers,"University of Missouri-Kansas City",5.597246227727049,2
+2020-01-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Jobs,"Professor",10.924164970691558,1
+2020-01-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Jobs,"Teacher",10.16942176600418,2
+2020-01-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-01-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

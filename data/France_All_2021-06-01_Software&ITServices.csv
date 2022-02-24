@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Capgemini",2.696065133390144,1
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Thales",2.42368973642146,2
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Sopra Steria",3.567675420162239,3
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"ALTEN",4.227167297563828,4
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Accenture",4.150909288466718,5
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"CGI",2.429564577386736,6
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Atos",2.6982250486849177,7
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Groupe SII",5.14376071195808,8
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Orange Business Services",1.5014436008510437,9
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Devoteam",5.6638107517076,10
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Extia",7.20271017895488,11
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Dassault Systèmes",2.670615538858894,12
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Astek",6.708528498268905,13
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"SNEF",3.9741183132038698,14
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Niji",9.549180942190496,15
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"OVHcloud",6.322367436901411,16
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Akka Technologies",2.141615467390024,17
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"agap2",8.368111669049204,18
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Scalian",4.869950153683603,19
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Worldline Global",3.1971975561974766,20
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Software Engineer",5.04319334623137,1
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Project Manager",2.834048833975139,2
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Web Developer",2.711603283989741,3
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",2.595123453647317,4
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Business Manager",2.5477688580274367,5
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Recruiter",1.455498089769378,6
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Account Manager",1.2328129376666639,7
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Development Engineer",1.187905704140797,8
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",1.0631959551465426,9
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Data Scientist",1.0517861150490992,10
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Product Owner",1.0260753442895767,11
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Account Executive",1.0153787762404365,12
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Sales Engineer",0.9986191248779972,13
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Salesperson",0.9520779477432952,14
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",0.9032434894839838,15
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Product Manager",0.8768482591997713,16
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Design Engineer",0.8126745501146232,17
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Marketing Manager",0.7854489141537052,18
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Communications Manager",0.7511919609534969,19
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Back End Developer",0.7286435375012237,20
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Negotiation",-1,2
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Social Media",-1,3
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,4
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Java",-1,5
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"PHP",-1,6
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Git",-1,7
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Marketing Strategy",-1,8
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Internal Communications",-1,9
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,10
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Account Management",-1,11
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,12
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Node.js",-1,13
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Scrum",-1,14
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"AngularJS",-1,15
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Solution Selling",-1,16
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Apache Spark",-1,17
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Recruiting",-1,18
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"React.js",-1,19
+2021-06-01,fr,"France","All","Software & IT Services",Top Trending Skills,"SASS",-1,20

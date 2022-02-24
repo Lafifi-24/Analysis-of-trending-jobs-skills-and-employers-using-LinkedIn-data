@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Capgemini",4.534198845480538,1
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Thales",3.3750707412759513,2
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Altran",6.2955040517381695,3
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"ALTEN",6.572380822140303,4
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Sopra Steria",3.9252745241757565,5
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"CGI",4.132343582488153,6
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Akka Technologies",6.819428057367198,7
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Atos",4.58122124567863,8
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Groupe SII",8.415099022460119,9
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Orange Business Services",3.045444478344048,10
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Amazon",9.235318975465123,11
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Extia",15.333101532473329,12
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Cegid",12.383612764545214,13
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Gfi world",3.90015882239039,14
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Econocom",5.38004555493678,15
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Accenture",3.114825182506874,16
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"OPEN",6.569183975356515,17
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Scalian",8.497467395168808,18
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"SNEF",6.660348134572756,19
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Employers,"Uber",12.14957478587679,20
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Software Engineer",5.10545700112766,1
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Project Manager",3.5528174623371283,2
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Business Manager",2.70718673946618,3
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Development Engineer",2.129763808174412,4
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Web Developer",1.9596315654977194,5
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",1.343687010224821,6
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Account Manager",1.2769519380854955,7
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Product Owner",1.1895178388487833,8
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Sales Engineer",1.1609676843478454,9
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Data Scientist",1.1555890822381187,10
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Information Technology Consultant",0.9605109329363392,11
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Salesperson",0.9403761182791376,12
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Design Engineer",0.9307008571074246,13
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"System Engineer",0.8873254682345442,14
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Product Manager",0.7844049499859136,15
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"System Administrator",0.7685552019408055,16
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Business Analyst",0.7344314967701601,17
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",0.6959806050673198,18
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",0.687310488541885,19
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Jobs,"Research And Development Engineer",0.6832427824349936,20
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Java",-1,3
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"PHP",-1,4
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Git",-1,5
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Marketing Strategy",-1,6
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Sales Prospecting",-1,7
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Windows Server",-1,8
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Active Directory",-1,9
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,10
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,11
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Scrum",-1,12
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Node.js",-1,13
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"AngularJS",-1,14
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Research and Development (R&D)",-1,15
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Solution Selling",-1,16
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Virtualization",-1,17
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"Apache Spark",-1,18
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"SQL",-1,19
+2020-01-01,fr,"France","All","Software & IT Services",Top Trending Skills,"MATLAB",-1,20

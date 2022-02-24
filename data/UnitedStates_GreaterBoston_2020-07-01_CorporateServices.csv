@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"McKinsey & Company",9.173369160299275,1
+2020-07-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Accountant",3.249690384981605,1
+2020-07-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,1
+2020-07-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"General Ledger",-1,2

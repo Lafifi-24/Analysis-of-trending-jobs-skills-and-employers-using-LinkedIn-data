@@ -1,0 +1,41 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Volvo Cars",3.8911831511280437,1
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Scania Group",3.725059322336598,2
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Saab",2.2592078326630105,3
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"ALTEN Sweden",10.476054383483962,4
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Polestar",14.38762618350121,5
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Stora Enso",7.096312503361765,6
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"SKF Group",5.240155975345093,7
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Volvo Trucks",4.357379953345722,8
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"BillerudKorsnäs",5.532409883446957,9
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Oatly",11.063377934663864,10
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Software Engineer",4.449892179980961,1
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Project Manager",3.733846029650885,2
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Salesperson",3.0856192190724148,3
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Sales Manager",1.9799202792964705,4
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Test Engineer",1.3634314938583965,5
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Service Technician",1.2436617062570743,6
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Account Manager",1.1823003591156114,7
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.155956190226593,8
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Buyer",1.069155104985159,9
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Development Engineer",1.064303682726039,10
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Machine Operator",1.0460976124140942,11
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Design Engineer",1.015903861419955,12
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Key Account Manager",0.9927059482655154,13
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Automation Engineer",0.9401804708645897,14
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"System Engineer",0.9171459454257371,15
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Project Planning",-1,2
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Git",-1,3
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Sales Management",-1,4
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,5
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Sales Process",-1,6
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Computer-Aided Design (CAD)",-1,7
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"CATIA",-1,8
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Maintenance & Repair",-1,9
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Product Development",-1,10
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Programmable Logic Controller (PLC)",-1,11
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Testing",-1,12
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Systems Engineering",-1,13
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Windows Server",-1,14
+2021-06-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Preventive Maintenance",-1,15

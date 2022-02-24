@@ -1,0 +1,52 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Kaiser Permanente",2.0116485106961832,1
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Genentech",2.6618862593295156,2
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Health Care",4.184342387868992,3
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Bristol Myers Squibb",58.16793856698409,4
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Gilead Sciences",3.7320767562146453,5
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Cepheid",12.496266946975481,6
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Sutter Health",3.426840218407514,7
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Abbott",4.284393758937068,8
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Children's Health | Lucile Packard Children's Hospital Stanford",4.0762345208061035,9
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Guardant Health",13.443067507456927,10
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Color",31.89070876510391,11
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Natera",10.368883081630583,12
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Intuitive",2.4353733288607415,13
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Santa Clara Valley Medical Center",4.94561696243648,14
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Alameda Health System",7.1451389236903875,15
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Invitae",9.122591871514288,16
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Carbon Health",23.109865890085317,17
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Exelixis",9.393893832214943,18
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"John Muir Health",4.219353301220903,19
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"GRAIL, Inc.",10.396794315824474,20
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Nurse",7.17306560453186,1
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Software Engineer",2.1390856793341224,2
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Behavioral Health Technician",1.1107330327050864,4
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Project Manager",1.0879742828040206,5
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Marriage And Family Therapist",0.958129041874806,6
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Emergency Medical Technician",0.7941498598991922,7
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Program Manager",0.7760818098412647,8
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Product Manager",0.775645326939547,9
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Data Scientist",0.770327255878397,10
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Physical Therapist",0.7205437467009825,11
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Laboratory Technician",0.6902585256173818,12
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Construction Management",-1,2
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Program Management",-1,3
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Public Speaking",-1,4
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Cross-functional Team Leadership",-1,5
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nursing",-1,6
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Physical Therapy",-1,7
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Agile Methodologies",-1,8
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nonprofit Organizations",-1,9
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Rehabilitation",-1,10
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Machine Learning",-1,11
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,12
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Data Science",-1,13
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Laboratory Skills",-1,14
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Emergency Medical Services (EMS)",-1,15
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"EMT",-1,16
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Applied Behavior Analysis",-1,17
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Psychotherapy",-1,18
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Family Therapy",-1,19
+2020-11-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Behavioral Health",-1,20

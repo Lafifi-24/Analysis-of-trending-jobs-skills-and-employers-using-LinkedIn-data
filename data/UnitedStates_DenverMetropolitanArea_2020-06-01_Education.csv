@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"University of Colorado Boulder",3.199850548629187,1
+2020-06-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"University of Colorado Anschutz Medical Campus",3.2897739653594473,2
+2020-06-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"National Renewable Energy Laboratory",4.273031112389921,3
+2020-06-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"University of Denver",2.519461261857107,4
+2020-06-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Jobs,"Teacher",6.314014749763413,1
+2020-06-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Jobs,"Professor",5.2327620300177955,2
+2020-06-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-06-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-06-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","Education",Top Trending Employers,"The University of Texas at Austin",5.066420654756756,1
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","Education",Top Trending Employers,"Austin Community College",4.700856825854471,2
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","Education",Top Trending Employers,"Texas State University",4.796443735786742,3
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","Education",Top Trending Jobs,"Teacher",10.524678993865825,1
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","Education",Top Trending Jobs,"Professor",6.331470867063402,2
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

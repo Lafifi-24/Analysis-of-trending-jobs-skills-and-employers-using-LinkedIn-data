@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Employers,"Lockheed Martin",1.3050400412968999,1
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Employers,"Toyota North America",2.449810394706422,2
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Employers,"Bell Flight",2.7149388118758657,3
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Jobs,"System Engineer",2.361579852468098,1
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Jobs,"Software Engineer",2.33645892612851,2
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Jobs,"Sales Manager",2.033880243318997,3
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Skills,"Sales Operations",-1,3
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Skills,"Systems Engineering",-1,4
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Manufacturing",Top Trending Skills,"Integration",-1,5

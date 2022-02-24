@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"The University of Texas at Austin",5.133248145077421,1
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Apple",5.48423910860795,2
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Facebook",13.33917087606318,3
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Indeed.com",5.920473722480994,4
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"AMD",7.90886623098461,5
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Whole Foods Market",8.331054755220908,6
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Accenture",5.0248910743796635,7
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Charles Schwab",5.4533864577520195,8
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Amazon",6.666560357118062,9
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Dell",1.79433373817099,10
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Visa",5.791699229244304,11
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"City of Austin",3.7103493956532145,12
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Ascension",8.010360612164327,13
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"H-E-B",7.073957108829378,14
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Texas Health and Human Services",4.575854642089407,15
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Austin Community College",4.718432094807131,16
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Keller Williams Realty, Inc.",6.996596212993489,17
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Texas State University",4.6469714277390475,18
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Baylor Scott & White Health",5.403211470569418,19
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Software Engineer",4.548386982538503,1
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",2.275903589821186,2
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Account Executive",1.901636099264383,3
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.8170897248873334,4
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.4734923871677534,5
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.9970893279288897,6
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.9857994574915221,7
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Nurse",0.9044676556378634,8
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Teacher",0.8929141569296722,9
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Recruiter",0.7993341949925683,10
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Accountant",0.7494216045630275,12
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Program Manager",0.7339521379648144,13
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Attorney",0.6645155751812573,14
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"General Manager",0.6272081780621355,15
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.6220137207881516,16
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.5925492964947793,17
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.5915240028080373,18
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Data Analyst",0.5892852925387307,19
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Sales Director",0.5871905695474785,20
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Team Building",-1,8
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,9
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,10
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Recruiting",-1,11
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,12
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Program Management",-1,13
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Civil Litigation",-1,14
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,15
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,16
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,17
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,18
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,19
+2019-12-31,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Data Analysis",-1,20

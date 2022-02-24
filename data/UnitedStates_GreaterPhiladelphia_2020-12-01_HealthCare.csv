@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Penn Medicine, University of Pennsylvania Health System",2.972708220704035,1
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Main Line Health",7.432721182572738,2
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Thomas Jefferson University Hospitals",2.9173510734343178,3
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"GSK",2.8425160079180016,4
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Children's Hospital of Philadelphia",1.5408105654312918,5
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"Cooper University Health Care",4.495212513989964,6
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Employers,"The Janssen Pharmaceutical Companies of Johnson & Johnson",2.4908671754733516,7
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Nurse",8.404240465040305,1
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Physical Therapist",2.049732343690312,2
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Project Manager",1.5848544128831097,3
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Occupational Therapist",1.302727667801695,4
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Jobs,"Account Manager",1.2071516528505584,5
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Account Management",-1,1
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Construction Management",-1,2
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Nursing",-1,3
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Physical Therapy",-1,4
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Rehabilitation",-1,5
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,6
+2020-12-01,us,"United States","Greater Philadelphia","Health Care",Top Trending Skills,"Occupational Therapy",-1,7

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Crisis Text Line",20.39351180341205,1
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"City Year",14.750070373375054,2
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"CDC Foundation",110.25929240742897,3
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Toastmasters International",14.827580252012496,4
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"SEO (Sponsors for Educational Opportunity)",14.796493377043923,5
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"The Church of Jesus Christ of Latter-day Saints",3.3549350339102393,6
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Genesys Works",46.74459816289857,7
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Texas Department of Family and Protective Services",4.87282656478587,8
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Autism Learning Partners",13.851270201088662,9
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Alpha Kappa Psi",7.91788135643937,10
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"The Fellowship of Catholic University Students",15.916167505339548,11
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"College Advising Corps",27.7998524959467,12
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Bill & Melinda Gates Foundation",6.7338211475092935,13
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Society of Women Engineers",15.339393474363291,14
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"The Salvation Army",2.9198389381406296,15
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Council on Foreign Relations",16.680569020194056,16
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"PAE",4.595889180137132,17
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Youth Villages",7.285222173752549,18
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"Goodwill Industries International",6.340492752819971,19
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Employers,"International Monetary Fund",2.9487609385475455,20
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Pastor",2.5172333498408257,1
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Case Manager",2.317298053328312,2
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Director Of Development",2.186691700482693,3
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Behavioral Health Technician",1.4476119203819056,4
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Teacher",1.4084474022697826,5
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Program Manager",1.3597457017238275,6
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Project Manager",1.1893413092479528,7
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Program Coordinator",1.064511003479277,8
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Crisis Counselor",0.9974377795170858,9
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Direct Support Professional",0.9012142138951099,10
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Accountant",0.7817935519803041,11
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Marketing Director",0.765694631588336,12
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Treasurer",0.7636834139675106,13
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Member Of The Board Of Advisors",0.7601330164375202,14
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Secretary",0.7356422163197344,15
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Director Of Communications",0.712282456955283,16
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Director Of Operations",0.6653869299893803,17
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Behavioral Therapist",0.6531609019433756,18
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Service Coordinator",0.5811649953711094,19
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Jobs,"Financial Director",0.5781400170681206,20
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Teaching",-1,1
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Curriculum Development",-1,2
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Construction Management",-1,3
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Program Management",-1,4
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Account Reconciliation",-1,5
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"General Ledger",-1,6
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Team Building",-1,7
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Marketing Strategy",-1,8
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Social Media Marketing",-1,9
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Operations Management",-1,10
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Public Speaking",-1,11
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Case Management",-1,12
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Cross-functional Team Leadership",-1,13
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Community Outreach",-1,14
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Preaching",-1,15
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Nonprofit Organizations",-1,16
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Pastoral Care",-1,17
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Event Planning",-1,18
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Financial Reporting",-1,19
+2020-06-30,us,"United States","All","Nonprofit",Top Trending Skills,"Fundraising",-1,20

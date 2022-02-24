@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"CEA",8.750421604573802,1
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"CNRS",8.232789327162712,2
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"University of Paris I: Panthéon-Sorbonne",16.003248620518022,3
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Sciences Po",10.26939174083519,4
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"OpenClassrooms",17.96045819161228,5
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Aix-Marseille University",12.69575890751264,6
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"University of Strasbourg",12.31767008366031,7
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"completude",20.533412234306578,8
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"INSERM",6.5031614487645,9
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Université Paris Nanterre",18.456671518287465,10
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Education Nationale - P@irformance",5.787319359819724,11
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Université Grenoble Alpes",12.015847466955885,12
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Université de Bordeaux",12.724843587165955,13
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Université Panthéon Assas (Paris II)",21.244739910968374,14
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Acadomia",11.609515273295104,15
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Universite de Lorraine",9.129009913443788,16
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Université Paris-Est Créteil (UPEC)",16.10604898837967,17
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Université Lumière Lyon 2",15.956701896050726,18
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"Université Paris-Saclay",18.764899869568826,19
+2020-10-01,fr,"France","All","Education",Top Trending Employers,"emlyon business school",16.20151310701414,20
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Teacher",13.870006175067834,1
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Professor",7.2952921329305696,2
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Education Instructor",4.9113042520340295,3
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Lecturer",4.037671842003568,4
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Teaching Aide",3.6502902134326893,5
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Postdoctoral Researcher",3.238592941151445,6
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Communications Manager",2.4568840500119213,7
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Project Manager",2.2350756487755143,8
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Research Engineer",1.4508069920124356,9
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"English Teacher",1.2655460897599762,10
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Web Developer",1.0216025297688744,11
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Human Resources Manager",0.8707506437050326,12
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"School Monitor",0.8270561984807354,13
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Project Associate",0.7257734377817731,14
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Development Engineer",0.616988564876417,15
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Community Manager",0.6078644671265611,16
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Treasurer",0.5644275369595092,17
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Salesperson",0.5478778085611979,18
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Primary School Teacher",0.5477171441809893,19
+2020-10-01,fr,"France","All","Education",Top Trending Jobs,"Mathematics Teacher",0.5426970031583971,20
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Project Management",-1,1
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Teaching",-1,2
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Social Media",-1,3
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Recruiting",-1,4
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"JavaScript",-1,5
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"PHP",-1,6
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Internal Communications",-1,7
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Java",-1,8
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Sales Prospecting",-1,9
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Training Facilitation",-1,10
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Community Management",-1,11
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Research and Development (R&D)",-1,12
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"MATLAB",-1,13
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Molecular Biology",-1,14
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Pedagogy",-1,15
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Public Speaking",-1,16
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"English Teaching",-1,17
+2020-10-01,fr,"France","All","Education",Top Trending Skills,"Team Spirit",-1,18

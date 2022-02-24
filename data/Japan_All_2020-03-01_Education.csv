@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,jp,"Japan","All","Education",Top Trending Employers,"Interac",11.765677327400473,1
+2020-03-01,jp,"Japan","All","Education",Top Trending Jobs,"Professor",21.753882022896235,1
+2020-03-01,jp,"Japan","All","Education",Top Trending Jobs,"Language Teacher",12.72128807396064,2
+2020-03-01,jp,"Japan","All","Education",Top Trending Jobs,"Postdoctoral Researcher",8.055788395082786,3
+2020-03-01,jp,"Japan","All","Education",Top Trending Jobs,"English Teacher",7.807490321068069,4
+2020-03-01,jp,"Japan","All","Education",Top Trending Jobs,"Teacher",7.48178185732547,5
+2020-03-01,jp,"Japan","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,jp,"Japan","All","Education",Top Trending Skills,"Language Teaching",-1,2
+2020-03-01,jp,"Japan","All","Education",Top Trending Skills,"English Teaching",-1,3

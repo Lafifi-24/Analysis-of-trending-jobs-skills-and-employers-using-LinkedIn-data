@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,es,"Spain","All","Design",Top Trending Jobs,"Architect",31.227577745982956,1
+2021-01-01,es,"Spain","All","Design",Top Trending Jobs,"Graphic Designer",8.269795244546636,2
+2021-01-01,es,"Spain","All","Design",Top Trending Skills,"Adobe Illustrator",-1,1
+2021-01-01,es,"Spain","All","Design",Top Trending Skills,"Architectural Design",-1,2

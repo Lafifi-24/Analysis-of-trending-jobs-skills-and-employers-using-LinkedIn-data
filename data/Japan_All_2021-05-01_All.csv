@@ -1,0 +1,45 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"Accenture",5.144621384825397,1
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"Rakuten",3.6012603633954035,2
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"Amazon Web Services (AWS)",7.879852750719259,3
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"Microsoft",6.013192096076495,4
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"Japan Business Systems, Inc.",39.74061326061938,5
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"The University of Tokyo",5.117931807075396,6
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"Fujitsu",6.1601708341803985,7
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"PwC Japan",5.951875048978655,8
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"SoftBank",8.288345019937646,9
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"Kyoto University",6.0795033171816115,10
+2021-05-01,jp,"Japan","All","All",Top Trending Employers,"Mercari, Inc.",6.716686664090502,11
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Professor",6.289158410202661,1
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Software Engineer",5.985643420976286,2
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"System Engineer",2.1923281854267,3
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"General Manager",2.009481169427645,4
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Salesperson",1.9264014148084228,5
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Lecturer",1.8512401810972572,6
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Project Manager",1.7459381792870285,7
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Account Manager",1.4441245970165555,8
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Account Executive",1.4398572521419135,9
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Postdoctoral Researcher",1.2158751578915497,10
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Teacher",1.149115539904745,11
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Recruiter",1.1213336788775627,12
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Data Scientist",1.1167237480535754,13
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Business Analyst",1.0573759616771676,14
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Marketing Manager",0.9515288170105077,15
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Sales Manager",0.947253771415604,16
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Business Development Manager",0.8438116063361076,17
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Language Teacher",0.8313143375352251,18
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"Product Manager",0.7845356623510993,19
+2021-05-01,jp,"Japan","All","All",Top Trending Jobs,"English Teacher",0.7433293900495845,20
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Java",-1,2
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Project Management",-1,3
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Teaching",-1,4
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Sales Management",-1,5
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Linux",-1,6
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Marketing Strategy",-1,7
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Account Management",-1,8
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Language Teaching",-1,9
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Python (Programming Language)",-1,10
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Recruiting",-1,11
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"Machine Learning",-1,12
+2021-05-01,jp,"Japan","All","All",Top Trending Skills,"English Teaching",-1,13

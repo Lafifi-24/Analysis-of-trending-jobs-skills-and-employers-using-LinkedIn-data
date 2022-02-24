@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Jobs,"Teacher",19.505108343543323,1
+2020-12-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Jobs,"Professor",6.220163796794853,2
+2020-12-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Teaching",-1,1
+2020-12-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-12-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Higher Education",-1,3

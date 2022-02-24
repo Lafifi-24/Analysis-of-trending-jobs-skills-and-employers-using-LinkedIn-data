@@ -1,0 +1,55 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"Volkswagen AG",3.6656686655824195,1
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"BASF",2.762620715161936,2
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"Airbus",2.8536006593900356,3
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"BMW Group",1.4201405606884567,4
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"ZF Group",2.9268649381344116,5
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"Porsche AG",3.7299846504959455,6
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"Daimler AG",1.1063846213903068,7
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"Continental",1.4231691944674651,8
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"German Aerospace Center (DLR)",5.037769174191039,9
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"Bertrandt Group",5.843410444015822,10
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"thyssenkrupp",4.140707619532471,11
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"HENSOLDT",6.709248679216205,12
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"DRÄXLMAIER Group",8.598722329951984,13
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"Schaeffler",2.6496518833569476,14
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"IAV GmbH",3.6238256765750654,15
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"Viessmann",7.831109194436567,16
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Employers,"ABB",3.4327368984872484,17
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Project Manager",4.791706252042194,1
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Sales Manager",3.912590173901674,2
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Software Engineer",3.834552248319034,3
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Development Engineer",3.120222997578076,4
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Project Engineer",1.979115014600018,5
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Key Account Manager",1.860566460477409,6
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Product Manager",1.6890064427836589,7
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Project Control Manager",1.2903535383890554,8
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"System Engineer",1.2531218366372634,9
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Sales Director",1.0260237806486776,10
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Sales Engineer",0.9821679664451195,11
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Marketing Manager",0.8915599451218096,12
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Business Development Manager",0.8211417531574071,13
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Account Manager",0.7908427147986853,14
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Head Of Sales",0.7868885310539605,15
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Buyer",0.7618684895868195,16
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Application Engineer",0.6970500995485884,17
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Process Engineer",0.6106635978677071,18
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Recruiter",0.5718714341219943,19
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Jobs,"Human Resources Manager",0.5336389364947033,20
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Java",-1,2
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Project Planning",-1,3
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Account Management",-1,4
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Product Development",-1,5
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"International Sales",-1,6
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Recruiting",-1,7
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Online Marketing",-1,8
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Automotive",-1,9
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"MATLAB",-1,10
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Project Engineering",-1,11
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Systems Engineering",-1,12
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Project Leadership",-1,13
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Virtualization",-1,14
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Sales Engineering",-1,15
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Purchasing Processes",-1,16
+2020-01-01,de,"Germany","All","Manufacturing",Top Trending Skills,"Process Optimization",-1,17

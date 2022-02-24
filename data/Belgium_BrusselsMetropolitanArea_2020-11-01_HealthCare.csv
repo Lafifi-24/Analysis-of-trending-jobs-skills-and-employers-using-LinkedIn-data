@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,be,"Belgium","Brussels Metropolitan Area","Health Care",Top Trending Employers,"GSK",3.5798121884453673,1
+2020-11-01,be,"Belgium","Brussels Metropolitan Area","Health Care",Top Trending Employers,"Cliniques universitaires Saint-Luc",6.895857305868764,2
+2020-11-01,be,"Belgium","Brussels Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",3.8036661291996,1
+2020-11-01,be,"Belgium","Brussels Metropolitan Area","Health Care",Top Trending Jobs,"Psychologist",3.107028146761634,2
+2020-11-01,be,"Belgium","Brussels Metropolitan Area","Health Care",Top Trending Jobs,"Project Manager",3.026802787407536,3
+2020-11-01,be,"Belgium","Brussels Metropolitan Area","Health Care",Top Trending Skills,"Project Management",-1,1
+2020-11-01,be,"Belgium","Brussels Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-11-01,be,"Belgium","Brussels Metropolitan Area","Health Care",Top Trending Skills,"Psychotherapy",-1,3

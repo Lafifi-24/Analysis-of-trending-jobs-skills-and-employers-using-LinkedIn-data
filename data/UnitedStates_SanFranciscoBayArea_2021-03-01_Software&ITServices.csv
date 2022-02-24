@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Facebook",2.4176325606644626,1
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Uber",6.506277702248586,2
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",4.322680745017355,3
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Palo Alto Networks",5.128782886501305,4
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"DoorDash",6.946419194822501,5
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Instacart",11.849906710558374,6
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Stripe",9.00685396844403,7
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"ServiceNow",4.380314862614395,8
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Oracle",1.8431082624147246,9
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Twitter",4.284357501272324,10
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Intuit",3.4704161356844345,11
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Adobe",1.8236042780693296,12
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Coinbase",11.725553990064828,13
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Accenture",3.2004678306309597,14
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Microsoft",2.5122852119546777,15
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Nuro",15.183583066921727,16
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Snowflake",8.64880885389373,17
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Verkada",19.301975062444594,18
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Workday",1.5499286508135266,19
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Employers,"Samsara",8.83047865312624,20
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Software Engineer",17.281731320849815,1
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Product Manager",3.351000219820162,2
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Recruiter",2.956799316475772,3
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Account Executive",2.8161126848706926,4
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Sales Development Representative",1.8807241737561315,5
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Data Scientist",1.751067921125761,6
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Product Designer",1.6313448450014076,7
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Program Manager",1.4001376688929164,8
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.3409967744170823,9
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Machine Learning Engineer",0.8588826687177484,10
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Business Development Representative",0.8395035853149937,11
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Account Manager",0.8126428957109287,12
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Enterprise Account Executive",0.8098527857824351,13
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Engineering Manager",0.790960893871282,14
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Product Marketing Manager",0.7330135324573098,15
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Recruitment Coordinator",0.7202958152123468,16
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Marketing Manager",0.7089788433049894,17
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Director of Product Management",0.7063538280828154,18
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Data Analyst",0.6885679302110922,19
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Jobs,"Sales Director",0.6800987797908472,20
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Recruiting",-1,3
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Program Management",-1,4
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Data Analysis",-1,5
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Social Media Marketing",-1,6
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Interviewing",-1,7
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Sales Management",-1,8
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Cross-functional Team Leadership",-1,9
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Tableau",-1,10
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,11
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Machine Learning",-1,12
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Data Science",-1,13
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Engineering Management",-1,14
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Salesforce.com",-1,15
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Product Design",-1,16
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Product Marketing",-1,17
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Software as a Service (SaaS)",-1,18
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Wireframing",-1,19
+2021-03-01,us,"United States","San Francisco Bay Area","Software & IT Services",Top Trending Skills,"Cold Calling",-1,20

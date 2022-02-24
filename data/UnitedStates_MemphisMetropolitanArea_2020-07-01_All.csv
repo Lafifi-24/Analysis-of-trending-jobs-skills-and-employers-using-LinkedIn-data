@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"Amazon",40.302564452975375,1
+2020-07-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"FedEx",1.9424209726162198,2
+2020-07-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Jobs,"Teacher",1.9891661801695646,1
+2020-07-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.9749892119939956,2
+2020-07-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Jobs,"Operations Manager",1.8431354907689916,3
+2020-07-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-07-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,2
+2020-07-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,3
+2020-07-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Team Building",-1,4

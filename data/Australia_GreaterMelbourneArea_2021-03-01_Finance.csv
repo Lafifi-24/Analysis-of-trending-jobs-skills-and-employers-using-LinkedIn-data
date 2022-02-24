@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Employers,"ANZ",2.6397031375709608,1
+2021-03-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Employers,"Commonwealth Bank",3.9483047861534906,2
+2021-03-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Employers,"IAG",4.786047917679711,3
+2021-03-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Jobs,"Business Analyst",4.12011265710985,1
+2021-03-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Jobs,"Software Engineer",3.4378187655509533,2
+2021-03-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Skills,"Business Analysis",-1,1
+2021-03-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Skills,"JavaScript",-1,2
+2021-03-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Skills,"Requirements Gathering",-1,3

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Employers,"Northwestern Mutual",14.009197710452536,1
+2021-06-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Jobs,"Financial Advisor",2.908045690294301,1
+2021-06-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Jobs,"Insurance Agent",2.5826712326209877,2
+2021-06-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Skills,"Retirement Planning",-1,1
+2021-06-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Skills,"Life Insurance",-1,2
+2021-06-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Skills,"Investments",-1,3
+2021-06-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,4

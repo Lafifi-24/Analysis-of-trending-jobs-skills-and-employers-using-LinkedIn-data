@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Louisville Metropolitan Area","Health Care",Top Trending Employers,"Norton Healthcare",3.710576970463068,1
+2020-10-01,us,"United States","Louisville Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",7.69210229166423,1
+2020-10-01,us,"United States","Louisville Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-10-01,us,"United States","Louisville Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

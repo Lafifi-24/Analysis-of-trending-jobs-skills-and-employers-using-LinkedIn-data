@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,se,"Sweden","All","Legal",Top Trending Jobs,"Solicitor",13.905868127066206,1
+2020-02-01,se,"Sweden","All","Legal",Top Trending Jobs,"Attorney",11.585327423989172,2
+2020-02-01,se,"Sweden","All","Legal",Top Trending Skills,"Legal Advice",-1,1
+2020-02-01,se,"Sweden","All","Legal",Top Trending Skills,"Litigation",-1,2

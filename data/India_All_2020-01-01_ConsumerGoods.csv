@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Apple",25.63250089624306,1
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"PepsiCo",14.587239062172449,2
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"ITC Limited",4.2961498655467905,3
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Unilever",3.521221697773566,4
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"HARMAN International",4.661784131877484,5
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Asian Paints",3.867137220779973,6
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Aditya Birla Fashion and Retail Ltd.",5.3941799143650115,7
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Parle Agro Pvt Ltd",12.291265052145357,8
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Diageo",12.26864171453915,9
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Godrej & Boyce Mfg. Co. Ltd.",2.80022260139461,10
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Nestlé",3.965717594753538,11
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Pidilite Industries Limited",4.624162128330006,12
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Procter & Gamble",5.719282477482441,13
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"DIAGEO India",6.674328213855203,14
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"HARMAN India",6.604513582129766,15
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Arvind Limited",6.402370379557036,16
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"VARUN BEVERAGES LIMITED",5.296998173569587,17
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"LG Electronics",4.334197020820319,18
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"RB",5.022801520663186,19
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Employers,"Jubilant FoodWorks Ltd.",6.73071777834582,20
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Sales Executive",5.906485270036675,1
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Sales Manager",5.688235845621127,2
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Software Engineer",4.2881105941774456,3
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Store Manager",1.624995322492048,4
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Merchandiser",1.562385885358673,5
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Business Development Manager",1.4268222604685732,6
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Human Resources Executive",1.316296095525309,7
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Marketing Manager",1.185277530787119,8
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Human Resources Manager",1.1234055490611494,9
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Graphic Designer",1.0055322439864611,10
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Account Executive",1.0054834339674705,11
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Accountant",0.9792299319385479,12
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"General Manager",0.9764402106241044,13
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Salesperson",0.9409465490093003,14
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Marketing Executive",0.9390071790774118,15
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Project Manager",0.8337271513843695,16
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Key Account Manager",0.7953468289805936,17
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Operations Manager",0.7700643846933155,18
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Business Development Executive",0.7352427676910063,19
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Jobs,"Finance Manager",0.660085037424121,20
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"SQL",-1,1
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Sales Management",-1,3
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Adobe Illustrator",-1,4
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Recruiting",-1,5
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Team Leadership",-1,6
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Employee Relations",-1,7
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Tally ERP",-1,8
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Operations Management",-1,9
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Requirements Analysis",-1,10
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Employee Engagement",-1,11
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Marketing Strategy",-1,12
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,13
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Goods and Services Tax (GST)",-1,14
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Store Management",-1,15
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Merchandising",-1,16
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Financial Reporting",-1,17
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Lead Generation",-1,18
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Retail",-1,19
+2020-01-01,in,"India","All","Consumer Goods",Top Trending Skills,"Market Research",-1,20

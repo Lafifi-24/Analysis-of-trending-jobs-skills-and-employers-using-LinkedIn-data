@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"University Health Network",2.2118126452126328,1
+2020-05-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Sunnybrook",3.3908221365628997,2
+2020-05-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Trillium Health Partners",5.945694919920894,3
+2020-05-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"North York General Hospital",7.031773591290932,4
+2020-05-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"The Hospital for Sick Children",1.8784229336013931,5
+2020-05-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Roche",8.776898720309026,6
+2020-05-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Jobs,"Nurse",13.241283600695217,1
+2020-05-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Skills,"Nursing",-1,1

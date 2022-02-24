@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,za,"South Africa","All","Education",Top Trending Employers,"University of Cape Town",1.9448130856823767,1
+2020-07-01,za,"South Africa","All","Education",Top Trending Employers,"University of Johannesburg",2.1703417672110206,2
+2020-07-01,za,"South Africa","All","Education",Top Trending Employers,"University of the Witwatersrand",2.0120627263041677,3
+2020-07-01,za,"South Africa","All","Education",Top Trending Jobs,"Lecturer",11.864973405519414,1
+2020-07-01,za,"South Africa","All","Education",Top Trending Jobs,"Teacher",9.872183904219767,2
+2020-07-01,za,"South Africa","All","Education",Top Trending Jobs,"Postdoctoral Researcher",5.717677017029781,3
+2020-07-01,za,"South Africa","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-07-01,za,"South Africa","All","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-07-01,za,"South Africa","All","Education",Top Trending Skills,"Higher Education",-1,3

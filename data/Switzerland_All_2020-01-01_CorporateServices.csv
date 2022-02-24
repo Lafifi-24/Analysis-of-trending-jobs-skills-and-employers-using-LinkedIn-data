@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ch,"Switzerland","All","Corporate Services",Top Trending Employers,"PwC Switzerland",5.333659788953566,1
+2020-01-01,ch,"Switzerland","All","Corporate Services",Top Trending Employers,"Deloitte Switzerland",5.876448073515844,2
+2020-01-01,ch,"Switzerland","All","Corporate Services",Top Trending Jobs,"Project Manager",2.717578279970423,1
+2020-01-01,ch,"Switzerland","All","Corporate Services",Top Trending Skills,"Project Management",-1,1
+2020-01-01,ch,"Switzerland","All","Corporate Services",Top Trending Skills,"Change Management",-1,2

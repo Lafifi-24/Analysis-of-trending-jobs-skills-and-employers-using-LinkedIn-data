@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater New Orleans Region","Health Care",Top Trending Employers,"Ochsner Health",5.2810754944855285,1
+2020-03-01,us,"United States","Greater New Orleans Region","Health Care",Top Trending Jobs,"Nurse",9.999666202721091,1
+2020-03-01,us,"United States","Greater New Orleans Region","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-03-01,us,"United States","Greater New Orleans Region","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

@@ -1,0 +1,28 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Northeastern University",7.894822156982249,1
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston University",3.3111656473901743,2
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard University",2.508653526791036,3
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Massachusetts Institute of Technology",2.8120874605350634,4
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Tufts University",4.332380284562533,5
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Broad Institute of MIT and Harvard",4.755540037434301,6
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Medical School",1.781696590472591,7
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brown University",2.4435548304347474,8
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston College",2.756026931296841,9
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Lowell",4.180385178984953,10
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of New Hampshire",2.9757227610989543,11
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Southern New Hampshire University",2.2007943413702167,12
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Medical School",3.1166091362743913,13
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Suffolk University",5.031545775725245,14
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Rhode Island",3.018664040913216,15
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"EF Education First",7.481201637075682,16
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Merrimack College",5.524736350048279,17
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brandeis University",3.094983000525464,18
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Professor",8.45320043281259,1
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Postdoctoral Researcher",6.774848778740036,2
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Teacher",6.326356907569242,3
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Lecturer",2.637869346812085,4
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Teaching",-1,1
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Higher Education",-1,3
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Molecular Biology",-1,4
+2021-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Cell Culture",-1,5

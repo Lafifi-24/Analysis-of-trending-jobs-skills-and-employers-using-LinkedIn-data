@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Employers,"Peloton Interactive",10.472314875114403,1
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Employers,"CVS Health",5.789830665982663,2
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Employers,"Affiliated Physicians",41.558305953871006,3
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Jobs,"Personal Trainer",4.037528715165081,1
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Jobs,"Nurse",3.937629145991432,2
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Jobs,"Software Engineer",3.4001538026296934,3
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Skills,"JavaScript",-1,1
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Personal Training",-1,2
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Nursing",-1,3
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Fitness",-1,4
+2021-02-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Basic Life Support (BLS)",-1,5

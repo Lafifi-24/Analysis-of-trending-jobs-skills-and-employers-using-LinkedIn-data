@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Washington University in St. Louis",5.61018550457088,1
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Saint Louis University",5.743692612265796,2
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Southern Illinois University Edwardsville",8.809343391185148,3
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Lindenwood University",8.17472462787373,4
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"University of Missouri-Saint Louis",5.545194720993667,5
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Maryville University of Saint Louis",5.601967052350956,6
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Webster University",5.977373182884863,7
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Jobs,"Teacher",13.685751670460396,1
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Jobs,"Professor",9.662462386528361,2
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-10-01,us,"United States","Greater St. Louis","Education",Top Trending Skills,"Higher Education",-1,3

@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Detroit Metropolitan Area","Finance",Top Trending Employers,"United Wholesale Mortgage",6.1422147538285055,1
+2020-05-01,us,"United States","Detroit Metropolitan Area","Finance",Top Trending Employers,"Blue Cross Blue Shield of Michigan",3.5192472389337626,2
+2020-05-01,us,"United States","Detroit Metropolitan Area","Finance",Top Trending Jobs,"Account Executive",6.051022726333696,1
+2020-05-01,us,"United States","Detroit Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",4.970317179773848,2
+2020-05-01,us,"United States","Detroit Metropolitan Area","Finance",Top Trending Jobs,"Underwriter",4.110125539295018,3
+2020-05-01,us,"United States","Detroit Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","Detroit Metropolitan Area","Finance",Top Trending Skills,"Account Management",-1,2
+2020-05-01,us,"United States","Detroit Metropolitan Area","Finance",Top Trending Skills,"Underwriting",-1,3
+2020-05-01,us,"United States","Detroit Metropolitan Area","Finance",Top Trending Skills,"Insurance",-1,4

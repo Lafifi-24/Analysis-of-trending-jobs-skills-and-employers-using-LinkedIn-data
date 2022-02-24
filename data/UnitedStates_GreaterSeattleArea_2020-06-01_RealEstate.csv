@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Employers,"Zillow",2.8588850939910047,1
+2020-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Jobs,"Real Estate Broker",26.316134494057618,1
+2020-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Jobs,"Real Estate Agent",13.615539284703615,2
+2020-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Jobs,"Property Manager",5.895055777242593,3
+2020-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Skills,"Property Management",-1,3

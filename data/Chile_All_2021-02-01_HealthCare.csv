@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Employers,"redsaludcchc",8.576282858960818,1
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Jobs,"Nurse",18.40221213198291,1
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Jobs,"Dentist",7.157797288082375,2
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Jobs,"Kinesiologist",6.702036223676952,3
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Jobs,"Medical Technologist",6.309381212072081,4
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Skills,"Rehabilitation",-1,2
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Skills,"Dentistry",-1,3
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Skills,"Physical Therapy",-1,4
+2021-02-01,cl,"Chile","All","Health Care",Top Trending Skills,"Clinical Research",-1,5

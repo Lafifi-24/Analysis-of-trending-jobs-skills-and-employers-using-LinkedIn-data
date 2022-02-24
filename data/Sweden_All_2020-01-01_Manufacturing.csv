@@ -1,0 +1,28 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Saab",4.034030096747141,1
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Volvo Cars",2.5687048660244733,2
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Scania Group",2.4855249365895054,3
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Volvo Group",2.7022076105526525,4
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"ABB",2.740480451336178,5
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Polestar",20.521290902688435,6
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Stora Enso",5.999856578281777,7
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Tetra Pak",2.4574886854001603,8
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"NEVS",11.525455331767906,9
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"NKT",14.476008809812098,10
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Project Manager",4.791402468895895,1
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Salesperson",3.5601651865170947,2
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Sales Manager",3.1674823106826415,3
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Software Engineer",3.046892049672258,4
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Key Account Manager",1.6732444131166984,5
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"System Engineer",1.4359876198494501,6
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Design Engineer",1.3078950910366776,7
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.2631279125092294,8
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Project Planning",-1,2
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Git",-1,3
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Sales Management",-1,4
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,5
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Computer-Aided Design (CAD)",-1,6
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"CATIA",-1,7
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Systems Engineering",-1,8
+2020-01-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Windows Server",-1,9

@@ -1,0 +1,28 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Kaiser Permanente",3.1071452390172394,1
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Genentech",3.9653518933703635,2
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Health Care",5.671472641535538,3
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Sutter Health",4.909437466743521,4
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Gilead Sciences",4.329663078475408,5
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Intuitive",5.040595869023788,6
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Abbott",5.769062025944544,7
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"BioMarin Pharmaceutical Inc.",5.985122067479711,8
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Children's Health | Lucile Packard Children's Hospital Stanford",4.258785840466232,9
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Cepheid",10.299899562034888,10
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Natera",15.135459876388916,11
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Guardant Health",17.6308002334708,12
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Roche",4.372474407788242,13
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"John Muir Health",6.106464686430084,14
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Sutter Health - Palo Alto Medical Foundation",4.06569434181768,15
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"El Camino Health",7.252553444279172,16
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Twist Bioscience",23.04103200964788,17
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Invitae",9.355536069363335,18
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Nurse",8.339276209147759,1
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Software Engineer",2.5896156195845337,2
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Project Manager",1.0850526058747563,4
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Construction Management",-1,2
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Public Speaking",-1,3
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nursing",-1,4
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nonprofit Organizations",-1,5
+2020-04-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,6

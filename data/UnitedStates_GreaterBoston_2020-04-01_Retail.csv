@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Target",10.697272676036166,1
+2020-04-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Wayfair",2.316336722068769,2
+2020-04-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Chewy",21.10914851467657,3
+2020-04-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"BJ's Wholesale Club",6.724141586612586,4
+2020-04-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Cashier",7.682371462368251,1
+2020-04-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Salesperson",6.949830689704283,2
+2020-04-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Time Management",-1,1
+2020-04-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Cashiering",-1,2

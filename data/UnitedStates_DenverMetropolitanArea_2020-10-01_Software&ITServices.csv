@@ -1,0 +1,28 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon",14.764191495099663,1
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Employers,"HomeAdvisor",8.726106435457702,2
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Employers,"Zoom",13.081650199450582,3
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",13.431477810381418,4
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Employers,"Twilio Inc.",13.434781165616213,5
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Employers,"RingCentral",8.572257063014954,6
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Employers,"Snapdocs",60.08134128189465,7
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Employers,"Wix.com",97.85272162231622,8
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Employers,"Pax8",11.204712447874984,9
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",8.40851891428617,1
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Account Executive",4.23940670989016,2
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Business Development Representative",2.6663697433103413,3
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Sales Development Representative",2.2121088044513733,4
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Project Manager",1.9929523915803173,5
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Account Manager",1.81455226104149,6
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Product Manager",1.6305506861508952,7
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.5625571674948258,8
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Solutions Architect",1.2066498794219949,9
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Skills,"Construction Management",-1,3
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,4
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,5
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Skills,"Cloud Computing",-1,6
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Skills,"Salesforce.com",-1,7
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Skills,"Software as a Service (SaaS)",-1,8
+2020-10-01,us,"United States","Denver Metropolitan Area","Software & IT Services",Top Trending Skills,"Cold Calling",-1,9

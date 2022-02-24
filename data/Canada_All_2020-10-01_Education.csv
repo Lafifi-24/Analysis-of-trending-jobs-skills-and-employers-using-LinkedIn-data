@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"The University of British Columbia",8.651160282954267,1
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Ryerson University",14.156580059484309,2
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"McMaster University",10.111591362389905,3
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"University of Ottawa",10.367820482652025,4
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"McGill University",7.042864760577361,5
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"University of Waterloo",10.096821849540758,6
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Carleton University",13.364993551298191,7
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Queen's University",11.460552612560775,8
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Western University",9.342600154824368,9
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"York University",8.195502803575023,10
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Université de Montréal",6.222285888403301,11
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"University of Calgary",4.917174646321502,12
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Simon Fraser University",9.143834239943127,13
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Concordia University",7.597535692617292,14
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"University of Alberta",4.088091244587165,15
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Dalhousie University",7.50374435951017,16
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"University of Guelph",7.941300209563897,17
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"University of Victoria",9.322922689035574,18
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Université Laval",5.01568331387077,19
+2020-10-01,ca,"Canada","All","Education",Top Trending Employers,"Université de Sherbrooke",8.093029404177297,20
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Teacher",16.341606337822302,1
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Professor",5.947062638181426,2
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Postdoctoral Researcher",3.586624358147118,3
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Lecturer",2.7815998417615684,4
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Elementary School Teacher",1.2047339677441693,5
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Project Manager",1.1837963973808765,6
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Software Engineer",0.9961617607990818,7
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"French Teacher",0.771993769804214,8
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Academic Tutor",0.73283306631925,9
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Secretary",0.6638335387176046,10
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Editor",0.6167610971895455,11
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Campus Ambassador",0.6084332677522369,12
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Mathematics Tutor",0.6024015110858513,13
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Early Childhood Educator",0.6013009676584349,14
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Mathematics Teacher",0.5257139974682249,15
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Graphic Designer",0.5242366939553518,16
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Web Developer",0.5208534880140004,17
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Program Coordinator",0.5175890753535225,18
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"English Second Language Teacher",0.5109906564688731,19
+2020-10-01,ca,"Canada","All","Education",Top Trending Jobs,"Brand Representative",0.4610500375705328,20
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"JavaScript",-1,2
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Project Planning",-1,3
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Adobe Illustrator",-1,4
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Curriculum Development",-1,5
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Construction Management",-1,6
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,7
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Editing",-1,8
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Higher Education",-1,9
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Writing",-1,10
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Social Media",-1,11
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Time Management",-1,12
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Early Childhood Education",-1,13
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Nonprofit Organizations",-1,14
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Scientific Writing",-1,15
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Public Speaking",-1,16
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Program Development",-1,17
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Event Planning",-1,18
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"English as a Second Language (ESL)",-1,19
+2020-10-01,ca,"Canada","All","Education",Top Trending Skills,"Child Development",-1,20

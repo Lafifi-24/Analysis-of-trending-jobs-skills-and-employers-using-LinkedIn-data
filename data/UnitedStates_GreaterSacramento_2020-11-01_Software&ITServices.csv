@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Sacramento","Software & IT Services",Top Trending Employers,"Amazon",10.803118393414476,1
+2020-11-01,us,"United States","Greater Sacramento","Software & IT Services",Top Trending Jobs,"Software Engineer",9.409459381936582,1
+2020-11-01,us,"United States","Greater Sacramento","Software & IT Services",Top Trending Skills,"JavaScript",-1,1

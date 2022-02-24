@@ -1,0 +1,54 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"Target",1.3042491051311587,1
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"Allina Health",3.068671297202206,2
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"Optum",3.7544883581459945,3
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"Best Buy",2.6877328537708487,4
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"3M",1.5848123051370617,5
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"Boston Scientific",2.6680480820388754,6
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"Fairview Health Services",2.652223543924568,7
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"U.S. Bank",1.2286309236831647,8
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"UnitedHealth Group",1.116156790115639,9
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"Wells Fargo",0.9199501139687091,10
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"Abbott",3.9847694293436717,11
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"C.H. Robinson",3.8134810277405355,12
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"Amazon",6.153477414230634,13
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Employers,"SPS Commerce",5.0758513568395625,14
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Software Engineer",2.375729282256025,1
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Real Estate Agent",2.037756436667752,2
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Project Manager",1.8719813990819845,3
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Account Executive",1.699202555047908,4
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Account Manager",1.4797948122546085,5
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Salesperson",1.345662310574742,6
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Nurse",1.3390180014964794,7
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Accountant",0.905096297904349,8
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Customer Service Representative",0.8330143940453208,9
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Sales Manager",0.8179835981328453,10
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Financial Analyst",0.7528633002027292,12
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Attorney",0.7324180435170583,13
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Program Manager",0.726195519656582,14
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Business Analyst",0.6028214623691082,15
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Product Manager",0.5819242323716113,16
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Recruiter",0.5357214964116981,17
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Sales Director",0.528335078712469,18
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Sales Consultant",0.5021253255754816,19
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Jobs,"Business Development Manager",0.4694387977443201,20
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Account Management",-1,2
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Sales Management",-1,3
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Investment Properties",-1,4
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,5
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Legal Writing",-1,6
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Recruiting",-1,7
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Construction Management",-1,8
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Program Management",-1,9
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Civil Litigation",-1,10
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Account Reconciliation",-1,11
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Business Analysis",-1,12
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Sales Operations",-1,13
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Financial Analysis",-1,14
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"General Ledger",-1,15
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Customer Satisfaction",-1,16
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Public Speaking",-1,17
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Interviewing",-1,18
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Financial Reporting",-1,19
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","All",Top Trending Skills,"Cross-functional Team Leadership",-1,20

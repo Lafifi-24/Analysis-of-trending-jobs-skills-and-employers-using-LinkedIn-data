@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Northwell Health",4.061355039800764,1
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Memorial Sloan Kettering Cancer Center",5.059290766710121,2
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"NewYork-Presbyterian Hospital",4.14269143098808,3
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Bristol Myers Squibb",7.989150413935773,4
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"NYU Langone Health",3.8294166539647927,5
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Mount Sinai Health System",4.032299364853728,6
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"NYC Health + Hospitals",6.990436425989493,7
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Hackensack Meridian Health",5.7666260174053265,8
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"RWJBarnabas Health",9.139255934227277,9
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Montefiore Health System",4.732997021299003,10
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Novartis",4.191478819266877,11
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Pfizer",3.134668724809863,12
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Columbia University Irving Medical Center",3.8565891259949305,13
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Atlantic Health System",4.730364429734176,14
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Regeneron",4.590982536048744,15
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Hospital for Special Surgery",5.737888554761669,16
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"St. Luke's University Health Network",4.394895549787787,17
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Yale New Haven Hospital",4.952113370481353,18
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Healthfirst",6.357091468498377,19
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Employers,"Lehigh Valley Health Network",3.5530378666756004,20
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",8.78698866638174,1
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Emergency Medical Technician",1.017672447672937,2
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Physical Therapist",0.99388202219335,3
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Project Manager",0.9321137698697536,4
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Account Manager",0.9290013693213455,5
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Salesperson",0.8972204494444888,6
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Occupational Therapist",0.8961679711472339,7
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Psychotherapist",0.8889152936497658,8
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Pharmacist",0.8784665141784536,9
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Social Worker",0.8754397574359464,10
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Medical Doctor",0.868082041663147,11
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Pharmacy Technician",0.8561469567892176,12
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Clinician",0.6199102998268989,14
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Medical Scribe",0.5990329215420626,15
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Financial Analyst",0.5931923309333539,16
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Software Engineer",0.5632154170395417,17
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Medical Director",0.5616425991600221,18
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Office Manager",0.5549864430972276,19
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Jobs,"Receptionist",0.5322334090057625,20
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Account Management",-1,2
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Construction Management",-1,3
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Office Administration",-1,4
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Financial Analysis",-1,5
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Public Speaking",-1,6
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"QuickBooks",-1,7
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Financial Reporting",-1,8
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,9
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Pharmacy",-1,10
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Physical Therapy",-1,11
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Nonprofit Organizations",-1,12
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Rehabilitation",-1,13
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Medication Therapy Management (MTM)",-1,14
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Pharmacy Technicians",-1,15
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,16
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Data Entry",-1,17
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Case Management",-1,18
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Receptionist Duties",-1,19
+2020-02-01,us,"United States","New York City Metropolitan Area","Health Care",Top Trending Skills,"Social Services",-1,20

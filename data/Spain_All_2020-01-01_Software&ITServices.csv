@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"everis",5.285647157725413,1
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Indra",3.5760459447149966,2
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Amazon",10.42563388025959,3
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Altran",7.958677148975159,4
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Accenture",4.464911681831959,5
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Minsait",6.476993204394627,6
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"DXC Technology",6.223440148321136,7
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Sopra Steria",5.319869801733174,8
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Capgemini",4.742906196664499,9
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"VIEWNEXT",4.289348251842407,10
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"atSistemas",9.751105830329308,11
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Atos",3.9098242516227018,12
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Oesia",7.213074324404495,13
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"Gfi España",6.713238778636979,14
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"HP",2.7838585511011775,15
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"VASS",9.029965123827138,16
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"BABEL",11.635016576589079,17
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"vernegroup",47.99885398104253,18
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"IECISA",6.5334437412132464,19
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Employers,"izertis",19.872725804233095,20
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Software Engineer",9.771872183277727,1
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Project Manager",2.2210724698993465,2
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",1.8368720195805721,3
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",1.8348169999233943,4
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Software Analyst",1.552660908439054,5
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Account Manager",1.2943091044703563,6
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Data Scientist",1.0323684925722059,7
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Web Developer",0.9824263760357208,8
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Back End Developer",0.9164134656555618,9
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Java Software Engineer",0.8776139977556229,10
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"System Technician",0.7631455296894162,11
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Product Manager",0.7484376830585027,12
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"SAP Consultant",0.685287872536839,13
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Chief Technology Officer",0.6713734799432475,14
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",0.6590553395243975,15
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Programming Analyst",0.6550344705973405,16
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"System Manager",0.6305995967550139,17
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Application Developer",0.6170762649205906,18
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"System Engineer",0.588958867984152,19
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Jobs,"Computer Technician",0.5877614963968752,20
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Java",-1,2
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"SQL",-1,3
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,4
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Git",-1,5
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Account Management",-1,6
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Node.js",-1,7
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"SASS",-1,8
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Windows Server",-1,9
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,10
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Windows",-1,11
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"R (Programming Language)",-1,12
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"System Administration",-1,13
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Linux",-1,14
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"SAP ERP",-1,15
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Active Directory",-1,16
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Spring Framework",-1,17
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Maven",-1,18
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"MySQL",-1,19
+2020-01-01,es,"Spain","All","Software & IT Services",Top Trending Skills,"Web Development",-1,20

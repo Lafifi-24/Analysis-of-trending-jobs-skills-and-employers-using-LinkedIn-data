@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,de,"Germany","All","Hardware & Networking",Top Trending Employers,"Vodafone",2.121665342221336,1
+2021-01-01,de,"Germany","All","Hardware & Networking",Top Trending Employers,"Infineon Technologies",2.4095058558932867,2
+2021-01-01,de,"Germany","All","Hardware & Networking",Top Trending Jobs,"Account Manager",3.75924251237266,1
+2021-01-01,de,"Germany","All","Hardware & Networking",Top Trending Jobs,"Project Manager",3.664169754084025,2
+2021-01-01,de,"Germany","All","Hardware & Networking",Top Trending Jobs,"Software Engineer",3.4264038924519085,3
+2021-01-01,de,"Germany","All","Hardware & Networking",Top Trending Skills,"Project Management",-1,1
+2021-01-01,de,"Germany","All","Hardware & Networking",Top Trending Skills,"Java",-1,2
+2021-01-01,de,"Germany","All","Hardware & Networking",Top Trending Skills,"Project Planning",-1,3
+2021-01-01,de,"Germany","All","Hardware & Networking",Top Trending Skills,"Account Management",-1,4

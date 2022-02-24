@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Employers,"Clark County School District",3.7296176921236586,1
+2020-09-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Employers,"University of Nevada-Las Vegas",5.4194009239797705,2
+2020-09-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Jobs,"Teacher",17.346834101326465,1
+2020-09-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Jobs,"Professor",10.013804905494762,2
+2020-09-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

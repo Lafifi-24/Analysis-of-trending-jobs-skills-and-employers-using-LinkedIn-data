@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","Manufacturing",Top Trending Employers,"Volvo Cars",2.4975428273334646,1
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","Manufacturing",Top Trending Employers,"Volvo Group",2.345999827360826,2
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",7.45185544640986,1
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","Manufacturing",Top Trending Skills,"Git",-1,1

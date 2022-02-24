@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"Her Campus Media",21.499055296127164,1
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"The New York Times",5.013997832720733,2
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"OMD USA",13.063846883269331,3
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"Medium",13.570592299702566,4
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"FedEx Office",3.430542874986138,5
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"Forbes",6.784086056533835,6
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"Merkle",5.9387427513833115,7
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"Horizon Media",8.238686822976003,8
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"American Marketing Association",14.568408648337478,9
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"Best Version Media",10.816928392803957,10
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"VICE Media",10.326823813138567,11
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"W2O Group",18.662835293281464,12
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"TBWA\Chiat\Day",19.49246386688124,13
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"TransPerfect",6.661376629509003,14
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"Penguin Random House",4.120078098320136,15
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"UM Worldwide",10.130925977485068,16
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"Wiley",6.093599400011616,17
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"RR Donnelley",2.731539765552486,18
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"Freelance Marketing and Creative Services",4.337277238513244,19
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Employers,"FCB Health",11.436548201928867,20
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Writer",4.986246765162271,1
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Account Executive",4.40226346366457,2
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Account Manager",3.3745506651389525,3
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Editor",3.214403848293676,4
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Project Manager",2.3174463980463282,5
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Graphic Designer",2.2056084443442447,6
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Creative Director",1.717472131033801,7
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Copywriter",1.3609752882083956,8
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Software Engineer",1.254777482814286,9
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Art Director",1.1471712160323673,10
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Account Director",1.1315173143272617,11
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Account Coordinator",1.0771539346120862,12
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Reporter",0.9791908407533781,13
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Marketing Manager",0.8968335557587294,14
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Account Supervisor",0.7785562549298422,15
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Marketing Consultant",0.7291328773619984,16
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Sales Director",0.7174648918709616,17
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Business Development Manager",0.6838754716417097,18
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Marketing Director",0.6687665117834919,19
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Jobs,"Media Planner",0.6348355350402328,20
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"JavaScript",-1,1
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Account Management",-1,2
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Writing",-1,3
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Editing",-1,4
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Adobe Creative Suite",-1,5
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Construction Management",-1,6
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Social Media Marketing",-1,7
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Marketing Strategy",-1,8
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Sales Management",-1,9
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Art Direction",-1,10
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Copywriting",-1,11
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Journalism",-1,12
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"News Writing",-1,13
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Event Planning",-1,14
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Integrated Marketing",-1,15
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Media Planning",-1,16
+2020-01-31,us,"United States","All","Media & Communications",Top Trending Skills,"Media Buying",-1,17

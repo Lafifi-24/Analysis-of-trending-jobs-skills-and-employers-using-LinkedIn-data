@@ -1,0 +1,26 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"BNP Paribas",1.542596790806647,1
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"AXA",2.481640913129359,2
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Bpifrance",5.182816995099064,3
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Banque de France",3.791097715327233,4
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"LCL",2.1338364743453275,5
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Crédit Agricole CIB",2.0690405427331955,6
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"La Banque Postale",2.4602036885481207,7
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Natixis",1.4402935140097217,8
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Societe Generale Corporate and Investment Banking - SGCIB",1.5682944281256508,9
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Project Manager",3.422691684306508,1
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Client Advisor",2.551708207726456,2
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Legal Officer",2.435069917997957,3
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Financial Advisor",2.2601012946175834,4
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Wealth Management Advisor",1.8425648570787205,5
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Business Analyst",1.6339689919049882,6
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Data Scientist",1.4617190520146273,7
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Project Management",-1,1
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Legal Research",-1,2
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Legal Advice",-1,3
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Machine Learning",-1,4
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Wealth Management",-1,5
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Assurance",-1,6
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Apache Spark",-1,7
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"SQL",-1,8
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Agile Methodologies",-1,9

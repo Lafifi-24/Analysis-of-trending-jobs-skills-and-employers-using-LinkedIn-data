@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Birmingham Area","Health Care",Top Trending Employers,"UAB Medicine",2.9541085663099786,1
+2020-01-01,us,"United States","Greater Birmingham Area","Health Care",Top Trending Jobs,"Nurse",12.868497413366399,1
+2020-01-01,us,"United States","Greater Birmingham Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,us,"United States","Greater Birmingham Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

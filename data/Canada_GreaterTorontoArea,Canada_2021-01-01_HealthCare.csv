@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Public Health Ontario",37.37858039032752,1
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"University Health Network",2.3454666731778104,2
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Mackenzie Health",12.276806913815795,3
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Sunnybrook",3.2813738932807093,4
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"St. Michael's Hospital",3.594635411682201,5
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"William Osler Health System",5.207135594530535,6
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Jobs,"Nurse",12.292366682220871,1
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Skills,"Nursing",-1,1

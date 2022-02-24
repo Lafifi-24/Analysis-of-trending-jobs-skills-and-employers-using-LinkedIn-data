@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"McDonald's",3.8742461321786026,1
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"United Airlines",4.918619566306933,2
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Chick-fil-A-Franchise",6.083454731860609,3
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Delta Air Lines",3.473685854641594,4
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"American Airlines",2.6210845770080726,5
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Marriott International",3.1323814747335614,6
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Panera Bread",4.924162651598294,7
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Chipotle Mexican Grill",6.449757768761607,8
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Southwest Airlines",3.368274823476241,9
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Vail Resorts",12.03443404345636,10
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Domino's",5.696800806435945,11
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Hilton",3.74470491061129,12
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"SkyWest Airlines",6.8364459484652595,13
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Subway",4.039939689935114,14
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Chick-fil-A Corporate",6.153296525342953,15
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Marriott Hotels",4.96180923588296,16
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Taco Bell",4.655859041414414,17
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Cracker Barrel",4.385615648551582,18
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"The Wendy's Company",7.188159206268548,19
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Enterprise Holdings",2.237187789881397,20
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Server",4.91102451866932,1
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"General Manager",4.810856227124051,2
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Food Server",2.495916750746637,3
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Chef",2.3651517035491296,4
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Bartender",2.3034196506634794,5
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Cook",2.166380181676476,6
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Cashier",1.8100665647635108,7
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Hostess",1.8008065619919669,8
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Customer Service Representative",1.7160458179571236,9
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Sales Director",1.5004144523402878,10
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Flight Attendant",1.2217916950496537,11
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Sales Manager",1.210102839694534,12
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Host",0.9755069475109257,13
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Delivery Driver",0.8784537584460895,14
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Food Service Worker",0.8703584941674238,15
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Barista",0.8656935948527572,16
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Front Desk Representative",0.8173522221295045,17
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Operations Manager",0.7964703182902375,18
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Accountant",0.7851130109925646,19
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Director Of Operations",0.7510371937856316,20
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Sales Management",-1,1
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Team Building",-1,2
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Operations Management",-1,3
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Time Management",-1,4
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Account Reconciliation",-1,5
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Sales Operations",-1,6
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Inventory Management",-1,7
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"General Ledger",-1,8
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Customer Satisfaction",-1,9
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Cashiering",-1,10
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Culinary Skills",-1,11
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Menu Development",-1,12
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Account Management",-1,13
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Bartending",-1,14
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Cooking",-1,15
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Social Media",-1,16
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Public Speaking",-1,17
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Barista",-1,18
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Flight Safety",-1,19
+2019-12-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Airlines",-1,20

@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Employers,"Walgreens",3.4196731896553665,1
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Employers,"Starbucks",5.143349431841521,2
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Employers,"Ulta Beauty",3.01791894116253,3
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Employers,"Target",2.886982629649269,4
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Jobs,"Salesperson",6.320451177014752,1
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Jobs,"Store Manager",4.721440976075463,2
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Jobs,"Barista",3.5670588456140635,3
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Jobs,"Pharmacy Technician",3.4072678968749144,4
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Skills,"Store Management",-1,2
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Skills,"Time Management",-1,3
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Skills,"Pharmacy",-1,4
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Skills,"Pharmacy Technicians",-1,5
+2020-02-01,us,"United States","Greater Chicago Area","Retail",Top Trending Skills,"Barista",-1,6

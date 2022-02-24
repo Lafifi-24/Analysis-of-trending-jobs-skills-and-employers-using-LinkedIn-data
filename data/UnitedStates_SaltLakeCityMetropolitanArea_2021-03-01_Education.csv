@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Employers,"Brigham Young University",3.6526539381360967,1
+2021-03-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Jobs,"Professor",10.222120767896259,1
+2021-03-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Jobs,"Teacher",8.051531262631078,2
+2021-03-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-03-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-03-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

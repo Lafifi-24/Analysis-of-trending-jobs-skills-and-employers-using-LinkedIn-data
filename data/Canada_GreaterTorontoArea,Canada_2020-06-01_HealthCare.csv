@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"University Health Network",2.553446541954032,1
+2020-06-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Sunnybrook",3.900147354589767,2
+2020-06-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Apotex Inc.",3.6972862098911277,3
+2020-06-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Jobs,"Nurse",13.160803101281706,1
+2020-06-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Jobs,"Support Associate",2.3834015548589833,2
+2020-06-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-06-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,2
+2020-06-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Skills,"Crisis Intervention",-1,3

@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,se,"Sweden","Stockholm Metropolitan Area","Retail",Top Trending Employers,"H&M",1.4212129257207562,1
+2021-01-01,se,"Sweden","Stockholm Metropolitan Area","Retail",Top Trending Jobs,"Salesperson",12.358784685044883,1
+2021-01-01,se,"Sweden","Stockholm Metropolitan Area","Retail",Top Trending Skills,"Business-to-Business (B2B)",-1,1

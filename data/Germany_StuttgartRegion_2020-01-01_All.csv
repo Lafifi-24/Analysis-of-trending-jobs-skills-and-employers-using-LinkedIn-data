@@ -1,0 +1,22 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Employers,"Bosch",1.4375736270433073,1
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Employers,"Porsche AG",3.139359008918672,2
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Software Engineer",4.327714429555712,1
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Project Manager",3.9982647791810195,2
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Development Engineer",3.28037218502808,3
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Sales Manager",2.476505500151904,4
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Project Control Manager",1.6166358945576935,5
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Product Manager",1.4696318823580639,6
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Account Manager",1.3196867103608778,7
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Project Engineer",1.3148354335044445,8
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Key Account Manager",1.299470173896441,9
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Project Management",-1,1
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Java",-1,2
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Project Planning",-1,3
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Account Management",-1,4
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Product Development",-1,5
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"International Sales",-1,6
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"MATLAB",-1,7
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Automotive",-1,8
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Project Engineering",-1,9
+2020-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Project Leadership",-1,10

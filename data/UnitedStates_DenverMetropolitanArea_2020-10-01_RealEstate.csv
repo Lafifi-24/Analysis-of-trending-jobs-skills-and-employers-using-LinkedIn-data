@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Agent",22.773643173672355,1
+2020-10-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Broker",12.322365141803731,2
+2020-10-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Broker Associate",5.493014891712242,3
+2020-10-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Jobs,"Community Manager",4.032532123398671,4
+2020-10-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Jobs,"Property Manager",3.9036383656574003,5
+2020-10-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-10-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-10-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Skills,"Property Management",-1,3
+2020-10-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Skills,"Apartments",-1,4

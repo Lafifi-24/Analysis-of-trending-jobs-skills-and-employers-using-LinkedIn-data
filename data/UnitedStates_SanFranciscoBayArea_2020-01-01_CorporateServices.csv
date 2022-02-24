@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"PwC",3.6337901495692555,1
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"Deloitte",3.1832308782939447,2
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"Allied Universal",6.738856334768514,3
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"Moss Adams",14.188475916101648,4
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Accountant",3.508397827366525,1
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Tax Associate",2.9662116718345324,2
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,1
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"General Ledger",-1,2
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Tax",-1,3
+2020-01-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Tax Preparation",-1,4

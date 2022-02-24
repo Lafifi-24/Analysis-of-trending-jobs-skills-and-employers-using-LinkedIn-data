@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of Southern California",2.7364242596323685,1
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Los Angeles",2.0634920145762483,2
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Los Angeles Unified School District",1.4236346676007183,3
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"UC Irvine",2.0082641987717333,4
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Caltech",4.904535415639223,5
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Teacher",8.595222686143341,1
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Professor",5.547647242027015,2
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.671742816694833,3
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Public Speaking",-1,4
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Nonprofit Organizations",-1,5
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,6
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,7

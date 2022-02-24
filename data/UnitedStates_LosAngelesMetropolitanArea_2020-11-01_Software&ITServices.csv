@@ -1,0 +1,49 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon",10.363625807709747,1
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"Facebook",7.526895265790166,2
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",9.056409645664386,3
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"Snap Inc.",4.642512836910761,4
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"Hulu",4.233914598005523,5
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"Esri",4.295284554199612,6
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"DoorDash",9.931020790898273,7
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"ServiceTitan",8.208228901539266,8
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"Microsoft",4.397373137506717,9
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"Postmates Inc.",6.659601548089411,10
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"NetSuite",12.61356025799689,11
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Employers,"Internet Brands",9.405069367930484,12
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",9.198336210152409,1
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Account Executive",3.174160520529814,2
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Product Manager",2.019630094997471,3
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Operations Manager",1.5278439562219035,4
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Account Manager",1.5029051610016304,5
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Recruiter",1.4830644508179607,6
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Business Development Representative",1.4573059601565985,7
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.3176044646123426,8
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Sales Development Representative",1.310670314016136,9
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Fulfillment Associate",1.2169774530002095,10
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Project Manager",1.1107727354966221,11
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Product Designer",1.0779093561852908,12
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Sales Director",1.0538595371343213,13
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Delivery Driver",1.0522562159954651,14
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.9489955477335983,15
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Jobs,"Solutions Architect",0.8094972819923187,16
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Operations Management",-1,3
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Team Building",-1,4
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Recruiting",-1,5
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Construction Management",-1,6
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Interviewing",-1,7
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Sales Management",-1,8
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,9
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"React.js",-1,10
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Node.js",-1,11
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,12
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Cloud Computing",-1,13
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Salesforce.com",-1,14
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Product Design",-1,15
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Software as a Service (SaaS)",-1,16
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Wireframing",-1,17
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Cold Calling",-1,18
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Time Management",-1,19
+2020-11-01,us,"United States","Los Angeles Metropolitan Area","Software & IT Services",Top Trending Skills,"Order Fulfillment",-1,20

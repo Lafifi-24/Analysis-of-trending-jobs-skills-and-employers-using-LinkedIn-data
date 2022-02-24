@@ -1,0 +1,19 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"PwC",2.0181840277755767,1
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"Justworks",14.611387477676674,2
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"McKinsey & Company",2.6123551221325716,3
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"ZS",8.457658641465079,4
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"AlphaSights",8.556745829111529,5
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"Slalom",10.769723777791834,6
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"Third Bridge Group Limited",13.628078863167703,7
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Recruiter",2.0407605451928577,1
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Accountant",1.9854992276239511,2
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Project Manager",1.8570451577822285,3
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Account Manager",1.7382362715847235,4
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Account Executive",1.7103498885733024,5
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Account Management",-1,1
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Recruiting",-1,2
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Construction Management",-1,3
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,4
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"General Ledger",-1,5
+2021-05-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Interviewing",-1,6

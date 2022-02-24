@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",3.0963509018566904,1
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Jobs,"Insurance Agent",2.8809752129339907,2
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Jobs,"Account Executive",2.8208360549241993,3
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Jobs,"Underwriter",2.5251645761477013,4
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Jobs,"Account Manager",2.1132372092812086,5
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"Account Management",-1,2
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"Life Insurance",-1,3
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,4
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"Underwriting",-1,5
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"Insurance",-1,6

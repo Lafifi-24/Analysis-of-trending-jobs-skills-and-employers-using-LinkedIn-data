@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Employers,"UBS",3.834177912089172,1
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Employers,"Credit Suisse",3.9441416167541785,2
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Employers,"Julius Baer",5.907670803521041,3
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Employers,"Swiss Re",4.177936083989606,4
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Employers,"AXA",4.237589959390594,5
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Jobs,"Software Engineer",3.4821367197389548,1
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Jobs,"Business Analyst",3.1741418528627197,2
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Jobs,"Customer Advisor",3.1052238921646547,3
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Jobs,"Relationship Manager",2.6973985465912387,4
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Skills,"Java",-1,1
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Skills,"Business Analysis",-1,2
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Skills,"Private Banking",-1,3
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Skills,"Financial Markets",-1,4
+2020-03-01,ch,"Switzerland","Greater Zurich Area","Finance",Top Trending Skills,"Client Counseling",-1,5

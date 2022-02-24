@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Employers,"The Ohio State University",4.860294275906176,1
+2020-10-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Employers,"Denison University",10.931384727421602,2
+2020-10-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Employers,"Battelle",5.581703709986529,3
+2020-10-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Employers,"The Ohio State University Fisher College of Business",15.174973971912657,4
+2020-10-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Jobs,"Teacher",12.226749450463252,1
+2020-10-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Jobs,"Professor",10.287830975340812,2
+2020-10-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-10-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

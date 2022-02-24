@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",4.96852136913541,1
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Employers,"Etat de Vaud",5.135337388511322,2
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Employers,"CHUV | Lausanne university hospital",4.399486652518146,3
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Employers,"University of Lausanne - UNIL",4.722245063664924,4
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Employers,"Nestlé",1.7644207868272588,5
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Employers,"Ville de Lausanne",5.003333550819375,6
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Jobs,"Project Manager",3.463718746615005,1
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.1403767376224883,2
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Jobs,"Postdoctoral Researcher",1.9586860407029436,3
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Jobs,"Medical Doctor",1.730463723912784,4
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Skills,"Java",-1,2
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Skills,"Change Management",-1,3
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Skills,"Scientific Writing",-1,4
+2020-12-01,ch,"Switzerland","Lausanne Metropolitan Area","All",Top Trending Skills,"Medical Education",-1,5

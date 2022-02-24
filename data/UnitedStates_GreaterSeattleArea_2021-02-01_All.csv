@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Amazon",2.371844534643085,1
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Microsoft",1.7729884618913578,2
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Amazon Web Services (AWS)",2.2267594664466777,3
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"University of Washington",2.3117712194972113,4
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Oracle",7.05785770934215,5
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Facebook",3.336985785458777,6
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Nordstrom",2.664875573904093,7
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Redfin",9.705334328379275,8
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Seattle Children's",2.4330868403977064,9
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Seagen",6.0653063294279335,10
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Starbucks",1.4154862608310952,11
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"BLUE ORIGIN",3.7307102466713005,12
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Expedia Group",2.263642197105477,13
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"MultiCare Health System",3.014192599708349,14
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Stripe",13.08445870441213,15
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Swedish",2.2831845706642078,16
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Compass",10.465407978447216,17
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Kaiser Permanente",3.2435083625647865,18
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"Bristol Myers Squibb",7.666855478419625,19
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Employers,"King County, WA",2.586943877738189,20
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Software Engineer",10.685134966901504,1
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Program Manager",2.343577676921446,2
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Project Manager",1.8772879771385742,3
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Product Manager",1.3312470605949231,4
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Recruiter",1.2715086172041594,5
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Real Estate Broker",1.2531028090517227,6
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Account Executive",1.1272462688968299,7
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Account Manager",1.0997378280227847,8
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Nurse",0.9374996395532184,9
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Real Estate Agent",0.851625146671247,10
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Salesperson",0.818066537636134,11
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Sales Manager",0.6854359221534365,13
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Technical Program Manager",0.681470896640129,14
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Accountant",0.666407989995513,15
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"User Experience Designer",0.6579600430069085,16
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Attorney",0.590508780436926,17
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Data Analyst",0.5831194046779955,18
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Data Scientist",0.5662115317846446,19
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Jobs,"Member Of The Board Of Advisors",0.518888713206831,20
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Account Management",-1,2
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Sales Management",-1,3
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Investment Properties",-1,4
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,5
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Legal Writing",-1,6
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Recruiting",-1,7
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Construction Management",-1,8
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Program Management",-1,9
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Civil Litigation",-1,10
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Account Reconciliation",-1,11
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Sales Operations",-1,12
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"General Ledger",-1,13
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Data Analysis",-1,14
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Public Speaking",-1,15
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Interviewing",-1,16
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Cross-functional Team Leadership",-1,17
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Tableau",-1,18
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Nursing",-1,19
+2021-02-01,us,"United States","Greater Seattle Area","All",Top Trending Skills,"Agile Methodologies",-1,20

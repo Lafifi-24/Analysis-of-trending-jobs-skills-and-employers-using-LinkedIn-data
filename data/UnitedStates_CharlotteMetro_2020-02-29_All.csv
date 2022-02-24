@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Wells Fargo",4.775407083601622,1
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Lowe's Companies, Inc.",11.606562975257647,2
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"University of North Carolina at Charlotte",6.4946238270626635,3
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Duke Energy Corporation",3.662539125018932,4
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Microsoft",10.854567829160773,5
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Novant Health",4.08046930540659,6
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"LPL Financial",6.8063396191970105,7
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Allstate",7.488209873894442,8
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Ally",5.468227198264388,9
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Vanguard",7.273491203092291,10
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Mecklenburg County",6.284716733438326,11
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Amazon",10.071168036470896,12
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Charter Communications",5.49070313591456,13
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Red Ventures",5.356802562543777,14
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Charlotte-Mecklenburg Schools",2.3005749500935844,15
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"TIAA",2.8547890257996915,16
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"NTT DATA Services",22.064324207006575,17
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Townsquare Interactive",14.405095180824324,18
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"Keller Williams Realty, Inc.",6.548485782395029,19
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Employers,"eXp Realty",12.55368917895667,20
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Software Engineer",2.236714399797011,1
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Project Manager",2.01349666697746,2
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Real Estate Agent",1.5747554956507197,3
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Account Manager",1.474562942226916,4
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Real Estate Broker",1.4422246351816241,5
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Nurse",1.2100514647498597,6
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Sales Manager",1.2026646280087716,7
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Account Executive",1.1666685620445483,8
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Customer Service Representative",1.089022174897853,9
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Salesperson",1.0159681012932937,10
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Accountant",0.781743188531369,11
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Teacher",0.732657148228485,12
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"General Manager",0.7041288584235986,13
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Business Analyst",0.6164789893025253,14
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Financial Analyst",0.5972736139390912,15
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Operations Manager",0.5922141065836972,16
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Sales Director",0.584391961553094,17
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Mortgage Loan Officer",0.48172727863092063,19
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Jobs,"Product Manager",0.47760720290880265,20
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Teaching",-1,1
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"JavaScript",-1,2
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Account Management",-1,4
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Investment Properties",-1,6
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Team Building",-1,8
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Operations Management",-1,9
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Construction Management",-1,10
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Account Reconciliation",-1,11
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Business Analysis",-1,12
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Sales Operations",-1,13
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Inventory Management",-1,14
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Financial Analysis",-1,15
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"General Ledger",-1,16
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Customer Satisfaction",-1,17
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Public Speaking",-1,18
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Financial Reporting",-1,19
+2020-02-29,us,"United States","Charlotte Metro","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,20

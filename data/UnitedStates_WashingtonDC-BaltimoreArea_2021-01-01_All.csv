@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Deloitte",4.686126684714481,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Booz Allen Hamilton",2.8802234271366696,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Amazon",8.293943389654451,3
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Amazon Web Services (AWS)",4.507633832278196,4
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"U.S. House of Representatives",4.694481347245928,5
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Capital One",1.9291956430354065,6
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"ManTech",4.854288563243089,7
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"General Dynamics Information Technology",2.799405551153089,8
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Freddie Mac",2.6537970458327758,9
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Microsoft",4.050184875955147,10
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"BDO USA, LLP",19.899948329910437,11
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"FDA",2.016918829626587,12
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"U.S. Department of Justice",2.8321563630802125,13
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"CACI International Inc",2.3456399838312123,14
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Inova Health System",2.725828852294182,15
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"The National Institutes of Health",2.6700035717800263,16
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"SAIC",2.5822750237537417,17
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"United States Senate",4.677598763134286,18
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"United States Department of Defense",1.435157192732275,19
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Compass",8.288525547267652,20
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Software Engineer",2.7262889102654615,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Project Manager",1.9494687386817324,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Real Estate Agent",1.746921020958041,3
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Program Manager",1.3062277639396265,4
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Account Executive",1.213724981679312,5
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Attorney",0.9377444548541299,6
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Account Manager",0.8982736838379267,7
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Salesperson",0.8776935141617916,8
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Nurse",0.8272463421623845,9
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Accountant",0.8099275388658579,11
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"System Engineer",0.781489556001975,12
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Business Analyst",0.7136773504429316,13
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Law Clerk",0.7026873026646739,14
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Recruiter",0.6471004998966352,15
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Financial Analyst",0.6188984771640946,16
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Data Analyst",0.5967147558881529,17
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Data Scientist",0.5688746254824888,18
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Teacher",0.5388646736542734,19
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Sales Development Representative",0.5263817801497277,20
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"JavaScript",-1,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Account Management",-1,4
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Investment Properties",-1,5
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,6
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Legal Writing",-1,7
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Recruiting",-1,8
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Construction Management",-1,9
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Program Management",-1,10
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Civil Litigation",-1,11
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Account Reconciliation",-1,12
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Business Analysis",-1,13
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Financial Analysis",-1,14
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"General Ledger",-1,15
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Data Analysis",-1,16
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Public Speaking",-1,17
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Interviewing",-1,18
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Financial Reporting",-1,19
+2021-01-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Cross-functional Team Leadership",-1,20

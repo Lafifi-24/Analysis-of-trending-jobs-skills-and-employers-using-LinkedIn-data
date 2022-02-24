@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Retail",Top Trending Jobs,"Salesperson",10.675524670805418,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Retail",Top Trending Jobs,"Cashier",7.096602288019994,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Retail",Top Trending Skills,"Time Management",-1,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Retail",Top Trending Skills,"Cashiering",-1,2

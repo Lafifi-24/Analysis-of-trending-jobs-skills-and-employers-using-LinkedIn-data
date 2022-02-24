@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Employers,"BMW Group",1.1962595278868533,1
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Employers,"DRÄXLMAIER Group",9.234921404901508,2
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.291690590775824,1
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",4.199448832807696,2
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Jobs,"Development Engineer",4.11778228780706,3
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Skills,"Java",-1,2
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Skills,"Project Planning",-1,3
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Skills,"MATLAB",-1,4
+2020-02-01,de,"Germany","Greater Munich Metropolitan Area","Manufacturing",Top Trending Skills,"Automotive",-1,5

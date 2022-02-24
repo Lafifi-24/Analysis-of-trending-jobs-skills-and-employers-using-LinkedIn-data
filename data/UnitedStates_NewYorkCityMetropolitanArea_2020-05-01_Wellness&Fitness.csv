@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Employers,"CVS Health",7.04317101279359,1
+2020-05-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Employers,"Peloton Interactive",12.28548421066521,2
+2020-05-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Employers,"New York State Department of Health",31.34189513305468,3
+2020-05-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Jobs,"Nurse",3.687697241604545,1
+2020-05-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Jobs,"Software Engineer",3.157199249233527,2
+2020-05-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Nursing",-1,2
+2020-05-01,us,"United States","New York City Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Basic Life Support (BLS)",-1,3

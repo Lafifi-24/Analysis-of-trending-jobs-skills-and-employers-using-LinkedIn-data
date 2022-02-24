@@ -1,0 +1,40 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Pontificia Universidad Católica de Chile",4.64425508672944,1
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Universidad de Chile",3.852060865577915,2
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Cornershop",25.580620033796926,3
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.567183228992044,1
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Professor",2.3990529655981723,2
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Nurse",2.195223234846331,3
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Teacher",1.938166652636801,4
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.929280719818696,5
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Full Stack Engineer",1.7857417805087923,6
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Project Engineer",1.6148935395415145,7
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Kinesiologist",1.3190743363718969,8
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Commercial Associate",1.165962437403628,9
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Product Manager",1.0538524535159635,10
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Clinical Psychologist",1.0382582363333956,11
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Community Manager",0.9341381681947332,12
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Attorney",0.9291631702119264,13
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Office Manager",0.8759424074275709,14
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Key Account Manager",0.8715749277123904,15
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Psychologist",0.8357845497315277,16
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.8261497213173158,17
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Assignment Manager",0.789652732121854,18
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.7825922990093881,19
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.7814220585227356,20
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Legal Advice",-1,2
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Legal Research",-1,3
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Team Leadership",-1,4
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Adobe Illustrator",-1,5
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Negotiation",-1,6
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,7
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Microsoft Project",-1,8
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"MySQL",-1,9
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Nursing",-1,10
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Rehabilitation",-1,11
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Psychotherapy",-1,12
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Physical Therapy",-1,13
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Digital Marketing",-1,14
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Node.js",-1,15
+2020-08-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"React.js",-1,16

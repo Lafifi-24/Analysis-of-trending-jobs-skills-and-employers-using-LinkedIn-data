@@ -1,0 +1,27 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Fidelity Investments",4.433252228827211,1
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Liberty Mutual Insurance",2.882335155042849,2
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Citizens",4.034164724473775,3
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Homesite Insurance",15.985529514039493,4
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"John Hancock",4.0090245013001145,5
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Wellington Management",4.746152278947709,6
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Northwestern Mutual",20.860503987814702,7
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Employers,"Santander Bank, N.A.",2.0503046175780457,8
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Software Engineer",3.969607143151234,1
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Customer Service Representative",3.3816692515185585,2
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Financial Advisor",2.542447234069812,3
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Investment Analyst",2.508701828742552,4
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Financial Analyst",1.588202542586109,5
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Mortgage Loan Officer",1.44736929485426,6
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Financial Representative",1.4251918594493478,7
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Jobs,"Insurance Agent",1.3555836539941324,8
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Financial Analysis",-1,2
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Customer Satisfaction",-1,3
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Financial Reporting",-1,4
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Retirement Planning",-1,5
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Investments",-1,6
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Life Insurance",-1,7
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,8
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Mortgage Lending",-1,9
+2020-07-01,us,"United States","Greater Boston","Finance",Top Trending Skills,"Financial Modeling",-1,10

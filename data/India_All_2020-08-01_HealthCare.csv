@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Optum",17.347412073226195,1
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Novartis",6.912766730551273,2
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"IQVIA",3.557584735277915,3
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"UnitedHealth Group",2.908322517591658,4
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"R1 RCM",11.43779870810078,5
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Eli Lilly and Company",23.796004187085764,6
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Indegene",14.0535414098029,7
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Dr. Reddy's Laboratories",3.4070117948979988,8
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Philips",3.2256903135823753,9
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"SUN PHARMA",2.8073515005452827,10
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Cipla",2.194235503295378,11
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Alembic Pharmaceuticals Limited",4.125184364876111,12
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Novo Nordisk",4.914298083638082,13
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Intas Pharmaceuticals",3.0026813459000783,14
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"GSK",4.6857174834783795,15
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Pfizer",3.377849899695252,16
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Biocon",3.216531737131763,17
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Parexel",3.172961956518222,18
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"Merck Group",7.131764345038083,19
+2020-08-01,in,"India","All","Health Care",Top Trending Employers,"MACLEODS PHARMACEUTICALS LTD.",3.8475897612848233,20
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Software Engineer",7.359505670097008,1
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Sales Manager",2.3354558121776514,2
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Human Resources Executive",1.4945410064638962,3
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Medical Officer",1.1457866135043853,4
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Quality Assurance Manager",1.1172975812437724,5
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"General Manager",0.9850718022936334,6
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Sales Executive",0.9839788539187637,7
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Business Development Manager",0.969813763031999,8
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Human Resources Manager",0.9558994538018789,9
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Business Manager",0.9231031392051824,10
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Medical Doctor",0.8809929643577642,11
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Psychologist",0.87624319946038,12
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Data Analyst",0.8726443962763101,13
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Product Manager",0.8312169591095215,14
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Project Manager",0.8265853282524481,15
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Marketing Executive",0.8122819938469855,16
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Operations Manager",0.7995861511590701,17
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Quality Assurance Officer",0.7985300019726171,18
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Medical Coder",0.7673969264895959,19
+2020-08-01,in,"India","All","Health Care",Top Trending Jobs,"Business Analyst",0.7389127891670005,20
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"SQL",-1,1
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"JavaScript",-1,2
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Sales Management",-1,3
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Business Analysis",-1,4
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Recruiting",-1,5
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Team Leadership",-1,6
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Employee Relations",-1,7
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Operations Management",-1,8
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Requirements Analysis",-1,9
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Data Analysis",-1,10
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Employee Engagement",-1,11
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,12
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Requirements Gathering",-1,13
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Tableau",-1,14
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Market Research",-1,15
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Quality System",-1,16
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Product Strategy",-1,17
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Pharmaceutical Sales",-1,18
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Medical Coding",-1,19
+2020-08-01,in,"India","All","Health Care",Top Trending Skills,"Counseling Psychology",-1,20

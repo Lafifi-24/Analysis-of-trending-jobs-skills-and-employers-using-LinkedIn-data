@@ -1,0 +1,23 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Kaiser Permanente",2.6871803931960567,1
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Genentech",4.127850870995491,2
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Health Care",4.6694830101408495,3
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Gilead Sciences",4.425703342305307,4
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Sutter Health",3.995133996113761,5
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Intuitive",4.720863399677984,6
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Abbott",5.407924257556637,7
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Cepheid",10.575114674468065,8
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Children's Health | Lucile Packard Children's Hospital Stanford",4.337562886073685,9
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Roche",4.958134813213907,10
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Guardant Health",17.359680424095956,11
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Natera",14.363213401273242,12
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"BioMarin Pharmaceutical Inc.",4.021246957254267,13
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Nurse",8.039969697118126,1
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Software Engineer",2.7846552690822803,2
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Project Manager",1.2531884599107033,4
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Construction Management",-1,2
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Public Speaking",-1,3
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nursing",-1,4
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nonprofit Organizations",-1,5
+2020-05-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,6

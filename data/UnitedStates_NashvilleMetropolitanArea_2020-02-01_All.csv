@@ -1,0 +1,46 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Employers,"Vanderbilt University Medical Center",4.154010159670744,1
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Employers,"HCA Healthcare",3.7039764967354003,2
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Employers,"Vanderbilt University",4.058427140785685,3
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Employers,"Amazon",14.400149535304397,4
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Employers,"State of Tennessee",4.118564366698717,5
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Employers,"Asurion",2.634917819298404,6
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",2.520153323742903,1
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.9358314275307549,2
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.871329877408363,3
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Software Engineer",1.8221125234251518,4
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Nurse",1.8194113058386272,5
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Account Executive",1.4107555393563433,6
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Sales Manager",1.3454052382667412,7
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Accountant",1.1683850302864538,8
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Teacher",0.9101660848550097,9
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.9006876523243914,10
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.843599854645041,11
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"General Manager",0.7213108055293482,12
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.6598260885132567,14
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Financial Analyst",0.6571176457590306,15
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Director Of Operations",0.6279702722015819,16
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Office Manager",0.589103002388076,17
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.5860275239388811,18
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Sales Director",0.5682246930734303,19
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Jobs,"Attorney",0.5354087097498931,20
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Team Building",-1,8
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,9
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,10
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,11
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Civil Litigation",-1,12
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,13
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,14
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,15
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,16
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Office Administration",-1,17
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Financial Analysis",-1,18
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,19
+2020-02-01,us,"United States","Nashville Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,20

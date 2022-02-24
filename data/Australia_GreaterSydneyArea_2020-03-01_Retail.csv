@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,au,"Australia","Greater Sydney Area","Retail",Top Trending Employers,"Woolworths Supermarkets",5.527071444432987,1
+2020-03-01,au,"Australia","Greater Sydney Area","Retail",Top Trending Jobs,"Store Manager",5.707574697696859,1
+2020-03-01,au,"Australia","Greater Sydney Area","Retail",Top Trending Jobs,"Customer Service Representative",4.719280102565658,2
+2020-03-01,au,"Australia","Greater Sydney Area","Retail",Top Trending Skills,"Store Management",-1,1
+2020-03-01,au,"Australia","Greater Sydney Area","Retail",Top Trending Skills,"Visual Merchandising",-1,2
+2020-03-01,au,"Australia","Greater Sydney Area","Retail",Top Trending Skills,"Time Management",-1,3

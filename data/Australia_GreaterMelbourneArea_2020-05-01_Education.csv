@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"University of Melbourne",3.3764013439014593,1
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"Monash University",3.5345173446842604,2
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"RMIT University",2.6809216388050667,3
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"Deakin University",4.231024114329811,4
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"Department of Education & Training, Victoria",3.176427192863519,5
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"Swinburne University of Technology",3.138434346991105,6
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"La Trobe University",2.7552054863318896,7
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"Victoria University",3.1361836808220973,8
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Jobs,"Teacher",8.915242777876815,1
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Jobs,"Lecturer",5.503126654230442,2
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Jobs,"Teaching Associate",3.1024971278250377,3
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Jobs,"Postdoctoral Researcher",2.641757323827123,4
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-05-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Skills,"Scientific Writing",-1,3

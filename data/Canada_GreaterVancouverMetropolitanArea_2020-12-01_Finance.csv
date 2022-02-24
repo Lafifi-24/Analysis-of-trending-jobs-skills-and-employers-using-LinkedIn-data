@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Employers,"KPMG Canada",9.544830129786124,1
+2020-12-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Employers,"TD",4.062450254162931,2
+2020-12-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Employers,"RBC",3.0661018505746003,3
+2020-12-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Jobs,"Accountant",5.084656240779192,1
+2020-12-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",4.362838240093961,2
+2020-12-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Skills,"Financial Reporting",-1,1
+2020-12-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Skills,"Investments",-1,2
+2020-12-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Skills,"Financial Planning",-1,3

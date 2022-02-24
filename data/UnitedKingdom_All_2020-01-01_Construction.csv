@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Balfour Beatty plc",4.751691190706053,1
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Amey",5.056815836960391,2
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Jacobs",3.2616721848838695,3
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Kier Group",4.868704036123859,4
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Mott MacDonald",4.486521761797613,5
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Mace",5.187548570468473,6
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Turner & Townsend",5.374141936939082,7
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Berkeley Group Plc",11.438247519725294,8
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Arcadis",3.2177794498150245,9
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Costain Group PLC",5.20060002937825,10
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"WSP in the UK",2.7451625462040203,11
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Morgan Sindall Construction & Infrastructure",5.561751109012866,12
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Sir Robert McAlpine",7.968620433088024,13
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Wates Group",6.295987387483071,14
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Howdens",4.032373305790961,15
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"J. Murphy & Sons Limited",6.57079865924117,16
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Bellway Homes",7.8441438898032585,17
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Persimmon Homes",6.291670402553224,18
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Tarmac",3.7600470955111605,19
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Employers,"Barratt Developments plc",4.549357789116024,20
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Project Manager",6.913832178042821,1
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Quantity Surveyor",4.971029589516188,2
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Contract Manager",2.582955123338379,3
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Sales Manager",2.0609530564895695,4
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Business Development Manager",1.67350405205876,5
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Commercial Manager",1.5367646342545445,6
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Operations Manager",1.4280070047757114,7
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Site Engineer",1.2914965221419967,8
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Design Manager",1.2506333494103998,9
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Electrician",1.2114415621915353,10
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Civil Engineer",1.1845074034907266,11
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Sales Executive",1.1260061809567472,12
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Construction Manager",1.069772524852542,13
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Construction Site Manager",1.0403795631483777,14
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Account Manager",1.0370983736195243,15
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Office Manager",0.9011935846159419,16
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Project Engineer",0.8878539900504174,17
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Buyer",0.8538405792271673,18
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Director Of Operations",0.8119554250797417,19
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Jobs,"Scaffolder",0.794758104768593,20
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Account Management",-1,1
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Sales Management",-1,2
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Operations Management",-1,3
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Stakeholder Management",-1,4
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Project Delivery",-1,5
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Change Management",-1,7
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Contract Management",-1,8
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Quantity Surveying",-1,9
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Sales Process",-1,10
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Cost Management",-1,11
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Office Administration",-1,12
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Electrical Wiring",-1,13
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Contract Negotiation",-1,14
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Project Engineering",-1,15
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Procurement",-1,16
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Commercial Management",-1,17
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Electricity",-1,18
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Construction Management",-1,19
+2020-01-01,gb,"United Kingdom","All","Construction",Top Trending Skills,"Diary Management",-1,20

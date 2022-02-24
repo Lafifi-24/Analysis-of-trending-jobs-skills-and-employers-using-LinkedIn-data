@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Commonwealth Bank",2.984430084935158,1
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Macquarie Group",4.74460908847363,2
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Westpac",3.0794107913896864,3
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"KPMG Australia",7.6514092453562235,4
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"University of Sydney",2.5929842498721465,5
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"UNSW",2.848358733174611,6
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Macquarie University",4.141679205325344,7
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"NSW Department of Education",2.460046600388384,8
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Canva",14.822550285320283,9
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Deloitte Australia",4.381201245131866,10
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Atlassian",5.841416400441997,11
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"PwC Australia",4.296833023499044,12
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Optus",2.7285712367421535,13
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"IAG",4.000215218110533,14
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Lendlease",3.9186592343328726,15
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"NSW Department of Customer Service",5.733300600564504,16
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"University of Technology Sydney",2.071649546780219,17
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Accenture",8.180387685528617,18
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"NSW Department of Planning, Industry and Environment",2.675951658546309,19
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Amazon Web Services (AWS)",3.412089016427707,20
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Software Engineer",2.5550807780495752,1
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Project Manager",2.325807923001643,2
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Business Analyst",1.735427980821073,3
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Business Development Manager",1.6058332609800614,4
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Account Manager",1.4722436608131397,5
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Account Executive",0.92884456893252,6
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Teacher",0.9135621996640425,7
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Accountant",0.9061935928568339,8
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Marketing Manager",0.7825193835138186,9
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Customer Service Representative",0.7719856984673137,10
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"General Manager",0.7512473256879074,11
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Product Manager",0.7494087966638621,12
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Operations Manager",0.7325364250475568,13
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Lawyer",0.6987278869357688,14
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Salesperson",0.6829663671491232,15
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Sales Manager",0.6561559387901631,16
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Paralegal",0.6255442361680745,17
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Marketing Coordinator",0.49696223429905595,18
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Data Analyst",0.48596498621323253,19
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Project Engineer",0.4642692649430684,20
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Teaching",-1,1
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Account Management",-1,2
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Business Analysis",-1,4
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Sales Management",-1,5
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"JavaScript",-1,6
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Operations Management",-1,7
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"MYOB",-1,8
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Stakeholder Management",-1,9
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Project Delivery",-1,10
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Marketing Strategy",-1,11
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Legal Advice",-1,12
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Change Management",-1,13
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Legal Research",-1,14
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Requirements Gathering",-1,15
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Time Management",-1,16
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Digital Marketing",-1,17
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Project Engineering",-1,18
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Social Media Marketing",-1,19
+2021-03-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Data Analysis",-1,20

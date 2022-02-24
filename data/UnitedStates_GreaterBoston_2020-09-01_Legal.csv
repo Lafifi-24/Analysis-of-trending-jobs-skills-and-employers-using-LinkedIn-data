@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Boston","Legal",Top Trending Jobs,"Attorney",18.941784801627534,1
+2020-09-01,us,"United States","Greater Boston","Legal",Top Trending Jobs,"Paralegal",13.907623963522997,2
+2020-09-01,us,"United States","Greater Boston","Legal",Top Trending Jobs,"Law Clerk",9.046522518819888,3
+2020-09-01,us,"United States","Greater Boston","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-09-01,us,"United States","Greater Boston","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2020-09-01,us,"United States","Greater Boston","Legal",Top Trending Skills,"Legal Research",-1,3

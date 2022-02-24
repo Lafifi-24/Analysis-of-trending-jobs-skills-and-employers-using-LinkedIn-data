@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Facebook",7.782991999389094,1
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Apple",4.4351238105514526,2
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Tesla",7.048274051722949,3
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Kaiser Permanente",2.7629872971904734,4
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Amazon",8.064260781933244,5
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"University of California, Berkeley",7.315569296994867,6
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Amazon Web Services (AWS)",11.097290909564338,7
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Stanford University",4.0949170122843634,8
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Stanford Health Care",5.504552985074,9
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"University of California, San Francisco",4.240526249831014,10
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Genentech",3.579281154625021,11
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Uber",4.911070283457078,12
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Oracle",3.7829237759678995,13
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"NVIDIA",5.745851658937899,14
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Workday",4.693891274070779,15
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Microsoft",7.573662503055513,16
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Compass",8.471384155587662,17
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Pacific Gas and Electric Company",4.3336318842798605,18
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"Palo Alto Networks",8.230833913046867,19
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Employers,"VMware",4.892979684858952,20
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Software Engineer",8.830484495559299,1
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Product Manager",1.4622182129163945,3
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Project Manager",1.3945165810628624,4
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Real Estate Agent",1.1347924861177818,5
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Program Manager",1.0633847304915394,6
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Account Executive",1.0210656487762302,7
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Recruiter",0.8593754275833266,8
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Nurse",0.8580151370964536,9
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Data Scientist",0.8428726707162467,10
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Account Manager",0.808570039589999,11
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Teacher",0.7486449993860121,12
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Product Designer",0.6542920539706291,13
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Accountant",0.6285068502620771,14
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Data Analyst",0.5802041406362493,15
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Operations Manager",0.5532040801604384,16
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Engineering Manager",0.5355438420740117,17
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Salesperson",0.534212162642985,18
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Attorney",0.5137976203912155,19
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Jobs,"Sales Manager",0.48979125108634375,20
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Account Management",-1,4
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Operations Management",-1,8
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Team Building",-1,9
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Legal Writing",-1,10
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Recruiting",-1,11
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Construction Management",-1,12
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Program Management",-1,13
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Civil Litigation",-1,14
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Account Reconciliation",-1,15
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Sales Operations",-1,16
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"General Ledger",-1,17
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Data Analysis",-1,18
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Public Speaking",-1,19
+2020-02-01,us,"United States","San Francisco Bay Area","All",Top Trending Skills,"Interviewing",-1,20

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Discovery Limited",2.599290028086377,1
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Absa Group",1.1574383536956758,2
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"University of Cape Town",3.551748781502309,3
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"PwC",5.269616996130179,4
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"University of Pretoria/Universiteit van Pretoria",4.04243769595936,5
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"PwC South Africa",7.246910233868166,6
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"University of Johannesburg",3.7171686110783577,7
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Standard Bank Group",1.1051771512389168,8
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"University of the Witwatersrand",3.2029723235202328,9
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Entelect",11.684783552328462,10
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"FNB South Africa",0.8030305387217178,11
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Old Mutual South Africa",2.1386463948379917,12
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Liberty Group South Africa",3.178661913552071,13
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Capitec Bank",1.7860127842605544,14
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Stellenbosch University",3.6785331629337574,15
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Anglo American",2.343860655406015,16
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"National Prosecuting Authority",19.136672587016115,17
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"Sanlam",1.5673583093031376,18
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"University of the Free State",4.793254010636184,19
+2021-03-01,za,"South Africa","All","All",Top Trending Employers,"OUTsurance",4.006844403588219,20
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Software Engineer",3.634836781534849,1
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Attorney",2.0986220301731273,2
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Financial Advisor",1.5787851650066016,3
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Salesperson",1.4228896282109411,4
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Project Manager",1.412175281770419,5
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Lecturer",1.3531080744169595,6
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Teacher",1.3161004902739548,7
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Accountant",1.1956202476806086,8
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Business Development Manager",1.1696700485493037,9
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Sales Executive",1.1202032427065678,10
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Account Manager",1.055299590368587,11
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Sales Manager",0.9968005860507785,12
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Business Analyst",0.9692589448247831,13
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Sales Consultant",0.9447572108086743,14
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Operations Manager",0.8486225999248566,15
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Graphic Designer",0.7002120614728782,16
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Pharmacist",0.6847934340621795,17
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Finance Manager",0.6817901541304331,18
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Marketing Manager",0.6780167735512346,19
+2021-03-01,za,"South Africa","All","All",Top Trending Jobs,"Customer Service Representative",0.6103852750687444,20
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Teaching",-1,1
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Financial Accounting",-1,2
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Financial Reporting",-1,3
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Project Planning",-1,4
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Sales Management",-1,5
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"JavaScript",-1,6
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Legal Research",-1,7
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"C#",-1,8
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Legal Writing",-1,9
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Operations Management",-1,10
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Account Management",-1,11
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Business Analysis",-1,12
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Curriculum Development",-1,13
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Logo Design",-1,14
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Financial Planning",-1,15
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Higher Education",-1,16
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Contract Management",-1,17
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Marketing Strategy",-1,18
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Retirement Planning",-1,19
+2021-03-01,za,"South Africa","All","All",Top Trending Skills,"Requirements Analysis",-1,20

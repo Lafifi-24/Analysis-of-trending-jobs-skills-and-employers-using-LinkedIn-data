@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Grand Rapids Metropolitan Area","Education",Top Trending Employers,"Grand Valley State University",9.057016060891762,1
+2020-09-01,us,"United States","Grand Rapids Metropolitan Area","Education",Top Trending Jobs,"Professor",12.88803079553111,1
+2020-09-01,us,"United States","Grand Rapids Metropolitan Area","Education",Top Trending Jobs,"Teacher",11.152154846002487,2
+2020-09-01,us,"United States","Grand Rapids Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Grand Rapids Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,us,"United States","Grand Rapids Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

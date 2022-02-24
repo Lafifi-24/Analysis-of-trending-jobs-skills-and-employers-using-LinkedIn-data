@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,za,"South Africa","All","Education",Top Trending Employers,"University of Cape Town",1.7173280836387455,1
+2021-01-01,za,"South Africa","All","Education",Top Trending Employers,"Construct",33.22622896686727,2
+2021-01-01,za,"South Africa","All","Education",Top Trending Jobs,"Lecturer",9.947714421310797,1
+2021-01-01,za,"South Africa","All","Education",Top Trending Jobs,"Teacher",8.177191788140489,2
+2021-01-01,za,"South Africa","All","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,za,"South Africa","All","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-01-01,za,"South Africa","All","Education",Top Trending Skills,"Higher Education",-1,3

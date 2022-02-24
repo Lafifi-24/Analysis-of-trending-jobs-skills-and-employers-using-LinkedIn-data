@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Health Care",Top Trending Employers,"Novo Nordisk",3.8730450746508502,1
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Health Care",Top Trending Employers,"LEO Pharma",5.295258342800594,2
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Health Care",Top Trending Employers,"Rigshospitalet",2.804154381809018,3
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Health Care",Top Trending Jobs,"Project Manager",4.555852228387914,1
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",3.675711067158618,2
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Health Care",Top Trending Skills,"Project Planning",-1,1
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Health Care",Top Trending Skills,"Change Management",-1,2
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,3

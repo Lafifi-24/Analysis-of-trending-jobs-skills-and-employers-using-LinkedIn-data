@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,gb,"United Kingdom","Greater Nottingham","All",Top Trending Employers,"University of Nottingham",2.5230332157421023,1
+2021-03-01,gb,"United Kingdom","Greater Nottingham","All",Top Trending Employers,"Nottingham Trent University",3.1922084959588766,2
+2021-03-01,gb,"United Kingdom","Greater Nottingham","All",Top Trending Jobs,"Software Engineer",3.5830014499168965,1
+2021-03-01,gb,"United Kingdom","Greater Nottingham","All",Top Trending Jobs,"Project Manager",2.789606586810724,2
+2021-03-01,gb,"United Kingdom","Greater Nottingham","All",Top Trending Skills,"JavaScript",-1,1
+2021-03-01,gb,"United Kingdom","Greater Nottingham","All",Top Trending Skills,"Stakeholder Management",-1,2
+2021-03-01,gb,"United Kingdom","Greater Nottingham","All",Top Trending Skills,"Project Delivery",-1,3

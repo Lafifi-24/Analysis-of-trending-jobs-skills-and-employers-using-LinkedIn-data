@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",4.7701250872570915,1
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Real Estate",Top Trending Employers,"CBRE",5.032376061552494,2
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Real Estate",Top Trending Employers,"Fathom Realty",11.562995779629889,3
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Real Estate",Top Trending Employers,"eXp Realty",8.070279071763032,4
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Real Estate",Top Trending Jobs,"Real Estate Agent",41.80217893473139,1
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Real Estate",Top Trending Jobs,"Property Manager",3.821371102881612,2
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Real Estate",Top Trending Skills,"Property Management",-1,3

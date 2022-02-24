@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,ie,"Ireland","All","Finance",Top Trending Employers,"AIB",1.586808790723987,1
+2021-03-01,ie,"Ireland","All","Finance",Top Trending Employers,"Bank of Ireland",1.4227199340929422,2
+2021-03-01,ie,"Ireland","All","Finance",Top Trending Jobs,"Software Engineer",5.061292835115451,1
+2021-03-01,ie,"Ireland","All","Finance",Top Trending Skills,"JavaScript",-1,1

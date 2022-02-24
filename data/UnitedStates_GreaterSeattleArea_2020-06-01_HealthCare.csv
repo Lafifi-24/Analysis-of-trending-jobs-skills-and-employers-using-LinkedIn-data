@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seattle Children's",3.4074129910682553,1
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Bristol Myers Squibb",20.5884376061031,2
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"MultiCare Health System",4.183918292372435,3
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seagen",7.812813196268769,4
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Providence Health & Services",3.796623433990667,5
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Swedish",2.199865519501061,6
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"UW Medicine",3.969227531742249,7
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Nurse",7.805697865987078,1
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Software Engineer",2.156324941095404,2
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-06-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,3

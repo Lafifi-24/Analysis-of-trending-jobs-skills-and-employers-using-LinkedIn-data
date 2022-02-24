@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Cleveland","Education",Top Trending Employers,"Case Western Reserve University",5.05781602276409,1
+2020-02-01,us,"United States","Greater Cleveland","Education",Top Trending Employers,"Kent State University",4.225981820478361,2
+2020-02-01,us,"United States","Greater Cleveland","Education",Top Trending Employers,"Cleveland State University",5.1892023625340284,3
+2020-02-01,us,"United States","Greater Cleveland","Education",Top Trending Jobs,"Professor",12.38972044643529,1
+2020-02-01,us,"United States","Greater Cleveland","Education",Top Trending Jobs,"Teacher",11.481540381471914,2
+2020-02-01,us,"United States","Greater Cleveland","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Greater Cleveland","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-02-01,us,"United States","Greater Cleveland","Education",Top Trending Skills,"Higher Education",-1,3

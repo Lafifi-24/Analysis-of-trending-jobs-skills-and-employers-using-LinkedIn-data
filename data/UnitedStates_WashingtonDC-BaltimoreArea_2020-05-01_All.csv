@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Amazon Web Services (AWS)",15.788705981567416,1
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"SAIC",14.198850295228043,2
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Amazon",18.91948019152505,3
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Booz Allen Hamilton",4.011508065391157,4
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Capital One",5.090479443669158,5
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Deloitte",3.4232875886727703,6
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"General Dynamics Information Technology",4.941891432648928,7
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"CACI International Inc",5.2949002278154325,8
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"United States Department of Defense",4.0134279117901235,9
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Microsoft",9.733300301724556,10
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Fannie Mae",4.549954346546916,11
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"ManTech",7.587651932150802,12
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Freddie Mac",4.609282194455654,13
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"FDA",3.6932455258868,14
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"Perspecta",8.683364324565444,15
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"U.S. Department of Veterans Affairs",4.5198369862721695,16
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"The National Institutes of Health",5.3216089054310345,17
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"US Army",2.4019681642556967,18
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"U.S. Department of Justice",4.248377283369269,19
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Employers,"U.S. Department of Homeland Security",3.528064278854587,20
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Software Engineer",3.4162842421668165,1
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Project Manager",2.0153563288223064,2
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Program Manager",1.5650833273630644,3
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"System Engineer",1.112857358652269,4
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Real Estate Agent",1.1108801942073023,5
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Account Executive",0.9486243776274901,6
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Nurse",0.8893491413437196,7
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Account Manager",0.8467169387065203,8
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Attorney",0.7633770040114388,10
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Recruiter",0.7054542787815444,11
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Business Analyst",0.6545107387424233,12
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Data Analyst",0.6426778480455554,13
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Salesperson",0.6124660698339736,14
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Data Scientist",0.5945576595622581,15
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Financial Analyst",0.5834874630996056,16
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Accountant",0.5806922334992733,17
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Writer",0.5384571525832239,18
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Editor",0.5168461384949654,19
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Jobs,"Lawyer",0.49568219754906234,20
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Account Management",-1,2
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Investment Properties",-1,3
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,4
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Writing",-1,5
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Legal Writing",-1,6
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Editing",-1,7
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Recruiting",-1,8
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Construction Management",-1,9
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Program Management",-1,10
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Civil Litigation",-1,11
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Account Reconciliation",-1,12
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Business Analysis",-1,13
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Financial Analysis",-1,14
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"General Ledger",-1,15
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Data Analysis",-1,16
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Public Speaking",-1,17
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Interviewing",-1,18
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Financial Reporting",-1,19
+2020-05-01,us,"United States","Washington DC-Baltimore Area","All",Top Trending Skills,"Cross-functional Team Leadership",-1,20

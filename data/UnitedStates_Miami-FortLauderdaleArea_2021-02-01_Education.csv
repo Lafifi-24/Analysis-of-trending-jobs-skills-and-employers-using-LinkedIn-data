@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Education",Top Trending Employers,"University of Miami",2.175320646431169,1
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Education",Top Trending Employers,"Florida International University",1.8306765238423863,2
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Education",Top Trending Jobs,"Professor",10.13787321326054,1
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Education",Top Trending Jobs,"Teacher",9.889688856340685,2
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Education",Top Trending Skills,"Higher Education",-1,3

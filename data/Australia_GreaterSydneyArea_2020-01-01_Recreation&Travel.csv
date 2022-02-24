@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,au,"Australia","Greater Sydney Area","Recreation & Travel",Top Trending Employers,"Qantas",3.4708471681499993,1
+2020-01-01,au,"Australia","Greater Sydney Area","Recreation & Travel",Top Trending Jobs,"Chef",4.803075927568885,1
+2020-01-01,au,"Australia","Greater Sydney Area","Recreation & Travel",Top Trending Jobs,"Bartender",3.592445932799514,2
+2020-01-01,au,"Australia","Greater Sydney Area","Recreation & Travel",Top Trending Jobs,"Food Server",3.1424748634142707,3
+2020-01-01,au,"Australia","Greater Sydney Area","Recreation & Travel",Top Trending Jobs,"Customer Service Representative",2.785362973774231,4
+2020-01-01,au,"Australia","Greater Sydney Area","Recreation & Travel",Top Trending Skills,"Time Management",-1,1
+2020-01-01,au,"Australia","Greater Sydney Area","Recreation & Travel",Top Trending Skills,"Culinary Skills",-1,2
+2020-01-01,au,"Australia","Greater Sydney Area","Recreation & Travel",Top Trending Skills,"Menu Development",-1,3
+2020-01-01,au,"Australia","Greater Sydney Area","Recreation & Travel",Top Trending Skills,"Bartending",-1,4

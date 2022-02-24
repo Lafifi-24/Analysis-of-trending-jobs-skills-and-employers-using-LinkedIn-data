@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Boston","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",6.374921840149389,1
+2020-11-01,us,"United States","Greater Boston","Real Estate",Top Trending Employers,"Compass",8.980609223954525,2
+2020-11-01,us,"United States","Greater Boston","Real Estate",Top Trending Employers,"Coldwell Banker",15.2645666263131,3
+2020-11-01,us,"United States","Greater Boston","Real Estate",Top Trending Jobs,"Real Estate Agent",49.52435900370395,1
+2020-11-01,us,"United States","Greater Boston","Real Estate",Top Trending Jobs,"Property Manager",4.647504599790009,2
+2020-11-01,us,"United States","Greater Boston","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-11-01,us,"United States","Greater Boston","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-11-01,us,"United States","Greater Boston","Real Estate",Top Trending Skills,"Property Management",-1,3

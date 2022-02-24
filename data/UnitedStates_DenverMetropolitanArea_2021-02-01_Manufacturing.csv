@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Employers,"Lockheed Martin",1.958143123461486,1
+2021-02-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Employers,"Ball Aerospace",3.5475819341544272,2
+2021-02-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.973254132473637,1
+2021-02-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1

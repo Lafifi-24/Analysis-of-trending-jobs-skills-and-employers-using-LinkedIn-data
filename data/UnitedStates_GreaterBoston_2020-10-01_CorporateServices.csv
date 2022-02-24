@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"PwC",3.696715158861786,1
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Bain & Company",9.085252012113592,2
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Deloitte",4.241016976869634,3
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Staples",3.4578280948601137,4
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"McKinsey & Company",6.605296485711416,5
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Accountant",3.5955952553299086,1
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Project Manager",2.7883892837050053,2
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Assurance Associate",2.7649855158653915,3
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Security Officer",2.537723849620829,4
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Audit Associate",1.7031605128510354,5
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Financial Analyst",1.6801737549908529,6
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Construction Management",-1,1
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,2
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Financial Analysis",-1,3
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"General Ledger",-1,4
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Financial Reporting",-1,5
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Security",-1,6
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Physical Security",-1,7
+2020-10-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Auditing",-1,8

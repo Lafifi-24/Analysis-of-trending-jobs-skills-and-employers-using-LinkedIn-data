@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"The Home Depot",3.955096777349972,1
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Macy's",8.948453163730148,2
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Walmart",5.084583911157078,3
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Target",6.662860975396247,4
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Starbucks",8.468272133954295,5
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Publix Super Markets",5.137624624014972,6
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Salesperson",5.552943733838248,1
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Software Engineer",5.311819658221177,2
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Store Manager",4.713049858822971,3
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Cashier",4.224632954394325,4
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"JavaScript",-1,1
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"Merchandising",-1,2
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"Store Management",-1,3
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"Time Management",-1,4
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"Cashiering",-1,5

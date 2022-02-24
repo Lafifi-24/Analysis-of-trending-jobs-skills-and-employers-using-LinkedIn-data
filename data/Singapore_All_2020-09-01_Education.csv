@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,sg,"Singapore","All","Education",Top Trending Employers,"National University of Singapore",8.397874999689618,1
+2020-09-01,sg,"Singapore","All","Education",Top Trending Employers,"Nanyang Technological University",6.492652182078699,2
+2020-09-01,sg,"Singapore","All","Education",Top Trending Employers,"A*STAR - Agency for Science, Technology and Research",8.48753972213919,3
+2020-09-01,sg,"Singapore","All","Education",Top Trending Employers,"Ministry of Education, Singapore (MOE)",3.8342995834509943,4
+2020-09-01,sg,"Singapore","All","Education",Top Trending Jobs,"Lecturer",8.205823444046425,1
+2020-09-01,sg,"Singapore","All","Education",Top Trending Jobs,"Teacher",7.429450713058849,2
+2020-09-01,sg,"Singapore","All","Education",Top Trending Jobs,"Research Engineer",4.24705662595196,3
+2020-09-01,sg,"Singapore","All","Education",Top Trending Jobs,"Professor",4.237357863079961,4
+2020-09-01,sg,"Singapore","All","Education",Top Trending Jobs,"Postdoctoral Researcher",2.558701147996892,5
+2020-09-01,sg,"Singapore","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,sg,"Singapore","All","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,sg,"Singapore","All","Education",Top Trending Skills,"Higher Education",-1,3
+2020-09-01,sg,"Singapore","All","Education",Top Trending Skills,"Python (Programming Language)",-1,4

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,es,"Spain","All","Entertainment",Top Trending Employers,"Grupo Mediapro",4.759468297092672,1
+2020-01-01,es,"Spain","All","Entertainment",Top Trending Jobs,"Editor",5.564075363499139,1
+2020-01-01,es,"Spain","All","Entertainment",Top Trending Jobs,"Software Engineer",2.4344606741033044,2
+2020-01-01,es,"Spain","All","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,es,"Spain","All","Entertainment",Top Trending Skills,"Java",-1,2
+2020-01-01,es,"Spain","All","Entertainment",Top Trending Skills,"Journalism",-1,3
+2020-01-01,es,"Spain","All","Entertainment",Top Trending Skills,"Blogging",-1,4

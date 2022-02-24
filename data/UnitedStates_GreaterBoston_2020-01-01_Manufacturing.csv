@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Boston","Manufacturing",Top Trending Employers,"BAE Systems, Inc.",4.601642220429284,1
+2020-01-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Software Engineer",4.306301934589403,1
+2020-01-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Mechanical Engineer",3.0184215675637285,2
+2020-01-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"System Engineer",2.4232072542104635,3
+2020-01-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Systems Engineering",-1,2
+2020-01-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Integration",-1,3
+2020-01-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,4

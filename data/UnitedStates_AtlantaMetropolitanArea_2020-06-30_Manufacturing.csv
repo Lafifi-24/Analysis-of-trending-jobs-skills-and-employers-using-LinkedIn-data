@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-30,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Lockheed Martin",6.523155988567428,1
+2020-06-30,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",3.827575019531795,1
+2020-06-30,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",2.988900254353523,2
+2020-06-30,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-06-30,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-06-30,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

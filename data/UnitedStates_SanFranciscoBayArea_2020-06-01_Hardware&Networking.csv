@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"NVIDIA",4.242384519742066,1
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Juniper Networks",6.16273518228104,2
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Infineon Technologies",36.90854469217422,3
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Lam Research",5.13687088598813,4
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Intel Corporation",1.1960686755378254,5
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Software Engineer",9.316237973103405,1
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Program Manager",2.2993776716952863,2
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Program Management",-1,2
+2020-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Cross-functional Team Leadership",-1,3

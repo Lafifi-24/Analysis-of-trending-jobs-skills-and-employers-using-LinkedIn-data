@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Software & IT Services",Top Trending Employers,"Ericsson",1.2542415483415594,1
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",5.566639811522223,1
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Software & IT Services",Top Trending Jobs,"Frontend Developer",3.5455678284458045,2
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Software & IT Services",Top Trending Skills,"Git",-1,1
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Software & IT Services",Top Trending Skills,"React.js",-1,2
+2020-12-01,se,"Sweden","Stockholm Metropolitan Area","Software & IT Services",Top Trending Skills,"SASS",-1,3

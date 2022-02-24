@@ -1,0 +1,19 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Shell",2.5301617433938643,1
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Baker Hughes",3.667392181918895,2
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"ExxonMobil",1.7990541073785682,3
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Kinder Morgan, Inc.",5.276438501869768,4
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Schlumberger",1.3658554767846867,5
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Occidental",2.7731368568392716,6
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"bp",1.7325116568473593,7
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Wood",2.781952717343037,8
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Project Manager",2.773521956161999,1
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Accountant",2.0129619676637867,2
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Software Engineer",1.52273482212486,3
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Financial Analyst",1.4695757292939444,4
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"Construction Management",-1,2
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"Account Reconciliation",-1,3
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"Financial Analysis",-1,4
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"General Ledger",-1,5
+2020-02-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"Financial Reporting",-1,6

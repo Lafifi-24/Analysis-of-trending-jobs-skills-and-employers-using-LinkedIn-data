@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Employers,"MIT Lincoln Laboratory",5.242642299775917,1
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Software Engineer",4.37606830896028,1
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"System Engineer",3.459871459400791,2
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Mechanical Engineer",3.022592489827051,3
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Sales Manager",2.094981244354811,4
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Electrical Engineer",1.9956397894068427,5
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Project Manager",1.854778622815036,6
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Construction Management",-1,3
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Sales Operations",-1,4
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Systems Engineering",-1,5
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Integration",-1,6
+2020-10-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,7

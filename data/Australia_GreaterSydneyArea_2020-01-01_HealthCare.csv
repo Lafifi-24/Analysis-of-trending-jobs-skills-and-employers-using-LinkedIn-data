@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,au,"Australia","Greater Sydney Area","Health Care",Top Trending Jobs,"Nurse",4.536639266478477,1
+2020-01-01,au,"Australia","Greater Sydney Area","Health Care",Top Trending Jobs,"Medical Officer",3.0452515996638825,2
+2020-01-01,au,"Australia","Greater Sydney Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,au,"Australia","Greater Sydney Area","Health Care",Top Trending Skills,"Medical Education",-1,2

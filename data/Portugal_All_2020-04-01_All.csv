@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"BNP Paribas",5.795419497959334,1
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Teleperformance",6.731147818468637,2
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Altran",7.874866031105624,3
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Accenture",6.2989390800656,4
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Talkdesk",17.69859779270928,5
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Deloitte",4.499442731133319,6
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"EDP",4.059989827616794,7
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Microsoft",8.76437603822759,8
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"TAP Air Portugal",3.1550742218709744,9
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"nos-sgps",3.4830340342741755,10
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Vodafone",3.5378337017606363,11
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"HCL Technologies",40.062924644015965,12
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Webhelp",14.58826874161924,13
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Lidl Portugal",5.635197029633738,14
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Sitel",5.729170719625283,15
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Affinity Portugal",24.484150640497457,16
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Accenture Portugal",6.020290890358813,17
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"adidas",10.36816360846184,18
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"DefinedCrowd Corp.",31.635664905923132,19
+2020-04-01,pt,"Portugal","All","All",Top Trending Employers,"Trofa Saúde",6.287477796065264,20
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Software Engineer",4.367145680198675,1
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Nurse",1.9891541727056914,2
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Project Manager",1.7993949367421702,3
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Real Estate Consultant",1.5370594407999012,4
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Teacher",1.44361359435057,5
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Architect",0.8753607115415507,6
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Graphic Designer",0.8701844017211668,7
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Account Manager",0.866970245143893,8
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Professor",0.826689474682373,9
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Salesperson",0.7097250121631423,10
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Accountant",0.7080648105287115,11
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Sales Manager",0.7077491847425421,12
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Customer Service Representative",0.6998361521956808,13
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Frontend Developer",0.6632115997584056,14
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Attorney",0.6511545585054751,15
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Receptionist",0.6057630884283509,16
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Medical Doctor",0.5856885813304491,17
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Full Stack Engineer",0.5760171602531972,18
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Information Technology Consultant",0.5656731511506076,19
+2020-04-01,pt,"Portugal","All","All",Top Trending Jobs,"Business Analyst",0.553290329899826,20
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Teaching",-1,1
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"JavaScript",-1,2
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Adobe Illustrator",-1,3
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"C#",-1,4
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Legal Advice",-1,5
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Nursing",-1,6
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Litigation",-1,7
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Higher Education",-1,8
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Architectural Design",-1,9
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Negotiation",-1,10
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Team Leadership",-1,11
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Sales Management",-1,12
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Financial Accounting",-1,13
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Account Management",-1,14
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"SQL",-1,15
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Microsoft Project",-1,16
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Real Estate Transactions",-1,17
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Tourism",-1,18
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"AngularJS",-1,19
+2020-04-01,pt,"Portugal","All","All",Top Trending Skills,"Receptionist Duties",-1,20

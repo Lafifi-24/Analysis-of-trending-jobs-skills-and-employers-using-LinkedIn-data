@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,nl,"Netherlands","Utrecht","Education",Top Trending Employers,"Utrecht University",3.784988144434015,1
+2020-01-01,nl,"Netherlands","Utrecht","Education",Top Trending Jobs,"Teacher",20.040374294046178,1
+2020-01-01,nl,"Netherlands","Utrecht","Education",Top Trending Skills,"Teaching",-1,1

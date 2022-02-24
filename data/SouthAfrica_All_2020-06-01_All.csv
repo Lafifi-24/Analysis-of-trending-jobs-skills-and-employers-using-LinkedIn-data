@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Standard Bank Group",1.7225133127708896,1
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Absa Group",1.2986517785241765,2
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Sanlam",2.6575257859917123,3
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Discovery Limited",2.2074615695793858,4
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Old Mutual South Africa",2.64445590715317,5
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"FNB South Africa",0.8530484974653323,6
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"The Shoprite Group of Companies",4.7578831972407425,7
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Amazon",9.935222606156092,8
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Nedbank",0.8831279205183087,9
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Anglo American",2.56983475087338,10
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"takealot.com",7.479880590392582,11
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Liberty Group South Africa",2.950929983786208,12
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"OUTsurance",4.7067867581951095,13
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Vodacom",1.465286978608017,14
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Telesure Investment Holdings (TIH)",4.088117993546725,15
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Bidvest Facilities Management",13.044482236204614,16
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"City of Cape Town",1.5914057018723882,17
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Amazon Web Services (AWS)",4.70114170402196,18
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Momentum",3.653474566846209,19
+2020-06-01,za,"South Africa","All","All",Top Trending Employers,"Capitec Bank",1.1969572861831832,20
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Software Engineer",3.029042063210584,1
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Financial Advisor",1.8761836038339672,2
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Project Manager",1.5609992158398966,3
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Account Manager",1.153933853511201,4
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Sales Manager",1.1140345790105368,5
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Business Development Manager",1.049930257698856,6
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Sales Executive",0.9841130588233471,7
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Salesperson",0.9740859279686258,8
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Finance Manager",0.9732998339423364,9
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Operations Manager",0.9615971232586588,10
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Accountant",0.9317603142140763,11
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Lecturer",0.8475947197542343,12
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Marketing Manager",0.8222201908710931,13
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Graphic Designer",0.8170354116671863,14
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Business Analyst",0.8117143497377515,15
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Teacher",0.7744326651685083,16
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"General Manager",0.748679003939045,17
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Sales Consultant",0.7171028893396891,18
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Customer Service Representative",0.6687287474678218,19
+2020-06-01,za,"South Africa","All","All",Top Trending Jobs,"Attorney",0.5933871829578529,20
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Teaching",-1,1
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Financial Accounting",-1,2
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Financial Reporting",-1,3
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Project Planning",-1,4
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Sales Management",-1,5
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"JavaScript",-1,6
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Legal Research",-1,7
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"C#",-1,8
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Legal Writing",-1,9
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Operations Management",-1,10
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Account Management",-1,11
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Business Analysis",-1,12
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Curriculum Development",-1,13
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Logo Design",-1,14
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Financial Planning",-1,15
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Higher Education",-1,16
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Contract Management",-1,17
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Marketing Strategy",-1,18
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Retirement Planning",-1,19
+2020-06-01,za,"South Africa","All","All",Top Trending Skills,"Requirements Analysis",-1,20

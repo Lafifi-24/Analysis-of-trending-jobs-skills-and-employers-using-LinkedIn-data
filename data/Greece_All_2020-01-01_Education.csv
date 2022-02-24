@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,gr,"Greece","All","Education",Top Trending Jobs,"Professor",15.445612442802856,1
+2020-01-01,gr,"Greece","All","Education",Top Trending Jobs,"Postdoctoral Researcher",15.074492701171371,2
+2020-01-01,gr,"Greece","All","Education",Top Trending Skills,"Teaching",-1,1

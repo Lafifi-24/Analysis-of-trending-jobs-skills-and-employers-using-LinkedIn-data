@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,ie,"Ireland","All","Health Care",Top Trending Employers,"Health Service Executive",4.5884686024300025,1
+2020-02-01,ie,"Ireland","All","Health Care",Top Trending Employers,"Eli Lilly and Company",11.434916481793566,2
+2020-02-01,ie,"Ireland","All","Health Care",Top Trending Employers,"Pfizer",3.529400851182788,3
+2020-02-01,ie,"Ireland","All","Health Care",Top Trending Jobs,"Nurse",3.664641466488827,1
+2020-02-01,ie,"Ireland","All","Health Care",Top Trending Jobs,"Quality Control Analyst",3.0287376248013143,2
+2020-02-01,ie,"Ireland","All","Health Care",Top Trending Skills,"High-Performance Liquid Chromatography (HPLC)",-1,1
+2020-02-01,ie,"Ireland","All","Health Care",Top Trending Skills,"Laboratory Information Management System (LIMS)",-1,2
+2020-02-01,ie,"Ireland","All","Health Care",Top Trending Skills,"Nursing",-1,3

@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,nl,"Netherlands","Amsterdam","Legal",Top Trending Jobs,"Attorney",23.333099658634918,1
+2020-09-01,nl,"Netherlands","Amsterdam","Legal",Top Trending Jobs,"Lawyer",20.616695899379327,2
+2020-09-01,nl,"Netherlands","Amsterdam","Legal",Top Trending Skills,"Litigation",-1,1
+2020-09-01,nl,"Netherlands","Amsterdam","Legal",Top Trending Skills,"Contract Law",-1,2
+2020-09-01,nl,"Netherlands","Amsterdam","Legal",Top Trending Skills,"Legal Advice",-1,3

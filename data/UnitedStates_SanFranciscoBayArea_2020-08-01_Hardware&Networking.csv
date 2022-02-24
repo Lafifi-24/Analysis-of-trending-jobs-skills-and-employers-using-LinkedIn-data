@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"NVIDIA",5.380201918859129,1
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Lam Research",7.290576902213318,2
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Intel Corporation",1.2986435434265773,3
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Juniper Networks",3.888847101472333,4
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Software Engineer",12.609059901715906,1
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Process Engineer",2.4822739205193165,2
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Design Engineer",1.9775053202766835,3
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Process Engineering",-1,2
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"SOLIDWORKS",-1,3
+2020-08-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Computer-Aided Design (CAD)",-1,4

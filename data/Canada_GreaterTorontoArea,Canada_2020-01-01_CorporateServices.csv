@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Employers,"Deloitte Canada",4.751691351816145,1
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Employers,"Deloitte",5.704358136406777,2
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Employers,"PwC Canada",6.1957825420723545,3
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Jobs,"Accountant",6.85977229087325,1
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Jobs,"Security Guard",6.147805485158667,2
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Jobs,"Security Officer",2.9176900397643735,3
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Jobs,"Concierge",2.617622477391815,4
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Skills,"Financial Reporting",-1,1
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Skills,"Security",-1,2
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Skills,"Physical Security",-1,3
+2020-01-01,ca,"Canada","Greater Toronto Area, Canada","Corporate Services",Top Trending Skills,"Time Management",-1,4

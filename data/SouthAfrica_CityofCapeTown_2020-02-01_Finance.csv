@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,za,"South Africa","City of Cape Town","Finance",Top Trending Employers,"Sanlam",5.70826656588397,1
+2020-02-01,za,"South Africa","City of Cape Town","Finance",Top Trending Employers,"Capitec Bank",4.89548400526142,2
+2020-02-01,za,"South Africa","City of Cape Town","Finance",Top Trending Jobs,"Software Engineer",7.233461914163386,1
+2020-02-01,za,"South Africa","City of Cape Town","Finance",Top Trending Jobs,"Financial Advisor",6.662157152925135,2
+2020-02-01,za,"South Africa","City of Cape Town","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,za,"South Africa","City of Cape Town","Finance",Top Trending Skills,"C#",-1,2
+2020-02-01,za,"South Africa","City of Cape Town","Finance",Top Trending Skills,"Financial Planning",-1,3
+2020-02-01,za,"South Africa","City of Cape Town","Finance",Top Trending Skills,"Retirement Planning",-1,4

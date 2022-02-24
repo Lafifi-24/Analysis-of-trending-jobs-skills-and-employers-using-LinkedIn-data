@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Entertainment",Top Trending Employers,"Spotify",5.633566578282638,1
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Entertainment",Top Trending Jobs,"Software Engineer",10.256108487602011,1
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Entertainment",Top Trending Skills,"Git",-1,1

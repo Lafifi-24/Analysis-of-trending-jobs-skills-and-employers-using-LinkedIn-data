@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon",22.77850777119619,1
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","Software & IT Services",Top Trending Employers,"Route",61.799463662200424,2
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","Software & IT Services",Top Trending Employers,"Qualtrics",5.504703275952611,3
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","Software & IT Services",Top Trending Employers,"Pluralsight",6.09530227176492,4
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",10.667956691685113,1
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","Software & IT Services",Top Trending Jobs,"Account Executive",4.121130949066325,2
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","Salt Lake City Metropolitan Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2

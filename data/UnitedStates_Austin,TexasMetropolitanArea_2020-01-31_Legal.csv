@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-31,us,"United States","Austin, Texas Metropolitan Area","Legal",Top Trending Jobs,"Attorney",26.613994568362404,1
+2020-01-31,us,"United States","Austin, Texas Metropolitan Area","Legal",Top Trending Jobs,"Paralegal",16.449070778721786,2
+2020-01-31,us,"United States","Austin, Texas Metropolitan Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-01-31,us,"United States","Austin, Texas Metropolitan Area","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2020-01-31,us,"United States","Austin, Texas Metropolitan Area","Legal",Top Trending Skills,"Legal Research",-1,3

@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Accenture",5.778755138124916,1
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Capgemini",3.5724979229052525,2
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Tata Consultancy Services",2.4590058899625715,3
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"LTI - Larsen & Toubro Infotech",4.395277357741026,4
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Wipro Limited",4.0362433770561585,5
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"CitiusTech",7.6784870592972485,6
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Infosys",8.406132989675507,7
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Hexaware Technologies",5.512225306804314,8
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"QualityKiosk Technologies Pvt. Ltd.",11.852745352619676,9
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Clover Infotech",8.210523890158603,10
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Amazon",9.056395711254067,11
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Birlasoft",12.652084300542722,12
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Datamatics",4.887423988959682,13
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"eClerx",3.8120728977779628,14
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"ByteDance",23.42726431923835,15
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"Media.net",5.938607043938447,16
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"HCL Technologies",7.603005247094504,17
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"DXC Technology",11.523267751672531,18
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Employers,"BrowserStack",20.45238698393633,19
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Software Engineer",15.325952829612483,1
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"System Engineer",3.446891247011689,2
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Business Analyst",2.2915890512997836,3
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Application Developer",1.9822377587397115,4
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Project Manager",1.414711051463182,5
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Business Development Manager",1.2974974455778274,6
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Data Analyst",1.1687205404536893,7
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Sales Manager",1.077834748088814,8
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Financial Analyst",1.0219627547571168,9
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Web Developer",0.965531986519347,10
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Network Engineer",0.9449630955959423,11
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Software Test Engineer",0.8684515810058855,12
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Human Resources Executive",0.8563879092276261,13
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Test Engineer",0.8372680994887354,14
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Technical Consultant",0.7822667893240395,15
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Technical Support Engineer",0.7585157452560198,16
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Application Development Analyst",0.7484556398353495,17
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Business Development Executive",0.72983871633054,18
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Jobs,"Digital Marketing Executive",0.7057637484255964,19
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"SQL",-1,1
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"JavaScript",-1,2
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Sales Management",-1,3
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Business Analysis",-1,4
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Recruiting",-1,5
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,6
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Team Leadership",-1,7
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Employee Relations",-1,8
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Core Java",-1,9
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Manual Testing",-1,10
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Requirements Analysis",-1,11
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Networking",-1,12
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Data Analysis",-1,13
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,14
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,15
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Financial Analysis",-1,16
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Java",-1,17
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Digital Marketing",-1,18
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Test Automation",-1,19
+2020-02-01,in,"India","Mumbai Metropolitan Region","Software & IT Services",Top Trending Skills,"Regression Testing",-1,20

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Chicago Area","Wellness & Fitness",Top Trending Employers,"CVS Health",3.97018151191565,1
+2020-01-01,us,"United States","Greater Chicago Area","Wellness & Fitness",Top Trending Employers,"Athletico",5.166996044448333,2
+2020-01-01,us,"United States","Greater Chicago Area","Wellness & Fitness",Top Trending Jobs,"Personal Trainer",6.411278801627971,1
+2020-01-01,us,"United States","Greater Chicago Area","Wellness & Fitness",Top Trending Jobs,"Fitness Instructor",4.780500152005985,2
+2020-01-01,us,"United States","Greater Chicago Area","Wellness & Fitness",Top Trending Skills,"Personal Training",-1,1
+2020-01-01,us,"United States","Greater Chicago Area","Wellness & Fitness",Top Trending Skills,"Fitness",-1,2
+2020-01-01,us,"United States","Greater Chicago Area","Wellness & Fitness",Top Trending Skills,"Fitness Instruction",-1,3

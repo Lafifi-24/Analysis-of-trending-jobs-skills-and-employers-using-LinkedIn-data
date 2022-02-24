@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Pennsylvania",2.4796374194157393,1
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Drexel University",3.3028964997757697,2
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Temple University",1.5481298997095632,3
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Delaware",2.089149495882965,4
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Professor",7.863147390900702,1
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Teacher",7.1368152628236325,2
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Postdoctoral Researcher",3.1878185499493754,3
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Teaching",-1,1
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Higher Education",-1,3
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-06-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Cell Culture",-1,5

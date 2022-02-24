@@ -1,0 +1,24 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"OpenClassrooms",14.83387408185064,1
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"CEA",4.626331874181065,2
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"CNRS",4.567279439179054,3
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"INSERM",4.5335383950156185,4
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"Institut Pasteur",5.436119176402973,5
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Postdoctoral Researcher",5.285341422179177,1
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Project Manager",3.869317586575198,2
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Teacher",3.125862729308013,3
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Research Engineer",2.649915597356228,4
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Communications Manager",2.6078211072012962,5
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Education Instructor",2.472895996302369,6
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Professor",1.9743979622761088,7
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Data Analyst",1.9246155138254495,8
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Project Management",-1,1
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Teaching",-1,2
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Social Media",-1,3
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Internal Communications",-1,4
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Training Facilitation",-1,5
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Research and Development (R&D)",-1,6
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"MATLAB",-1,7
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Molecular Biology",-1,8
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"R (Programming Language)",-1,9
+2021-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Tableau",-1,10

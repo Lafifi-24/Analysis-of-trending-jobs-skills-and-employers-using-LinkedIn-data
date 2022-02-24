@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,au,"Australia","Greater Sydney Area","Real Estate",Top Trending Employers,"Lendlease",3.8530167644417896,1
+2020-03-01,au,"Australia","Greater Sydney Area","Real Estate",Top Trending Jobs,"Property Manager",6.697751756950811,1
+2020-03-01,au,"Australia","Greater Sydney Area","Real Estate",Top Trending Jobs,"Real Estate Agent",5.778409010840846,2
+2020-03-01,au,"Australia","Greater Sydney Area","Real Estate",Top Trending Skills,"Property Management",-1,1
+2020-03-01,au,"Australia","Greater Sydney Area","Real Estate",Top Trending Skills,"Investment Properties",-1,2
+2020-03-01,au,"Australia","Greater Sydney Area","Real Estate",Top Trending Skills,"Residential Real Estate",-1,3

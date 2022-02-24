@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Amazon",9.014272779418278,1
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"HSBC",2.3868820854188586,2
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Facebook",9.790809142530392,3
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"UCL",3.712473319884862,4
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Sky",5.2129671695239646,5
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Imperial College London",4.654574280785406,6
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"King's College London",4.675683314354655,7
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Deloitte",4.35148634739077,8
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Accenture",3.9001425571002777,9
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Deloitte UK",3.811657127011107,10
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"NHS",2.7130646201334834,11
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Cabinet Office",11.726574451284106,12
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Citi",3.368501100821897,13
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"PwC",2.4912811211195094,14
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Transport for London",2.8082138350976864,15
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"UBS",3.155353483721261,16
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Sainsbury's",4.694041326654537,17
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Marks and Spencer",5.237297086282939,18
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"Revolut",33.102334336380416,19
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Employers,"PwC UK",5.162650891509606,20
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Software Engineer",2.284084403245091,1
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Project Manager",1.986748005635678,2
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Account Manager",1.6392948087615302,3
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Business Development Manager",1.1062502771334675,4
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Account Executive",0.8888928379261646,5
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Business Analyst",0.8550163418782364,6
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Marketing Manager",0.8519330418253195,7
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Lecturer",0.7339890538689015,8
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Product Manager",0.6549763707058299,10
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Sales Manager",0.640761142310551,11
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Operations Manager",0.6225835127610074,12
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Marketing Executive",0.5728798401085194,13
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Account Director",0.5446938134614585,14
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Paralegal",0.5403019334423526,15
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"General Manager",0.5035064220405859,16
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Program Manager",0.5019222660556888,17
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Sales Director",0.4832517009679682,18
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Graphic Designer",0.4700664206328247,19
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Jobs,"Editor",0.4565113539920329,20
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Account Management",-1,1
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Sales Management",-1,2
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"JavaScript",-1,3
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Operations Management",-1,4
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Business Analysis",-1,5
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Stakeholder Management",-1,6
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Project Delivery",-1,7
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Marketing Strategy",-1,8
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Business-to-Business (B2B)",-1,9
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Logo Design",-1,10
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Teaching",-1,11
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Higher Education",-1,12
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Editing",-1,13
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Change Management",-1,14
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Digital Marketing",-1,15
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Requirements Gathering",-1,16
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Program Management",-1,17
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Legal Research",-1,18
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Email Marketing",-1,19
+2020-02-01,gb,"United Kingdom","London Area, United Kingdom","All",Top Trending Skills,"Copy Editing",-1,20

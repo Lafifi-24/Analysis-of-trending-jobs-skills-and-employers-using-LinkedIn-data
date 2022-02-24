@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Employers,"Redfin",10.89133913729115,1
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Employers,"Compass",8.720122083947889,2
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Employers,"eXp Realty",14.838154737693424,3
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",4.624621644937897,4
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Jobs,"Real Estate Broker",24.1939695685483,1
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Jobs,"Real Estate Agent",15.375650570522236,2
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Jobs,"Property Manager",5.1194022236037835,3
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2021-02-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Skills,"Property Management",-1,3

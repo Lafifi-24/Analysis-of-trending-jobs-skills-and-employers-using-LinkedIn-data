@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Nordstrom",2.840925426125687,1
+2021-02-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Starbucks",1.378161050094546,2
+2021-02-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Costco Wholesale",1.82710483087581,3

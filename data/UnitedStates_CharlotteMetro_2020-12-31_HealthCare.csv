@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-31,us,"United States","Charlotte Metro","Health Care",Top Trending Employers,"Novant Health",2.980585246604094,1
+2020-12-31,us,"United States","Charlotte Metro","Health Care",Top Trending Jobs,"Nurse",9.302485974260524,1
+2020-12-31,us,"United States","Charlotte Metro","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-12-31,us,"United States","Charlotte Metro","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

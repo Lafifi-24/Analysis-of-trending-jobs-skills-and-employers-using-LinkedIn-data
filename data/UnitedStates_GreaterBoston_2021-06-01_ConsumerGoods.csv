@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Employers,"SharkNinja",10.366494445096894,1
+2021-06-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Jobs,"Salesperson",5.896917203550269,1
+2021-06-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Jobs,"Software Engineer",2.8484716023722827,2
+2021-06-01,us,"United States","Greater Boston","Consumer Goods",Top Trending Skills,"JavaScript",-1,1

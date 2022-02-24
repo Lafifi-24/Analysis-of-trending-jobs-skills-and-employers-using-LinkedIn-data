@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Houston","Manufacturing",Top Trending Employers,"KBR, Inc.",4.558012491877412,1
+2020-02-01,us,"United States","Greater Houston","Manufacturing",Top Trending Employers,"LyondellBasell",3.1259991971284693,2
+2020-02-01,us,"United States","Greater Houston","Manufacturing",Top Trending Employers,"Dow",2.258477123130629,3
+2020-02-01,us,"United States","Greater Houston","Manufacturing",Top Trending Employers,"Chevron Phillips Chemical Company",4.820876450176491,4
+2020-02-01,us,"United States","Greater Houston","Manufacturing",Top Trending Jobs,"Sales Manager",3.5654764079216563,1
+2020-02-01,us,"United States","Greater Houston","Manufacturing",Top Trending Jobs,"Project Manager",2.306984980483432,2
+2020-02-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Sales Management",-1,1
+2020-02-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Construction Management",-1,2
+2020-02-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Employers,"The Ohio State University",4.164053099111061,1
+2020-03-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Jobs,"Professor",8.593099778812736,1
+2020-03-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,1
+2020-03-01,us,"United States","Columbus, Ohio Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,2

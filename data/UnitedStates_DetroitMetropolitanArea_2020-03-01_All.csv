@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Ford Motor Company",4.584215378406651,1
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"University of Michigan",4.688480380566449,2
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"FCA Fiat Chrysler Automobiles",4.343823815121713,3
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"General Motors",2.1376688049801524,4
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"United Wholesale Mortgage",15.436692978565002,5
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Rivian",37.03398447461345,6
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Beaumont Health",3.851563165450976,7
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Henry Ford Health System",3.718760312274068,8
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Michigan Medicine",3.7565760534285912,9
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Blue Cross Blue Shield of Michigan",4.1176265213387575,10
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"United Shore",15.231223908849842,11
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Ascension",5.777771607073402,12
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Amazon",9.080177389496146,13
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Wayne State University",3.2367325847269623,14
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"DTE Energy",2.558350532680704,15
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Trinity Health (HQ Michigan)",4.282895669850047,16
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"City of Detroit",4.671378460491565,17
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Employers,"Keller Williams Realty, Inc.",6.589191628494305,18
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.381487210022252,1
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",1.7510483640489252,2
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Account Executive",1.6270708913001068,3
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.5923106499718374,4
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.5877566132202128,5
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Nurse",1.3891193630008816,6
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.9837862993627569,7
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.9214291542095774,8
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Teacher",0.920213944692307,9
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Program Manager",0.8304122643195565,10
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Accountant",0.7138533579021757,11
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Attorney",0.6848486712867066,12
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.6798262507092534,13
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Underwriter",0.6702126043387181,14
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Financial Analyst",0.6106855014358591,16
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"General Manager",0.6014012821954977,17
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.564890629662428,18
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Professor",0.5624107196460005,19
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Jobs,"Sales Director",0.5402780946406814,20
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Team Building",-1,8
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,9
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,10
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,11
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Higher Education",-1,12
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Program Management",-1,13
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Civil Litigation",-1,14
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,15
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,16
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,17
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Financial Analysis",-1,18
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,19
+2020-03-01,us,"United States","Detroit Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,20

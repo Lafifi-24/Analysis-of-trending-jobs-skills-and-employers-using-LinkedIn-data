@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"Epic",4.521672965371415,1
+2021-05-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"University of Wisconsin-Madison",1.8058240101241991,2
+2021-05-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"UW Health",2.451444362575651,3
+2021-05-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"Catalent Pharma Solutions",14.77631424243467,4
+2021-05-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Software Engineer",4.413016513527649,1
+2021-05-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Project Manager",3.350859097890513,2
+2021-05-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Technical Solutions Engineer",2.2648604765758735,3
+2021-05-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Construction Management",-1,2

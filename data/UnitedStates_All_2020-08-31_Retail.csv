@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Target",6.711459318913221,1
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Walmart",3.9491328847453553,2
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Lowe's Companies, Inc.",6.281959592839074,3
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"The Home Depot",5.321850014114864,4
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Starbucks",4.367620124304034,5
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Bath & Body Works",15.162589219814071,6
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"DICK'S Sporting Goods",11.811214692436177,7
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Walgreens",3.9222666482723496,8
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Kohl's",6.192432377732159,9
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"lululemon",12.246765327347052,10
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Whole Foods Market",4.468925411669922,11
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Kroger",3.556462007417234,12
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Costco Wholesale",4.867532205140687,13
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Publix Super Markets",4.284512396015675,14
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Old Navy",6.050935110054828,15
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"H-E-B",6.232639464718114,16
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Chewy",14.215485652081613,17
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Nordstrom",2.906033489785023,18
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"AMERICAN EAGLE OUTFITTERS INC.",6.54610109820199,19
+2020-08-31,us,"United States","All","Retail",Top Trending Employers,"Best Buy",1.9761718050280965,20
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Salesperson",9.833032774426448,1
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Cashier",6.693003275535949,2
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Store Manager",4.2492217058606965,3
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Barista",3.2618171021991818,4
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Customer Service Representative",2.5624700039990813,5
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Retail Associate",1.9393310479470016,6
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Retail Salesperson",1.750577651361426,7
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Sales Manager",1.4866905390873346,8
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Pharmacy Technician",1.3674773361594565,9
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"General Manager",1.2816266513702594,10
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Software Engineer",1.24069572492478,11
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Operations Manager",1.1151985432227693,12
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Teacher",0.9912085310184745,13
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Sales Consultant",0.9340684633793636,14
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Store Associate",0.926252305970448,15
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Warehouse Associate",0.8894006020435419,16
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Brand Associate",0.8436164803477435,17
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Buyer",0.8356014979185835,18
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Keyholder",0.813859424031394,19
+2020-08-31,us,"United States","All","Retail",Top Trending Jobs,"Pharmacist",0.8017369456369794,20
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Teaching",-1,1
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"JavaScript",-1,2
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Curriculum Development",-1,3
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Sales Management",-1,4
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Team Building",-1,5
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Operations Management",-1,6
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Merchandising",-1,7
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Store Management",-1,8
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Sales Operations",-1,9
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Inventory Management",-1,10
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Time Management",-1,11
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Customer Satisfaction",-1,12
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Cashiering",-1,13
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Pharmacy",-1,14
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Medication Therapy Management (MTM)",-1,15
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Pharmacy Technicians",-1,16
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Barista",-1,17
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Retail",-1,18
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Warehouse Operations",-1,19
+2020-08-31,us,"United States","All","Retail",Top Trending Skills,"Forklift Operation",-1,20

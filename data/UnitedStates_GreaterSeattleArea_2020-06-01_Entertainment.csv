@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Seattle Area","Entertainment",Top Trending Employers,"Bungie",10.827483324159365,1
+2020-06-01,us,"United States","Greater Seattle Area","Entertainment",Top Trending Jobs,"Software Engineer",12.88021332542927,1
+2020-06-01,us,"United States","Greater Seattle Area","Entertainment",Top Trending Skills,"JavaScript",-1,1

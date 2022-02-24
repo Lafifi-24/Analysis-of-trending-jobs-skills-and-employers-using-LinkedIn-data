@@ -1,0 +1,52 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Cedars-Sinai",6.157539208931024,1
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Kaiser Permanente",2.3084319882987816,2
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"UCLA Health",3.2720999206512746,3
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Edwards Lifesciences",5.873551419188627,4
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"City of Hope",4.787972291270205,5
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Optum",10.360747155092746,6
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Keck Medicine of USC",6.692784026651864,7
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Children's Hospital Los Angeles (CHLA)",3.476863315422273,8
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Kite Pharma",6.290129877423656,9
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Hoag Hospital",5.0736618844216546,10
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"UCI Health",6.095280783529485,11
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Loma Linda University Medical Center",5.11422429580122,12
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"CHOC Children's",4.425807007072267,13
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Molina Healthcare",5.04100521986277,14
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Fulgent Genetics",60.3403308894952,15
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",9.90226013267,1
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Medical Doctor",1.7393092272651263,2
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Clinical Fellow",1.3172283177571036,3
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Emergency Medical Technician",1.199238753368006,4
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Laboratory Technician",1.085983018051725,5
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Medical Scribe",1.0358633508514392,6
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Project Manager",0.9413020952013126,7
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Marriage And Family Therapist",0.9286782911138252,8
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Software Engineer",0.8587660450394965,9
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Behavioral Therapist",0.8520222169639012,10
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Medical Resident",0.801886431186904,11
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Behavioral Health Technician",0.7888086848909459,12
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Salesperson",0.737564685694142,13
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Quality Engineer",0.7206971921322756,14
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Postdoctoral Researcher",0.6542697007066092,15
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Account Manager",0.6409594930143291,16
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Account Management",-1,2
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Construction Management",-1,3
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,4
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Molecular Biology",-1,5
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,6
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Cell Culture",-1,7
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Laboratory Skills",-1,8
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Emergency Medical Services (EMS)",-1,9
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"EMT",-1,10
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Root Cause Analysis",-1,11
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Lean Manufacturing",-1,12
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Applied Behavior Analysis",-1,13
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Psychotherapy",-1,14
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Clinical Research",-1,15
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Family Therapy",-1,16
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Electronic Medical Record (EMR)",-1,17
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Medical Terminology",-1,18
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Behavioral Health",-1,19
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Autism Spectrum Disorders",-1,20

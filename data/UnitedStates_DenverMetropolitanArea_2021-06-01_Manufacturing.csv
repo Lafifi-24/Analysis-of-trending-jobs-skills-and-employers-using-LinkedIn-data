@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Employers,"Ball Aerospace",4.498154371044164,1
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Employers,"Lockheed Martin",1.9417159243285929,2
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",6.168517275876664,1
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Jobs,"System Engineer",4.713141876890072,2
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",3.4776179625807453,3
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",2.600942858244963,4
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Skills,"Construction Management",-1,2
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Skills,"Systems Engineering",-1,3
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Skills,"Integration",-1,4
+2021-06-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,5

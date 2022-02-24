@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Employers,"Apple",6.143573597562313,1
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Employers,"PepsiCo",7.27632600793726,2
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Jobs,"Salesperson",3.8124022961874866,1
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Jobs,"Graphic Designer",2.661128925838992,2
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Jobs,"Sales Manager",1.8454990320054605,3
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Jobs,"Customer Service Representative",1.5045610478741396,4
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Skills,"Sales Management",-1,1
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Skills,"Adobe Creative Suite",-1,2
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Skills,"Sales Operations",-1,3
+2020-08-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Skills,"Customer Satisfaction",-1,4

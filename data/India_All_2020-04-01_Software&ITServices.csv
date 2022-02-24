@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Accenture",4.110568145598402,1
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Capgemini",3.245091254805701,2
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"HCL Technologies",3.352592504707238,3
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Infosys",1.9665847048882863,4
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Wipro Limited",2.0295405044262425,5
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Tata Consultancy Services",1.0174788914337864,6
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Amazon",5.264725427743732,7
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"DXC Technology",4.904522754180061,8
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Oracle",3.9626955078873967,9
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Microsoft",7.4971401346961715,10
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Genpact",2.8500662583756533,11
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Chegg Inc.",27.456564454777528,12
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"FIS",7.523128440495637,13
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Mindtree",4.285948298896827,14
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"LTI - Larsen & Toubro Infotech",3.24200715074689,15
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"YouTube",14.208319012749602,16
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"NTT DATA Services",5.4476738495044215,17
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Publicis Sapient",6.794147678673849,18
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"L&T Technology Services Limited",4.064564895900584,19
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Employers,"Flipkart",3.473783413667273,20
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Software Engineer",20.448304885598656,1
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"System Engineer",2.2254587010802287,2
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Business Analyst",1.7909623115083397,3
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Application Developer",1.6795457508908402,4
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Recruiter",1.4874211849025343,5
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Project Manager",1.2653010407671255,6
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Quality Assurance Engineer",0.9743579863279667,7
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Web Developer",0.9741848188767906,8
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",0.8806911304601024,9
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Business Development Executive",0.8677979115947122,10
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Test Engineer",0.8257482399333845,11
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Human Resources Executive",0.8208755709093586,12
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Data Analyst",0.8033627828690965,13
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Android Developer",0.7979640286735088,14
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.796907167778402,15
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",0.7652782809732905,16
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Product Manager",0.6797893820375336,17
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Technical Consultant",0.6779621979401022,18
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"DevOps Engineer",0.672467093822521,19
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Data Scientist",0.6705723433046554,20
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"SQL",-1,1
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,2
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Business Analysis",-1,3
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Recruiting",-1,4
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,5
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Team Leadership",-1,6
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Employee Relations",-1,7
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Core Java",-1,8
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Requirements Analysis",-1,9
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Data Analysis",-1,10
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Android Development",-1,11
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,12
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Manual Testing",-1,13
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,14
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Java",-1,15
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Bootstrap",-1,16
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Test Automation",-1,17
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Android Studio",-1,18
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,19
+2020-04-01,in,"India","All","Software & IT Services",Top Trending Skills,"Screening",-1,20

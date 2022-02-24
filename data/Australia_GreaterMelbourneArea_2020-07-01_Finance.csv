@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Employers,"ANZ",1.5822487583861944,1
+2020-07-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Employers,"Commonwealth Bank",3.5225084199441823,2
+2020-07-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Employers,"Westpac",6.344145758944367,3
+2020-07-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Jobs,"Financial Advisor",4.706052098097011,1
+2020-07-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Jobs,"Software Engineer",2.776854728015137,2
+2020-07-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Skills,"Financial Planning",-1,2
+2020-07-01,au,"Australia","Greater Melbourne Area","Finance",Top Trending Skills,"Superannuation",-1,3

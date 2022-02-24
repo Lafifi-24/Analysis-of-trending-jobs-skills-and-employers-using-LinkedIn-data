@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Starbucks",2.4082042227633416,1
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Costco Wholesale",4.10344866247882,2
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"Nordstrom",1.4306035245578363,3
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Employers,"The Home Depot",13.145333364992284,4
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Jobs,"Salesperson",6.321872292339788,1
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Jobs,"Software Engineer",6.121065685599255,2
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Jobs,"Cashier",5.585948091758379,3
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Skills,"Time Management",-1,2
+2020-07-01,us,"United States","Greater Seattle Area","Retail",Top Trending Skills,"Cashiering",-1,3

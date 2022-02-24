@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Accenture",7.11058075603706,1
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Tata Consultancy Services",4.9191118263340075,2
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Genpact",5.11997802115142,3
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"ICICI Bank",7.829491107028747,4
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"HCL Technologies",3.6692577491177865,5
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Wipro Limited",3.791050312899183,6
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Publicis Sapient",10.473745714507682,7
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"PwC",7.629625499238254,8
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Concentrix",5.03104866317935,9
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"ZS",10.440742193228637,10
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"EXL",6.922463818280493,11
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Capgemini",9.602122506340532,12
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Infosys",7.085164550211011,13
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Bain & Company",19.92245615286287,14
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Kotak Mahindra Bank",5.9601578932535535,15
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"WNS Global Services",4.9710688905616465,16
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"PlanetSpark",69.97980558032248,17
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"CARS24",16.92483213694167,18
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"HDFC Bank",2.6456148846663092,19
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Axis Bank",3.47315387225176,20
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Software Engineer",7.674073308794925,1
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Content Writer",2.08709901144994,2
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Business Development Executive",1.8329291287304401,3
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Sales Manager",1.6010263856898146,4
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Campus Ambassador",1.5581850349161093,5
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Business Development Manager",1.4263269267339802,6
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Business Analyst",1.3507249966054573,7
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Recruiter",1.3141387813193333,8
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Graphic Designer",1.3033009951975807,9
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Human Resources Executive",1.2724142061141865,10
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"System Engineer",1.2255429586374826,11
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Human Resources Manager",1.0980273349820462,12
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Project Manager",1.011776116880456,13
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Data Analyst",0.9255273412900148,14
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Product Manager",0.8122923707643741,15
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Sales Executive",0.7259573109042609,16
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Account Manager",0.7233067714552255,17
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"General Manager",0.6643011146116073,18
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Operations Manager",0.6478603208854326,19
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Relationship Manager",0.630867270264573,20
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"SQL",-1,1
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"JavaScript",-1,2
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Sales Management",-1,3
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Business Analysis",-1,4
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Adobe Illustrator",-1,5
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Recruiting",-1,6
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Team Leadership",-1,7
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Core Java",-1,8
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Employee Relations",-1,9
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Operations Management",-1,10
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Requirements Analysis",-1,11
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Data Analysis",-1,12
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Employee Engagement",-1,13
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Web Content Writing",-1,14
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,15
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Requirements Gathering",-1,16
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Account Management",-1,17
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Writing",-1,18
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Screening",-1,19
+2021-05-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Tableau",-1,20

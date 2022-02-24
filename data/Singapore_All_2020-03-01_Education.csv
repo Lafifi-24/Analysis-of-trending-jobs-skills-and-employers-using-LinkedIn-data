@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,sg,"Singapore","All","Education",Top Trending Employers,"National University of Singapore",5.205616707034707,1
+2020-03-01,sg,"Singapore","All","Education",Top Trending Employers,"Nanyang Technological University",4.232459593647644,2
+2020-03-01,sg,"Singapore","All","Education",Top Trending Employers,"A*STAR - Agency for Science, Technology and Research",8.290285071886867,3
+2020-03-01,sg,"Singapore","All","Education",Top Trending Employers,"Ministry of Education, Singapore (MOE)",5.227362376865161,4
+2020-03-01,sg,"Singapore","All","Education",Top Trending Employers,"Singapore University of Social Sciences (SUSS)",7.983050838812983,5
+2020-03-01,sg,"Singapore","All","Education",Top Trending Jobs,"Teacher",10.188196383761596,1
+2020-03-01,sg,"Singapore","All","Education",Top Trending Jobs,"Lecturer",9.0749465168132,2
+2020-03-01,sg,"Singapore","All","Education",Top Trending Jobs,"Professor",6.308921316283779,3
+2020-03-01,sg,"Singapore","All","Education",Top Trending Jobs,"Postdoctoral Researcher",4.401393250983416,4
+2020-03-01,sg,"Singapore","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,sg,"Singapore","All","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-03-01,sg,"Singapore","All","Education",Top Trending Skills,"Higher Education",-1,3

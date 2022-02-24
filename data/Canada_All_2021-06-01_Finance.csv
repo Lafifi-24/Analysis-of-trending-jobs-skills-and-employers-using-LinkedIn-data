@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"RBC",4.661987258599052,1
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"Desjardins",5.900811403242252,2
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"CIBC",5.168075929337617,3
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"TD",3.175288031056573,4
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"BMO Financial Group",6.151897992207511,5
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"KPMG Canada",7.568685504702407,6
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"Sun Life",4.640042889501719,7
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"National Bank of Canada",3.0580740230476735,8
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"iA Financial Group (Industrial Alliance)",6.5527310472327045,9
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"Morgan Stanley",12.401912458958838,10
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"TD Insurance",8.196486759238818,11
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"Canada Life",4.077424215675277,12
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"RBC Capital Markets",5.600073382381048,13
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"The Co-operators",4.972574771557619,14
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"BDO Canada",4.73871212021751,15
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"RBC Dominion Securities",5.296715733253535,16
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"HSBC",3.35200242196374,17
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"Aviva Canada",5.219815180109336,18
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"Citi",6.41278966853213,19
+2021-06-01,ca,"Canada","All","Finance",Top Trending Employers,"Economical Insurance",7.452787582774642,20
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Financial Advisor",3.7587228963768404,1
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Software Engineer",3.439356399923691,2
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Customer Service Representative",3.4205566961456246,3
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Business Analyst",1.9368282423980339,4
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Financial Services Representative",1.5515818643235213,5
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Mortgage Agent",1.4965306792768203,6
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Investment Analyst",1.3930885746803892,7
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Financial Analyst",1.3770839664718126,8
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Customer Associate",1.345768111214258,9
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Insurance Advisor",1.2975791586831362,10
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Underwriter",1.287726308272047,11
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Client Advisor",1.129826123029214,12
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Banking Advisor",1.0175198846654396,13
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Project Manager",0.9237686563026903,14
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Account Manager",0.9172442322958946,15
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Data Analyst",0.7914905717816327,16
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Full Stack Engineer",0.762447382786496,17
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Accountant",0.7019193104810915,18
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Insurance Broker",0.67107926122568,19
+2021-06-01,ca,"Canada","All","Finance",Top Trending Jobs,"Client Services Representative",0.6677428025395439,20
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Project Planning",-1,2
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Time Management",-1,3
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Account Management",-1,4
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Financial Reporting",-1,5
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Business Analysis",-1,6
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Construction Management",-1,7
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Financial Analysis",-1,8
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Investments",-1,9
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Financial Planning",-1,10
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Data Analysis",-1,11
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"React.js",-1,12
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Requirements Gathering",-1,13
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Node.js",-1,14
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Tableau",-1,15
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Insurance",-1,16
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"General Insurance",-1,17
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Mortgage Lending",-1,18
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,19
+2021-06-01,ca,"Canada","All","Finance",Top Trending Skills,"Underwriting",-1,20

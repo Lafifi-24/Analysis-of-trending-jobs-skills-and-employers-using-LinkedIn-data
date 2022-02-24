@@ -1,0 +1,24 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Northeastern University",3.262713473460598,1
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard University",2.691917548913099,2
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston University",2.4845401641039913,3
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Massachusetts Institute of Technology",2.2168255470754032,4
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brown University",2.8180457553466716,5
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Medical School",1.8101473887301995,6
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Broad Institute of MIT and Harvard",4.534380056989182,7
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Tufts University",2.8643203297760116,8
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston College",2.7830694489239183,9
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Forrester",8.28393226040809,10
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard T.H. Chan School of Public Health",4.6085024702318815,11
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Southern New Hampshire University",2.014341940038076,12
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of New Hampshire",2.811205143584536,13
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Postdoctoral Researcher",5.981755261937365,1
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Professor",4.915460793051938,2
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Teacher",4.301892037963676,3
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Software Engineer",2.0160333212536257,4
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Teaching",-1,1
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"JavaScript",-1,2
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Higher Education",-1,4
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Molecular Biology",-1,5
+2020-05-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Cell Culture",-1,6

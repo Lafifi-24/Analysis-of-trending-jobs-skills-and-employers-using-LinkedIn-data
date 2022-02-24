@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-31,us,"United States","Austin, Texas Metropolitan Area","Finance",Top Trending Employers,"Charles Schwab",4.531256571961515,1
+2020-12-31,us,"United States","Austin, Texas Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",6.145490004027358,1
+2020-12-31,us,"United States","Austin, Texas Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1

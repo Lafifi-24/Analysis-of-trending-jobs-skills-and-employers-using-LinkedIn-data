@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Manufacturing",Top Trending Employers,"Scania Group",1.0410943632474228,1
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Manufacturing",Top Trending Employers,"FMV - Försvarets materielverk",7.692884447766425,2
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",5.348640891471836,1
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.676442950213289,2
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Manufacturing",Top Trending Skills,"Project Planning",-1,2
+2020-09-01,se,"Sweden","Stockholm Metropolitan Area","Manufacturing",Top Trending Skills,"Git",-1,3

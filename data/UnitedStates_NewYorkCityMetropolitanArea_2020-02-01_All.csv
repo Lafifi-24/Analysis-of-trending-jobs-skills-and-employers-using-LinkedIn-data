@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Amazon",8.52119301585694,1
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Northwell Health",4.053709122792835,2
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Memorial Sloan Kettering Cancer Center",4.980003541717985,3
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"NewYork-Presbyterian Hospital",4.218193450782952,4
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Bristol Myers Squibb",7.854341224315517,5
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"NYC Department of Education",2.362602838253251,6
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Columbia University in the City of New York",5.341132054612591,7
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Verizon",3.9221705928570207,8
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"UBS",5.515437929298803,9
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Citi",2.9126715635046865,10
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"NYU Langone Health",3.7775454320555353,11
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"PwC",3.8121542154861077,12
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"New York University",4.852404034776131,13
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Morgan Stanley",2.3327209420939368,14
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"American Express",4.8670689773717735,15
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"NBCUniversal Media, LLC",6.497090628229307,16
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Wells Fargo",5.430364063375421,17
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Facebook",8.008444909943847,18
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Amazon Web Services (AWS)",13.502981173338918,19
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Deloitte",3.9371123849133682,20
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.4522424392023767,1
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.7221312972853204,2
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",1.6775206593038334,3
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Account Executive",1.3058121563166663,4
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Nurse",1.276155124874234,5
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Professor",1.1323960423209716,6
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Teacher",1.0833541057427742,7
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.0684979233942933,8
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.9110080867914329,10
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Accountant",0.8124196054459373,11
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Writer",0.7117190656820832,12
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.6576355906337669,13
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Attorney",0.6072797535422763,14
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Editor",0.5842613412009746,15
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.5542543191364733,16
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Financial Analyst",0.549303937459399,17
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.5448426800221416,18
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Sales Director",0.5350478864552053,19
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"General Manager",0.49829352055291143,20
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Writing",-1,8
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Team Building",-1,9
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,10
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,11
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Editing",-1,12
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,13
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Higher Education",-1,14
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Civil Litigation",-1,15
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,16
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,17
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,18
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Financial Analysis",-1,19
+2020-02-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,20

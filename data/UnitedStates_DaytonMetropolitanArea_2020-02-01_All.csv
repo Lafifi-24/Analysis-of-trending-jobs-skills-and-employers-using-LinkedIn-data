@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Employers,"University of Dayton",4.231583385078339,1
+2020-02-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.6886887490228775,1
+2020-02-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Jobs,"Nurse",2.567261170920104,2
+2020-02-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Skills,"Nursing",-1,2
+2020-02-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,3

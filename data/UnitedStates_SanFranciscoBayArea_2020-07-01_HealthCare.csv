@@ -1,0 +1,30 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Genentech",4.096820387752584,1
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Kaiser Permanente",1.9196772181869974,2
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Health Care",5.397361283787028,3
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Gilead Sciences",4.643423449394665,4
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Cepheid",15.378288032478535,5
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Abbott",5.308618708343833,6
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Intuitive",3.984840274634091,7
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Children's Health | Lucile Packard Children's Hospital Stanford",3.7054608719226354,8
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Sutter Health",2.192398854777464,9
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Roche",3.919672137780271,10
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Revance Therapeutics, Inc.",35.57451427960147,11
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Nurse",5.683045761624409,1
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Software Engineer",3.1057884441822177,2
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Medical Doctor",1.1608693000971682,4
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Project Manager",1.0018011502270956,5
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Medical Resident",0.8979095353654342,6
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Emergency Medical Technician",0.8415934684837343,7
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Medical Scribe",0.8251403427329974,8
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Construction Management",-1,2
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Public Speaking",-1,3
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nursing",-1,4
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nonprofit Organizations",-1,5
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,6
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Emergency Medical Services (EMS)",-1,7
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"EMT",-1,8
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Electronic Medical Record (EMR)",-1,9
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Medical Terminology",-1,10
+2020-07-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Clinical Pharmacy",-1,11

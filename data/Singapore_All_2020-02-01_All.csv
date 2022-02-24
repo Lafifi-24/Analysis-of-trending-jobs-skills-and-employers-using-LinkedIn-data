@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"DBS Bank",3.7931301611619785,1
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Shopee",17.60427617734597,2
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Standard Chartered Bank",3.534134814917839,3
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"UOB",4.677815809791038,4
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"National University of Singapore",5.121928458743795,5
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"NCS Group",8.632928297829197,6
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Citi",4.6949540392005185,7
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Ministry of Education, Singapore (MOE)",6.443516700442191,8
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"OCBC Bank",3.983772559541569,9
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"ST Engineering",4.561802291183033,10
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Prudential Assurance Company Singapore",6.44364571933104,11
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Nanyang Technological University",4.179570316235558,12
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Deloitte",8.699374992564476,13
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Singtel",5.15774582903181,14
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Grab",6.333652636609225,15
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Singapore Airlines",3.486280025750563,16
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Amazon Web Services (AWS)",16.407357980588507,17
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"A*STAR - Agency for Science, Technology and Research",7.711032202687688,18
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"Facebook",8.143984494216394,19
+2020-02-01,sg,"Singapore","All","All",Top Trending Employers,"GREAT EASTERN",7.243363970624306,20
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Software Engineer",3.5045584025532226,1
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Project Manager",1.739291409327326,2
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Business Development Manager",1.340705690532694,3
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Account Manager",1.2218778792744336,4
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Financial Advisor",1.1949994437273166,5
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Sales Manager",1.1191529183102564,6
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Marketing Manager",0.8874847984901324,7
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Teacher",0.8846987272983038,8
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Marketing Executive",0.8733514409229716,9
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Human Resources Executive",0.7724426709149075,10
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Business Analyst",0.7621849257929232,11
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Operations Manager",0.7008473192427647,12
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"General Manager",0.6865039846215355,13
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Product Manager",0.6845875567298949,14
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Account Executive",0.6751047482147803,15
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Sales Director",0.6717711765856351,16
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Finance Manager",0.6572046228520534,17
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Business Development Executive",0.6107687732014561,18
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"Lecturer",0.587845104351512,19
+2020-02-01,sg,"Singapore","All","All",Top Trending Jobs,"System Engineer",0.586981232579794,20
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Project Management",-1,1
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"JavaScript",-1,2
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Java",-1,3
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Sales Management",-1,4
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Project Planning",-1,5
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Teaching",-1,6
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Account Management",-1,7
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Business Analysis",-1,8
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Marketing Strategy",-1,9
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Operations Management",-1,10
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Financial Analysis",-1,11
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Social Media Marketing",-1,12
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Recruiting",-1,13
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Financial Reporting",-1,14
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Digital Marketing",-1,15
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Curriculum Development",-1,16
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Accounts Payable",-1,17
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Higher Education",-1,18
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Requirements Gathering",-1,19
+2020-02-01,sg,"Singapore","All","All",Top Trending Skills,"Financial Planning",-1,20

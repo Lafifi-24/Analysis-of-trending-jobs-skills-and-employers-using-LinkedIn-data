@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Orlando","Recreation & Travel",Top Trending Employers,"Universal Orlando Resort",3.258923745651848,1
+2020-02-01,us,"United States","Greater Orlando","Recreation & Travel",Top Trending Employers,"Marriott Vacations Worldwide",7.05487892815894,2
+2020-02-01,us,"United States","Greater Orlando","Recreation & Travel",Top Trending Employers,"Wyndham Destinations",5.604671078901701,3
+2020-02-01,us,"United States","Greater Orlando","Recreation & Travel",Top Trending Jobs,"Server",4.486390867597509,1
+2020-02-01,us,"United States","Greater Orlando","Recreation & Travel",Top Trending Jobs,"General Manager",3.397397982593554,2
+2020-02-01,us,"United States","Greater Orlando","Recreation & Travel",Top Trending Skills,"Team Building",-1,1
+2020-02-01,us,"United States","Greater Orlando","Recreation & Travel",Top Trending Skills,"Time Management",-1,2
+2020-02-01,us,"United States","Greater Orlando","Recreation & Travel",Top Trending Skills,"Inventory Management",-1,3

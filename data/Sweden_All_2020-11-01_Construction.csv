@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,se,"Sweden","All","Construction",Top Trending Employers,"NCC",2.404678091927918,1
+2020-11-01,se,"Sweden","All","Construction",Top Trending Employers,"Ramboll",4.59368112348371,2
+2020-11-01,se,"Sweden","All","Construction",Top Trending Jobs,"Project Manager",12.82757150515675,1
+2020-11-01,se,"Sweden","All","Construction",Top Trending Jobs,"Salesperson",4.823293966613793,2
+2020-11-01,se,"Sweden","All","Construction",Top Trending Jobs,"Location Manager",3.2222033367332448,3
+2020-11-01,se,"Sweden","All","Construction",Top Trending Jobs,"Project Engineer",3.1177013944869647,4
+2020-11-01,se,"Sweden","All","Construction",Top Trending Skills,"Project Management",-1,1
+2020-11-01,se,"Sweden","All","Construction",Top Trending Skills,"Project Planning",-1,2
+2020-11-01,se,"Sweden","All","Construction",Top Trending Skills,"Business-to-Business (B2B)",-1,3
+2020-11-01,se,"Sweden","All","Construction",Top Trending Skills,"Project Engineering",-1,4

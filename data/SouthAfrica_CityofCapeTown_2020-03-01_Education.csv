@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,za,"South Africa","City of Cape Town","Education",Top Trending Employers,"University of Cape Town",10.231394901315076,1
+2020-03-01,za,"South Africa","City of Cape Town","Education",Top Trending Employers,"University of the Western Cape",9.718379729728795,2
+2020-03-01,za,"South Africa","City of Cape Town","Education",Top Trending Employers,"Stellenbosch University",9.5023513200095,3
+2020-03-01,za,"South Africa","City of Cape Town","Education",Top Trending Employers,"Cape Peninsula University of Technology",8.135112339106072,4
+2020-03-01,za,"South Africa","City of Cape Town","Education",Top Trending Jobs,"Lecturer",13.92997079238122,1
+2020-03-01,za,"South Africa","City of Cape Town","Education",Top Trending Jobs,"Teacher",8.582262744582183,2
+2020-03-01,za,"South Africa","City of Cape Town","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,za,"South Africa","City of Cape Town","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-03-01,za,"South Africa","City of Cape Town","Education",Top Trending Skills,"Higher Education",-1,3

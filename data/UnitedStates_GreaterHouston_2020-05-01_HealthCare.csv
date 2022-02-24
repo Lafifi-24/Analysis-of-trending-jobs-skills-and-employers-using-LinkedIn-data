@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Employers,"Memorial Hermann Health System",3.3819576935843303,1
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Employers,"Houston Methodist",2.6334051325127787,2
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Employers,"MD Anderson Cancer Center",1.7249036434540812,3
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Employers,"The University of Texas Health Science Center at Houston (UTHealth)",3.129189495872499,4
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Employers,"Harris Health System",5.408585791595164,5
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Employers,"The University of Texas Medical Branch",3.328462791800608,6
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Employers,"HCA Healthcare",4.656726444192945,7
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Jobs,"Nurse",10.06531402152352,1
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-05-01,us,"United States","Greater Houston","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

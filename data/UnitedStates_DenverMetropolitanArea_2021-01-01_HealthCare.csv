@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"UCHealth",3.459313771019459,1
+2021-01-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"Centura Health",3.0872341316863214,2
+2021-01-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"SCL Health",3.4746065439881098,3
+2021-01-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"Children's Hospital Colorado",2.1983742495397105,4
+2021-01-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"Denver Health",2.8044047452455394,5
+2021-01-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",7.825050010174353,1
+2021-01-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-01-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

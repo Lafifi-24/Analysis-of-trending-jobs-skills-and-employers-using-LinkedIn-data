@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"TD",3.9189640571887834,1
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"RBC",3.4790319416083895,2
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"CIBC",3.5525811796358484,3
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"Desjardins",4.788453172231461,4
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"BMO Financial Group",3.955481973073685,5
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"Rogers Communications",3.6030966560961586,6
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"The University of British Columbia",5.040054936461861,7
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"TELUS",3.657450371543386,8
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"Loblaw Companies Limited",6.379409216660273,9
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"Bell",3.0984562264541826,10
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"Walmart",5.207961723757797,11
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"National Bank of Canada",4.310472523505981,12
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"KPMG Canada",9.102328936140134,13
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"Amazon",7.52705817632303,14
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"McDonald's",5.432003238361837,15
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"Deloitte Canada",5.528557506640229,16
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"McGill University",5.4445950676078,17
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"Shopify",9.20379940952389,18
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"CGI",4.543919034092092,19
+2020-02-01,ca,"Canada","All","All",Top Trending Employers,"MNP",10.0921906442433,20
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Software Engineer",2.7488661117677546,1
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Project Manager",1.9114596670676651,2
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Customer Service Representative",1.75033589614143,3
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Salesperson",1.5788656837602228,4
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Accountant",1.3707491893229138,5
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Teacher",1.2548263459070887,6
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Account Manager",0.9466604255006268,7
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Real Estate Agent",0.8253097559611046,8
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Nurse",0.7291486046539682,9
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Business Analyst",0.6837064043666476,10
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"General Manager",0.6816601494279865,11
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Professor",0.6782552097394283,12
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Financial Analyst",0.67000699660992,13
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Cashier",0.6697432761042095,14
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Sales Manager",0.6530380616281964,15
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Financial Advisor",0.6481447093476461,16
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Account Executive",0.5590542511737943,17
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Graphic Designer",0.5286806030101856,18
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Operations Manager",0.5031069932449903,19
+2020-02-01,ca,"Canada","All","All",Top Trending Jobs,"Business Development Manager",0.5020483615382733,20
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Teaching",-1,1
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Time Management",-1,2
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"JavaScript",-1,3
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Project Planning",-1,4
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Adobe Illustrator",-1,5
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Account Management",-1,6
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Curriculum Development",-1,7
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Sales Management",-1,8
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Financial Reporting",-1,9
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Business Analysis",-1,10
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Construction Management",-1,11
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Team Building",-1,12
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Operations Management",-1,13
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Residential Real Estate",-1,14
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Investments",-1,15
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Financial Analysis",-1,16
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,17
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Higher Education",-1,18
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Financial Planning",-1,19
+2020-02-01,ca,"Canada","All","All",Top Trending Skills,"Cashiering",-1,20

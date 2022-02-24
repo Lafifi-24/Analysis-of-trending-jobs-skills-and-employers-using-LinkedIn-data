@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,it,"Italy","All","Real Estate",Top Trending Employers,"Prelios",12.82454966789503,1
+2020-01-01,it,"Italy","All","Real Estate",Top Trending Jobs,"Real Estate Agent",11.617682217368483,1
+2020-01-01,it,"Italy","All","Real Estate",Top Trending Jobs,"Real Estate Consultant",10.120601929382508,2
+2020-01-01,it,"Italy","All","Real Estate",Top Trending Skills,"Investment Properties",-1,1

@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","San Francisco Bay Area","Nonprofit",Top Trending Employers,"COOP",68.45944102129677,1
+2021-02-01,us,"United States","San Francisco Bay Area","Nonprofit",Top Trending Skills,"Public Speaking",-1,1
+2021-02-01,us,"United States","San Francisco Bay Area","Nonprofit",Top Trending Skills,"Nonprofit Organizations",-1,2

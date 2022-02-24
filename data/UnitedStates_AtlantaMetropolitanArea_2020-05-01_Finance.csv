@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Employers,"State Farm ®",3.3067107586361213,1
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",3.263459535119393,1
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1

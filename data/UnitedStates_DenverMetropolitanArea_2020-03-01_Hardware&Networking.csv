@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Denver Metropolitan Area","Hardware & Networking",Top Trending Employers,"Charter Communications",4.345010651596122,1
+2020-03-01,us,"United States","Denver Metropolitan Area","Hardware & Networking",Top Trending Employers,"Comcast",2.8516735640170636,2
+2020-03-01,us,"United States","Denver Metropolitan Area","Hardware & Networking",Top Trending Jobs,"Software Engineer",10.166507393602318,1
+2020-03-01,us,"United States","Denver Metropolitan Area","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1

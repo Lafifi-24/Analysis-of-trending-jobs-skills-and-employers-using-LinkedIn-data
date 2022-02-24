@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"General Motors",8.12010245110331,1
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Honeywell",5.197230856344729,2
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",5.16674129597102,1
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",3.5423984853190413,2
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

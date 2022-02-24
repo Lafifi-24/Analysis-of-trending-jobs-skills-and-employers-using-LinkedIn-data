@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",2.6236437637398655,1
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",2.5771428924926494,2
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",1.982698969406263,3
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Account Manager",1.9498054618419371,4
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Salesperson",1.720159804987811,5
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Construction Management",-1,4
+2021-06-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,5

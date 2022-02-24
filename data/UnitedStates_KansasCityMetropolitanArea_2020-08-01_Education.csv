@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Employers,"The University of Kansas",4.5654518644891695,1
+2020-08-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Employers,"University of Kansas Medical Center",4.0773364077160075,2
+2020-08-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Employers,"University of Missouri-Kansas City",4.438343932259131,3
+2020-08-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Employers,"Olathe School District",10.30867960966518,4
+2020-08-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Jobs,"Teacher",10.599925213252165,1
+2020-08-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Jobs,"Professor",10.359850352574448,2
+2020-08-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-08-01,us,"United States","Kansas City Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

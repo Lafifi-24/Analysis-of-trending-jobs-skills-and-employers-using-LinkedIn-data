@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Employers,"Netflix",2.655642770371083,1
+2020-12-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Jobs,"Software Engineer",7.577898446247322,1
+2020-12-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Skills,"JavaScript",-1,1

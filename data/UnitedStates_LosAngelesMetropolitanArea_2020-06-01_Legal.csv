@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","Legal",Top Trending Jobs,"Attorney",25.64675755385738,1
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","Legal",Top Trending Jobs,"Law Clerk",18.615474249134234,2
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","Legal",Top Trending Skills,"Legal Research",-1,3

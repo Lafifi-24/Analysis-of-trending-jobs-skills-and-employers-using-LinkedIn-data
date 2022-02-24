@@ -1,0 +1,55 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"ByteDance",8.832980378301093,1
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"Meituan",6.502267840337804,2
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"Baidu, Inc.",4.116744210443427,3
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"DiDi",6.475919588362021,4
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"Tencent",5.823351829706418,5
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"Universal Beijing Resort",15.564584412013064,6
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"JD.COM",3.3604567148848665,7
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"Alibaba Group",5.291668380003297,8
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"Tsinghua University",6.959085906598754,9
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"Xiaomi Technology",3.4634122920783916,10
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"Huawei",2.921254825781899,11
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"CICC",5.205092275077675,12
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"Alibaba Cloud",5.454730278028326,13
+2020-10-01,cn,"China","Beijing","All",Top Trending Employers,"TAL Education Group",6.483243658430621,14
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Product Manager",3.6843601148162186,1
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Software Engineer",3.0933119003328153,2
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Sales Manager",2.285265019906997,3
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"General Manager",1.9623657632392761,4
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Project Manager",1.953009898899416,5
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Human Resources Business Partner",1.9111487123074988,6
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Account Manager",1.7408128698448229,7
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Professor",1.4825947236568926,8
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Data Analyst",1.3836927116503517,9
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Business Development Manager",1.3470067061437148,10
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Search Consultant",1.2694916728483785,11
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Algorithm Engineer",1.2484097017293108,12
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Teacher",1.0806992510713624,13
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Investment Manager",1.0746211761300715,14
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Recruiter",1.0633782569130221,15
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Operations Manager",0.9718763528378216,16
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Business Analyst",0.9623349228600244,17
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Sales Director",0.9585690552160291,18
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Marketing Manager",0.9420930430150501,19
+2020-10-01,cn,"China","Beijing","All",Top Trending Jobs,"Postdoctoral Researcher",0.772388454866777,20
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Sales Management",-1,1
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Project Management",-1,2
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Merchandising",-1,3
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Java",-1,4
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Linux",-1,5
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"General Management",-1,6
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Recruiting",-1,7
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Project Planning",-1,8
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Teaching",-1,9
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Executive Search",-1,10
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Account Management",-1,11
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Axure RP",-1,12
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Data Analysis",-1,13
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Operations Management",-1,14
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Python (Programming Language)",-1,15
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Machine Learning",-1,16
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Curriculum Development",-1,17
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Business Analysis",-1,18
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"Investment Management",-1,19
+2020-10-01,cn,"China","Beijing","All",Top Trending Skills,"SQL",-1,20

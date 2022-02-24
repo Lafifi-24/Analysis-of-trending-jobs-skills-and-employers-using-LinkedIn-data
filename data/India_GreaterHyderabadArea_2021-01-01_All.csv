@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Deloitte",4.824377045351662,1
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Tata Consultancy Services",3.2045034218326025,2
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Amazon",4.182025716286927,3
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Accenture",3.0937096117660814,4
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Wipro Limited",2.9019637054201812,5
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Wells Fargo",5.1523675479299085,6
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Novartis",3.596726939823889,7
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Infosys",0.9601876082423834,8
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Oracle",2.772488541907667,9
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"HCL Technologies",3.7911434703846094,10
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Capgemini",1.7591764332307191,11
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Microsoft",2.0264015301746516,12
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"JPMorgan Chase & Co.",3.3893856635959154,13
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"PepsiCo",13.218777223461888,14
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Genpact",1.3826251094570252,15
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"ICICI Bank",3.0107005996621803,16
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Micron Technology",9.627060412991419,17
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"ValueLabs",2.813932700522739,18
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"Infosys Ltd",5.046465429578174,19
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Employers,"ServiceNow",5.185031812756773,20
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Software Engineer",16.18615235090757,1
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"System Engineer",2.9687026513207426,2
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Recruiter",2.741011078840556,3
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Business Analyst",1.5879508535999287,4
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Application Developer",1.3686815744185465,5
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Project Manager",1.084571036197244,6
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Business Development Executive",1.0743530303792093,7
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Human Resources Executive",1.0724368554552095,8
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Business Development Manager",0.8945825195770665,9
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Project Engineer",0.8586412860643309,10
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Human Resources Manager",0.7958196543771744,11
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Quality Assurance Engineer",0.7421478787092418,12
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Design Engineer",0.6949267002284365,13
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Data Analyst",0.6526615867147749,14
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Sales Manager",0.6517098787426545,15
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Product Manager",0.636265082759324,16
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"General Manager",0.6345431058019659,17
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Data Scientist",0.6278975194481536,18
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Operations Manager",0.6144556363511742,19
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Jobs,"Tax Consultant",0.6133837536149328,20
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"SQL",-1,1
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"JavaScript",-1,2
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Sales Management",-1,3
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Business Analysis",-1,4
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Recruiting",-1,5
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"AutoCAD",-1,6
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Team Leadership",-1,7
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Employee Relations",-1,8
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Core Java",-1,9
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Operations Management",-1,10
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Requirements Analysis",-1,11
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"CATIA",-1,12
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Data Analysis",-1,13
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Employee Engagement",-1,14
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,15
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Requirements Gathering",-1,16
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Manual Testing",-1,17
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Java",-1,18
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Project Engineering",-1,19
+2021-01-01,in,"India","Greater Hyderabad Area","All",Top Trending Skills,"Machine Learning",-1,20

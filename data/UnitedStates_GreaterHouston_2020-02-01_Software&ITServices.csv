@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Jobs,"Software Engineer",6.689443677075115,1
+2020-02-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Jobs,"Solutions Architect",2.6604054628576033,2
+2020-02-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Jobs,"Project Manager",2.3581730784840507,3
+2020-02-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Skills,"Construction Management",-1,2
+2020-02-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,3
+2020-02-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Skills,"Cloud Computing",-1,4

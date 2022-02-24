@@ -1,0 +1,18 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Wells Fargo",3.134674411622395,1
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"First Republic Bank",6.270526920081214,2
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Robinhood",18.893365162990865,3
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Silicon Valley Bank",8.20862754610741,4
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Blue Shield of California",5.112432422242514,5
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Chime",22.56606475740724,6
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"eHealth, Inc.",29.31834111384616,7
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Software Engineer",7.3694088618620786,1
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Financial Advisor",2.6512280108506543,2
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Product Manager",2.223152908540223,3
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Account Manager",1.6331874272123543,4
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Venture Partner",1.4915740379387243,5
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Account Management",-1,2
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Retirement Planning",-1,3
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Agile Methodologies",-1,4
+2020-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Investments",-1,5

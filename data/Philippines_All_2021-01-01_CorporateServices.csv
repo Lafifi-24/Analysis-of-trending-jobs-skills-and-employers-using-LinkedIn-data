@@ -1,0 +1,18 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Employers,"TaskUs",4.235017741787128,1
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Employers,"Teleperformance",2.363922041393835,2
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Employers,"Cloudstaff",4.8538316437726685,3
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Employers,"PwC Philippines",5.885253496036949,4
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Employers,"TELUS International Philippines",2.3396698917131786,5
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Employers,"Sitel",3.0947036279307936,6
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Jobs,"Customer Service Representative",10.711999949284152,1
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Jobs,"Audit Associate",4.4195800270645025,2
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Jobs,"Accountant",3.0624773900956312,3
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Jobs,"Recruiter",3.057283925080958,4
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Skills,"Financial Reporting",-1,1
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,2
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Skills,"Data Entry",-1,3
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Skills,"Customer Experience",-1,4
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Skills,"External Audit",-1,5
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Skills,"Recruiting",-1,6
+2021-01-01,ph,"Philippines","All","Corporate Services",Top Trending Skills,"Sourcing",-1,7

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Tulsa Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.932962808845269,1
+2020-04-01,us,"United States","Tulsa Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.7790023892617572,2
+2020-04-01,us,"United States","Tulsa Metropolitan Area","All",Top Trending Jobs,"Nurse",1.795350889149959,3
+2020-04-01,us,"United States","Tulsa Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.744736054154516,4
+2020-04-01,us,"United States","Tulsa Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-04-01,us,"United States","Tulsa Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,2
+2020-04-01,us,"United States","Tulsa Metropolitan Area","All",Top Trending Skills,"Nursing",-1,3
+2020-04-01,us,"United States","Tulsa Metropolitan Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,4

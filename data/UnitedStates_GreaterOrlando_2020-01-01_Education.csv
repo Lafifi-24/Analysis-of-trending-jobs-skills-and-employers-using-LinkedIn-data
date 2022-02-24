@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Orlando","Education",Top Trending Employers,"University of Central Florida",4.488742775788501,1
+2020-01-01,us,"United States","Greater Orlando","Education",Top Trending Employers,"Orange County Public Schools",2.6213113418269316,2
+2020-01-01,us,"United States","Greater Orlando","Education",Top Trending Employers,"Embry-Riddle Aeronautical University",5.714960872133515,3
+2020-01-01,us,"United States","Greater Orlando","Education",Top Trending Jobs,"Teacher",10.212789862204623,1
+2020-01-01,us,"United States","Greater Orlando","Education",Top Trending Jobs,"Professor",7.247087704901404,2
+2020-01-01,us,"United States","Greater Orlando","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,us,"United States","Greater Orlando","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-01-01,us,"United States","Greater Orlando","Education",Top Trending Skills,"Higher Education",-1,3

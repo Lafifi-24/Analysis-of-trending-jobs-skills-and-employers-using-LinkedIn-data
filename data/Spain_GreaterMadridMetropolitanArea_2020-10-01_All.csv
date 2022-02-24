@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Comunidad de Madrid",9.965959425506083,1
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Amazon",13.396960310962855,2
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Banco Santander",4.275497776510366,3
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Deloitte",6.034065425765971,4
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Telefónica",2.602176010127715,5
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Universidad Complutense de Madrid",4.5643013842184565,6
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Indra",2.2080850472601687,7
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"El Corte Inglés",4.055320728962743,8
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Universidad Carlos III de Madrid",7.471319859151366,9
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"everis",2.5396449646031134,10
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Universidad Rey Juan Carlos",5.966064119007597,11
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Altran",4.869110908899208,12
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Universidad Pontificia Comillas",9.990003071689504,13
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Universidad Francisco de Vitoria",8.6489281242774,14
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Universidad Nebrija",10.474959951121978,15
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Tragsatec",8.938574485079394,16
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Nova Talent",9.590184175114105,17
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Securitas Direct by Verisure",7.29897993519582,18
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"UNIR - La Universidad en Internet",7.42746970330441,19
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Employers,"Amazon Web Services (AWS)",19.304201154371352,20
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Professor",4.77988382351949,1
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Teacher",2.8505129871874315,2
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.158763858517577,3
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.5670988921602818,4
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"English Teacher",1.18583720229851,5
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Psychologist",1.0857976870219677,6
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Attorney",0.9801136505544846,7
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Editor",0.9068780421048167,8
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Account Manager",0.8395782681401202,9
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Architect",0.7429105404970775,10
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Elementary School Teacher",0.7250714354636532,11
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Frontend Developer",0.7126784094989305,12
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Community Manager",0.7069877325603192,13
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Physical Therapist",0.6999916907617728,14
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Food Server",0.6359232307179634,15
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Full Stack Engineer",0.6051534832474127,16
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Business Development Manager",0.5833966213663235,17
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Data Scientist",0.5648680170242316,18
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.548834633268932,19
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.5341902150587224,20
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Java",-1,3
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Legal Advice",-1,4
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Litigation",-1,5
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Adobe Illustrator",-1,6
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Architectural Design",-1,7
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Psychotherapy",-1,8
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Negotiation",-1,9
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Journalism",-1,10
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Blogging",-1,11
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Physical Therapy",-1,12
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Rehabilitation",-1,13
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Git",-1,14
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Account Management",-1,15
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"English Teaching",-1,16
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Node.js",-1,17
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"SASS",-1,18
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"Machine Learning",-1,19
+2020-10-01,es,"Spain","Greater Madrid Metropolitan Area","All",Top Trending Skills,"R (Programming Language)",-1,20

@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Houston","Manufacturing",Top Trending Jobs,"Sales Manager",3.806539903832187,1
+2021-01-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Sales Management",-1,1
+2021-01-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Sales Operations",-1,2

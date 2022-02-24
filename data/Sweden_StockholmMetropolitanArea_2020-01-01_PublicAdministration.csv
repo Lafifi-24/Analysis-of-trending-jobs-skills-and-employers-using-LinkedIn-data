@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Public Administration",Top Trending Employers,"Stockholms stad",3.7369136095781035,1
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Public Administration",Top Trending Jobs,"Teacher",8.241105191341228,1
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Public Administration",Top Trending Jobs,"Project Manager",6.091756264806312,2
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Public Administration",Top Trending Skills,"Project Management",-1,1
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Public Administration",Top Trending Skills,"Project Planning",-1,2
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Public Administration",Top Trending Skills,"Teaching",-1,3
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Public Administration",Top Trending Skills,"Pedagogy",-1,4

@@ -1,0 +1,24 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Cenovus Energy",31.90387056796395,1
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Teck Resources Limited",4.824363252685099,2
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Suncor",1.1628941978562326,3
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Enbridge",2.7298604065244474,4
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"BBA Consultants",9.754757159406681,5
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Parkland Corporation",6.616600150925746,6
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Vale",3.6846083678112853,7
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Ontario Power Generation",2.011826252714416,8
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Rio Tinto",2.356917280616517,9
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"TC Energy",1.593479915178733,10
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Canadian Natural Resources Limited (CNRL)",1.3210252295733071,11
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Wood",3.0922717192504874,12
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Employers,"Agnico Eagle Mines Limited",4.780708305169964,13
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Jobs,"Project Manager",2.8153466854705878,1
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Jobs,"Geologist",2.805177013754094,2
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Jobs,"Business Analyst",1.3655243773534396,3
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Jobs,"Accountant",1.3081017735941332,4
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Skills,"Project Planning",-1,1
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Skills,"Financial Reporting",-1,2
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Skills,"Business Analysis",-1,3
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Skills,"Construction Management",-1,4
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Skills,"Requirements Gathering",-1,5
+2021-02-01,ca,"Canada","All","Energy & Mining",Top Trending Skills,"Geology",-1,6

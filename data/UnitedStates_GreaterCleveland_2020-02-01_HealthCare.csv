@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Cleveland","Health Care",Top Trending Employers,"Cleveland Clinic",3.583427487723259,1
+2020-02-01,us,"United States","Greater Cleveland","Health Care",Top Trending Employers,"University Hospitals",2.911282927528812,2
+2020-02-01,us,"United States","Greater Cleveland","Health Care",Top Trending Jobs,"Nurse",9.753248660798869,1
+2020-02-01,us,"United States","Greater Cleveland","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-02-01,us,"United States","Greater Cleveland","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

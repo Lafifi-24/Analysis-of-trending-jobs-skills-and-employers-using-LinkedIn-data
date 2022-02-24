@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Houston","Manufacturing",Top Trending Jobs,"Sales Manager",3.3236576929761,1
+2020-10-01,us,"United States","Greater Houston","Manufacturing",Top Trending Jobs,"Project Manager",2.7579086265382218,2
+2020-10-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Sales Management",-1,1
+2020-10-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Construction Management",-1,2
+2020-10-01,us,"United States","Greater Houston","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

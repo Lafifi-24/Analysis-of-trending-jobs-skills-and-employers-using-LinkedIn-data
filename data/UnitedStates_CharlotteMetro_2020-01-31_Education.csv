@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-31,us,"United States","Charlotte Metro","Education",Top Trending Employers,"University of North Carolina at Charlotte",7.088548957395662,1
+2020-01-31,us,"United States","Charlotte Metro","Education",Top Trending Employers,"Charlotte-Mecklenburg Schools",2.7244574361121083,2
+2020-01-31,us,"United States","Charlotte Metro","Education",Top Trending Jobs,"Teacher",11.105688779233507,1
+2020-01-31,us,"United States","Charlotte Metro","Education",Top Trending Jobs,"Professor",8.839827286713492,2
+2020-01-31,us,"United States","Charlotte Metro","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-31,us,"United States","Charlotte Metro","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-01-31,us,"United States","Charlotte Metro","Education",Top Trending Skills,"Higher Education",-1,3

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,be,"Belgium","Ghent Metropolitan Area","All",Top Trending Employers,"Ghent University",3.4763606367562607,1
+2020-01-01,be,"Belgium","Ghent Metropolitan Area","All",Top Trending Jobs,"Project Manager",3.35148207919169,1
+2020-01-01,be,"Belgium","Ghent Metropolitan Area","All",Top Trending Jobs,"Account Manager",3.109474475126053,2
+2020-01-01,be,"Belgium","Ghent Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.6036116306494232,3
+2020-01-01,be,"Belgium","Ghent Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2020-01-01,be,"Belgium","Ghent Metropolitan Area","All",Top Trending Skills,"Account Management",-1,2
+2020-01-01,be,"Belgium","Ghent Metropolitan Area","All",Top Trending Skills,"Business-to-Business (B2B)",-1,3
+2020-01-01,be,"Belgium","Ghent Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,4

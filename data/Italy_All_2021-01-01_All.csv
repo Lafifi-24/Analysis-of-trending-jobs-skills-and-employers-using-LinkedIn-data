@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Accenture",3.6089021422174232,1
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Poste Italiane",4.227008471838344,2
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"PwC",6.2675445098835265,3
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Intesa Sanpaolo",2.2146901420637817,4
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Amazon",5.298948672968868,5
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Accenture Italia",7.612724044893147,6
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Deloitte",7.342256244109067,7
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Generali",2.9728420622216363,8
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Alma Mater Studiorum – Università di Bologna",5.0967280217540605,9
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"BPER Banca",6.989028912036472,10
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Capgemini",5.003536437620481,11
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"ALLEANZA ASSICURAZIONI",5.451785589260748,12
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Noovle",88.74130233427393,13
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Sapienza Università di Roma",3.860152554096579,14
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"TIM",2.167822718391606,15
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Leonardo",1.707377388663185,16
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Deloitte Italia",6.63046821583501,17
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Università degli Studi di Padova",4.337626644205839,18
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"lidl-italia-srl",4.93324555997324,19
+2021-01-01,it,"Italy","All","All",Top Trending Employers,"Luxottica",4.731836103778857,20
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Teacher",2.3568270161780176,1
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Software Engineer",2.160918502384622,2
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Project Manager",2.0453244982244,3
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Salesperson",1.9939423271903962,4
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Medical Doctor",1.8277138181126997,5
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Lawyer",1.4043109698065903,6
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Sales Manager",1.3740912395420108,7
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Account Manager",1.196650573095639,8
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Nurse",0.9854161629926212,9
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Financial Advisor",0.9625221277939052,10
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Business Analyst",0.9329672765290845,11
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Social Media Manager",0.9255179261167312,12
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Administration Employee",0.860516309449711,13
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Postdoctoral Researcher",0.7781604640152462,14
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Architect",0.6784110527492165,15
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Graphic Designer",0.6772766719885432,16
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Back Office Employee",0.6122802814844086,17
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Accountant",0.6111679130674983,18
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"System Engineer",0.5786478722266558,19
+2021-01-01,it,"Italy","All","All",Top Trending Jobs,"Professor",0.5775077441096745,20
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Project Management",-1,1
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Litigation",-1,2
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Legal Advice",-1,3
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Teaching",-1,4
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Architectural Design",-1,5
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Sales Management",-1,6
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Adobe Illustrator",-1,7
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"JavaScript",-1,8
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Project Planning",-1,9
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Clinical Research",-1,10
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Business Planning",-1,11
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Graphics",-1,12
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Social Media Marketing",-1,13
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Nursing",-1,14
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Invoicing",-1,15
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"General Ledger",-1,16
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Investments",-1,17
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Portfolio Management",-1,18
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Instagram",-1,19
+2021-01-01,it,"Italy","All","All",Top Trending Skills,"Windows Server",-1,20

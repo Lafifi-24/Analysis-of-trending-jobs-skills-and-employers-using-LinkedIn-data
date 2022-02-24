@@ -1,0 +1,22 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"Sciences Po",5.612929513212225,1
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"University of Paris I: Panthéon-Sorbonne",6.858489830867898,2
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"Université Paris-Saclay",19.996475796792975,3
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"CEA",6.2606979688096365,4
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"CNRS",5.403608849689112,5
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"INSERM",6.693324800329843,6
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"Université Paris Dauphine - PSL",5.536230483888681,7
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"OpenClassrooms",11.632022154925567,8
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Teacher",9.923627795353003,1
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Postdoctoral Researcher",6.843081366125128,2
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Professor",6.051754682662053,3
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Lecturer",6.007553502904553,4
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Project Manager",3.5076637140246043,5
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Education Instructor",3.396771838602805,6
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Research Engineer",2.9308033053165237,7
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Project Management",-1,1
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Teaching",-1,2
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Training Facilitation",-1,3
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Research and Development (R&D)",-1,4
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"MATLAB",-1,5
+2020-03-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Molecular Biology",-1,6

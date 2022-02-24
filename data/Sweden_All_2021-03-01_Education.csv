@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,se,"Sweden","All","Education",Top Trending Employers,"Uppsala University",3.3855308659952765,1
+2021-03-01,se,"Sweden","All","Education",Top Trending Employers,"KTH Royal Institute of Technology",3.6690321320830415,2
+2021-03-01,se,"Sweden","All","Education",Top Trending Employers,"Karolinska Institutet",2.2247335336890273,3
+2021-03-01,se,"Sweden","All","Education",Top Trending Employers,"Lund University",2.2625904219785986,4
+2021-03-01,se,"Sweden","All","Education",Top Trending Employers,"RISE Research Institutes of Sweden",3.8293503211888167,5
+2021-03-01,se,"Sweden","All","Education",Top Trending Employers,"Chalmers University of Technology",3.833908873373245,6
+2021-03-01,se,"Sweden","All","Education",Top Trending Employers,"University of Gothenburg",2.880530089198326,7
+2021-03-01,se,"Sweden","All","Education",Top Trending Jobs,"Teacher",13.062685846173917,1
+2021-03-01,se,"Sweden","All","Education",Top Trending Jobs,"Postdoctoral Researcher",11.074223175630838,2
+2021-03-01,se,"Sweden","All","Education",Top Trending Jobs,"Professor",5.346572679950861,3
+2021-03-01,se,"Sweden","All","Education",Top Trending Jobs,"Lecturer",4.310915814462865,4
+2021-03-01,se,"Sweden","All","Education",Top Trending Skills,"Teaching",-1,1
+2021-03-01,se,"Sweden","All","Education",Top Trending Skills,"Pedagogy",-1,2
+2021-03-01,se,"Sweden","All","Education",Top Trending Skills,"Scientific Writing",-1,3

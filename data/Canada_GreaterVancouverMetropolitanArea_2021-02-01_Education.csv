@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,ca,"Canada","Greater Vancouver Metropolitan Area","Education",Top Trending Employers,"The University of British Columbia",3.0640997670720713,1
+2021-02-01,ca,"Canada","Greater Vancouver Metropolitan Area","Education",Top Trending Employers,"Simon Fraser University",4.397726735317466,2
+2021-02-01,ca,"Canada","Greater Vancouver Metropolitan Area","Education",Top Trending Employers,"CDI College",48.301325748951506,3
+2021-02-01,ca,"Canada","Greater Vancouver Metropolitan Area","Education",Top Trending Jobs,"Teacher",9.22595461075144,1
+2021-02-01,ca,"Canada","Greater Vancouver Metropolitan Area","Education",Top Trending Jobs,"Professor",7.416464527697516,2
+2021-02-01,ca,"Canada","Greater Vancouver Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-02-01,ca,"Canada","Greater Vancouver Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-02-01,ca,"Canada","Greater Vancouver Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

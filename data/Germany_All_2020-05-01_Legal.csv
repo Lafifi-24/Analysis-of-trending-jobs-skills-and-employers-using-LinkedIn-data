@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,de,"Germany","All","Legal",Top Trending Jobs,"Law Clerk",19.64149981303132,1
+2020-05-01,de,"Germany","All","Legal",Top Trending Jobs,"Attorney",19.239524214843502,2
+2020-05-01,de,"Germany","All","Legal",Top Trending Jobs,"Lawyer",15.710727584726424,3
+2020-05-01,de,"Germany","All","Legal",Top Trending Jobs,"Scientific Officer",12.349338662015114,4
+2020-05-01,de,"Germany","All","Legal",Top Trending Skills,"Litigation",-1,1
+2020-05-01,de,"Germany","All","Legal",Top Trending Skills,"Corporate Law",-1,2
+2020-05-01,de,"Germany","All","Legal",Top Trending Skills,"LaTeX",-1,3
+2020-05-01,de,"Germany","All","Legal",Top Trending Skills,"Legal Research",-1,4
+2020-05-01,de,"Germany","All","Legal",Top Trending Skills,"Legal Writing",-1,5

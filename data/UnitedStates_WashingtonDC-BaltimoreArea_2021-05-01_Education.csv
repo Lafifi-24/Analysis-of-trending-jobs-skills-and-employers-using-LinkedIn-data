@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"The National Institutes of Health",2.500398536541021,1
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"The Johns Hopkins University",1.6726987502018114,2
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"The George Washington University",2.012505975842996,3
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"Georgetown University",1.641369013665571,4
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Employers,"George Mason University",1.5990609928014,5
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Jobs,"Teacher",6.339850930852456,1
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Jobs,"Professor",5.082391858534883,2
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.5016748732312433,3
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Jobs,"Software Engineer",1.895243303577615,4
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"JavaScript",-1,2
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Higher Education",-1,4
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Molecular Biology",-1,5
+2021-05-01,us,"United States","Washington DC-Baltimore Area","Education",Top Trending Skills,"Cell Culture",-1,6

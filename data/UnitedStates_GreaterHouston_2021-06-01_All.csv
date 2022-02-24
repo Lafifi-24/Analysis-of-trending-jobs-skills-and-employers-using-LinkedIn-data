@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"Houston Methodist",2.978189536093171,1
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"Memorial Hermann Health System",3.0424260586058303,2
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"Baylor College of Medicine",3.518462856440247,3
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"MD Anderson Cancer Center",1.8495271711390961,4
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"alliantgroup",23.809113250802966,5
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"Texas Children's Hospital",3.5127769563983295,6
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"The University of Texas Health Science Center at Houston (UTHealth)",3.648061812046023,7
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"Microsoft",13.078466485836444,8
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"University of Houston",2.022104183617892,9
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"The University of Texas Medical Branch",3.1361820121615627,10
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"Accenture",4.213577439564712,11
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"Rice University",2.968985299513028,12
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"JPMorgan Chase & Co.",3.2750656435329026,13
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"eXp Realty",8.574970907662006,14
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"City of Houston",2.5551116682723443,15
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"Lonza",14.454789656099756,16
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"Kelsey-Seybold Clinic",6.354520454959746,17
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"LyondellBasell",2.219071817584582,18
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Employers,"bp",1.560895620958621,19
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Real Estate Agent",2.5071248825509507,1
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Project Manager",2.460068436096039,2
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Salesperson",1.7970814615194917,3
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Account Manager",1.4486239106122858,4
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Software Engineer",1.4364632275703881,5
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Customer Service Representative",1.1109851437848086,6
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Sales Manager",1.0965484596968456,7
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Nurse",1.081333234328665,8
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Account Executive",1.0739063552905344,9
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Recruiter",1.0364224258748318,10
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Attorney",0.9618016065086905,11
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Business Development Manager",0.9205819297097567,12
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Operations Manager",0.8474652692108876,13
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Accountant",0.8345072883664406,14
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"General Manager",0.7464564377596717,15
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Financial Analyst",0.6081046407614995,16
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Sales Director",0.5982495192864831,17
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Business Analyst",0.5922156822389686,18
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Teacher",0.5286601512886706,19
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Project Engineer",0.4885281824721412,20
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Teaching",-1,1
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"JavaScript",-1,2
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Account Management",-1,4
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Sales Management",-1,5
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Investment Properties",-1,6
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Team Building",-1,8
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Operations Management",-1,9
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Legal Writing",-1,10
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Recruiting",-1,11
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Construction Management",-1,12
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Civil Litigation",-1,13
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Account Reconciliation",-1,14
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Sales Operations",-1,15
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Business Analysis",-1,16
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Inventory Management",-1,17
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Financial Analysis",-1,18
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"General Ledger",-1,19
+2021-06-01,us,"United States","Greater Houston","All",Top Trending Skills,"Customer Satisfaction",-1,20

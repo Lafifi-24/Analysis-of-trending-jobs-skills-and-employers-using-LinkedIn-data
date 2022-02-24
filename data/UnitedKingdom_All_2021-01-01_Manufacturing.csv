@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"BAE Systems",3.799897071088588,1
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"UK Ministry of Defence",4.020551141751446,2
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"Babcock International Group",3.588159111783674,3
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"ARRIVAL",21.979295791197956,4
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"Spirit AeroSystems",27.396174181438603,5
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"Jaguar Land Rover",0.97070402107442,6
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"INEOS",11.723414801816274,7
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"BOMBARDIER",3.6784628963382526,8
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"Defence Equipment & Support (DE&S)",2.9097101143608395,9
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"Tesla",13.619183874270119,10
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"Johnson Matthey",2.9591310529942354,11
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"Bakkavor",4.960771944849086,12
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"QinetiQ",3.2483198324032694,13
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"The AA",5.075130144238661,14
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"ENGIE UK & Ireland",3.5692355826543474,15
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"Vertu Motors plc",11.237587683561765,16
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"Leonardo",1.9147626362869992,17
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Employers,"MBDA",3.104100597747848,18
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.6469062403614294,1
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Project Manager",2.6025988909057776,2
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Sales Executive",2.087555623649672,3
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Business Development Manager",2.0735897668696888,4
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Design Engineer",1.6203195003174549,5
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Software Engineer",1.577170786114622,6
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Account Manager",1.0943943418214361,7
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Project Engineer",1.0850308148510226,8
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Operations Manager",0.977268695137468,9
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Buyer",0.8915153725701102,10
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"System Engineer",0.7890962653784186,11
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Mechanical Design Engineer",0.6827857038571331,12
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Mechanical Engineer",0.6768959301393402,13
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",0.6733685996549477,14
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Sales Administrator",0.6533808567990944,15
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Marketing Manager",0.6335749957930648,16
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"General Manager",0.6077245418853152,17
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Quality Engineer",0.6074915439987968,18
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Accountant",0.6072376249697657,19
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Jobs,"Human Resources Business Partner",0.5722097026274383,20
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Account Management",-1,1
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"JavaScript",-1,3
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Operations Management",-1,4
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Stakeholder Management",-1,5
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Project Delivery",-1,6
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Marketing Strategy",-1,7
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,8
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Financial Accounting",-1,9
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Change Management",-1,10
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Digital Marketing",-1,11
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Sales Process",-1,12
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Project Engineering",-1,13
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Computer-Aided Design (CAD)",-1,14
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Performance Management",-1,15
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Procurement",-1,16
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Employee Engagement",-1,17
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Design Engineering",-1,18
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Systems Engineering",-1,19
+2021-01-01,gb,"United Kingdom","All","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,20

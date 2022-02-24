@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Employers,"ETH Zürich",3.8913964780177586,1
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Zurich",4.526229205415006,2
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",3.3468485834681214,3
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Geneva",2.5416361327770556,4
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of St.Gallen",6.915676324996822,5
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Lecturer",12.247056617817242,1
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Postdoctoral Researcher",11.411443648355455,2
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Professor",5.14457087800682,3
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Project Manager",3.7167175731414446,4
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Scientific Officer",3.486163318330361,5
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Skills,"Project Management",-1,1
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Skills,"Change Management",-1,2
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Skills,"Teaching",-1,3
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Skills,"Scientific Writing",-1,4
+2020-07-01,ch,"Switzerland","All","Education",Top Trending Skills,"Research",-1,5

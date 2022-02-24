@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Greater Houston","Legal",Top Trending Jobs,"Attorney",37.02286386300711,1
+2021-06-01,us,"United States","Greater Houston","Legal",Top Trending Jobs,"Law Clerk",11.425491075525079,2
+2021-06-01,us,"United States","Greater Houston","Legal",Top Trending Skills,"Legal Writing",-1,1
+2021-06-01,us,"United States","Greater Houston","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2021-06-01,us,"United States","Greater Houston","Legal",Top Trending Skills,"Legal Research",-1,3

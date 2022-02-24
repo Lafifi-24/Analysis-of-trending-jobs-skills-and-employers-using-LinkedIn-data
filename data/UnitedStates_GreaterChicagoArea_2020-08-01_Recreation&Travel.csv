@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Employers,"McDonald's",3.2483075210567995,1
+2020-08-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Jobs,"Server",6.232824673024652,1
+2020-08-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Jobs,"General Manager",5.635674425295359,2
+2020-08-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Jobs,"Hostess",4.172205247997353,3
+2020-08-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Skills,"Team Building",-1,1
+2020-08-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Skills,"Time Management",-1,2
+2020-08-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Skills,"Inventory Management",-1,3

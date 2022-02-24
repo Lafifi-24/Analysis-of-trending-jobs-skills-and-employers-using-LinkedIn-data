@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"NVIDIA",4.246655466375742,1
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Intel Corporation",2.3351473565164222,2
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Lam Research",4.743652672789805,3
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Marvell Technology",6.156641054146707,4
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Supermicro",5.101111900042822,5
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"AMD",5.490306487469651,6
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Software Engineer",9.799254182824372,1
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Process Engineer",3.3545295420352823,2
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Test Engineer",2.7383700477945174,3
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Process Engineering",-1,2
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Testing",-1,3
+2021-06-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Test Engineering",-1,4

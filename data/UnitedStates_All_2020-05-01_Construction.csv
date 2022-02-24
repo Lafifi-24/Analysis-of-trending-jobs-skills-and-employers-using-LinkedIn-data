@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Jacobs",3.162904411471329,1
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Kiewit",5.219113619767477,2
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"D.R. Horton",3.7020832064842275,3
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"WSP USA",2.715752826915244,4
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"United Rentals",2.5248719692478376,5
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"HNTB",3.4909696299173723,6
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Michael Baker International",4.726591074148694,7
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Lansing Building Products",35.314034218500986,8
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Burns & McDonnell",1.679074386659452,9
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Kimley-Horn",2.746041405975176,10
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Fluor Corporation",1.9653541103437384,11
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Hilti North America",4.148033023593069,12
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Granite Construction",5.947817909849272,13
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Wanzek Construction, Inc.",15.08720160889309,14
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Clark Construction Group, LLC",5.208243576477082,15
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"Black & Veatch",1.9563093956423847,16
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"CDM Smith",3.7030521475129494,17
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"HENSEL PHELPS",3.977421115060135,18
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"The Walsh Group - Walsh Construction & Archer Western",4.026868903154971,19
+2020-05-01,us,"United States","All","Construction",Top Trending Employers,"LeafFilter Gutter Protection",13.065156049828431,20
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Project Manager",14.283012926418817,1
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Project Engineer",5.461162908422344,2
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Salesperson",1.4816708009495405,3
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Accountant",1.437115653132523,4
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Electrician",1.3438865082363862,5
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Sales Manager",1.2412997624537654,6
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Field Engineer",1.2286540226044937,7
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Office Manager",1.2081209789750944,8
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Civil Engineer",1.200579823753099,9
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Foreman",1.1313048241002175,10
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Account Manager",1.1030247430870437,11
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Operations Manager",1.0643886060108516,12
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Project Estimator",0.8994033907853946,13
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Outside Sales Representative",0.8867102559609106,14
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Construction Manager",0.8819462402756226,15
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Business Development Manager",0.8786568162812378,16
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Carpenter",0.8287594929705087,17
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"General Manager",0.76848225772022,18
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Project Superintendent",0.7526333593504022,19
+2020-05-01,us,"United States","All","Construction",Top Trending Jobs,"Construction Superintendent",0.6645517597749326,20
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Account Management",-1,1
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Sales Management",-1,2
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Team Building",-1,3
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Operations Management",-1,4
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Construction Management",-1,5
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Account Reconciliation",-1,6
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Sales Operations",-1,7
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Inventory Management",-1,8
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Office Administration",-1,9
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"General Ledger",-1,10
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"QuickBooks",-1,11
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Electrical Wiring",-1,12
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Carpentry",-1,13
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Electrical Troubleshooting",-1,14
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Project Estimation",-1,15
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Outside Sales",-1,16
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Contractors",-1,17
+2020-05-01,us,"United States","All","Construction",Top Trending Skills,"Stormwater Management",-1,18

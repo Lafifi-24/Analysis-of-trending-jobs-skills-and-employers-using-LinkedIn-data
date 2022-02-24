@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Employers,"University of Michigan",4.846529711571421,1
+2020-02-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Employers,"Wayne State University",3.4831017565743543,2
+2020-02-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Employers,"EDUStaff, LLC",8.170260539147701,3
+2020-02-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Jobs,"Teacher",12.080021358289155,1
+2020-02-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Jobs,"Professor",8.949679298569515,2
+2020-02-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-02-01,us,"United States","Detroit Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

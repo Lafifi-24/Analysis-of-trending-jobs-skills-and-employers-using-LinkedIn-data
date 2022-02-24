@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Cincinnati Metropolitan Area","Education",Top Trending Employers,"University of Cincinnati",6.069061722859425,1
+2020-08-01,us,"United States","Cincinnati Metropolitan Area","Education",Top Trending Employers,"Miami University",5.313873357292347,2
+2020-08-01,us,"United States","Cincinnati Metropolitan Area","Education",Top Trending Employers,"Xavier University",7.027969544953424,3
+2020-08-01,us,"United States","Cincinnati Metropolitan Area","Education",Top Trending Employers,"Northern Kentucky University",7.275333512511967,4
+2020-08-01,us,"United States","Cincinnati Metropolitan Area","Education",Top Trending Jobs,"Professor",15.798824031727587,1
+2020-08-01,us,"United States","Cincinnati Metropolitan Area","Education",Top Trending Jobs,"Teacher",10.479491007549242,2
+2020-08-01,us,"United States","Cincinnati Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","Cincinnati Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-08-01,us,"United States","Cincinnati Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

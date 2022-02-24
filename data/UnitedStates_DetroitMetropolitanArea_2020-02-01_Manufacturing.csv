@@ -1,0 +1,19 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Ford Motor Company",4.39018785102128,1
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"FCA Fiat Chrysler Automobiles",4.190070661803474,2
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"General Motors",2.0661812489504454,3
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Rivian",33.17370964088608,4
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Magna International",4.374928982741273,5
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",2.9794606559855312,1
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Account Manager",2.040278389166709,2
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Program Manager",2.0225377551464945,3
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Design Release Engineer",1.5820490867369876,4
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"System Engineer",1.4551942560288036,5
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Program Management",-1,3
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,4
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Systems Engineering",-1,5
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Integration",-1,6
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Automotive",-1,7
+2020-02-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Design Failure Mode and Effect Analysis (DFMEA)",-1,8

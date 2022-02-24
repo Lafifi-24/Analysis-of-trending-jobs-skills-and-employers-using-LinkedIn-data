@@ -1,0 +1,53 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"Amazon",7.014975829255807,1
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"Banner Health",2.4243575177888292,2
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"Arizona State University",1.947456666468118,3
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"Carvana",6.3299893856377825,4
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"Wells Fargo",1.5798906246975446,5
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"GoDaddy",3.760692799772329,6
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"DoorDash",6.588324890872401,7
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"Charles Schwab",3.2972207918397785,8
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"HonorHealth",2.400044174003274,9
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"Honeywell",1.6175465508670919,10
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"Vanguard",2.919559770572861,11
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Employers,"loanDepot",7.630687309140355,12
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Real Estate Agent",2.9894653808383596,1
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Software Engineer",1.9432254040799295,2
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Project Manager",1.7770896880894453,3
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Account Executive",1.7628406006909718,4
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Customer Service Representative",1.6097141956396726,5
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Salesperson",1.4198353469447345,6
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Account Manager",1.3847473567156126,7
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Nurse",1.377302837661489,8
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Sales Manager",1.084269049175208,9
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Accountant",1.0083893708804563,10
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Mortgage Loan Officer",0.8431761250194246,11
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"General Manager",0.7888550323237523,12
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Operations Manager",0.7774135090953049,13
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Recruiter",0.751678120992976,14
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Teacher",0.6485145618585472,15
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Sales Director",0.6474833602438836,16
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Program Manager",0.5639532130079842,17
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Underwriter",0.5393558262132501,18
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Financial Analyst",0.5270740084292636,19
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Jobs,"Professor",0.5211209457610239,20
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"JavaScript",-1,2
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Account Management",-1,4
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Sales Management",-1,5
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Investment Properties",-1,6
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Team Building",-1,8
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Operations Management",-1,9
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Recruiting",-1,10
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Construction Management",-1,11
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Higher Education",-1,12
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Program Management",-1,13
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Account Reconciliation",-1,14
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Sales Operations",-1,15
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Inventory Management",-1,16
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Financial Analysis",-1,17
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"General Ledger",-1,18
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Customer Satisfaction",-1,19
+2021-01-01,us,"United States","Greater Phoenix Area","All",Top Trending Skills,"Interviewing",-1,20

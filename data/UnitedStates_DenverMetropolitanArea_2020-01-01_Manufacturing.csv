@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Employers,"Lockheed Martin",5.354140685236127,1
+2020-01-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Employers,"Ball Aerospace",7.705049221168969,2
+2020-01-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Employers,"Sierra Nevada Corporation",7.666520613853929,3
+2020-01-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",5.338615303940603,1
+2020-01-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Jobs,"System Engineer",5.088111004030115,2
+2020-01-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Skills,"Systems Engineering",-1,2
+2020-01-01,us,"United States","Denver Metropolitan Area","Manufacturing",Top Trending Skills,"Integration",-1,3

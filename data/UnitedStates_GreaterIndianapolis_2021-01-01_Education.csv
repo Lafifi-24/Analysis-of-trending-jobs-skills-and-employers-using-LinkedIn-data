@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Indianapolis","Education",Top Trending Employers,"Covance",4.189366724793779,1
+2021-01-01,us,"United States","Greater Indianapolis","Education",Top Trending Jobs,"Teacher",14.536173254037669,1
+2021-01-01,us,"United States","Greater Indianapolis","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Greater Indianapolis","Education",Top Trending Skills,"Curriculum Development",-1,2

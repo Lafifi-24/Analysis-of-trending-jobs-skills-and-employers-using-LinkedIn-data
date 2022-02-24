@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Employers,"Henry Ford Health System",3.446848486682789,1
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Employers,"Beaumont Health",2.7853443231965316,2
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Employers,"Michigan Medicine",2.8357409456881455,3
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Employers,"Ascension",5.809748658214931,4
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Employers,"Optum",78.35249558381953,5
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Employers,"Centene Corporation",23.77786449530554,6
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Employers,"Detroit Medical Center",5.041815853435469,7
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",8.720539643182605,1
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Jobs,"Medical Resident",3.2895768300379213,2
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Jobs,"Clinical Fellow",2.6354549601659567,3
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Skills,"Clinical Research",-1,3
+2020-07-01,us,"United States","Detroit Metropolitan Area","Health Care",Top Trending Skills,"Clinical Pharmacy",-1,4

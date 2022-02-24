@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"University of Johannesburg",11.228331656997472,1
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"FNB South Africa",2.6952560025494883,2
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"University of the Witwatersrand",7.638930429949229,3
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"Standard Bank Group",2.3863482934433042,4
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"Discovery Limited",5.918557189638476,5
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"Absa Group",2.1747454236529693,6
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"PwC",11.63517794008261,7
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"Nedbank",1.90805907883301,8
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"Anglo American",7.322263664408032,9
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"Liberty Group South Africa",5.430033427950805,10
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"PwC South Africa",11.825203212211118,11
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"Deloitte South Africa",7.432422802437754,12
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"MultiChoice Group",4.058052682921564,13
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"IQbusiness South Africa",18.916429582521584,14
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"Investec",3.3374684190424726,15
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"MTN",3.2580319744651134,16
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Employers,"Accenture",6.945595962865636,17
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Software Engineer",3.208290748030107,1
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Attorney",1.9893770786632359,2
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Teacher",1.4953284449307254,3
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.3020388908369747,4
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.230374487884979,5
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Business Analyst",1.1838153524757042,6
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Lecturer",1.1225620224355235,7
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Sales Consultant",1.0766547211976534,8
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Business Development Manager",1.0485413739980902,9
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Financial Advisor",0.994060375744971,10
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.8833796898218162,11
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Accountant",0.861606926290702,12
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Finance Manager",0.8408135594379902,13
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.827479064160606,14
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.8194663734798977,15
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.7042071880999828,16
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Sales Executive",0.7003540746878946,17
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",0.6591838740974487,18
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Data Analyst",0.5297245979806585,19
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.4833137789591967,20
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Financial Accounting",-1,2
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Financial Reporting",-1,3
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,4
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,6
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"C#",-1,7
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Legal Research",-1,8
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,9
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,10
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Account Management",-1,11
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,12
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,13
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Financial Planning",-1,14
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Logo Design",-1,15
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Contract Management",-1,16
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Higher Education",-1,17
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Marketing Strategy",-1,18
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Retirement Planning",-1,19
+2020-02-01,za,"South Africa","Johannesburg Metropolitan Area","All",Top Trending Skills,"Requirements Analysis",-1,20

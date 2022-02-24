@@ -1,0 +1,23 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"Compass",7.657217466493113,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",6.881552205935929,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"Douglas Elliman Real Estate",4.740671440782328,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"CBRE",6.599044525884549,4
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"Coldwell Banker",14.753047740962943,5
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"eXp Realty",16.34808040164744,6
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"The Corcoran Group",7.403610516070773,7
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"Related Companies",10.485648404355247,8
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"Weichert, Realtors",3.6554856762784484,9
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"Coldwell Banker Residential Brokerage",3.466605467956061,10
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"RE/MAX",13.100708671465563,11
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"William Raveis Real Estate, Mortgage & Insurance",9.418095505202755,12
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Agent",40.768265044944044,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Broker",3.8292777568373064,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Property Manager",2.6759857142329317,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Project Manager",2.611963512112302,4
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Salesperson",2.3051421271786,5
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Realtor Sales Associate",1.5015834064323557,6
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Skills,"Construction Management",-1,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Skills,"Property Management",-1,4

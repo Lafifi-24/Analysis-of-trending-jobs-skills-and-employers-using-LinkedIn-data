@@ -1,0 +1,34 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"CNRS",3.8660986349410704,1
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"CEA",3.605059799836853,2
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"INSERM",4.911532990955067,3
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"OpenClassrooms",9.011277030896633,4
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"Aix-Marseille University",4.328112399678031,5
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"Inria",5.862426453431267,6
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"EPITECH - European Institute of Technology",27.472180418647284,7
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"Acadomia",4.349066582606375,8
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"University of Paris I: Panthéon-Sorbonne",3.50262256949453,9
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"Université de Bordeaux",4.31789499217246,10
+2020-04-01,fr,"France","All","Education",Top Trending Employers,"Institut Pasteur",5.540997968814816,11
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Teacher",8.757773984128555,1
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Postdoctoral Researcher",8.061495629185055,2
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Education Instructor",4.486686075124424,3
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Research Engineer",3.622521324874038,4
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Project Manager",3.5544240597722814,5
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Professor",3.278008084274929,6
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Communications Manager",2.429288252960071,7
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Lecturer",2.3031073240885673,8
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Web Developer",1.237074567946417,9
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Treasurer",1.1527009635996515,10
+2020-04-01,fr,"France","All","Education",Top Trending Jobs,"Development Engineer",1.0652689818556342,11
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"Project Management",-1,1
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"Teaching",-1,2
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"Social Media",-1,3
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"JavaScript",-1,4
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"PHP",-1,5
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"Internal Communications",-1,6
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"Java",-1,7
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"Training Facilitation",-1,8
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"Research and Development (R&D)",-1,9
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"MATLAB",-1,10
+2020-04-01,fr,"France","All","Education",Top Trending Skills,"Molecular Biology",-1,11

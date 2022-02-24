@@ -1,0 +1,35 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"University of Waterloo",9.524009047749473,1
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"The University of British Columbia",3.591495816823514,2
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"University of Ottawa",5.020085776953608,3
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"McGill University",3.568522061881517,4
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"McMaster University",4.245449116127086,5
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Université de Montréal",4.444969555185947,6
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Université Laval",4.836786209845463,7
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"University of Calgary",2.9857891469077638,8
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Ryerson University",3.9888155043150033,9
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Dalhousie University",5.107325586770257,10
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Simon Fraser University",4.556662112444511,11
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"University of Alberta",2.4628029877164694,12
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Carleton University",3.9926525601938314,13
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Seneca College",6.325137387716645,14
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"CDI College",17.9242750045754,15
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Queen's University",3.251802883899204,16
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Concordia University",3.546927923121356,17
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Université de Sherbrooke",5.0733468530556305,18
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"Sheridan College",6.075609965956801,19
+2021-03-01,ca,"Canada","All","Education",Top Trending Employers,"York University",2.7471924852812584,20
+2021-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Teacher",11.686388848400348,1
+2021-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Professor",7.309528990025757,2
+2021-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Postdoctoral Researcher",5.07152883777162,3
+2021-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Lecturer",3.595579612952037,4
+2021-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Software Engineer",1.7100616451521051,5
+2021-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Project Manager",1.2973798388460411,6
+2021-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Director Of Admissions",1.1863646716969845,7
+2021-03-01,ca,"Canada","All","Education",Top Trending Skills,"Teaching",-1,1
+2021-03-01,ca,"Canada","All","Education",Top Trending Skills,"JavaScript",-1,2
+2021-03-01,ca,"Canada","All","Education",Top Trending Skills,"Project Planning",-1,3
+2021-03-01,ca,"Canada","All","Education",Top Trending Skills,"Curriculum Development",-1,4
+2021-03-01,ca,"Canada","All","Education",Top Trending Skills,"Construction Management",-1,5
+2021-03-01,ca,"Canada","All","Education",Top Trending Skills,"Higher Education",-1,6
+2021-03-01,ca,"Canada","All","Education",Top Trending Skills,"Scientific Writing",-1,7

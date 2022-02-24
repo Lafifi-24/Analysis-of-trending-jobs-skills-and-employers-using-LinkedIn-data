@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Tesla",6.099356192653535,1
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Cruise",13.35361074013592,2
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Lucid Motors",23.40187358449483,3
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Zoox",9.297691196020915,4
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Lockheed Martin",5.175183560586235,5
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Rivian",45.52602579402774,6
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Software Engineer",6.778763865523128,1
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",2.17087793059668,2
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Sales Manager",2.0287360813755018,3
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"System Engineer",1.6755492015440896,4
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,3
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Systems Engineering",-1,4
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Integration",-1,5
+2020-01-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,6

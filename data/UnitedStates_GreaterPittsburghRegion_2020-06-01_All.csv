@@ -1,0 +1,27 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"PNC",2.2757238304581136,1
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Carnegie Mellon University",3.391119067347412,2
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Allegheny Health Network",3.2351774477908544,3
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"University of Pittsburgh",1.941433795545657,4
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"BNY Mellon",2.8490508375325896,5
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Highmark Health",4.207480509200202,6
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Amazon",18.466324902096503,7
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Giant Eagle, Inc.",5.978047431703487,8
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Philips",6.921081861859523,9
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"DoorDash",66.2506478174185,10
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Software Engineer",4.858309834030986,1
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Project Manager",1.6675670373036848,2
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Salesperson",1.5643406251796228,3
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Nurse",1.3305150057629473,4
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Account Manager",1.130153145204647,5
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Customer Service Representative",0.9864593185520453,6
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Financial Analyst",0.8836110953087346,7
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Delivery Driver",0.7818872209498661,8
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Account Management",-1,2
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Construction Management",-1,3
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Financial Analysis",-1,4
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Customer Satisfaction",-1,5
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Financial Reporting",-1,6
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Nursing",-1,7
+2020-06-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Basic Life Support (BLS)",-1,8

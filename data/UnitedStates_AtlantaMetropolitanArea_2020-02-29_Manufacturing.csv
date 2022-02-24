@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-29,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Cox Automotive Inc.",4.161275098960536,1
+2020-02-29,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Georgia-Pacific LLC",3.7592932200109423,2
+2020-02-29,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Honeywell",8.77530548845382,3
+2020-02-29,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Lockheed Martin",5.78236519029646,4
+2020-02-29,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",4.203733749189773,1
+2020-02-29,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",2.5116241995020325,2
+2020-02-29,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-02-29,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-02-29,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

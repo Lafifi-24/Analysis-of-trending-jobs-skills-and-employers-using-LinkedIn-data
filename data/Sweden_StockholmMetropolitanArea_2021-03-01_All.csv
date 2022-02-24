@@ -1,0 +1,53 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"Klarna",8.947914814362951,1
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"Swedbank",3.4901853762479997,2
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"Scania Group",2.162269334743896,3
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"Stockholms stad",2.1158295537968,4
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"SEB",2.7366932858968727,5
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"Ericsson",1.5984483210203688,6
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"Karolinska University Hospital",3.145533070247556,7
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"KTH Royal Institute of Technology",3.8520870151460502,8
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"H&M",1.9021592789514197,9
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"Spotify",4.104190779095094,10
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"Karolinska Institutet",1.9362324129650066,11
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"ICA Gruppen",4.072384630721787,12
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Employers,"Swedish Police Authority",2.742047952940505,13
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Project Manager",3.833557920054883,1
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Software Engineer",3.534242768104735,2
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.7807355215987357,3
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.3033837734982356,4
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Sales Manager",1.2035748301208113,6
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Key Account Manager",1.0698821663721039,7
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Teacher",0.9559823154603264,8
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Full Stack Engineer",0.8675415126246672,9
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.8300460564883868,10
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"System Developer",0.8014040038747607,11
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"User Experience Designer",0.7769919409024404,12
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Frontend Developer",0.7219547662279873,13
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Architect",0.6494990571590715,14
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Business Controller",0.634880058731653,15
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Sales Executive",0.6298546806747479,16
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Nurse",0.618071181838316,17
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Management Consultant",0.6071612347526271,18
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Order Processor",0.546486807666579,19
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",0.5456693256231963,20
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,2
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Teaching",-1,3
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Git",-1,4
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"C#",-1,7
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Change Management",-1,8
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,".NET Framework",-1,9
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Pedagogy",-1,10
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Sales Process",-1,11
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Product Development",-1,12
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"React.js",-1,13
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Architectural Design",-1,14
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Marketing Strategy",-1,15
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Management Consulting",-1,16
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Digital Marketing",-1,17
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Financial Reporting",-1,18
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Forecasting",-1,19
+2021-03-01,se,"Sweden","Stockholm Metropolitan Area","All",Top Trending Skills,"Government",-1,20

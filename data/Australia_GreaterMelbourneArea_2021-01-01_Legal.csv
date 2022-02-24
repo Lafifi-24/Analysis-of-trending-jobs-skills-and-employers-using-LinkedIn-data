@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,au,"Australia","Greater Melbourne Area","Legal",Top Trending Jobs,"Lawyer",24.768373816313325,1
+2021-01-01,au,"Australia","Greater Melbourne Area","Legal",Top Trending Jobs,"Paralegal",11.593837224817047,2
+2021-01-01,au,"Australia","Greater Melbourne Area","Legal",Top Trending Jobs,"Law Clerk",11.266401361781334,3
+2021-01-01,au,"Australia","Greater Melbourne Area","Legal",Top Trending Skills,"Legal Advice",-1,1
+2021-01-01,au,"Australia","Greater Melbourne Area","Legal",Top Trending Skills,"Legal Research",-1,2
+2021-01-01,au,"Australia","Greater Melbourne Area","Legal",Top Trending Skills,"Legal Writing",-1,3

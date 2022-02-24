@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"Amazon",14.478056339418382,1
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"Infosys",82.36250530362183,2
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"Accenture",4.35420601556853,3
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"DoorDash",17.483039812968247,4
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Employers,"goPuff",12.86276817014016,5
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Software Engineer",7.506058852660141,1
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Account Executive",2.518985720203622,2
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Delivery Driver",2.070182296722284,3
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Jobs,"Project Manager",1.8662237529762888,4
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Skills,"Construction Management",-1,2
+2020-10-01,us,"United States","Greater Philadelphia","Software & IT Services",Top Trending Skills,"Account Management",-1,3

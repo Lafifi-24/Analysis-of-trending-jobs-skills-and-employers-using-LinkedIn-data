@@ -1,0 +1,18 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,se,"Sweden","All","Finance",Top Trending Employers,"Klarna",11.040983477546233,1
+2021-05-01,se,"Sweden","All","Finance",Top Trending Employers,"Länsförsäkringar",3.730384383810899,2
+2021-05-01,se,"Sweden","All","Finance",Top Trending Employers,"SEB",2.090241740088067,3
+2021-05-01,se,"Sweden","All","Finance",Top Trending Employers,"Nordea",2.2197267122699227,4
+2021-05-01,se,"Sweden","All","Finance",Top Trending Employers,"Söderberg & Partners",5.871777962321375,5
+2021-05-01,se,"Sweden","All","Finance",Top Trending Jobs,"Software Engineer",5.494126112380101,1
+2021-05-01,se,"Sweden","All","Finance",Top Trending Jobs,"Customer Advisor",4.303749896427502,2
+2021-05-01,se,"Sweden","All","Finance",Top Trending Jobs,"Financial Representative",3.4252913881768343,3
+2021-05-01,se,"Sweden","All","Finance",Top Trending Jobs,"Financial Advisor",2.5918932032657844,4
+2021-05-01,se,"Sweden","All","Finance",Top Trending Jobs,"Claims Adjuster",2.0396082753011684,5
+2021-05-01,se,"Sweden","All","Finance",Top Trending Jobs,"Account Manager",1.949103800686566,6
+2021-05-01,se,"Sweden","All","Finance",Top Trending Jobs,"Legal Counsel",1.8121843609977901,7
+2021-05-01,se,"Sweden","All","Finance",Top Trending Skills,"Git",-1,1
+2021-05-01,se,"Sweden","All","Finance",Top Trending Skills,"Business-to-Business (B2B)",-1,2
+2021-05-01,se,"Sweden","All","Finance",Top Trending Skills,"Sales Process",-1,3
+2021-05-01,se,"Sweden","All","Finance",Top Trending Skills,"Insurance",-1,4
+2021-05-01,se,"Sweden","All","Finance",Top Trending Skills,"Legal Advice",-1,5

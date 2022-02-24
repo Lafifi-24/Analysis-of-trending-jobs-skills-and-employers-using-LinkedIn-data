@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"UCL",2.9580729851624294,1
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"Teach First",12.34416736593085,2
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"Imperial College London",3.1359579616489746,3
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"The University of Edinburgh",3.976760761129726,4
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Oxford",2.6004056421519453,5
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"King's College London",2.7205519912380964,6
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Exeter",5.098878928738112,7
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Cambridge",2.1562075285821294,8
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"Northumbria University",6.140465744558896,9
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Bristol",2.4840793418278833,10
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"The University of Sheffield",2.753918997899794,11
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"The University of Manchester",1.8784035694864964,12
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Birmingham",2.175556024264497,13
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Southampton",3.0791499423787685,14
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Nottingham",2.393319329577457,15
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Glasgow",2.682117187433639,16
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"Coventry University",2.857636087431113,17
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"The London School of Economics and Political Science (LSE)",3.8975143714052267,18
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Leeds",1.6792017105365444,19
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Employers,"Jisc",11.173761366664658,20
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Lecturer",7.890408531775743,1
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Teacher",5.915381365282342,2
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Postdoctoral Researcher",2.871730182114734,3
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Professor",2.743477704323057,4
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Treasurer",2.141444205219339,5
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Secretary",1.8616030972161512,6
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"English Teacher",1.6567811517682385,7
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Science Teacher",1.2951449856064565,8
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Mathematics Teacher",0.9509445555597613,9
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Software Engineer",0.9223739042920189,10
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Marketing Executive",0.9052084884354655,11
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Project Manager",0.8930731614842018,12
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Administrative Secretary",0.7598738614831064,13
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Campus Ambassador",0.7156756820619905,14
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"English Second Language Teacher",0.6865955468237996,15
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Writer",0.6718236950418713,16
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Primary School Teacher",0.6667185705534562,17
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Marketing Manager",0.6188353464468082,18
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Anthropologist",0.6093774904785951,19
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Headmaster",0.5886750795340078,20
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"JavaScript",-1,2
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Writing",-1,3
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Stakeholder Management",-1,4
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Project Delivery",-1,5
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Marketing Strategy",-1,6
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Higher Education",-1,7
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Curriculum Development",-1,8
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Creative Writing",-1,9
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Digital Marketing",-1,10
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Email Marketing",-1,11
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Educational Leadership",-1,12
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Molecular Biology",-1,13
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Teamwork",-1,14
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Time Management",-1,15
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Diary Management",-1,16
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Company Secretarial Work",-1,17
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"English Teaching",-1,18
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Lesson Planning",-1,19
+2020-07-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Communication",-1,20

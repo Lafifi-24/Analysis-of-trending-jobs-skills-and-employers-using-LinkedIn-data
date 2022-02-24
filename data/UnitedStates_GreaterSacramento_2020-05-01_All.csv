@@ -1,0 +1,35 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Employers,"University of California, Davis",2.766959717633261,1
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Employers,"UC Davis Health",4.695046055848524,2
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Employers,"Amazon",16.693008249681,3
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Employers,"Sutter Health",2.0927093605006846,4
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Employers,"Kaiser Permanente",2.239543142028877,5
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Real Estate Agent",2.40132944323558,1
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Project Manager",2.178637148313571,2
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Nurse",2.0741665682858295,3
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Software Engineer",1.5098016819006501,4
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Account Manager",1.3730879689445408,5
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Salesperson",1.2921163288282103,6
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Attorney",1.0765465279232433,7
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Account Executive",1.0172071095283528,8
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Customer Service Representative",0.9697197327648956,9
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Operations Manager",0.8667966388766456,10
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Accountant",0.7899810068554671,11
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Project Engineer",0.7757440317518456,12
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Jobs,"Business Analyst",0.7433753464854228,13
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Account Management",-1,2
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Investment Properties",-1,3
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,4
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Operations Management",-1,5
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Team Building",-1,6
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Legal Writing",-1,7
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Construction Management",-1,8
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Civil Litigation",-1,9
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Account Reconciliation",-1,10
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Business Analysis",-1,11
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"General Ledger",-1,12
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Customer Satisfaction",-1,13
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,14
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Nursing",-1,15
+2020-05-01,us,"United States","Greater Sacramento","All",Top Trending Skills,"Basic Life Support (BLS)",-1,16

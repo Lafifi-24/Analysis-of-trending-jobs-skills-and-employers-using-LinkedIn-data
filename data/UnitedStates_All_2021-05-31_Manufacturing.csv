@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"General Motors",5.8840667041346135,1
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Tesla",5.908254557308009,2
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Rivian",29.901036196214946,3
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Lockheed Martin",2.1688202199003372,4
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"United States Air Force",1.0377351161723123,5
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Ford Motor Company",2.9168511481719115,6
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"SpaceX",8.56477782841623,7
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Boeing",1.063191215618373,8
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Caterpillar Inc.",2.830325733131179,9
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Lucid Motors",16.600969063091732,10
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Sherwin-Williams",2.2082170472890708,11
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Sunrun",9.203951093938176,12
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Eaton",3.5113014122078283,13
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"NASA - National Aeronautics and Space Administration",4.12977084075319,14
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Cummins Inc.",2.869839039869158,15
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"3M",1.7792117021563216,16
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"John Deere",2.6607888471430092,17
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"BLUE ORIGIN",6.627012607763903,18
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Cruise",9.38174852089699,19
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Employers,"Cargill",2.4166463026947267,20
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Software Engineer",3.289008731374691,1
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Sales Manager",1.8695316356512008,2
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Project Manager",1.8501727315492462,3
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.5384774410876092,4
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Salesperson",1.5089459659966826,5
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"System Engineer",1.502153324108192,6
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Account Manager",1.4171693219760966,7
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",1.365805231578491,8
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Customer Service Representative",1.0442536810093674,9
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Quality Engineer",0.9781653454294366,10
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Program Manager",0.9756584632657809,11
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Accountant",0.9625807220769901,12
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Buyer",0.9490076641045139,13
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Human Resources Administrator",0.9342177054562232,14
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Process Engineer",0.8962739963946339,15
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Project Engineer",0.8954527902080064,16
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Electrical Engineer",0.8950168331820256,17
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Recruiter",0.8602184767214279,18
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Financial Analyst",0.8391011956559091,19
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Design Engineer",0.7148067370137194,20
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Recruiting",-1,4
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Construction Management",-1,5
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Program Management",-1,6
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Account Reconciliation",-1,7
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Sales Operations",-1,8
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Financial Analysis",-1,9
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"General Ledger",-1,10
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Customer Satisfaction",-1,11
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Interviewing",-1,12
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Financial Reporting",-1,13
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,14
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Systems Engineering",-1,15
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Inventory Management",-1,16
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Integration",-1,17
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,18
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,19
+2021-05-31,us,"United States","All","Manufacturing",Top Trending Skills,"Process Engineering",-1,20

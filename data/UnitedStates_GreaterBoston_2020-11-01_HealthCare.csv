@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Massachusetts General Hospital",3.8611511061234847,1
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Boston Children's Hospital",3.95379934453692,2
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Dana-Farber Cancer Institute",5.289337632079966,3
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Beth Israel Deaconess Medical Center",4.174305372361462,4
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Moderna",15.371441298786682,5
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Partners In Health",33.20004733268545,6
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Boston Medical Center (BMC)",4.169904240224262,7
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Tufts Medical Center",4.499295433116389,8
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Ginkgo Bioworks, Inc.",24.734029841535367,9
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Pfizer",4.8778635958754295,10
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"UMass Memorial Medical Center",4.665962752570704,11
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Vertex Pharmaceuticals",3.6453221630268637,12
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Lifespan",4.7429291518060035,13
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Sanofi",5.451315630307957,14
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Insulet Corporation",9.857604644870575,15
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Boston Scientific",3.7871277099946496,16
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Sarepta Therapeutics",10.096779812455907,17
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Bristol Myers Squibb",5.63568256163195,18
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Lonza",8.257361622766139,19
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Employers,"Sanofi Genzyme",3.0956389793571937,20
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Nurse",6.332308999298519,1
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Software Engineer",1.292502013419543,2
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Physical Therapist",1.2705999119521654,3
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Postdoctoral Researcher",1.1444118616533976,4
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Project Manager",1.0928865455888157,5
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Manufacturing Associate",1.0063962558914665,6
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Accountant",0.854607067749479,8
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Clinician",0.8463252977834861,9
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Clinical Research Coordinator",0.7881208267375137,10
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Emergency Medical Technician",0.6563637854413942,11
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Occupational Therapist",0.6539283565566884,12
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Medical Director",0.6021935546668097,13
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Account Manager",0.5951649966380592,14
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Product Manager",0.5802958958253653,15
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Medical Technologist",0.5444753479935589,16
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Pharmacy Technician",0.5310652266727238,17
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Laboratory Technician",0.5151042591459902,18
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Program Manager",0.5143338511055372,19
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Jobs,"Customer Service Representative",0.47993804088055,20
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Account Management",-1,2
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Construction Management",-1,3
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Program Management",-1,4
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Account Reconciliation",-1,5
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"General Ledger",-1,6
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Customer Satisfaction",-1,7
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Public Speaking",-1,8
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Cross-functional Team Leadership",-1,9
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Nursing",-1,10
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Pharmacy",-1,11
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Physical Therapy",-1,12
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Agile Methodologies",-1,13
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Nonprofit Organizations",-1,14
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Rehabilitation",-1,15
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Molecular Biology",-1,16
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Pharmacy Technicians",-1,17
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,18
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Cell Culture",-1,19
+2020-11-01,us,"United States","Greater Boston","Health Care",Top Trending Skills,"Occupational Therapy",-1,20

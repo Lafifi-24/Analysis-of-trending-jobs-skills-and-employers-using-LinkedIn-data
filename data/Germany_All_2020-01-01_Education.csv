@@ -1,0 +1,24 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"Technical University of Munich",6.401368198001267,1
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"Baden-Wuerttemberg Cooperative State University (DHBW)",10.228516528084896,2
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"Karlsruhe Institute of Technology (KIT)",4.4576468393518764,3
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"Technische Universität Berlin",5.632129960163768,4
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"University of Hamburg",6.943395772121725,5
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"University of Erlangen-Nuremberg",7.481667146346689,6
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"University of Stuttgart",6.609737621082215,7
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"Technische Universität Dresden",5.230266649576257,8
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"Forschungszentrum Jülich",8.402692927841962,9
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"IUBH University of Applied Sciences",12.585605201986075,10
+2020-01-01,de,"Germany","All","Education",Top Trending Employers,"Freie Universität Berlin",4.987813538675442,11
+2020-01-01,de,"Germany","All","Education",Top Trending Jobs,"Postdoctoral Researcher",13.544428867493396,1
+2020-01-01,de,"Germany","All","Education",Top Trending Jobs,"Scientific Officer",11.860778006832273,2
+2020-01-01,de,"Germany","All","Education",Top Trending Jobs,"Lecturer",11.85827409648806,3
+2020-01-01,de,"Germany","All","Education",Top Trending Jobs,"Professor",5.008751083622255,4
+2020-01-01,de,"Germany","All","Education",Top Trending Jobs,"Project Manager",3.162037437415044,5
+2020-01-01,de,"Germany","All","Education",Top Trending Jobs,"Teacher",2.260692815943137,6
+2020-01-01,de,"Germany","All","Education",Top Trending Skills,"Project Management",-1,1
+2020-01-01,de,"Germany","All","Education",Top Trending Skills,"Project Planning",-1,2
+2020-01-01,de,"Germany","All","Education",Top Trending Skills,"Teaching",-1,3
+2020-01-01,de,"Germany","All","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-01-01,de,"Germany","All","Education",Top Trending Skills,"Public Speaking",-1,5
+2020-01-01,de,"Germany","All","Education",Top Trending Skills,"LaTeX",-1,6

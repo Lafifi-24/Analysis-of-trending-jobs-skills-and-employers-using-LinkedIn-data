@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Employers,"Porsche AG",4.110288285197394,1
+2021-05-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Jobs,"Development Engineer",7.459231142226841,1
+2021-05-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Skills,"MATLAB",-1,1
+2021-05-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Skills,"Automotive",-1,2

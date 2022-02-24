@@ -1,0 +1,55 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Northwestern Mutual",4.434368753676009,1
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Milwaukee Tool",14.189545649214985,2
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Medical College of Wisconsin",5.394991201378533,3
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Marquette University",6.825322280564058,4
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Kohl's",3.000197875606129,5
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"University of Wisconsin-Milwaukee",3.659561142072048,6
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Molson Coors Beverage Company",11.074225144936849,7
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Milwaukee Public Schools",4.383160341161489,8
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Intuit",37.365860353374494,9
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Aurora Health Care",1.7506838533314786,10
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Froedtert Health",4.111494367353821,11
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Amazon",11.827785676833019,12
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"FIS",3.6357204073718288,13
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Carroll University",14.087110118288514,14
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Employers,"Rockwell Automation",2.7974780390365375,15
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Teacher",2.063711942620571,1
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Software Engineer",1.5963259196682438,2
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Project Manager",1.4418823602302493,3
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Nurse",1.326970932519177,4
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Real Estate Agent",1.3107105920706545,5
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Professor",1.2296626701597875,6
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Customer Service Representative",1.0772972996872383,7
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Salesperson",0.9020204767442724,8
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Account Manager",0.8608402380997174,9
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Account Executive",0.7859773544982931,10
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Accountant",0.7248494284705419,11
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Elementary School Teacher",0.6866168331151442,12
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Human Resources Administrator",0.6706146834870224,13
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Recruiter",0.6057371406815693,14
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Barista",0.5763195104427021,15
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Design Engineer",0.5347032485356156,16
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Operations Manager",0.5264477802539487,17
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Cashier",0.515609745936762,19
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Jobs,"Financial Analyst",0.5100028391157726,20
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Account Management",-1,4
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Investment Properties",-1,5
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,6
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Operations Management",-1,7
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Team Building",-1,8
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Recruiting",-1,9
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Construction Management",-1,10
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Higher Education",-1,11
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Account Reconciliation",-1,12
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Time Management",-1,13
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Financial Analysis",-1,14
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"General Ledger",-1,15
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Customer Satisfaction",-1,16
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Public Speaking",-1,17
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Cashiering",-1,18
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Interviewing",-1,19
+2020-09-01,us,"United States","Greater Milwaukee","All",Top Trending Skills,"Financial Reporting",-1,20

@@ -1,0 +1,23 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Wells Fargo",3.0531038402974935,1
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Robinhood",27.695678292961862,2
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"First Republic Bank",5.013275776129175,3
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Silicon Valley Bank",9.107129169271113,4
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Chime",24.865782069648706,5
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Blue Shield of California",6.107347041661847,6
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Charles Schwab",4.862523856207234,7
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Morgan Stanley",6.2727220490044155,8
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Software Engineer",9.529993218895303,1
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Investment Analyst",3.0883129788497237,2
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Financial Advisor",2.3916589244549513,3
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Product Manager",1.9501337157105385,4
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Financial Analyst",1.2686423871988366,5
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Loan Consultant",1.2474904906822153,6
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Financial Analysis",-1,2
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Financial Reporting",-1,3
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Retirement Planning",-1,4
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Agile Methodologies",-1,5
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Investments",-1,6
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Financial Modeling",-1,7
+2020-07-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Mortgage Lending",-1,8

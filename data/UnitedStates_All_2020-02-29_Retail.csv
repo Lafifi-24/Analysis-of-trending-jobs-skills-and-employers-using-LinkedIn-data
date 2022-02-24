@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Walmart",4.631093359761526,1
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Lowe's Companies, Inc.",8.292241893861089,2
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Target",4.402787829023152,3
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Starbucks",5.191118001113251,4
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"The Home Depot",6.2363851230860945,5
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Walgreens",4.289606020686214,6
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Kroger",5.2807398109079005,7
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Publix Super Markets",5.744472785516496,8
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Whole Foods Market",5.297392854814524,9
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Best Buy",2.635325499001849,10
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Dollar General",6.0513724194138145,11
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Ulta Beauty",4.772207214350045,12
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Sam's Club",5.563248096976689,13
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"H-E-B",6.461096454398669,14
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Nordstrom",2.7458771438858816,15
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Costco Wholesale",3.864602115690108,16
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Wayfair",5.191904961231996,17
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Aramark",4.977339487388826,18
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"Meijer",6.394010641673549,19
+2020-02-29,us,"United States","All","Retail",Top Trending Employers,"DICK'S Sporting Goods",4.210967078954217,20
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Salesperson",6.930525279388544,1
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Cashier",5.9103269232808175,2
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Store Manager",5.129519071856378,3
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Barista",3.481682757969346,4
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Customer Service Representative",2.103197575743593,5
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Sales Manager",1.9878595644833883,6
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Pharmacy Technician",1.7443670356001955,7
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"General Manager",1.719999818184452,8
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Software Engineer",1.5686509916956088,9
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Operations Manager",1.265987517633089,10
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Retail Associate",1.1816543581126304,11
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Retail Salesperson",1.0309958907029064,12
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Sales Consultant",1.0126943875721122,13
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Buyer",0.9945461251691702,14
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Account Manager",0.8978974678245994,15
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Store Associate",0.7447429808131221,16
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Merchandiser",0.7345496266827715,17
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Beauty Advisor",0.7257512832171822,18
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Pharmacist",0.6826101471418974,19
+2020-02-29,us,"United States","All","Retail",Top Trending Jobs,"Project Manager",0.6612893992503844,20
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"JavaScript",-1,1
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Account Management",-1,2
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Sales Management",-1,3
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Team Building",-1,4
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Operations Management",-1,5
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Merchandising",-1,6
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Construction Management",-1,7
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Store Management",-1,8
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Sales Operations",-1,9
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Inventory Management",-1,10
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Time Management",-1,11
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Customer Satisfaction",-1,12
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Cashiering",-1,13
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Pharmacy",-1,14
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Medication Therapy Management (MTM)",-1,15
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Pharmacy Technicians",-1,16
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Barista",-1,17
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Retail",-1,18
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Retail Sales",-1,19
+2020-02-29,us,"United States","All","Retail",Top Trending Skills,"Cosmetics",-1,20

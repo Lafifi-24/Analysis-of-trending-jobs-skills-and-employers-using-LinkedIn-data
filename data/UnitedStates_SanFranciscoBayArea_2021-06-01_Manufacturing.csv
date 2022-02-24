@@ -1,0 +1,31 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Tesla",5.0703965366781985,1
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Rivian",28.6005181262199,2
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Lucid Motors",14.446283367709626,3
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Cruise",7.371234911375524,4
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Zoox",8.956321662153712,5
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Lockheed Martin",3.26336228141007,6
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Software Engineer",6.506871152731705,1
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.9714660156662507,2
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Recruiter",1.9159177703891341,3
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",1.8010559549220162,4
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Technical Program Manager",1.4405947355023536,5
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"System Engineer",1.411664623666062,6
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Program Manager",1.3322023058273287,7
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Product Manager",1.2845729694213432,8
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Test Engineer",1.2435692946270689,9
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Project Manager",1.2392127280474632,10
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Recruiting",-1,2
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Construction Management",-1,3
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Program Management",-1,4
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Interviewing",-1,5
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,6
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Systems Engineering",-1,7
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Agile Methodologies",-1,8
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Integration",-1,9
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,10
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,11
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Manufacturing Engineering",-1,12
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Testing",-1,13
+2021-06-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Test Engineering",-1,14

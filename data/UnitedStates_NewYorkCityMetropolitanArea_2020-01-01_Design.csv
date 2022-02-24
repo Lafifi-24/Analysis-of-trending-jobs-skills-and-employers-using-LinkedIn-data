@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Jobs,"Project Manager",8.660494974536604,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Jobs,"Architect",7.892534396003725,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Jobs,"Architectural Designer",6.545364645652414,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Jobs,"Graphic Designer",5.361331632452173,4
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Jobs,"Interior Designer",4.9443979345705165,5
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Skills,"Adobe Creative Suite",-1,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Skills,"Construction Management",-1,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Skills,"Interior Design",-1,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Skills,"Architectural Design",-1,4
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Skills,"Space Planning",-1,5
+2020-01-01,us,"United States","New York City Metropolitan Area","Design",Top Trending Skills,"Revit",-1,6

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Amazon",14.844957945487359,1
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"The Home Depot",3.208767535870996,2
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Centers for Disease Control and Prevention",5.17264829659575,3
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Northside Hospital",4.56883223010299,4
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"NCR Corporation",6.693496733035715,5
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Keller Williams Realty, Inc.",6.156578897333851,6
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Deloitte",5.972601852701017,7
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Emory University",2.9214725976993425,8
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Georgia Institute of Technology",2.2878416462876605,9
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Piedmont Healthcare",4.113283400746874,10
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Emory Healthcare",2.2513415376243264,11
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Children's Healthcare of Atlanta",2.8598369469043927,12
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Target",9.017634586029507,13
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"American Express",45.858549372075984,14
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"UPS",2.378178871664139,15
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"AmeriSave Mortgage Corporation",26.85075767875989,16
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Microsoft",7.039041022989551,17
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Accenture",3.865092017813019,18
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"Fiserv",3.040433435862997,19
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Employers,"General Motors",10.092059041306403,20
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.7133410903360806,1
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",2.51556911587902,2
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.9249433439013308,3
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.4528042653184203,4
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Account Executive",1.378195762185848,5
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.3417374300075853,6
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",1.1520463212606036,7
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Nurse",0.9356449561762147,8
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.9263549092977911,9
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Accountant",0.7804771820255658,10
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Teacher",0.769433244902561,11
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.7145551496986161,12
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Recruiter",0.6571342133884888,13
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.6418585768703348,14
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Sales Director",0.6337731204200983,15
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Attorney",0.6220901076004507,16
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.6217211930149505,17
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Financial Analyst",0.5739453504455124,18
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"General Manager",0.5633089201982329,19
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Jobs,"Program Manager",0.5584916125196743,20
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Team Building",-1,8
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,9
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,10
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Recruiting",-1,11
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,12
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Program Management",-1,13
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Civil Litigation",-1,14
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,15
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,16
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,17
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,18
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"Financial Analysis",-1,19
+2020-10-31,us,"United States","Atlanta Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,20

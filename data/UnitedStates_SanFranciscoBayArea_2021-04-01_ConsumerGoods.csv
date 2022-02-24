@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Apple",0.9377715343760261,1
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Apple",0.922527718434818,2
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Amazon Lab126",1.8023010899869196,3
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Amazon Lab126",1.7899196018769274,4
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Jobs,"Software Engineer",6.966917291334,1
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Jobs,"Software Engineer",6.703307491376181,2
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Skills,"JavaScript",-1,1
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Skills,"JavaScript",-1,2
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Skills,"JavaScript",-1,3
+2021-04-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Skills,"JavaScript",-1,4

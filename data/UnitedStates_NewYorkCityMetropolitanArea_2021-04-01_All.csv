@@ -1,0 +1,52 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Bristol Myers Squibb",1.187005853674526,1
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"JPMorgan Chase & Co.",0.4590032900479591,2
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Compass",2.0982369150994358,3
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"ADP",1.603150894172052,4
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Northwell Health",0.5282642296078407,5
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Dime Community Bank",16.70112188732115,6
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Morgan Stanley",0.4124320034008817,7
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Keller Williams Realty, Inc.",1.6628358023973007,8
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"NewYork-Presbyterian Hospital",0.5004082643227551,9
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"NYC Health + Hospitals",1.0176901737715394,10
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Employers,"Peloton Interactive",3.2334959048660106,11
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",2.4069131544241675,1
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.1452114668188162,2
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Account Executive",2.074928545631,3
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.6726396207960281,4
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Recruiter",1.4481452521989988,5
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.4323949628940795,6
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Nurse",1.3358943329372084,7
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.2418430656655188,8
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Attorney",0.842627392593708,9
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Teacher",0.741852057782967,10
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.701969943500103,11
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Sales Director",0.6671249640092676,12
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.6594895420956768,13
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.6313086983378535,14
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Accountant",0.5994109137497481,15
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Data Analyst",0.5703604101577141,16
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Financial Analyst",0.5663991496765552,17
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.5451661651259462,18
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",0.5287893603633342,19
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Jobs,"General Manager",0.498044841558999,20
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Team Building",-1,8
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,9
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,10
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Recruiting",-1,11
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,12
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Civil Litigation",-1,13
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,14
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,15
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,16
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Financial Analysis",-1,17
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,18
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Data Analysis",-1,19
+2021-04-01,us,"United States","New York City Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,20

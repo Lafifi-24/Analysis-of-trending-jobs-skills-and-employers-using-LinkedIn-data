@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Safran",2.354558141906824,1
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Airbus",2.6923094727716452,2
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Groupe Renault",3.480135987944708,3
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"NAVAL GROUP",5.081257311883932,4
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Air Liquide",4.91103018719156,5
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Eiffage Énergie Systèmes",5.679489669198643,6
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"dassault-aviation",7.061685773952559,7
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Dalkia",4.534359804141435,8
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"SEGULA Technologies",5.71285987958737,9
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Danone",5.201110795971331,10
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Assystem",5.16137107523521,11
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Faurecia",3.444035843402451,12
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Schneider Electric",1.5663982051130059,13
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"DGA - Direction générale de l'armement",5.781786232693921,14
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Valeo",1.5798776180954404,15
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Groupe ADP",5.498766921780591,16
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"PSA RETAIL",9.274645953417272,17
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Peugeot",6.76456446826659,18
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"MBDA",4.962618974543899,19
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Employers,"Nexter",5.983503349083146,20
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Project Manager",3.631970242178386,1
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Salesperson",2.3566281416155634,2
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Business Manager",2.2859279534055137,3
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Sales Advisor",2.2350506929154323,4
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Business Account Executive",1.663465976734671,5
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Sales Manager",1.4106974052818662,6
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Buyer",1.3869101232079135,7
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Human Resources Manager",1.2796810956214184,8
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Maintenance Technician",1.0425256248046035,9
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Technical Sales Representative",1.021049210580347,10
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"General Manager",0.8401731456545523,11
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Product Manager",0.8236986819571879,12
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Accountant",0.7989111500131969,13
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Production Manager",0.7532572217019713,14
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Development Engineer",0.7499201689240659,15
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Software Engineer",0.7241396075999099,16
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Business Development Manager",0.7214250113172143,17
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Communications Manager",0.7213854571579735,18
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Sales Engineer",0.7176856720947989,19
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Key Account Manager",0.6463466742666479,20
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Social Media",-1,2
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Recruiting",-1,3
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Java",-1,4
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Negotiation",-1,5
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Git",-1,6
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Marketing Strategy",-1,7
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Sales Management",-1,8
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Internal Communications",-1,9
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Sales Prospecting",-1,10
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Account Reconciliation",-1,11
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"JavaScript",-1,12
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Commerce",-1,13
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Solution Selling",-1,14
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Maintenance & Repair",-1,15
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Maintenance",-1,16
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Continuous Improvement",-1,17
+2020-01-01,fr,"France","All","Manufacturing",Top Trending Skills,"Production Management",-1,18

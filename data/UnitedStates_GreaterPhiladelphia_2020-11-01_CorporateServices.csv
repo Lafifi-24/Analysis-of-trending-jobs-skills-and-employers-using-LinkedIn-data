@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Philadelphia","Corporate Services",Top Trending Employers,"PwC",5.102115249289745,1
+2020-11-01,us,"United States","Greater Philadelphia","Corporate Services",Top Trending Jobs,"Accountant",4.896441027855691,1
+2020-11-01,us,"United States","Greater Philadelphia","Corporate Services",Top Trending Jobs,"Assurance Associate",4.615869871286198,2
+2020-11-01,us,"United States","Greater Philadelphia","Corporate Services",Top Trending Jobs,"Audit Associate",4.196011828567884,3
+2020-11-01,us,"United States","Greater Philadelphia","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,1
+2020-11-01,us,"United States","Greater Philadelphia","Corporate Services",Top Trending Skills,"General Ledger",-1,2
+2020-11-01,us,"United States","Greater Philadelphia","Corporate Services",Top Trending Skills,"Auditing",-1,3
+2020-11-01,us,"United States","Greater Philadelphia","Corporate Services",Top Trending Skills,"Financial Reporting",-1,4

@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Delivery Hero",8.158262381987216,1
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Amazon",12.554817639978772,2
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Technische Universität Berlin",6.266617944772443,3
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Charité",5.926045719408371,4
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Tesla",92.70234684513849,5
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"HelloFresh",10.885521437612605,6
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"idealo internet GmbH",11.061336414053006,7
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Concentrix",30.258680515766173,8
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Amazon Web Services (AWS)",13.582991380771237,9
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Hochschule für Technik und Wirtschaft Berlin",19.184576318577054,10
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Klarna",11.882965384999684,11
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Humboldt University of Berlin",5.318469898653051,12
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Freie Universität Berlin",4.868775163016437,13
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"University of Potsdam",10.850378159729619,14
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"BASF",5.307161913640574,15
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"Wayfair",5.074919335754504,16
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Employers,"AUTO1 Group",8.508658137520255,17
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Software Engineer",4.656578446099984,1
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Project Manager",3.5659703810801626,2
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Lecturer",1.8822702535688831,3
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",1.6361526790212082,4
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Sales Manager",1.6332168243499101,5
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Product Manager",1.6042910151355578,6
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.2833738095970586,7
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Scientific Officer",1.102386329522628,8
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Recruiter",0.9399863835649492,9
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Editor",0.8510524723493729,10
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Social Media Manager",0.8431890601719696,11
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Business Development Manager",0.8007860357971726,12
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Teacher",0.7839606263009925,13
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Data Scientist",0.774976843222006,14
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Human Resources Manager",0.7638523432017955,15
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Law Clerk",0.7477490276708483,16
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Postdoctoral Researcher",0.7055335166652158,17
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Architect",0.701278717379616,18
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Frontend Developer",0.6980924945154638,19
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.6963934379719495,20
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Java",-1,2
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,3
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Product Development",-1,5
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"International Sales",-1,6
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Recruiting",-1,7
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Online Marketing",-1,8
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Editing",-1,9
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Teaching",-1,10
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Journalism",-1,11
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Public Speaking",-1,12
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Molecular Biology",-1,13
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Architectural Design",-1,14
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Social Media Marketing",-1,15
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"LaTeX",-1,16
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Machine Learning",-1,17
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"Data Science",-1,18
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"React.js",-1,19
+2020-10-01,de,"Germany","Berlin Metropolitan Area","All",Top Trending Skills,"SASS",-1,20

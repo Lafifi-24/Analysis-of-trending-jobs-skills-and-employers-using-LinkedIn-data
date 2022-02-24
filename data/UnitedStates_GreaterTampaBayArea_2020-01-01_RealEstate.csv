@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Tampa Bay Area","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",6.376525819221081,1
+2020-01-01,us,"United States","Greater Tampa Bay Area","Real Estate",Top Trending Jobs,"Real Estate Agent",50.87311656276078,1
+2020-01-01,us,"United States","Greater Tampa Bay Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-01-01,us,"United States","Greater Tampa Bay Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2

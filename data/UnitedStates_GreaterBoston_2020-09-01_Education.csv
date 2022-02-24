@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Northeastern University",14.905945550486813,1
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston University",11.325501339524893,2
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard University",6.391892500888018,3
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Massachusetts Institute of Technology",6.466024245434679,4
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Broad Institute of MIT and Harvard",14.717590406865405,5
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Tufts University",10.851996481449099,6
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Medical School",4.608580089582128,7
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brown University",5.776385891421644,8
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston College",9.12986325192278,9
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of New Hampshire",11.81162946625317,10
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston Public Schools",8.8199623947831,11
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Medical School",7.638039188260992,12
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brandeis University",9.635157405725268,13
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Kennedy School",19.534533195375626,14
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Suffolk University",11.881481514656206,15
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Rhode Island",7.953842307001705,16
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Southern New Hampshire University",4.421726260158099,17
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Worcester Polytechnic Institute",9.415742688237756,18
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Merrimack College",14.67092925365881,19
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Bentley University",10.494770853161159,20
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Professor",10.101442888480781,1
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Teacher",8.271048829017701,2
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Postdoctoral Researcher",5.66216504414351,3
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Lecturer",2.5244896113973985,4
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Elementary School Teacher",2.361540246803474,5
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Special Education Teacher",1.6897917124179276,6
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Mathematics Teacher",1.1305884921201814,7
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"English Teacher",0.8945108452163638,8
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Exam Proctor",0.8285149335113295,9
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Clinical Fellow",0.8182013559656585,10
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Middle School Teacher",0.7980674777030671,11
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"School Counselor",0.7691205924930506,12
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Software Engineer",0.7473349436466411,13
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Speech Language Pathologist",0.7123828337815276,14
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Special Education Paraeducator",0.6942485309787838,15
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Process Development Associate",0.6848533938280282,16
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Research Technician",0.6601927711641453,17
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Nurse",0.5595044850717977,19
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Clinical Instructor",0.5581890728143896,20
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Higher Education",-1,4
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Public Speaking",-1,5
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Special Education",-1,6
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Classroom Management",-1,7
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Nursing",-1,8
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Elementary Education",-1,9
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Nonprofit Organizations",-1,10
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Molecular Biology",-1,11
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Basic Life Support (BLS)",-1,12
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Cell Culture",-1,13
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Speech Therapy",-1,14
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Speech",-1,15
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Clinical Research",-1,16
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Student Counseling",-1,17
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Lesson Planning",-1,18
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Polymerase Chain Reaction (PCR)",-1,19
+2020-09-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Time Management",-1,20

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"NHS",4.073621853267797,1
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Amazon",7.862634057461373,2
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Tesco",3.920193711247645,3
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Sainsbury's",5.23908610866235,4
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"HSBC",2.6898335438564613,5
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Sky",5.813241544615737,6
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Network Rail",4.431992491804279,7
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"BAE Systems",5.9158752822799165,8
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Marks and Spencer",5.822536167510051,9
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Deloitte",5.389298329676428,10
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Lloyds Banking Group",1.867271673357424,11
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"UCL",4.553752462879481,12
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"PwC",2.7565165313220104,13
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"King's College London",5.924534315130403,14
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Facebook",10.31578750608982,15
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Imperial College London",5.685913206367912,16
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"UK Ministry of Defence",6.536949580256117,17
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"BBC",2.9167297893250654,18
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"Co-op",6.525084863875695,19
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Employers,"University of Oxford",4.866696324828366,20
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Project Manager",2.109771815876206,1
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Software Engineer",1.9829327778727563,2
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Account Manager",1.613771041320845,3
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Business Development Manager",1.2456982427467636,4
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Sales Manager",1.0163328707974013,5
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Lecturer",0.8480325137339148,6
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Operations Manager",0.8191409490318425,7
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Sales Executive",0.7270197463984652,8
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Business Analyst",0.6990057147775725,9
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Marketing Manager",0.6405126194237252,10
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Teacher",0.6216554525800757,11
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"General Manager",0.5763571050487029,12
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Support Associate",0.544927579887171,13
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Account Executive",0.5336793516815295,14
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Marketing Executive",0.5281541641723038,15
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Accountant",0.5075825706855408,16
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Solicitor",0.48475060944054094,17
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Customer Service Representative",0.46740446116250556,18
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Paralegal",0.45312212009584696,19
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Graphic Designer",0.43372934362169463,20
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Account Management",-1,1
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Sales Management",-1,2
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Teaching",-1,3
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"JavaScript",-1,4
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Operations Management",-1,5
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Business Analysis",-1,6
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Stakeholder Management",-1,7
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Project Delivery",-1,8
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Legal Advice",-1,9
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Marketing Strategy",-1,10
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Business-to-Business (B2B)",-1,11
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Financial Accounting",-1,12
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Logo Design",-1,13
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Higher Education",-1,14
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Curriculum Development",-1,15
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Change Management",-1,16
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Digital Marketing",-1,17
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Requirements Gathering",-1,18
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Sales Process",-1,19
+2020-01-01,gb,"United Kingdom","All","All",Top Trending Skills,"Legal Research",-1,20

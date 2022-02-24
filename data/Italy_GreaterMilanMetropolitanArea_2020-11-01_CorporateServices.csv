@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,it,"Italy","Greater Milan Metropolitan Area","Corporate Services",Top Trending Employers,"PwC",5.801008038262568,1
+2020-11-01,it,"Italy","Greater Milan Metropolitan Area","Corporate Services",Top Trending Employers,"Deloitte",6.810169575591485,2
+2020-11-01,it,"Italy","Greater Milan Metropolitan Area","Corporate Services",Top Trending Employers,"KPMG Italy",5.515580550044974,3
+2020-11-01,it,"Italy","Greater Milan Metropolitan Area","Corporate Services",Top Trending Jobs,"Business Analyst",4.903533589924413,1
+2020-11-01,it,"Italy","Greater Milan Metropolitan Area","Corporate Services",Top Trending Jobs,"Teacher",4.047895134078693,2
+2020-11-01,it,"Italy","Greater Milan Metropolitan Area","Corporate Services",Top Trending Skills,"Teaching",-1,1
+2020-11-01,it,"Italy","Greater Milan Metropolitan Area","Corporate Services",Top Trending Skills,"SQL",-1,2
+2020-11-01,it,"Italy","Greater Milan Metropolitan Area","Corporate Services",Top Trending Skills,"Business Planning",-1,3

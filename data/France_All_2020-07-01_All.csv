@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,fr,"France","All","All",Top Trending Employers,"BNP Paribas",1.9560963246911418,1
+2020-07-01,fr,"France","All","All",Top Trending Employers,"E.Leclerc",9.47930814366795,2
+2020-07-01,fr,"France","All","All",Top Trending Employers,"AFPA",10.111662884558093,3
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Pôle emploi",4.155361099752949,4
+2020-07-01,fr,"France","All","All",Top Trending Employers,"lidl-france",9.894847109818642,5
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Capgemini",2.5821092248299813,6
+2020-07-01,fr,"France","All","All",Top Trending Employers,"EDF",2.0493314464605845,7
+2020-07-01,fr,"France","All","All",Top Trending Employers,"McDonald's",6.260318686887749,8
+2020-07-01,fr,"France","All","All",Top Trending Employers,"AXA",3.0972606919717225,9
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Intermarché",6.811811946872581,10
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Leroy Merlin",5.0680492636862,11
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Total",2.7918764269840723,12
+2020-07-01,fr,"France","All","All",Top Trending Employers,"DECATHLON FRANCE",2.938932592446848,13
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Auchan Retail",3.086436956167788,14
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Greater Paris University Hospitals - AP-HP",3.5956189171466932,15
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Thales",1.459467072794902,16
+2020-07-01,fr,"France","All","All",Top Trending Employers,"IAD France",6.698446894204596,17
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Sanofi",2.7926073135676814,18
+2020-07-01,fr,"France","All","All",Top Trending Employers,"Le Groupe La Poste",2.1987983702660086,19
+2020-07-01,fr,"France","All","All",Top Trending Employers,"SNCF Réseau",2.92878977283772,20
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Project Manager",3.564675580095506,1
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Salesperson",1.7766551630643956,2
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Communications Manager",1.2020351161258973,3
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Business Manager",1.1983864898671743,4
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Software Engineer",1.0010717244401885,5
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Human Resources Manager",0.9586570764841547,6
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Accountant",0.9565269176729218,7
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Mayor",0.9538416862115641,8
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Real Estate Consultant",0.9172743772909223,9
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Councilman",0.8536783765799175,10
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Business Account Executive",0.7987801127366616,11
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Product Manager",0.7792901861505179,12
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Education Instructor",0.7598387920850452,13
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Legal Officer",0.7431447234155469,14
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Web Developer",0.738702440411106,15
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"General Manager",0.7333092654849491,16
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Real Estate Agent",0.6792258138891173,17
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Sales Consultant",0.6737874926616667,18
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Construction Superintendent",0.6274444421027949,19
+2020-07-01,fr,"France","All","All",Top Trending Jobs,"Customer Associate",0.6219460302464018,20
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Project Management",-1,1
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Teaching",-1,2
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Social Media",-1,3
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Recruiting",-1,4
+2020-07-01,fr,"France","All","All",Top Trending Skills,"JavaScript",-1,5
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Java",-1,6
+2020-07-01,fr,"France","All","All",Top Trending Skills,"PHP",-1,7
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Git",-1,8
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Marketing Strategy",-1,9
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Internal Communications",-1,10
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Negotiation",-1,11
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Legal Research",-1,12
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Legal Advice",-1,13
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Account Reconciliation",-1,14
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Sales Prospecting",-1,15
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Merchandising",-1,16
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Training Facilitation",-1,17
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Construction Management",-1,18
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Real Estate Transactions",-1,19
+2020-07-01,fr,"France","All","All",Top Trending Skills,"Assurance",-1,20

@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"PwC",4.027122291337131,1
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Bain & Company",9.704952572277756,2
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Deloitte",4.087258300278236,3
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"RSM US LLP",9.428189451548251,4
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Staples",3.192940767806492,5
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"McKinsey & Company",5.774765892566938,6
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Assurance Associate",3.994887197644016,1
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Accountant",3.7653939883047114,2
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Audit Associate",2.7552426625370434,3
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Project Manager",2.6481566816235516,4
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Construction Management",-1,1
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,2
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"General Ledger",-1,3
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Auditing",-1,4
+2020-11-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Financial Reporting",-1,5

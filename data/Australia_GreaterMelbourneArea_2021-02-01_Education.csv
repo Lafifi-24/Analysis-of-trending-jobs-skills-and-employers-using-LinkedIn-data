@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"University of Melbourne",2.5233330306819854,1
+2021-02-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"Monash University",2.2363608123196905,2
+2021-02-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"Department of Education & Training, Victoria",4.294955920482308,3
+2021-02-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"RMIT University",1.750947772925223,4
+2021-02-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Employers,"Deakin University",1.7785014157830563,5
+2021-02-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Jobs,"Teacher",15.64698772205941,1
+2021-02-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Jobs,"Lecturer",3.0719001464461577,2
+2021-02-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-02-01,au,"Australia","Greater Melbourne Area","Education",Top Trending Skills,"Curriculum Development",-1,2

@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"University of Melbourne",8.609448112213897,1
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Monash University",7.310430096175506,2
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"RMIT University",6.671795949225872,3
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"ANZ",3.8675168578181056,4
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Coles",7.623500816465949,5
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Telstra",2.9933570073292453,6
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Department of Education & Training, Victoria",6.668366479081721,7
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Deakin University",7.2208116732663665,8
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"La Trobe University",7.742203973042402,9
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Alfred Health",11.796426168386494,10
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"KPMG Australia",11.85943679790095,11
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Swinburne University of Technology",6.908969660695095,12
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Monash Health",7.826089986269256,13
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Australia Post",5.736440265699648,14
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"AGL Energy",10.035016243489947,15
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"The Royal Melbourne Hospital",10.02986325861924,16
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Department of Justice and Community Safety, Victoria",8.286434188248405,17
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Department of Health & Human Services, Victoria",6.07080968565806,18
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Bupa",8.04894570418936,19
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Employers,"Commonwealth Bank",5.86279315752927,20
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Teacher",2.2676620458807606,1
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Project Manager",2.1126125902908957,2
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Software Engineer",1.664351871710448,3
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Business Development Manager",1.3325065125873816,4
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Business Analyst",1.2338009391028555,5
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Account Manager",1.1799542971969945,6
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Customer Service Representative",1.1654354987617161,7
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Accountant",1.0202955796136373,8
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"General Manager",0.858411232911842,9
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Operations Manager",0.8474459978232445,10
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Nurse",0.830601981672566,11
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Lecturer",0.8205097233817321,12
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Support Associate",0.7159731215102522,13
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Lawyer",0.6879656031479747,14
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Sales Manager",0.6466796166449381,15
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Marketing Manager",0.566963920700057,16
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Graphic Designer",0.5554538120605024,17
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Project Engineer",0.531202168197571,18
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Jobs,"Physical Therapist",0.5174518315124996,20
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Teaching",-1,1
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Account Management",-1,2
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Business Analysis",-1,4
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"JavaScript",-1,6
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Operations Management",-1,7
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Adobe Creative Suite",-1,8
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"MYOB",-1,9
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Stakeholder Management",-1,10
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Project Delivery",-1,11
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Marketing Strategy",-1,12
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Legal Advice",-1,13
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Change Management",-1,14
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Legal Research",-1,15
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Requirements Gathering",-1,16
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Time Management",-1,17
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Digital Marketing",-1,18
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Rehabilitation",-1,19
+2020-03-01,au,"Australia","Greater Melbourne Area","All",Top Trending Skills,"Project Engineering",-1,20

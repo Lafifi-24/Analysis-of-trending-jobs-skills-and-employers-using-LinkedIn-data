@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Commonwealth Bank",2.9172918840870152,1
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Westpac",3.2870073344209896,2
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Macquarie Group",3.4330996822746616,3
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"IAG",2.5776579075848396,4
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"AMP",2.522564627767885,5
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"ANZ",2.1345474763737893,6
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"QBE Insurance",3.0534370622900164,7
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"IOOF Holdings Ltd",11.798362568108184,8
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Business Analyst",5.650085939257529,1
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Software Engineer",3.0397822164776778,2
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Project Manager",2.1505055359183762,3
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Business Development Manager",1.466935667964613,4
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Investment Analyst",1.3575779776739916,5
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Business Analysis",-1,1
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"JavaScript",-1,2
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Stakeholder Management",-1,3
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Account Management",-1,4
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Project Delivery",-1,5
+2021-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Requirements Gathering",-1,6

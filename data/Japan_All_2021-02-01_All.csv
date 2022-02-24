@@ -1,0 +1,29 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,jp,"Japan","All","All",Top Trending Employers,"Rakuten",3.497259365902782,1
+2021-02-01,jp,"Japan","All","All",Top Trending Employers,"Amazon",4.571893961984515,2
+2021-02-01,jp,"Japan","All","All",Top Trending Employers,"Amazon Web Services (AWS)",4.87587920424658,3
+2021-02-01,jp,"Japan","All","All",Top Trending Employers,"Accenture",2.6412501305502856,4
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Software Engineer",7.180072136577165,1
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Account Manager",2.100714105739774,2
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Project Manager",1.990778029071598,3
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Sales Manager",1.6074809378799526,4
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"General Manager",1.5273059976968615,5
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Professor",1.4943448096961083,6
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Salesperson",1.4580769586914608,7
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Account Executive",1.3231896993971424,8
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Postdoctoral Researcher",1.310289213032951,9
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Recruiter",1.1991691002512206,10
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Product Manager",1.1415780714643717,11
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"System Engineer",1.098940584572752,12
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Solutions Architect",1.0633500848057331,13
+2021-02-01,jp,"Japan","All","All",Top Trending Jobs,"Data Scientist",1.0296668809438665,14
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"JavaScript",-1,1
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"Java",-1,2
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"Project Management",-1,3
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"Teaching",-1,4
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"Sales Management",-1,5
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"Linux",-1,6
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"Account Management",-1,7
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"Python (Programming Language)",-1,8
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"Recruiting",-1,9
+2021-02-01,jp,"Japan","All","All",Top Trending Skills,"Machine Learning",-1,10

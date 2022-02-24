@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Netflix",4.458527538781247,1
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Spotify",9.015921782199914,2
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"AppLovin",63.22429153768467,3
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Riot Games",7.828044856923599,4
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"NBCUniversal Media, LLC",1.273156950728781,5
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"The Walt Disney Company",0.6537023438704288,6
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Sinclair Broadcast Group",3.6074210882098647,7
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Epic Games",7.122493747996337,8
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Roku Inc.",5.53888900944813,9
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"PlayStation",3.461808967244685,10
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Titmouse",26.036473289679897,11
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Nickelodeon Animation",18.166772501502827,12
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Six Flags",4.68234862504616,13
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"The Washington Post",4.1612647060293195,14
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"SeaWorld Parks & Entertainment",4.700643244110603,15
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"iHeartMedia",1.207321062223189,16
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Universal Music Group",3.3876198147107024,17
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Gannett | USA TODAY NETWORK",1.8201502957536215,18
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Topgolf",1.904886633489868,19
+2020-06-30,us,"United States","All","Entertainment",Top Trending Employers,"Bungie",9.253908296426323,20
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Software Engineer",3.888662345451848,1
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Writer",2.9103707723733536,2
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Editor",2.193808990826398,3
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Host",1.7028072461043537,4
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Media Producer",1.1595757361685917,5
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Reporter",1.1325614240917778,6
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Project Manager",1.10508981655722,7
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Graphic Designer",1.051178528136971,8
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Video Editor",1.050282924855268,9
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Artist",1.0071193744748457,10
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Voice Over Artist",0.9924141406467092,11
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Actor",0.8931782193639574,12
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Product Manager",0.8862921265048497,13
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Podcaster",0.8736133616055941,14
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Creative Director",0.8270030860854078,15
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Quality Assurance Tester",0.7919478240320657,16
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Account Executive",0.7818416355417064,17
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Animator",0.735260359774465,18
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Marketing Director",0.7079503839395469,19
+2020-06-30,us,"United States","All","Entertainment",Top Trending Jobs,"Social Media Manager",0.6703990932818595,20
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Writing",-1,2
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Editing",-1,3
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Adobe Creative Suite",-1,4
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Construction Management",-1,5
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Account Management",-1,6
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Marketing Strategy",-1,7
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Social Media Marketing",-1,8
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Social Media",-1,9
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Acting",-1,10
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Agile Methodologies",-1,11
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Art Direction",-1,12
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Public Speaking",-1,13
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Video Editing",-1,14
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Adobe Premiere Pro",-1,15
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Journalism",-1,16
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Voice Acting",-1,17
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"News Writing",-1,18
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Podcasting",-1,19
+2020-06-30,us,"United States","All","Entertainment",Top Trending Skills,"Animation",-1,20

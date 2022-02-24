@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Novo Nordisk",3.430520774024452,1
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Københavns Kommune",3.870614194445396,2
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Københavns Universitet - University of Copenhagen",3.9823492083420406,3
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Danish Patient Safety Authority",35.59896151501894,4
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"DTU - Technical University of Denmark",4.867485525936067,5
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Region Hovedstaden",6.275252234809009,6
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Danske Bank",1.9182613232651178,7
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"ATP",9.02309805556009,8
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Politi",5.179232250424519,9
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Pandora",9.352786562161713,10
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"PwC Danmark",9.05466350253057,11
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Tryg",5.691065405451807,12
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Ramboll",4.912356808073469,13
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Copenhagen Business School",3.3906184195560027,14
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Rigshospitalet",2.025250909364628,15
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Jabra",12.690431571636665,16
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Nets Group",5.113086522840423,17
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"Nordea",1.3304923396735922,18
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"IT-Universitetet i København",10.937030184512823,19
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Employers,"LEO Pharma",3.0377790001564304,20
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Project Manager",4.64849496915662,1
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Administrative Officer",2.219599107716813,2
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.05092367403377,3
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Lecturer",1.0544272185281003,5
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Architect",0.9739197777780105,6
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Account Manager",0.9559867766346162,7
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.8064036136736628,8
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Sales Consultant",0.7456055302997924,9
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Teacher",0.7316372533165484,10
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Communications Advisor",0.7097993121895478,11
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.7094696954023864,12
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Key Account Manager",0.6742815995546542,13
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Attorney",0.6632358479420664,14
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.6611296060856697,15
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.6242460745029421,16
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Customer Advisor",0.6138253009444833,17
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Nurse",0.6077260923852883,18
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",0.6060202135700051,19
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Jobs,"Management Consultant",0.601732058063324,20
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,2
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Change Management",-1,3
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,4
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"C#",-1,5
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Pedagogy",-1,7
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Strategy",-1,8
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Nursing",-1,9
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Account Management",-1,10
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Architectural Design",-1,11
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Marketing Strategy",-1,12
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Digital Marketing",-1,13
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Product Development",-1,14
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Legal Advice",-1,15
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Contract Law",-1,16
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,17
+2021-02-01,dk,"Denmark","Copenhagen Metropolitan Area","All",Top Trending Skills,"Management Consulting",-1,18

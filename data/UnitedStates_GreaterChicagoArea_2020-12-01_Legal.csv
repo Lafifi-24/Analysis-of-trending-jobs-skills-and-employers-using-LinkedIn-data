@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Greater Chicago Area","Legal",Top Trending Employers,"Kirkland & Ellis",5.30022252366817,1
+2020-12-01,us,"United States","Greater Chicago Area","Legal",Top Trending Jobs,"Attorney",32.07282988429102,1
+2020-12-01,us,"United States","Greater Chicago Area","Legal",Top Trending Jobs,"Law Clerk",10.436886080231131,2
+2020-12-01,us,"United States","Greater Chicago Area","Legal",Top Trending Jobs,"Paralegal",9.66010108543608,3
+2020-12-01,us,"United States","Greater Chicago Area","Legal",Top Trending Jobs,"Legal Associate",6.453933685237143,4
+2020-12-01,us,"United States","Greater Chicago Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-12-01,us,"United States","Greater Chicago Area","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2020-12-01,us,"United States","Greater Chicago Area","Legal",Top Trending Skills,"Legal Research",-1,3

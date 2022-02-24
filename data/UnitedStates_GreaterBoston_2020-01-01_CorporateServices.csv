@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Staples",5.363347857227225,1
+2020-01-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Deloitte",3.639234397525569,2
+2020-01-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Accountant",4.236352304955405,1
+2020-01-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Security Officer",2.758036585562434,2
+2020-01-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,1
+2020-01-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"General Ledger",-1,2
+2020-01-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Security",-1,3
+2020-01-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Physical Security",-1,4

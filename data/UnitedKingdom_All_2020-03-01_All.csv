@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"NHS",4.693935979846057,1
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Tesco",7.299368280162138,2
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Amazon",9.81449749236876,3
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Sky",6.710438425521706,4
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"HSBC",3.0091910186624906,5
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Sainsbury's",5.69641421435205,6
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"BAE Systems",6.804179158475361,7
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Morrisons",10.963726322317155,8
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Jacobs",10.612988765527312,9
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Network Rail",4.469938383881435,10
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Lloyds Banking Group",2.188523656352221,11
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"UCL",5.165693491897658,12
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Co-op",8.013892546009082,13
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Asda",6.067657650580214,14
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"PwC",3.1191222278155712,15
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Deloitte",4.914899510932136,16
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"UK Ministry of Defence",7.545707461415588,17
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"NHS England",6.055587218966487,18
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Facebook",10.773807604077854,19
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Employers,"Accenture",4.862077749875473,20
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Project Manager",2.167778789641516,1
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Software Engineer",1.983588686573763,2
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Account Manager",1.6308693878680287,3
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Business Development Manager",1.320583707669214,4
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Sales Manager",1.0621029042295131,5
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Operations Manager",0.8151829022901491,6
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Lecturer",0.802874104694396,7
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Sales Executive",0.7570341393368563,8
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Business Analyst",0.7179757517480065,9
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Marketing Manager",0.6802156284461265,10
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Marketing Executive",0.6071117780902974,11
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"General Manager",0.5907841257451225,12
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Teacher",0.5656432752986056,13
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Account Executive",0.5588332551103693,14
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Support Associate",0.5400433265806536,15
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Accountant",0.48253283001701114,16
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Solicitor",0.47340137009569483,17
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Paralegal",0.4723883464244955,18
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Customer Service Representative",0.4507467089355626,19
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Sales Director",0.43297590287871823,20
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Account Management",-1,1
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Sales Management",-1,2
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Teaching",-1,3
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"JavaScript",-1,4
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Operations Management",-1,5
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Business Analysis",-1,6
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Stakeholder Management",-1,7
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Project Delivery",-1,8
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Legal Advice",-1,9
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Marketing Strategy",-1,10
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Business-to-Business (B2B)",-1,11
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Financial Accounting",-1,12
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Higher Education",-1,13
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Curriculum Development",-1,14
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Change Management",-1,15
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Digital Marketing",-1,16
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Requirements Gathering",-1,17
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Sales Process",-1,18
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Legal Research",-1,19
+2020-03-01,gb,"United Kingdom","All","All",Top Trending Skills,"Email Marketing",-1,20

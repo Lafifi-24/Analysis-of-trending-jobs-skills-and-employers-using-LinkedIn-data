@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Alberta Health Services",1.8044815444094076,1
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"University Health Network",5.315848201813397,2
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Vancouver Coastal Health",5.538687843246684,3
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Fraser Health Authority",4.882430592213343,4
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"The Hospital for Sick Children",4.278850015440305,5
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Sunnybrook",4.860711792501626,6
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"CBI Health Group",7.770832808661443,7
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"The Ottawa Hospital",5.8188037821038225,8
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Trillium Health Partners",5.377689712990293,9
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Island Health - Vancouver Island Health Authority",5.125163991307805,10
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Bayshore HealthCare",10.378012413160105,11
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Centre universitaire de santé McGill | McGill University Health Centre",4.846384003441223,12
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Roche",7.055544579352331,13
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"GSK",7.606222359898441,14
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"CIUSSS du Centre-Ouest-de-l'Île-de-Montréal | CIUSSS West-Central Montreal",7.495232659264528,15
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"CIUSSS du Centre-Sud-de-l'Île-de-Montréal",4.792805519873972,16
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Nova Scotia Health Authority",3.1366724566080126,17
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Innomar Strategies",9.103791290533781,18
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"Chartwell Retirement Residences",6.636791888541947,19
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Employers,"CAMH",4.741599428076067,20
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Nurse",9.733804486214021,1
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Occupational Therapist",1.656450227807487,2
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Physical Therapist",1.5257834254136464,3
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Support Associate",1.3618941706071988,4
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Project Manager",1.3136675077869924,5
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Software Engineer",1.2054749340040276,6
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Social Worker",1.01744516471079,7
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Salesperson",0.9523456116582828,8
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Pharmacist",0.826472227033122,9
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Financial Analyst",0.7799283494279469,10
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Dental Hygienist",0.7588750209829389,11
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Pharmacy Technician",0.6943720994341498,12
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Clinical Research Associate",0.6901811427182085,13
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Business Analyst",0.6747048578395953,14
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Psychotherapist",0.6272429017806714,15
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Receptionist",0.6130729997312585,16
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Dietitian",0.5915049704308206,17
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Accountant",0.5866363191022327,18
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Medical Doctor",0.5790246866927102,19
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Jobs,"Customer Service Representative",0.5788363796189746,20
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Time Management",-1,1
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Project Planning",-1,3
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Financial Reporting",-1,4
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Business Analysis",-1,5
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Construction Management",-1,6
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Financial Analysis",-1,7
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Requirements Gathering",-1,8
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Pharmacy",-1,9
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Receptionist Duties",-1,10
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Physical Therapy",-1,11
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Nursing",-1,12
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Community Pharmacy",-1,13
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Manual Therapy",-1,14
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,15
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Occupational Therapy",-1,16
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Case Management",-1,17
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Crisis Intervention",-1,18
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Psychotherapy",-1,19
+2020-01-01,ca,"Canada","All","Health Care",Top Trending Skills,"Patient Education",-1,20

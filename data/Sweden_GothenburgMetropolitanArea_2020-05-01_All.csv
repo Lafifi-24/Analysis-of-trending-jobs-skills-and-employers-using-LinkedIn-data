@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Employers,"Volvo Cars",1.590758102741526,1
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Employers,"Göteborgs Stad",2.5229117594705466,2
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Project Manager",4.262820782226556,1
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Software Engineer",3.0023451713106364,3
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Salesperson",2.881311015516721,4
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,2
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Git",-1,3
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Business-to-Business (B2B)",-1,4
+2020-05-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Change Management",-1,5

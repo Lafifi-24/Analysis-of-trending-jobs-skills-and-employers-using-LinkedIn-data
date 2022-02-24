@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Boston","Media & Communications",Top Trending Jobs,"Writer",5.452985799909372,1
+2020-02-01,us,"United States","Greater Boston","Media & Communications",Top Trending Jobs,"Account Executive",5.052866204944782,2
+2020-02-01,us,"United States","Greater Boston","Media & Communications",Top Trending Jobs,"Editor",3.8868344518107008,3
+2020-02-01,us,"United States","Greater Boston","Media & Communications",Top Trending Skills,"Writing",-1,1
+2020-02-01,us,"United States","Greater Boston","Media & Communications",Top Trending Skills,"Editing",-1,2
+2020-02-01,us,"United States","Greater Boston","Media & Communications",Top Trending Skills,"Account Management",-1,3

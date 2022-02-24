@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Software Engineer",4.25075363637048,1
+2020-04-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"System Engineer",3.668295967960137,2
+2020-04-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Electrical Engineer",2.4999401340628706,3
+2020-04-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-04-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Systems Engineering",-1,2
+2020-04-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Integration",-1,3

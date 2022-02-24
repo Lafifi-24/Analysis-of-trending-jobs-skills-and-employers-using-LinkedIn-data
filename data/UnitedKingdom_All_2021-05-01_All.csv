@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"NHS",2.3529002290415857,1
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Department for Work and Pensions (DWP)",7.408627960826896,2
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Sky",4.055606656754196,3
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Accenture",5.952293430930411,4
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"HM Revenue & Customs",4.7989256329147665,5
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"HSBC",1.5413054714237793,6
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Capgemini",5.904824007833047,7
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"NHS England",3.507992653339425,8
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Ministry of Justice UK",6.6306436446903945,9
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"PwC",2.222496365898007,10
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Microsoft",5.587240020535337,11
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"UK Civil Service",6.221460313247504,12
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Marks and Spencer",3.344873507289139,13
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"BAE Systems",2.827378667112126,14
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Citi",3.2582925947707473,15
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Next",6.010697560761319,16
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Deloitte UK",2.917987513245863,17
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"PwC UK",4.193064980403598,18
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"Amazon Web Services (AWS)",8.363532978502553,19
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Employers,"KPMG UK",2.777153963100839,20
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Project Manager",2.358463281964244,1
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Software Engineer",2.054247075398772,2
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Account Manager",1.7990595786419876,3
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Business Development Manager",1.467022186234059,4
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Sales Manager",0.9352181883078826,5
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Account Executive",0.9072607096974808,6
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Operations Manager",0.8687141422222883,7
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Sales Executive",0.8282146183730836,8
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Business Analyst",0.7832869408904257,9
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Marketing Executive",0.7476808827629106,10
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Paralegal",0.7285047545097169,11
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Marketing Manager",0.7201506692759352,12
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"General Manager",0.5604585734584611,13
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Support Associate",0.5560563196043772,14
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Product Manager",0.5271154330518569,15
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Recruiter",0.4976009148654202,16
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Solicitor",0.4899892642128739,17
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Graphic Designer",0.47618478738615105,18
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Customer Service Representative",0.43520095566930167,19
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Salesperson",0.43393203378664197,20
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Account Management",-1,1
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Sales Management",-1,2
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"JavaScript",-1,3
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Operations Management",-1,4
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Business Analysis",-1,5
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Stakeholder Management",-1,6
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Project Delivery",-1,7
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Legal Advice",-1,8
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Marketing Strategy",-1,9
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Business-to-Business (B2B)",-1,10
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Logo Design",-1,11
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Change Management",-1,12
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Digital Marketing",-1,13
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Requirements Gathering",-1,14
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Retail",-1,15
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Legal Research",-1,16
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Email Marketing",-1,17
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Time Management",-1,18
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Recruiting",-1,19
+2021-05-01,gb,"United Kingdom","All","All",Top Trending Skills,"Product Development",-1,20

@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,za,"South Africa","All","Consumer Goods",Top Trending Employers,"Tiger Brands",4.821103862144688,1
+2020-03-01,za,"South Africa","All","Consumer Goods",Top Trending Jobs,"Salesperson",3.882665848759908,1
+2020-03-01,za,"South Africa","All","Consumer Goods",Top Trending Jobs,"Sales Manager",3.061306155464953,2
+2020-03-01,za,"South Africa","All","Consumer Goods",Top Trending Skills,"Sales Management",-1,1

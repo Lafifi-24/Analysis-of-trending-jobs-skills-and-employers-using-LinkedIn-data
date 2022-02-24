@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Ford Motor Company",3.735650820883005,1
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Honeywell",2.423900980502116,2
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"ABB",2.5292789763700974,3
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Tata Motors",1.3162097651772589,4
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Maruti Suzuki India Limited",1.7523967710817459,5
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Caterpillar Inc.",6.151453476265207,6
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"CARS24",7.757626899098637,7
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Aarti Industries Ltd.",8.508086034799483,8
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Cargill",4.53348309635229,9
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"ZF Group",5.907610406181437,10
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Mercedes-Benz Research and Development India",1.4265988594397876,11
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Bosch India",3.0315559329842143,12
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Hero MotoCorp",1.830526920821049,13
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"John Deere",2.0019613060863772,14
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Emerson Automation Solutions",2.608108824074641,15
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Continental",1.3677073410479452,16
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"TE Connectivity",3.673509716835446,17
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Danfoss",10.008261149479328,18
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"ReNew Power",7.027100700447228,19
+2020-08-01,in,"India","All","Manufacturing",Top Trending Employers,"Mahindra Group",0.9216715417082032,20
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Software Engineer",3.9006491789240134,1
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Design Engineer",3.2916020824708543,2
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.6642598136160953,3
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Project Engineer",2.0557548706989177,4
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Quality Engineer",2.0364543900390504,5
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Production Engineer",2.024841842965592,6
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.5096090099690718,7
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Sales Executive",1.434646472309531,8
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Human Resources Manager",1.3620765373778296,9
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Project Manager",1.2159521237150508,10
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"General Manager",1.2030410394783557,11
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Quality Assurance Engineer",1.1713109185344106,12
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Electrical Engineer",1.1622256392439645,13
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Business Development Manager",1.1402447220093481,14
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Marketing Manager",0.983617203394716,15
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Sales Engineer",0.9408967051934719,16
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Human Resources Executive",0.929028267375108,17
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Marketing Executive",0.9188834320444248,18
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Research And Development Engineer",0.8752695897385065,19
+2020-08-01,in,"India","All","Manufacturing",Top Trending Jobs,"Service Engineer",0.829698727409512,20
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"SQL",-1,1
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"JavaScript",-1,2
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Recruiting",-1,4
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"AutoCAD",-1,5
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Team Leadership",-1,6
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Employee Relations",-1,7
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Requirements Analysis",-1,8
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"CATIA",-1,9
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Employee Engagement",-1,10
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Marketing Strategy",-1,11
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,12
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Manual Testing",-1,13
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Project Engineering",-1,14
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Quality Control",-1,15
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Production Planning",-1,16
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Market Research",-1,17
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Electrical Wiring",-1,18
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"C (Programming Language)",-1,19
+2020-08-01,in,"India","All","Manufacturing",Top Trending Skills,"Sales Engineering",-1,20

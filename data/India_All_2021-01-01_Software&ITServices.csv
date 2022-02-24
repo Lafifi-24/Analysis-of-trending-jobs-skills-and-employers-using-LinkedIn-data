@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Accenture",3.7124102443746985,1
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Tata Consultancy Services",2.473981986894922,2
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Wipro Limited",2.606248129014615,3
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"HCL Technologies",2.9750671476444923,4
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Amazon",4.364717228400169,5
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Infosys",1.7311624058436879,6
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Capgemini",2.163474507964906,7
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Infosys Ltd",8.736245983435026,8
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Persistent Systems",10.833712949193552,9
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Genpact",2.5281127749874885,10
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Oracle",2.8738899432862985,11
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Mindtree",4.061753029791178,12
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"LTI - Larsen & Toubro Infotech",3.135266434050786,13
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Microsoft",3.269884407869502,14
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Flipkart",3.507193457626797,15
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Publicis Sapient",5.790183532622345,16
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Walmart Global Tech India",9.24460870588327,17
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"DXC Technology",1.5882088943232662,18
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"Concentrix",3.01088976576139,19
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Employers,"EXL",4.117126823481346,20
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Software Engineer",22.212229680260894,1
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"System Engineer",4.732940914803617,2
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Application Developer",2.1522238399163878,3
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Business Analyst",2.009811032016489,4
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Recruiter",1.7930250492392097,5
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Business Development Executive",1.349929317050568,6
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Human Resources Executive",1.0974384329576334,7
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Project Manager",1.072700272636121,8
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Web Developer",1.0463445818484511,9
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Content Writer",1.0169205142703137,10
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.9602404828673883,11
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",0.9494854615440971,12
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Quality Assurance Engineer",0.9467631483986096,13
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Project Engineer",0.9341365357004437,14
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Data Analyst",0.7782629136003477,15
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",0.769353406120187,16
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Product Manager",0.7503776909218681,17
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Graphic Designer",0.7189819526226154,18
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"DevOps Engineer",0.700476189034624,19
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Jobs,"Data Scientist",0.6745340195037234,20
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"SQL",-1,1
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,2
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Business Analysis",-1,3
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Adobe Illustrator",-1,4
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Recruiting",-1,5
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,6
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Team Leadership",-1,7
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Employee Relations",-1,8
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Core Java",-1,9
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Requirements Analysis",-1,10
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Data Analysis",-1,11
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,12
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Web Content Writing",-1,13
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"AutoCAD",-1,14
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,15
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Manual Testing",-1,16
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Java",-1,17
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Project Engineering",-1,18
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Bootstrap",-1,19
+2021-01-01,in,"India","All","Software & IT Services",Top Trending Skills,"Writing",-1,20

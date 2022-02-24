@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Employers,"SEPHORA",4.148086541424146,1
+2021-06-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Employers,"Albertsons Companies",4.902305382070471,2
+2021-06-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Employers,"Starbucks",2.4469510746205687,3
+2021-06-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Employers,"Target",2.5238539020095363,4
+2021-06-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Jobs,"Salesperson",8.828686491137875,1
+2021-06-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Jobs,"Barista",4.712456583750476,2
+2021-06-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Skills,"Time Management",-1,1
+2021-06-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Skills,"Barista",-1,2

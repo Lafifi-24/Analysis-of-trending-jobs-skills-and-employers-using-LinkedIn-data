@@ -1,0 +1,35 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Employers,"Amazon",12.509965777230958,1
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Employers,"Microsoft",9.146996590130598,2
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Employers,"RealPage, Inc.",7.399717376122849,3
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",10.925737406658596,4
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Employers,"Verizon",2.5768280697453125,5
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Employers,"Accenture",4.056015876434852,6
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Employers,"Infosys",3.5487392266273563,7
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Employers,"Ericsson",3.312698453126617,8
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Software Engineer",5.548199231922514,1
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Account Executive",3.5421545187982946,2
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Project Manager",2.220345302821198,3
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Account Manager",1.8033469324607125,4
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Recruiter",1.6165827394262342,5
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Sales Director",1.529118782030253,6
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Business Analyst",1.4209771658888308,7
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.3241521219114811,8
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Solutions Architect",1.315185244534564,9
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Operations Manager",1.2266931465458553,10
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Jobs,"Sales Manager",1.0555512433148868,11
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Sales Management",-1,3
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Operations Management",-1,4
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Team Building",-1,5
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Recruiting",-1,6
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Construction Management",-1,7
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Business Analysis",-1,8
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Sales Operations",-1,9
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Interviewing",-1,10
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,11
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,12
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Cloud Computing",-1,13
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Salesforce.com",-1,14
+2020-04-01,us,"United States","Dallas-Fort Worth Metroplex","Software & IT Services",Top Trending Skills,"Software as a Service (SaaS)",-1,15

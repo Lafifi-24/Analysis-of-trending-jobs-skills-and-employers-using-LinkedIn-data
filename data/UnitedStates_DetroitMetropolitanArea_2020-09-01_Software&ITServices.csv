@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Detroit Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon",15.874135353934996,1
+2020-09-01,us,"United States","Detroit Metropolitan Area","Software & IT Services",Top Trending Employers,"DoorDash",31.05231276963248,2
+2020-09-01,us,"United States","Detroit Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",10.633638034471117,1
+2020-09-01,us,"United States","Detroit Metropolitan Area","Software & IT Services",Top Trending Jobs,"Delivery Driver",2.716339358325609,2
+2020-09-01,us,"United States","Detroit Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1

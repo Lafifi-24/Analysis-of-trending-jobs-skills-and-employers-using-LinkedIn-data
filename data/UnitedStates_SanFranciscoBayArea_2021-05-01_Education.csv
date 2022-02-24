@@ -1,0 +1,21 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University",2.4472260362544427,1
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, San Francisco",2.2466384423063825,2
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Berkeley",1.5961328994919433,3
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University School of Medicine",2.7625625437937398,4
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Lawrence Livermore National Laboratory",2.5068235132957457,5
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Santa Cruz",2.3263854699047735,6
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Santa Clara University",2.8224898474329283,7
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Teacher",6.8726205027025005,1
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Postdoctoral Researcher",5.733662757576513,2
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Software Engineer",3.8557940331139613,3
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Professor",3.028451725570858,4
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Clinical Research Coordinator",2.358899569497721,5
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"JavaScript",-1,2
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Higher Education",-1,4
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Molecular Biology",-1,5
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Cell Culture",-1,6
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Clinical Research",-1,7
+2021-05-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Good Clinical Practice (GCP)",-1,8

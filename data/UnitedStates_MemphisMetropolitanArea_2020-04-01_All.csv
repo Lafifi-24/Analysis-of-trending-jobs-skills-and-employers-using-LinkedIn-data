@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Employers,"FedEx",2.3906668227045813,1
+2020-04-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Jobs,"Nurse",2.206195295257497,1
+2020-04-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Nursing",-1,1
+2020-04-01,us,"United States","Memphis Metropolitan Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,2

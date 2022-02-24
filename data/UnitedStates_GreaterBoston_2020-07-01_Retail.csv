@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Wayfair",3.1508330251325205,1
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Target",12.400815113723693,2
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"The Home Depot",16.140113276078225,3
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"BJ's Wholesale Club",6.869814273979682,4
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Chewy",15.803515808033131,5
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Salesperson",10.8233868763056,1
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Cashier",7.821762974801269,2
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Software Engineer",3.8109478981934015,3
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Time Management",-1,2
+2020-07-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Cashiering",-1,3

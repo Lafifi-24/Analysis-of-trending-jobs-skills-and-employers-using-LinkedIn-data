@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Oklahoma City Metropolitan Area","Education",Top Trending Employers,"University of Oklahoma",5.976381946259614,1
+2020-08-01,us,"United States","Oklahoma City Metropolitan Area","Education",Top Trending Employers,"University of Central Oklahoma",8.811737680999306,2
+2020-08-01,us,"United States","Oklahoma City Metropolitan Area","Education",Top Trending Employers,"Oklahoma City Public Schools",10.743454395304141,3
+2020-08-01,us,"United States","Oklahoma City Metropolitan Area","Education",Top Trending Employers,"University of Oklahoma Health Sciences Center",6.198011314156737,4
+2020-08-01,us,"United States","Oklahoma City Metropolitan Area","Education",Top Trending Jobs,"Professor",15.203130043991928,1
+2020-08-01,us,"United States","Oklahoma City Metropolitan Area","Education",Top Trending Jobs,"Teacher",15.011237436545407,2
+2020-08-01,us,"United States","Oklahoma City Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","Oklahoma City Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-08-01,us,"United States","Oklahoma City Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

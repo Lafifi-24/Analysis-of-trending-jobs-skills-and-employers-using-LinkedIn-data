@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"HSBC",2.4808814357214843,1
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Revolut",46.05739970922916,2
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"UBS",3.3863747772961377,3
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Citi",2.9019583524717665,4
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Deutsche Bank",2.004499874542919,5
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Credit Suisse",3.6329242221018707,6
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Lloyds Banking Group",1.4452118110639365,7
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"JPMorgan Chase & Co.",3.3186771227379332,8
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Metro Bank (UK)",8.377530467326592,9
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Standard Chartered Bank",1.7721116875540215,10
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Santander UK",4.587170464215884,11
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Morgan Stanley",2.123144082563456,12
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Financial Conduct Authority",3.4751227280720802,13
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Marsh",8.17182858477624,14
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Gallagher",8.35107297680959,15
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"MUFG",5.12240454404945,16
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"American Express",5.019861159472436,17
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"Barclays",0.9764294986727241,18
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"J.P. Morgan",1.5534210072651775,19
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Employers,"BNP Paribas",2.0135271218174244,20
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Software Engineer",3.232889835999217,1
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Business Analyst",2.4164494788764,2
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Underwriter",1.570943445595679,3
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Project Manager",1.3993787475559682,4
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Portfolio Manager",1.2263750357576753,5
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Financial Advisor",1.0877233066484313,6
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Investment Analyst",0.9827303404706351,7
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Account Manager",0.9755901201055943,8
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Business Development Manager",0.9018222965453676,9
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Financial Analyst",0.8925137958145217,10
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Relationship Manager",0.8598607666874897,11
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Product Manager",0.749247586264843,12
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Legal Counsel",0.7440564490913721,13
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Data Analyst",0.7367404180101105,14
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Account Executive",0.7347338144670346,15
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Chief Operating Officer",0.7298687540031619,16
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Marketing Manager",0.7036761591758083,17
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Investment Associate",0.6797591935068045,18
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Quantitative Analyst",0.6073624729112079,19
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Jobs,"Financial Director",0.6011375911218743,20
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Account Management",-1,1
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Business Analysis",-1,3
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Stakeholder Management",-1,4
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Project Delivery",-1,5
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Marketing Strategy",-1,6
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Business-to-Business (B2B)",-1,7
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Digital Marketing",-1,8
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Data Analysis",-1,9
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Requirements Gathering",-1,10
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Financial Analysis",-1,11
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"SQL",-1,12
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Product Development",-1,13
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Financial Reporting",-1,14
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Business Relationship Management",-1,15
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Underwriting",-1,16
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Financial Services",-1,17
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Financial Advisory",-1,18
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Working with Brokers",-1,19
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Finance",Top Trending Skills,"Portfolio Management",-1,20

@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,sg,"Singapore","All","Education",Top Trending Employers,"National University of Singapore",3.4375378951252604,1
+2021-01-01,sg,"Singapore","All","Education",Top Trending Employers,"Nanyang Technological University",3.5046715597082794,2
+2021-01-01,sg,"Singapore","All","Education",Top Trending Employers,"Ministry of Education, Singapore (MOE)",3.124711216088482,3
+2021-01-01,sg,"Singapore","All","Education",Top Trending Employers,"A*STAR - Agency for Science, Technology and Research",3.9497349827504684,4
+2021-01-01,sg,"Singapore","All","Education",Top Trending Jobs,"Lecturer",9.063577986472577,1
+2021-01-01,sg,"Singapore","All","Education",Top Trending Jobs,"Teacher",8.388748432339376,2
+2021-01-01,sg,"Singapore","All","Education",Top Trending Jobs,"Professor",4.825069737986217,3
+2021-01-01,sg,"Singapore","All","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,sg,"Singapore","All","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-01-01,sg,"Singapore","All","Education",Top Trending Skills,"Higher Education",-1,3

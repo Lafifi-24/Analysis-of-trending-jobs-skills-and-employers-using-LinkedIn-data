@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"MyTutor.co.uk",44.67245161583326,1
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"UCL",7.171884315596843,2
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Oxford",6.237064223288461,3
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"King's College London",6.870257502672684,4
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Cambridge",6.472979323216438,5
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"Imperial College London",6.342509879128317,6
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Bristol",7.853089294038986,7
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"The University of Edinburgh",6.6829188218207145,8
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Leeds",6.669857970337,9
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Glasgow",8.91579420438704,10
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"The University of Manchester",4.977882430773318,11
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Exeter",7.6266536049109765,12
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Nottingham",5.783097606351538,13
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"The London School of Economics and Political Science (LSE)",10.670684349533069,14
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"Queen Mary University of London",7.848185150705985,15
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"The Open University",7.069942800352338,16
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"Explore Learning",22.060661343411557,17
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"The University of Sheffield",5.5119226958887,18
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Birmingham",4.489186770195322,19
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Employers,"University of Bath",9.369094772196044,20
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Lecturer",9.695711248932543,1
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Teacher",9.625114883003146,2
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Postdoctoral Researcher",3.294852377014173,3
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Professor",1.3419292274805852,4
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Mathematics Teacher",1.281092052856563,5
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"English Teacher",1.1979721558096927,6
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Mathematics Tutor",1.136430869417598,7
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"English Tutor",1.073503619544936,8
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Science Teacher",1.068651705448943,9
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Anthropologist",1.047181124180806,10
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Project Manager",0.9789459066072549,11
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Marketing Executive",0.8249066414925373,12
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Campus Ambassador",0.7672820783483465,13
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Support Associate",0.672442311968048,14
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Headmaster",0.6525542176559491,15
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Physical Education Teacher",0.6442040841202212,16
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Secretary",0.6210240786146105,17
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Academic Tutor",0.6116833577235504,18
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Software Engineer",0.5506209751363896,19
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Jobs,"Treasurer",0.5351849067546174,20
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"JavaScript",-1,2
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Stakeholder Management",-1,3
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Project Delivery",-1,4
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Higher Education",-1,5
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Curriculum Development",-1,6
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Digital Marketing",-1,7
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Email Marketing",-1,8
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Educational Leadership",-1,9
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Mental Health",-1,10
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Molecular Biology",-1,11
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Teamwork",-1,12
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Time Management",-1,13
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Diary Management",-1,14
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Support Workers",-1,15
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Company Secretarial Work",-1,16
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"English Teaching",-1,17
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Communication",-1,18
+2020-11-01,gb,"United Kingdom","All","Education",Top Trending Skills,"Physical Education",-1,19

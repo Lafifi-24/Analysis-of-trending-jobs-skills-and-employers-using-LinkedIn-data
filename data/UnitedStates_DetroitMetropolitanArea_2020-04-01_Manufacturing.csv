@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Ford Motor Company",2.991531954655164,1
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"FCA Fiat Chrysler Automobiles",2.7913579881096453,2
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"General Motors",1.4954694058256204,3
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Rivian",32.590343322673775,4
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",3.193055895285521,1
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Program Manager",2.5700850131489195,2
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Design Release Engineer",1.7624479725460218,3
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Account Manager",1.638690261623988,4
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Program Management",-1,3
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,4
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Automotive",-1,5
+2020-04-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Design Failure Mode and Effect Analysis (DFMEA)",-1,6

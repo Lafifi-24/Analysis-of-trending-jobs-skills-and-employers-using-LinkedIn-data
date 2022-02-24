@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Greater Houston","Finance",Top Trending Employers,"JPMorgan Chase & Co.",3.5451256091878567,1
+2020-04-01,us,"United States","Greater Houston","Finance",Top Trending Jobs,"Insurance Agent",3.468125160284298,1
+2020-04-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Life Insurance",-1,1
+2020-04-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,2

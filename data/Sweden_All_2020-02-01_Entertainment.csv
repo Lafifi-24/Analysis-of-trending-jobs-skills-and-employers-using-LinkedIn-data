@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,se,"Sweden","All","Entertainment",Top Trending Employers,"Spotify",9.346684214902211,1
+2020-02-01,se,"Sweden","All","Entertainment",Top Trending Employers,"SVT",6.618497743010278,2
+2020-02-01,se,"Sweden","All","Entertainment",Top Trending Jobs,"Software Engineer",9.003088540130882,1
+2020-02-01,se,"Sweden","All","Entertainment",Top Trending Skills,"Git",-1,1

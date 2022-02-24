@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Employers,"Indigo",10.874205261203059,1
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Software Engineer",6.305081849640117,1
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"System Engineer",6.267650836714636,2
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Mechanical Engineer",3.3067347184977884,3
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Electrical Engineer",2.558447512098245,4
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",2.1778451638121097,5
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Systems Engineering",-1,2
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Integration",-1,3
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,4
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,5
+2020-07-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Manufacturing Engineering",-1,6

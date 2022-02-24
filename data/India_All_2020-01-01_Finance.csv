@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"Axis Bank",10.032135837890086,1
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"HDFC Bank",6.79386751100574,2
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"ICICI Bank",4.704037528472013,3
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"Kotak Mahindra Bank",7.349944507827673,4
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"IDFC FIRST Bank",13.43656576983088,5
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"JPMorgan Chase & Co.",5.013177861203016,6
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"IndusInd Bank",7.14840645633583,7
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"State Bank of India",7.400673428579155,8
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"HSBC",3.912737691564537,9
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"YES BANK",5.879704867272118,10
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"Standard Chartered Bank",6.88008145277402,11
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"LIC",10.737710613070854,12
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"UBS",15.029095953408437,13
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"Bajaj Finserv",6.087103386263128,14
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"Citi",6.156841655061136,15
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"American Express",5.573573917376537,16
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"HDB Financial Services Ltd.",6.3377266441310125,17
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"Wells Fargo",4.816856231869042,18
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"State Street",7.708210226410923,19
+2020-01-01,in,"India","All","Finance",Top Trending Employers,"AU SMALL FINANCE BANK",12.625320448960434,20
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Relationship Manager",6.330447866811108,1
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Software Engineer",5.853124441579217,2
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Sales Manager",5.256895846542227,3
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Sales Executive",3.284969209338388,4
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Finance Officer",2.859193515928842,5
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Credit Manager",2.701722305462789,6
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Financial Analyst",2.3357994828658315,7
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Business Analyst",1.5864399683061987,8
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Development Officer",1.5738658255309588,9
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Clerical Supervisor",1.3577842356980618,10
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Business Development Manager",1.3121068285533795,11
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Operations Manager",1.2064794541802923,12
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Relationship Officer",1.1586726875808495,13
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Financial Advisor",0.9680737614389407,14
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Bank Employee",0.8821909561175181,15
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Product Manager",0.871866725598013,16
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Collections Manager",0.860821625884447,17
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Manager of Sales",0.8221011429945614,18
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Human Resources Manager",0.746545472011812,19
+2020-01-01,in,"India","All","Finance",Top Trending Jobs,"Operations Executive",0.731469209407441,20
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"SQL",-1,1
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Sales Management",-1,3
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Business Analysis",-1,4
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Team Leadership",-1,5
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Employee Relations",-1,6
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Operations Management",-1,7
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Employee Engagement",-1,8
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Requirements Gathering",-1,9
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Financial Analysis",-1,10
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Business Relationship Management",-1,11
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Financial Reporting",-1,12
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Product Strategy",-1,13
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Financial Advisory",-1,14
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Financial Planning",-1,15
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Insurance",-1,16
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Life Insurance",-1,17
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Debt Collection",-1,18
+2020-01-01,in,"India","All","Finance",Top Trending Skills,"Collections Management",-1,19

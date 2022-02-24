@@ -1,0 +1,39 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Capital One",3.0222565393413303,1
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Virginia Commonwealth University",4.1004084090640225,2
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"VCU Health",3.984675264121188,3
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"Dominion Energy",4.079049915504909,4
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"University of Richmond",6.042936507353034,5
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"McKesson",9.540771828886813,6
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Employers,"CarMax",4.994076789813661,7
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Software Engineer",2.069370024518562,1
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Nurse",1.6753329653515936,2
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Real Estate Agent",1.6174713882736236,3
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Project Manager",1.5429530637798523,4
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Salesperson",1.2218548427677147,5
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Teacher",1.169787880516838,6
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Account Manager",1.1372995962017893,7
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Sales Manager",1.1118623920637403,8
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Professor",0.9159758202941584,9
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Account Executive",0.8705977415286572,10
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Attorney",0.8540544517980331,11
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Data Analyst",0.8135973768182468,12
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Jobs,"Accountant",0.7983177022112823,13
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"JavaScript",-1,2
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Account Management",-1,4
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Investment Properties",-1,6
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Legal Writing",-1,8
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Construction Management",-1,9
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Higher Education",-1,10
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Civil Litigation",-1,11
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Account Reconciliation",-1,12
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Sales Operations",-1,13
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"General Ledger",-1,14
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Data Analysis",-1,15
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Tableau",-1,16
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Nursing",-1,17
+2020-02-01,us,"United States","Greater Richmond Region","All",Top Trending Skills,"Basic Life Support (BLS)",-1,18

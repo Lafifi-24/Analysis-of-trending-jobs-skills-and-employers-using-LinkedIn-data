@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Pittsburgh Region","Education",Top Trending Employers,"University of Pittsburgh",4.683412925452353,1
+2020-02-01,us,"United States","Greater Pittsburgh Region","Education",Top Trending Employers,"Carnegie Mellon University",5.475509112696974,2
+2020-02-01,us,"United States","Greater Pittsburgh Region","Education",Top Trending Jobs,"Professor",12.472629372599533,1
+2020-02-01,us,"United States","Greater Pittsburgh Region","Education",Top Trending Skills,"Higher Education",-1,1
+2020-02-01,us,"United States","Greater Pittsburgh Region","Education",Top Trending Skills,"Teaching",-1,2

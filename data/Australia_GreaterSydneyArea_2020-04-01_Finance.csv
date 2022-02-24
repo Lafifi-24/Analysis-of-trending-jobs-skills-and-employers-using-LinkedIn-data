@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Commonwealth Bank",6.2282592229974565,1
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Westpac",7.576625655479501,2
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Macquarie Group",5.661112023932444,3
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"AMP",9.091671686304485,4
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"IAG",7.651030162840391,5
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"IOOF Holdings Ltd",34.594307339470696,6
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"BT",7.117671125362343,7
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"EML (Employers Mutual Limited)",17.650962674902665,8
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"QBE Insurance",6.323937724501705,9
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"ING Australia",7.798405393457875,10
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Allianz Australia",7.984383004552933,11
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Suncorp Group",4.243890830998823,12
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Westpac Institutional Bank",8.50964497791594,13
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"icare NSW",6.3054634291069585,14
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"MLC Australia",9.70150153198612,15
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"St.George Bank",7.460850821529055,16
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"ANZ",1.95862534525468,17
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"ASX",7.575425712923933,18
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Business Analyst",6.046396906400184,1
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Software Engineer",2.957608019971104,2
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Project Manager",2.5363883519394803,3
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Investment Analyst",1.392383264266009,4
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Financial Advisor",1.1009401225278614,5
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Risk Manager",1.0505734716154762,6
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Data Analyst",1.032498367650717,7
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Product Manager",1.0151099017149894,8
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Customer Service Representative",0.9303743360507448,9
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Financial Analyst",0.917552947659109,10
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Credit Analyst",0.9126043154020966,11
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Change Manager",0.8899565969597659,12
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Business Development Manager",0.8658522248187157,13
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Claims Consultant",0.841416644677109,14
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Marketing Manager",0.8087452491383373,15
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Case Manager",0.7962305480925592,16
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Compliance Manager",0.7892870042350425,17
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Legal Counsel",0.7716821963284604,18
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Relationship Manager",0.7545139256397848,19
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Business Analysis",-1,1
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"JavaScript",-1,2
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Stakeholder Management",-1,3
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Account Management",-1,4
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Project Delivery",-1,5
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Marketing Strategy",-1,6
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Requirements Gathering",-1,7
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Time Management",-1,8
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Digital Marketing",-1,9
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Data Analysis",-1,10
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Case Management",-1,11
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Business Relationship Management",-1,12
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Product Development",-1,13
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Financial Analysis",-1,14
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Financial Planning",-1,15
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Portfolio Management",-1,16
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Tableau",-1,17
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Superannuation",-1,18
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Financial Reporting",-1,19
+2020-04-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Legal Advice",-1,20

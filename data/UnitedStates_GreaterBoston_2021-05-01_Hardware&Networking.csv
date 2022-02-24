@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Greater Boston","Hardware & Networking",Top Trending Employers,"Granite Telecommunications",4.396340335103853,1
+2021-05-01,us,"United States","Greater Boston","Hardware & Networking",Top Trending Jobs,"Software Engineer",7.111316613173285,1
+2021-05-01,us,"United States","Greater Boston","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1

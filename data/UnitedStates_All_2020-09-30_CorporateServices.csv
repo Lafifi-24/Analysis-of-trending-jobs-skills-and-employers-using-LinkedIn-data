@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Deloitte",4.805570334557005,1
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"PwC",3.578685090871935,2
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"ADP",4.495682005257676,3
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Allied Universal",5.352429589722269,4
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"McKinsey & Company",7.610403240775779,5
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Grant Thornton LLP",8.029553684245485,6
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"RSM US LLP",5.257079649222992,7
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"ADT",9.32626443203414,8
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Bain & Company",12.734249882945992,9
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Staples",4.141214771998378,10
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"BDO USA, LLP",6.17099862898285,11
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Paychex",4.534129528249883,12
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Sodexo",3.1515998529726135,13
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Gartner",3.5495930157766815,14
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"MONAT Global",7.352934146578148,15
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Securitas Security Services USA, Inc.",3.38802203906714,16
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Slalom",3.98929223025846,17
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"G4S",3.9684602625722487,18
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Teleperformance",7.820771538617036,19
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Employers,"Alorica",5.693974445175066,20
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Accountant",3.3667800650782684,1
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Audit Associate",2.275683241533721,2
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Project Manager",2.2276245365396456,3
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Customer Service Representative",2.1694833270423537,4
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Assurance Associate",1.9960508283799476,5
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Account Manager",1.8517025590320442,6
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Security Officer",1.7801231311225314,7
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Business Analyst",1.471940694333318,8
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Account Executive",1.344771110583588,9
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Recruiter",1.2031415728071173,10
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Tax Associate",1.144015914078895,11
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Software Engineer",0.9926973424807253,12
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Operations Manager",0.9667652345940057,13
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Financial Analyst",0.871967009650728,14
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Salesperson",0.8589175873869863,15
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Security Professional",0.8220126456682402,16
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Business Development Manager",0.7954658264176554,17
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Tax Accountant",0.7729363696565436,18
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Auditor",0.7571091392437684,19
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Jobs,"Business Consultant",0.7477429757850161,20
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"JavaScript",-1,1
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Account Management",-1,2
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Operations Management",-1,3
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Team Building",-1,4
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Recruiting",-1,5
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Construction Management",-1,6
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,7
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Business Analysis",-1,8
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Financial Analysis",-1,9
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"General Ledger",-1,10
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Customer Satisfaction",-1,11
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Interviewing",-1,12
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Financial Reporting",-1,13
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,14
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Security",-1,15
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Physical Security",-1,16
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Auditing",-1,17
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Tax",-1,18
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Tax Preparation",-1,19
+2020-09-30,us,"United States","All","Corporate Services",Top Trending Skills,"Internal Controls",-1,20

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Commonwealth Bank",4.873774363341413,1
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Westpac",6.334481858735777,2
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Macquarie Group",4.707200393213375,3
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"IAG",5.563037383962823,4
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"AMP",6.718112145280471,5
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"ANZ",1.2829677903447478,6
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"BT",6.048876983789982,7
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Suncorp Group",1.9572603837249247,8
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"EML (Employers Mutual Limited)",10.74345599837556,9
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Bendigo and Adelaide Bank",3.6850238018379464,10
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Allianz Australia",4.826865940542252,11
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Bank of Queensland",4.718217384377223,12
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"QBE Insurance",2.8775467614439254,13
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"icare NSW",5.843105524482748,14
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Westpac Institutional Bank",6.0878307957978155,15
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Medibank",3.2141883580208344,16
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"St.George Bank",4.960267568852602,17
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"ING Australia",5.444355729349169,18
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Link Group (LNK)",4.122295245770382,19
+2020-06-01,au,"Australia","All","Finance",Top Trending Employers,"Aussie",6.310860689752326,20
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Business Analyst",3.780706227800861,1
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Software Engineer",2.768793658327772,2
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Financial Advisor",2.578805177380239,3
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Project Manager",1.9212498194137924,4
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Relationship Manager",1.5297500632680145,5
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Claims Consultant",1.5038186695527411,6
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Customer Service Representative",1.4731579290289436,7
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Mortgage Broker",1.2359929668671008,8
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Business Development Manager",1.0693653873092341,9
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Accountant",1.041340679109001,10
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Customer Consultant",1.0230376548554918,11
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Financial Analyst",0.9384337548822317,12
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Account Manager",0.9179395351747841,13
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"General Manager",0.8851131986801701,14
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Risk Manager",0.8791336835299429,15
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Data Analyst",0.7949656871198982,16
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Change Manager",0.7883214282296295,17
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Legal Counsel",0.7880767202042921,18
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Investment Analyst",0.7761052406400479,19
+2020-06-01,au,"Australia","All","Finance",Top Trending Jobs,"Product Manager",0.7759706930168417,20
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Account Management",-1,1
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Business Analysis",-1,2
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"JavaScript",-1,3
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"MYOB",-1,4
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Stakeholder Management",-1,5
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Project Delivery",-1,6
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Change Management",-1,7
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Time Management",-1,8
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Requirements Gathering",-1,9
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Data Analysis",-1,10
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Business Relationship Management",-1,11
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Product Development",-1,12
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Financial Planning",-1,13
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Financial Analysis",-1,14
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Portfolio Management",-1,15
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Tableau",-1,16
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Superannuation",-1,17
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Mortgage Lending",-1,18
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Legal Advice",-1,19
+2020-06-01,au,"Australia","All","Finance",Top Trending Skills,"Financial Reporting",-1,20

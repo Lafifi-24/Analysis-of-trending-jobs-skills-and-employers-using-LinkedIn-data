@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Employers,"Allegheny Health Network",4.026361189828741,1
+2020-01-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Employers,"Highmark Health",5.77994411113194,2
+2020-01-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Jobs,"Nurse",6.898817041436733,1
+2020-01-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

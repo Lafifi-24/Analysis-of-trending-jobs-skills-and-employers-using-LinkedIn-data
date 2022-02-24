@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Morgan Stanley",3.0968322169869458,1
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Citi",2.7659354817651636,2
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Bloomberg LP",3.3640791750379138,3
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",1.422861279429641,4
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"UBS",3.388299505182929,5
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"New York Life Insurance Company",4.748643511562026,6
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Prudential Financial",2.4511637630488115,7
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Northwestern Mutual",7.642681820618981,8
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"KPMG US",2.4284285907019405,9
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Wells Fargo",1.8524166587756086,10
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Deutsche Bank",2.5972205797385373,11
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"BNY Mellon",1.848856698311642,12
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Sumitomo Mitsui Banking Corporation",5.987762596703196,13
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Citadel",7.864596122718227,14
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Broadridge",3.636715381814046,15
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"J.P. Morgan",1.1500068957046212,16
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Blackstone",3.7440592326567006,17
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"MUFG",2.487282358992735,18
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"American Express",1.0569695879635117,19
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Capital One",1.982558740100958,20
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",4.115147483173143,1
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Investment Analyst",2.872025413415253,2
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",2.5461579920374473,3
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Financial Analyst",2.0155989340572207,4
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Underwriter",1.245850778600245,5
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Mortgage Loan Officer",1.1590552544249442,6
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Insurance Agent",1.0515323883360193,7
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Portfolio Manager",1.0170251804138533,8
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Account Executive",0.9844056207832549,9
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Business Analyst",0.9222969141737372,10
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Relationship Banker",0.8630685348254693,11
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Account Manager",0.8408906509743939,12
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Customer Service Representative",0.8236067118019361,13
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Product Manager",0.8202999058849716,14
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Financial Representative",0.7991171074828065,15
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Accountant",0.7325392701421929,16
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Data Analyst",0.7231557806163911,17
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Project Manager",0.6252486929550357,18
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Loan Consultant",0.5732956345572867,19
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Account Management",-1,2
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Construction Management",-1,3
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Account Reconciliation",-1,4
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Business Analysis",-1,5
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Financial Analysis",-1,6
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"General Ledger",-1,7
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Customer Satisfaction",-1,8
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Data Analysis",-1,9
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Public Speaking",-1,10
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Financial Reporting",-1,11
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Tableau",-1,12
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,13
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Retirement Planning",-1,14
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Agile Methodologies",-1,15
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Nonprofit Organizations",-1,16
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Investments",-1,17
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Life Insurance",-1,18
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,19
+2020-11-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"Underwriting",-1,20

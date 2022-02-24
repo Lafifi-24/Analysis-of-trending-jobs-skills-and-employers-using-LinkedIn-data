@@ -1,0 +1,40 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"The University of British Columbia",5.200334897628873,1
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"McGill University",4.911985768368142,2
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"University of Calgary",4.1777831211036025,3
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"University of Ottawa",5.599065545663507,4
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Université de Montréal",4.824961035918155,5
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"McMaster University",4.482768212555274,6
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"University of Waterloo",4.370376913087137,7
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Université Laval",5.015237010867793,8
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Humber College",6.255153791145891,9
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"York University",4.508009804253332,10
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Queen's University",5.119974408540575,11
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Concordia University",4.812579148586807,12
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Simon Fraser University",5.396575748557004,13
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Western University",4.06566034430107,14
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Ryerson University",4.0144662396526964,15
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Carleton University",4.5472330234088485,16
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Conestoga College",6.684615795837716,17
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Seneca College",6.407392300649767,18
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"Centennial College",6.989182120807505,19
+2020-03-01,ca,"Canada","All","Education",Top Trending Employers,"University of Manitoba",4.443827844129307,20
+2020-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Teacher",13.061042947284607,1
+2020-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Professor",8.136301226169037,2
+2020-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Postdoctoral Researcher",5.221341800000074,3
+2020-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Lecturer",3.1654901223645373,4
+2020-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Project Manager",1.295613820285123,5
+2020-03-01,ca,"Canada","All","Education",Top Trending Jobs,"English Second Language Teacher",1.0352130103559085,6
+2020-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Software Engineer",0.8594026763983995,7
+2020-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Early Childhood Educator",0.6980361308027849,8
+2020-03-01,ca,"Canada","All","Education",Top Trending Jobs,"Mathematics Tutor",0.6189153939184211,9
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"JavaScript",-1,2
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"Project Planning",-1,3
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"Curriculum Development",-1,4
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"Construction Management",-1,5
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"Higher Education",-1,6
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"Early Childhood Education",-1,7
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"Scientific Writing",-1,8
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"English as a Second Language (ESL)",-1,9
+2020-03-01,ca,"Canada","All","Education",Top Trending Skills,"Child Development",-1,10

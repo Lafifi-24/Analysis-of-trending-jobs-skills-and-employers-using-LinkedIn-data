@@ -1,0 +1,18 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,de,"Germany","All","Finance",Top Trending Employers,"Deutsche Bank",2.018266607527227,1
+2021-01-01,de,"Germany","All","Finance",Top Trending Employers,"SumUp",14.29142770767173,2
+2021-01-01,de,"Germany","All","Finance",Top Trending Employers,"Solarisbank AG",14.43183636388801,3
+2021-01-01,de,"Germany","All","Finance",Top Trending Employers,"Klarna",7.080769882390749,4
+2021-01-01,de,"Germany","All","Finance",Top Trending Employers,"DVAG",4.457014214275801,5
+2021-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Software Engineer",4.586988676031862,1
+2021-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Project Manager",1.89116521942292,2
+2021-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Product Manager",1.7140623405250157,3
+2021-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Business Analyst",1.6502822542293134,4
+2021-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Financial Advisor",1.6001623138337826,5
+2021-01-01,de,"Germany","All","Finance",Top Trending Jobs,"Investment Analyst",1.3454270045377845,6
+2021-01-01,de,"Germany","All","Finance",Top Trending Skills,"Project Management",-1,1
+2021-01-01,de,"Germany","All","Finance",Top Trending Skills,"Java",-1,2
+2021-01-01,de,"Germany","All","Finance",Top Trending Skills,"Project Planning",-1,3
+2021-01-01,de,"Germany","All","Finance",Top Trending Skills,"Product Development",-1,4
+2021-01-01,de,"Germany","All","Finance",Top Trending Skills,"Business Analysis",-1,5
+2021-01-01,de,"Germany","All","Finance",Top Trending Skills,"Scrum",-1,6

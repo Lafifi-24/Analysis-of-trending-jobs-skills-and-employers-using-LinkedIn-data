@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,gb,"United Kingdom","Manchester Area, United Kingdom","Software & IT Services",Top Trending Employers,"THG",20.821888300283927,1
+2020-10-01,gb,"United Kingdom","Manchester Area, United Kingdom","Software & IT Services",Top Trending Employers,"Amazon",15.728302805995753,2
+2020-10-01,gb,"United Kingdom","Manchester Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Software Engineer",8.136522792553489,1
+2020-10-01,gb,"United Kingdom","Manchester Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Business Development Manager",2.431055054235519,2
+2020-10-01,gb,"United Kingdom","Manchester Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Account Manager",2.419301688002635,3
+2020-10-01,gb,"United Kingdom","Manchester Area, United Kingdom","Software & IT Services",Top Trending Skills,"Account Management",-1,1
+2020-10-01,gb,"United Kingdom","Manchester Area, United Kingdom","Software & IT Services",Top Trending Skills,"JavaScript",-1,2
+2020-10-01,gb,"United Kingdom","Manchester Area, United Kingdom","Software & IT Services",Top Trending Skills,"Business-to-Business (B2B)",-1,3

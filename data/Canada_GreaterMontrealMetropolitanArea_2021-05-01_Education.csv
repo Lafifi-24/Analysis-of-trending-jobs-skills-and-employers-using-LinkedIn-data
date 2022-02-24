@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,ca,"Canada","Greater Montreal Metropolitan Area","Education",Top Trending Employers,"McGill University",3.161985807555939,1
+2021-05-01,ca,"Canada","Greater Montreal Metropolitan Area","Education",Top Trending Employers,"Université de Montréal",1.9571086347115865,2
+2021-05-01,ca,"Canada","Greater Montreal Metropolitan Area","Education",Top Trending Employers,"Concordia University",1.949138859960383,3
+2021-05-01,ca,"Canada","Greater Montreal Metropolitan Area","Education",Top Trending Employers,"Université du Québec à Montréal",2.4045793303323393,4
+2021-05-01,ca,"Canada","Greater Montreal Metropolitan Area","Education",Top Trending Jobs,"Teacher",12.506026974940148,1
+2021-05-01,ca,"Canada","Greater Montreal Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",7.419673231119979,2
+2021-05-01,ca,"Canada","Greater Montreal Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-05-01,ca,"Canada","Greater Montreal Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-05-01,ca,"Canada","Greater Montreal Metropolitan Area","Education",Top Trending Skills,"Scientific Writing",-1,3

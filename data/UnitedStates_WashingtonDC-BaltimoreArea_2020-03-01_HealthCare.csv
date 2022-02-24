@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"Inova Health System",6.5618634371519615,1
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"MedStar Health",6.016921083070871,2
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"Johns Hopkins Medicine",5.077476562113945,3
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"Johns Hopkins Hospital",2.743495062620168,4
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"Children's National Hospital",4.439889254905933,5
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"Catalent Pharma Solutions",31.148441771435582,6
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"LifeBridge Health",6.285267972434124,7
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"The Johns Hopkins University School of Medicine",3.390976040639057,8
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"MedStar Washington Hospital Center",4.609665726314107,9
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"University of Maryland Medical Center",2.9258858917066686,10
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Employers,"Kaiser Permanente",3.23680015391871,11
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Jobs,"Nurse",9.827874612441216,1
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Jobs,"Account Manager",1.0005170013883555,2
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Jobs,"Physical Therapist",0.9874545498336366,3
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Skills,"Account Management",-1,1
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Skills,"Physical Therapy",-1,3
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Skills,"Rehabilitation",-1,4
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,5

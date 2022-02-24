@@ -1,0 +1,38 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"PwC",3.869644894772261,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"Deloitte",4.106841409910145,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"ADP",3.4441113496888316,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"CohnReznick LLP",13.306084225418067,4
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"McKinsey & Company",3.870212667519355,5
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"RSM US LLP",10.603529117430714,6
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"EisnerAmper",10.335404377884531,7
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"PKF O'Connor Davies, LLP",16.45707594157774,8
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"Allied Universal",5.288756334933261,9
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"Withum",18.09409476679845,10
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"GLG",5.970659628206069,11
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Employers,"Sodexo",6.804125569439442,12
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Accountant",5.225356359000022,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Tax Associate",3.5158969045185944,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Tax Accountant",2.3636778642447602,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Project Manager",2.263728090560247,4
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Tax Manager",1.561184524686553,5
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Audit Associate",1.4085990158569106,6
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Auditor",1.2832148350138246,7
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Security Officer",1.2782289303839385,8
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Assurance Associate",1.2260138092707655,9
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Account Manager",1.1856659214944172,10
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Account Executive",1.0674218865901401,11
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Jobs,"Salesperson",1.0610471881942438,12
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Account Management",-1,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Construction Management",-1,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"General Ledger",-1,4
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Security",-1,5
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Physical Security",-1,6
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Auditing",-1,7
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Tax",-1,8
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Tax Preparation",-1,9
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Internal Controls",-1,10
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Income Tax",-1,11
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Corporate Tax",-1,12
+2020-01-01,us,"United States","New York City Metropolitan Area","Corporate Services",Top Trending Skills,"Financial Reporting",-1,13

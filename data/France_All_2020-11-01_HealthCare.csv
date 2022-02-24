@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Sanofi",9.447648442684129,1
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Greater Paris University Hospitals - AP-HP",10.165206628554808,2
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Korian",11.076032792077832,3
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Sanofi Pasteur",7.675084165172945,4
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Hospices Civils de Lyon",10.336059824818616,5
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"ORPEA",8.911345500372693,6
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"bioMérieux",6.819333492925865,7
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Servier",6.4256067158403996,8
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Pierre Fabre Group",6.335936797896684,9
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"GSK",8.870695348413614,10
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"CHU de Toulouse",10.85391176930287,11
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Boehringer Ingelheim",6.05088314434119,12
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"LFB",10.963124274061222,13
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"CHU de Bordeaux",7.543237225245908,14
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"institutcurie",8.527914133526709,15
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Cerballiance",18.753173301164736,16
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Guerbet",12.378979266738284,17
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Eurofins Biomnis",29.687094321673403,18
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Roche",5.723138750088632,19
+2020-11-01,fr,"France","All","Health Care",Top Trending Employers,"Ipsen",5.309177324369446,20
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Nurse",3.9899931222922405,1
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Project Manager",3.1720478772651197,2
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Laboratory Technician",3.0884467351602733,3
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Psychologist",2.543315589405002,4
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Medical Secretary",2.1675557735934765,5
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Clinical Research Associate",1.6496531474723792,6
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Product Manager",1.6111896868074225,7
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Human Resources Manager",1.558974521311711,8
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Pharmacist",1.3375531749981324,9
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Medical Doctor",1.2220792366541011,10
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Medical Sales Representative",1.1951773602150182,11
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Communications Manager",1.191964397609173,12
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Project Associate",1.1834625026298602,13
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Health Services Manager",0.9530186241661666,14
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Psychometrist",0.9399679880761567,15
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Quality Assurance Manager",0.871482341994916,16
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Clinician",0.8618094818568024,17
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Clinical Psychologist",0.852980781347591,18
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Dietitian",0.7821981445949495,19
+2020-11-01,fr,"France","All","Health Care",Top Trending Jobs,"Neuropsychologist",0.7588892644892221,20
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Project Management",-1,1
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Social Media",-1,2
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Recruiting",-1,3
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Marketing Strategy",-1,4
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Internal Communications",-1,5
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Nursing",-1,6
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Psychotherapy",-1,7
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Laboratory Skills",-1,8
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Product Launch",-1,9
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Pharmaceutics",-1,10
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Quality Management",-1,11
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Clinical Trials",-1,12
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Pharmacy",-1,13
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Good Clinical Practice (GCP)",-1,14
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Microbiology",-1,15
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Nutrition",-1,16
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Dietetics",-1,17
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Clerical Skills",-1,18
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Appointment Scheduling",-1,19
+2020-11-01,fr,"France","All","Health Care",Top Trending Skills,"Neuropsychology",-1,20

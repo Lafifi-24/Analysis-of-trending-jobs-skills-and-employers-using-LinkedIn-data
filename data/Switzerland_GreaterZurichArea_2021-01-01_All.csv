@@ -1,0 +1,38 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Credit Suisse",4.438213819223022,1
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"UBS",1.6307822976130433,2
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"ETH Zürich",3.4911705693933848,3
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"University of Zurich",3.687586827750218,4
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Julius Baer",3.5926781586373977,5
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Universitätsspital Zürich",3.482579998831293,6
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Swisscom",1.9774669233021207,7
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Swiss Re",2.3474121862063053,8
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"KPMG Switzerland",5.460574318277514,9
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Software Engineer",3.508086581646818,1
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Project Manager",3.1842195679153305,2
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Clerical Officer",2.491358906025242,3
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Project Control Manager",2.3435642680928863,4
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Product Manager",1.360605332035845,5
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Key Account Manager",1.2132387048992983,7
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Sales Manager",1.172330171200327,8
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Lecturer",1.1211030758037583,9
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Business Analyst",1.0691817723595358,10
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Postdoctoral Researcher",1.0412987987200661,11
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Account Manager",1.0049491054750759,12
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"System Engineer",0.9255042288630176,13
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Customer Advisor",0.8437948792796759,14
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Project Management",-1,1
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Java",-1,2
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Change Management",-1,3
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Sales Management",-1,4
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Product Development",-1,5
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Teaching",-1,6
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Account Management",-1,7
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Windows Server",-1,8
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Business Analysis",-1,9
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Virtualization",-1,10
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Scientific Writing",-1,11
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Project Leadership",-1,12
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Solution Selling",-1,13
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Client Counseling",-1,14
+2021-01-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Requirements Engineering",-1,15

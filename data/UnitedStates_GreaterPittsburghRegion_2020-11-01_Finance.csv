@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Pittsburgh Region","Finance",Top Trending Employers,"PNC",1.5625065085318774,1
+2020-11-01,us,"United States","Greater Pittsburgh Region","Finance",Top Trending Jobs,"Software Engineer",6.862437427877707,1
+2020-11-01,us,"United States","Greater Pittsburgh Region","Finance",Top Trending Skills,"JavaScript",-1,1

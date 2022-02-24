@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Employers,"University of Nevada-Las Vegas",4.06580425451892,1
+2020-01-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Jobs,"Teacher",20.418059043518394,1
+2020-01-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,us,"United States","Las Vegas Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2

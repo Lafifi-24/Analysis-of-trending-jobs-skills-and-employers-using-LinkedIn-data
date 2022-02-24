@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,fr,"France","Greater Paris Metropolitan Region","Health Care",Top Trending Employers,"Greater Paris University Hospitals - AP-HP",3.2069666699920876,1
+2021-05-01,fr,"France","Greater Paris Metropolitan Region","Health Care",Top Trending Employers,"Sanofi",2.5134733125177617,2
+2021-05-01,fr,"France","Greater Paris Metropolitan Region","Health Care",Top Trending Jobs,"Project Manager",3.276514109406469,1
+2021-05-01,fr,"France","Greater Paris Metropolitan Region","Health Care",Top Trending Jobs,"Head of Product",3.0955487206437304,2
+2021-05-01,fr,"France","Greater Paris Metropolitan Region","Health Care",Top Trending Jobs,"Clinical Research Associate",3.0680514048621172,3
+2021-05-01,fr,"France","Greater Paris Metropolitan Region","Health Care",Top Trending Skills,"Project Management",-1,1
+2021-05-01,fr,"France","Greater Paris Metropolitan Region","Health Care",Top Trending Skills,"Clinical Trials",-1,2
+2021-05-01,fr,"France","Greater Paris Metropolitan Region","Health Care",Top Trending Skills,"Good Clinical Practice (GCP)",-1,3

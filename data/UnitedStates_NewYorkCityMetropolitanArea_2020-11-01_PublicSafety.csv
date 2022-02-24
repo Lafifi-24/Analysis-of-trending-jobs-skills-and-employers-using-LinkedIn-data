@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","New York City Metropolitan Area","Public Safety",Top Trending Employers,"US Army",1.5758333527145383,1
+2020-11-01,us,"United States","New York City Metropolitan Area","Public Safety",Top Trending Jobs,"District Attorney",16.673612646532284,1
+2020-11-01,us,"United States","New York City Metropolitan Area","Public Safety",Top Trending Skills,"Criminal Law",-1,1
+2020-11-01,us,"United States","New York City Metropolitan Area","Public Safety",Top Trending Skills,"Trials",-1,2

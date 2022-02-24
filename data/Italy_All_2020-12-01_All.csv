@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Amazon",11.489875117178974,1
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Poste Italiane",5.9741148005786915,2
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Accenture",3.9992794077339564,3
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"PwC",6.3323926740026,4
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Intesa Sanpaolo",2.609463908395832,5
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Generali",4.2592157446547825,6
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Accenture Italia",7.307371335453587,7
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Alma Mater Studiorum – Università di Bologna",6.20370545044025,8
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Deloitte",6.853397942107836,9
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"ALLEANZA ASSICURAZIONI",6.989854497616699,10
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Capgemini",5.484309635068975,11
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"TIM",2.810244101851734,12
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Università degli Studi di Padova",5.8563633992910225,13
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Leonardo",2.0872044094261124,14
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Sapienza Università di Roma",4.0904029392995085,15
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"lidl-italia-srl",6.193346910281707,16
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Politecnico di Torino",8.024544746937252,17
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Politecnico di Milano",4.261461700707005,18
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"Esselunga",6.827191314839469,19
+2020-12-01,it,"Italy","All","All",Top Trending Employers,"ANAS SpA",14.374440789038248,20
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Teacher",4.162758101276104,1
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Software Engineer",2.007011737252129,2
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Salesperson",1.91536073670583,3
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Project Manager",1.827550365259175,4
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Lawyer",1.368465204707321,5
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Medical Doctor",1.352702720813626,6
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Sales Manager",1.1429004206212818,7
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Account Manager",1.0795526679273149,8
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Social Media Manager",1.0371501351842665,9
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Administration Employee",0.9623967657895203,10
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Nurse",0.9274628349146564,11
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Financial Advisor",0.9209030390011006,12
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Professor",0.8471407540594463,13
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Business Analyst",0.7691477021706026,14
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Postdoctoral Researcher",0.7158610286321645,15
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Graphic Designer",0.7052167621686971,16
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Architect",0.6995773937305072,17
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Accountant",0.689415253009982,18
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Back Office Employee",0.5717339603405516,19
+2020-12-01,it,"Italy","All","All",Top Trending Jobs,"Psychologist",0.550899626361166,20
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Project Management",-1,1
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Litigation",-1,2
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Legal Advice",-1,3
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Teaching",-1,4
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Architectural Design",-1,5
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Sales Management",-1,6
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Adobe Illustrator",-1,7
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"JavaScript",-1,8
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Project Planning",-1,9
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Clinical Research",-1,10
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Business Planning",-1,11
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Graphics",-1,12
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Psychological Assessment",-1,13
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Social Media Marketing",-1,14
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Nursing",-1,15
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Invoicing",-1,16
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"General Ledger",-1,17
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Investments",-1,18
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Portfolio Management",-1,19
+2020-12-01,it,"Italy","All","All",Top Trending Skills,"Instagram",-1,20

@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,de,"Germany","Greater Munich Metropolitan Area","Legal",Top Trending Jobs,"Attorney",23.224247439323257,1
+2020-01-01,de,"Germany","Greater Munich Metropolitan Area","Legal",Top Trending Jobs,"Lawyer",20.276301096595045,2
+2020-01-01,de,"Germany","Greater Munich Metropolitan Area","Legal",Top Trending Skills,"Litigation",-1,1
+2020-01-01,de,"Germany","Greater Munich Metropolitan Area","Legal",Top Trending Skills,"Corporate Law",-1,2

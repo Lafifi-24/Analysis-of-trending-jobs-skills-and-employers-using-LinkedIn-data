@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Delta Air Lines",4.3324569288699015,1
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"McDonald's",3.972063552233144,2
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"United Airlines",4.440388226718362,3
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Chick-fil-A-Franchise",5.747571450715395,4
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"American Airlines",2.8929018529824497,5
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Chipotle Mexican Grill",6.516383377127756,6
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Panera Bread",4.1646986685680885,7
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Southwest Airlines",3.0208452925004226,8
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Domino's",5.92332492425495,9
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Marriott International",2.4449999380782836,10
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Hilton",3.5216127965447575,11
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Vail Resorts",7.759897676901034,12
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Subway",3.965250877440056,13
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"SkyWest Airlines",6.317770064205636,14
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Chick-fil-A Corporate",5.889403934026015,15
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"The Wendy's Company",7.752184139769372,16
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Marriott Hotels",4.664768603367596,17
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Enterprise Holdings",2.358199717334382,18
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Spirit Airlines",7.223418486778223,19
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Employers,"Taco Bell",4.036601925278026,20
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Server",4.830102419468274,1
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"General Manager",4.68849465739876,2
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Chef",2.3254889543815622,3
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Food Server",2.3231346341587007,4
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Bartender",2.152936186146721,5
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Cook",2.083353761663659,6
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Cashier",1.8409778126084606,7
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Hostess",1.8175741627295867,8
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Customer Service Representative",1.7451483699666288,9
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Sales Director",1.5578072982143962,10
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Flight Attendant",1.3092851556918887,11
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Sales Manager",1.2648428916281773,12
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Host",1.0675733024034695,13
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Delivery Driver",0.9432789548013116,14
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Food Service Worker",0.8651698629749649,15
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Barista",0.8270665631421951,16
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Accountant",0.7968220485578312,17
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Operations Manager",0.7874729680805415,18
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Director Of Operations",0.7583532049141328,19
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Jobs,"Front Desk Representative",0.749785542545838,20
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Sales Management",-1,1
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Team Building",-1,2
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Operations Management",-1,3
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Time Management",-1,4
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Account Reconciliation",-1,5
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Sales Operations",-1,6
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Inventory Management",-1,7
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"General Ledger",-1,8
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Customer Satisfaction",-1,9
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Cashiering",-1,10
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Culinary Skills",-1,11
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Menu Development",-1,12
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Account Management",-1,13
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Bartending",-1,14
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Cooking",-1,15
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Social Media",-1,16
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Public Speaking",-1,17
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Barista",-1,18
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Flight Safety",-1,19
+2020-01-31,us,"United States","All","Recreation & Travel",Top Trending Skills,"Airlines",-1,20

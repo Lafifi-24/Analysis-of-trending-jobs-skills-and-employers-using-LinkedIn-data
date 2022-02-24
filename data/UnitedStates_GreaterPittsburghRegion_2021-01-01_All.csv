@@ -1,0 +1,30 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Aurora",207.86941124201275,1
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"University of Pittsburgh",1.8690518059690642,2
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"PNC",1.2412221203628024,3
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Carnegie Mellon University",2.528152975056555,4
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Allegheny Health Network",2.2525894743573946,5
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"DICK'S Sporting Goods",3.2990814466075156,6
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Highmark Health",3.159213671448334,7
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"Giant Eagle, Inc.",3.459683577869424,8
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Employers,"CVS Health",7.361951030651198,9
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Software Engineer",5.176361340336236,1
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Project Manager",1.8231107344337156,2
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Real Estate Agent",1.7864758516744623,3
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Account Manager",1.3232401421422129,4
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Salesperson",1.2896238889890494,5
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Account Executive",1.194082694735354,6
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Nurse",1.1895402563674016,7
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Attorney",0.9773188503799676,8
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Jobs,"Teacher",0.9030591085709663,9
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"JavaScript",-1,2
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Account Management",-1,4
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Investment Properties",-1,5
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,6
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Legal Writing",-1,7
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Construction Management",-1,8
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Civil Litigation",-1,9
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Nursing",-1,10
+2021-01-01,us,"United States","Greater Pittsburgh Region","All",Top Trending Skills,"Basic Life Support (BLS)",-1,11

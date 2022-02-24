@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Columbus, Ohio Metropolitan Area","Health Care",Top Trending Employers,"OhioHealth",4.123752741643598,1
+2020-01-01,us,"United States","Columbus, Ohio Metropolitan Area","Health Care",Top Trending Employers,"The Ohio State University Wexner Medical Center",3.383473803535865,2
+2020-01-01,us,"United States","Columbus, Ohio Metropolitan Area","Health Care",Top Trending Employers,"Nationwide Children's Hospital",4.0612854476289755,3
+2020-01-01,us,"United States","Columbus, Ohio Metropolitan Area","Health Care",Top Trending Employers,"Quantum Health",11.897268312787398,4
+2020-01-01,us,"United States","Columbus, Ohio Metropolitan Area","Health Care",Top Trending Employers,"Mount Carmel Health System",3.874835045098768,5
+2020-01-01,us,"United States","Columbus, Ohio Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",9.395773013232564,1
+2020-01-01,us,"United States","Columbus, Ohio Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,us,"United States","Columbus, Ohio Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

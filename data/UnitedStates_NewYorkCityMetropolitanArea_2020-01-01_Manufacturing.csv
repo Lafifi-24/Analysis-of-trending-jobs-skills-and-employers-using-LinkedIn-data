@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",2.508141445624388,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",1.8496823965284743,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",1.7624569550000353,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Consultant",1.7608059890417964,4
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.7396329965831108,5
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Salesperson",1.7257653243968347,6
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Construction Management",-1,3
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,4
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,5
+2020-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Customer Satisfaction",-1,6

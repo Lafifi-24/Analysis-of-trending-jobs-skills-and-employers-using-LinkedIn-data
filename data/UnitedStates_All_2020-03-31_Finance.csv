@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Wells Fargo",3.601996281199144,1
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Capital One",4.9251301977959985,2
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"JPMorgan Chase & Co.",2.4788834619676474,3
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Northwestern Mutual",7.66112101442375,4
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"U.S. Bank",3.767487618360184,5
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"State Farm ®",3.5621697400333496,6
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Citi",3.2083728571676877,7
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Allstate",4.218506658736571,8
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"PNC",3.6784476753396085,9
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"New York Life Insurance Company",5.416675917253826,10
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Morgan Stanley",3.230715075734873,11
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Farmers Insurance",4.3693754364989985,12
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Fidelity Investments",3.068409422339527,13
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Charles Schwab",5.13096110448303,14
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Anthem, Inc.",3.7033436706608596,15
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"American Express",3.2429381160456847,16
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Merrill Lynch",4.344071866482789,17
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"Progressive Insurance",3.9231362958903686,18
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"UBS",3.8080817317660958,19
+2020-03-31,us,"United States","All","Finance",Top Trending Employers,"KPMG US",2.9823779540183435,20
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Software Engineer",3.8721980054400666,1
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Financial Advisor",2.711042514634656,2
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Insurance Agent",2.2618651096306075,3
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Mortgage Loan Officer",2.175632194163141,4
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Customer Service Representative",1.7351270362285893,5
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Underwriter",1.5023956703449777,6
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Account Manager",1.4436462422560918,7
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Account Executive",1.3719651835564406,8
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Loan Officer",1.080981471574296,9
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Business Analyst",0.9543913482845751,10
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Financial Analyst",0.9041638943473337,11
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Financial Representative",0.843347432889623,12
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Relationship Manager",0.8416645771139639,13
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Mortgage Loan Originator",0.8372131178646494,14
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Bank Teller",0.8350022678229208,15
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Project Manager",0.8043374526721957,16
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Accountant",0.7295543714731199,17
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Banker",0.6690648545180801,18
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Claims Adjuster",0.6404193044267088,19
+2020-03-31,us,"United States","All","Finance",Top Trending Jobs,"Personal Banker",0.6303861735320573,20
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Account Management",-1,2
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Construction Management",-1,3
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Account Reconciliation",-1,4
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Business Analysis",-1,5
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Financial Analysis",-1,6
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"General Ledger",-1,7
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Customer Satisfaction",-1,8
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Financial Reporting",-1,9
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,10
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Retirement Planning",-1,11
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Investments",-1,12
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Life Insurance",-1,13
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,14
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Underwriting",-1,15
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Mortgage Lending",-1,16
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Insurance",-1,17
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Business Relationship Management",-1,18
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Claims Management",-1,19
+2020-03-31,us,"United States","All","Finance",Top Trending Skills,"Cash Handling",-1,20

@@ -1,0 +1,54 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Amazon",19.445394944459732,1
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Baptist Health South Florida",4.318606907362316,2
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Publix Super Markets",8.605819498069396,3
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"University of Miami",2.765755075326035,4
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Chewy",9.35172977029207,5
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Florida International University",1.985063545479027,6
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Jackson Health System",5.169912542294255,7
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Memorial Healthcare System",3.895332601724846,8
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"MONAT Global",20.326873317928897,9
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Citrix",3.7370666899605407,10
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Compass",8.795448080351916,11
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Keller Williams Realty, Inc.",3.0796756712278337,12
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Cleveland Clinic",6.085279798833761,13
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Employers,"Broward Health",4.282650825137116,14
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Real Estate Agent",3.865640237865014,1
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Nurse",2.059176680635153,2
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Project Manager",1.8316817252103297,3
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Software Engineer",1.420133160213833,4
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Account Manager",1.4006056196366556,5
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Attorney",1.2162899178567355,6
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Customer Service Representative",1.1856251343573898,7
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Salesperson",1.173562932767952,8
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Sales Manager",1.0409455339457947,9
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Account Executive",0.9280200160420771,10
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"General Manager",0.8482371137753933,11
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Sales Director",0.7487506786713812,12
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Accountant",0.7345938701481289,13
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Operations Manager",0.6261601304058466,14
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Office Manager",0.5818970574202768,16
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Marketing Director",0.5764652319692251,17
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Teacher",0.5461798739405153,18
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Financial Advisor",0.5436358958729659,19
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Jobs,"Chief Financial Officer",0.5433395169537293,20
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Teaching",-1,1
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Account Management",-1,4
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Team Building",-1,8
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Operations Management",-1,9
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Legal Writing",-1,10
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Construction Management",-1,11
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Civil Litigation",-1,12
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Account Reconciliation",-1,13
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Sales Operations",-1,14
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Inventory Management",-1,15
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Office Administration",-1,16
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"General Ledger",-1,17
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Customer Satisfaction",-1,18
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Public Speaking",-1,19
+2020-05-01,us,"United States","Miami-Fort Lauderdale Area","All",Top Trending Skills,"Marketing Strategy",-1,20

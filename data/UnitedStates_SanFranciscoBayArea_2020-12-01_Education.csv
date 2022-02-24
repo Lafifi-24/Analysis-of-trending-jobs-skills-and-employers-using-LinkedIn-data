@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University",2.035172451175376,1
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, San Francisco",2.0858217315400625,2
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Berkeley",2.1220051202057024,3
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University School of Medicine",2.9680189686102185,4
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Santa Cruz",3.3580096637213694,5
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Lawrence Livermore National Laboratory",2.506633259552178,6
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Springboard",19.19161255552699,7
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Teacher",7.466596061335097,1
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Postdoctoral Researcher",6.002563956016965,2
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Software Engineer",3.5851637414964013,3
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Professor",3.231438425271215,4
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"JavaScript",-1,2
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Higher Education",-1,4
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Public Speaking",-1,5
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Nonprofit Organizations",-1,6
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Molecular Biology",-1,7
+2020-12-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Cell Culture",-1,8

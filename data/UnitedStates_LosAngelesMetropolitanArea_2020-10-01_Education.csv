@@ -1,0 +1,46 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of Southern California",5.245965654823816,1
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Los Angeles",5.093356285763528,2
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Los Angeles Unified School District",4.238953833797763,3
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"UC Irvine",5.44870443294738,4
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Long Beach",8.448771085428339,5
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Riverside",5.969341653924758,6
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Loyola Marymount University",5.790495292973018,7
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Chapman University",5.94542679753223,8
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Fullerton",5.5423820863842,9
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Caltech",6.074871232641459,10
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State Polytechnic University-Pomona",6.424760311913012,11
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Northridge",4.828999308831707,12
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Biola University",8.71170711255892,13
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California Baptist University",6.984460575924278,14
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Azusa Pacific University",5.618095776229124,15
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"USC Viterbi School of Engineering",14.75178982453389,16
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Pomona College",10.1243484824487,17
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Pepperdine University",5.665935463603203,18
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Teacher",12.17179880234975,1
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Professor",8.911021947084276,2
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",2.6601171765214677,3
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Elementary School Teacher",2.3743787893661503,4
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Lecturer",1.665976634743604,5
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Member Of The Board Of Advisors",1.5104604833519908,6
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Academic Tutor",1.3040902601188964,7
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Software Engineer",1.2305314419743651,8
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Speech Language Pathologist",1.2211791629836113,9
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Mathematics Teacher",1.1977096484563952,10
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Special Education Teacher",1.1074490178824368,11
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Psychologist",1.024615797341629,12
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"JavaScript",-1,2
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,4
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Special Education",-1,5
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Classroom Management",-1,6
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Elementary Education",-1,7
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,8
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,9
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Speech Therapy",-1,10
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Speech",-1,11
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Psychotherapy",-1,12
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Public Speaking",-1,13
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Strategy",-1,14
+2020-10-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Strategic Partnerships",-1,15

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Northeastern University",7.773956552313275,1
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Arizona State University",3.3100406599162517,2
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"University of Illinois Urbana-Champaign",3.7825432458072523,3
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"University of Wisconsin-Madison",3.193058545851847,4
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"The University of Texas at Austin",3.148378497900426,5
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Stanford University",2.8046495392966695,6
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Penn State University",2.652339860298303,7
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"University of Southern California",3.658235057892644,8
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Columbia University in the City of New York",3.172855423622182,9
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"University of Florida",2.978819635614494,10
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"University of Pennsylvania",3.1769535400681344,11
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"University of Michigan",2.373698631968365,12
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Cornell University",3.7202398067622324,13
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Brigham Young University",3.5392102391534217,14
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Purdue University",3.4535080573558528,15
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"University of California, Berkeley",3.3910605317485745,16
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"North Carolina State University",3.366265831300938,17
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Georgia Institute of Technology",4.154039585949219,18
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"University of Washington",1.950629238313751,19
+2021-02-28,us,"United States","All","Education",Top Trending Employers,"Covance",3.6907068417130975,20
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Professor",9.773792493103121,1
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Teacher",9.352588042586902,2
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Postdoctoral Researcher",3.707383513252559,3
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Lecturer",1.7482729728510589,4
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Software Engineer",1.16389725204517,5
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Member Of The Board Of Advisors",0.8953398734505963,6
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Project Manager",0.8087466024562647,7
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Program Coordinator",0.6214584745734668,8
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Elementary School Teacher",0.5748651986938578,9
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Academic Tutor",0.5446352370710317,10
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Program Manager",0.5444231146807548,11
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Academic Advisor",0.5292013222623616,12
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Data Analyst",0.4989081959726161,13
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Special Education Paraeducator",0.4952734610088773,14
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Admissions Counselor",0.48784570464099436,15
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Clinical Research Coordinator",0.45385569167690626,16
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Clinical Instructor",0.4471645403742471,17
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Mathematics Teacher",0.4295645737919347,18
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Special Education Teacher",0.4157539927128219,19
+2021-02-28,us,"United States","All","Education",Top Trending Jobs,"Mathematics Tutor",0.3990319948094562,20
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Teaching",-1,1
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"JavaScript",-1,2
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Curriculum Development",-1,3
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Construction Management",-1,4
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Higher Education",-1,5
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Program Management",-1,6
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Data Analysis",-1,7
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Special Education",-1,8
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Cross-functional Team Leadership",-1,9
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Classroom Management",-1,10
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Tableau",-1,11
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Elementary Education",-1,12
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Community Outreach",-1,13
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Molecular Biology",-1,14
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Nonprofit Organizations",-1,15
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Cell Culture",-1,16
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Clinical Research",-1,17
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Good Clinical Practice (GCP)",-1,18
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Academic Advising",-1,19
+2021-02-28,us,"United States","All","Education",Top Trending Skills,"Public Speaking",-1,20

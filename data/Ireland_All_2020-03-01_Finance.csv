@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,ie,"Ireland","All","Finance",Top Trending Employers,"AIB",2.8231096376932956,1
+2020-03-01,ie,"Ireland","All","Finance",Top Trending Employers,"Bank of Ireland",2.409027368590387,2
+2020-03-01,ie,"Ireland","All","Finance",Top Trending Employers,"Citi",4.769126357282713,3
+2020-03-01,ie,"Ireland","All","Finance",Top Trending Employers,"permanent tsb",5.078697185653891,4
+2020-03-01,ie,"Ireland","All","Finance",Top Trending Employers,"Fidelity Investments",7.3753584808776615,5
+2020-03-01,ie,"Ireland","All","Finance",Top Trending Employers,"Irish Life",7.844375981959467,6
+2020-03-01,ie,"Ireland","All","Finance",Top Trending Jobs,"Software Engineer",5.056644616498791,1
+2020-03-01,ie,"Ireland","All","Finance",Top Trending Jobs,"Financial Advisor",2.866284225742952,2
+2020-03-01,ie,"Ireland","All","Finance",Top Trending Skills,"JavaScript",-1,1

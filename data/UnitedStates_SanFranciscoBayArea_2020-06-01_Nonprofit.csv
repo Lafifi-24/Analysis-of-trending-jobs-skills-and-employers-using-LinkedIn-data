@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","San Francisco Bay Area","Nonprofit",Top Trending Employers,"Chan Zuckerberg Initiative",14.232922839892145,1
+2020-06-01,us,"United States","San Francisco Bay Area","Nonprofit",Top Trending Jobs,"Director Of Development",2.8509735672745276,2
+2020-06-01,us,"United States","San Francisco Bay Area","Nonprofit",Top Trending Skills,"Public Speaking",-1,1
+2020-06-01,us,"United States","San Francisco Bay Area","Nonprofit",Top Trending Skills,"Nonprofit Organizations",-1,2
+2020-06-01,us,"United States","San Francisco Bay Area","Nonprofit",Top Trending Skills,"Fundraising",-1,3

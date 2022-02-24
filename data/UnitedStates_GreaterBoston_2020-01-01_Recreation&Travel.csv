@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Boston","Recreation & Travel",Top Trending Jobs,"General Manager",7.576577624224902,1
+2020-01-01,us,"United States","Greater Boston","Recreation & Travel",Top Trending Jobs,"Server",5.846293694670712,2
+2020-01-01,us,"United States","Greater Boston","Recreation & Travel",Top Trending Skills,"Team Building",-1,1
+2020-01-01,us,"United States","Greater Boston","Recreation & Travel",Top Trending Skills,"Time Management",-1,2
+2020-01-01,us,"United States","Greater Boston","Recreation & Travel",Top Trending Skills,"Inventory Management",-1,3

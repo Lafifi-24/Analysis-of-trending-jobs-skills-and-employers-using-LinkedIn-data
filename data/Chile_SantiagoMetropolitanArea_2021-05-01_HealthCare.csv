@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,cl,"Chile","Santiago Metropolitan Area","Health Care",Top Trending Employers,"redsaludcchc",9.774818384500888,1
+2021-05-01,cl,"Chile","Santiago Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",11.419067105986032,1
+2021-05-01,cl,"Chile","Santiago Metropolitan Area","Health Care",Top Trending Jobs,"Kinesiologist",7.703866785667568,2
+2021-05-01,cl,"Chile","Santiago Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-05-01,cl,"Chile","Santiago Metropolitan Area","Health Care",Top Trending Skills,"Rehabilitation",-1,2
+2021-05-01,cl,"Chile","Santiago Metropolitan Area","Health Care",Top Trending Skills,"Physical Therapy",-1,3

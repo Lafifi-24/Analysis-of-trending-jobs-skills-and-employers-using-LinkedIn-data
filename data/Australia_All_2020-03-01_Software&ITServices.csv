@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"DXC Technology",9.001036715707238,1
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",13.363182686680583,2
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Atlassian",12.356313050589792,3
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Capgemini",11.969767401514126,4
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"MYOB",10.532291689650904,5
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Accenture",4.018319857023611,6
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Microsoft",5.740036839139615,7
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Serco",7.459746146113582,8
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Infosys",3.65298099909867,9
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Hireup",10.608181198225564,10
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"ASG Group",9.131846713727658,11
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Datacom",6.780259206400727,12
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Canva",16.444863300802464,13
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Amazon",10.428124742205435,14
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Quantium",15.575124538401555,15
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Wipro Limited",6.093893725841662,16
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Uber",7.104229064770583,17
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Xero",10.142000871624528,18
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Thales",4.008030876468465,19
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Ericsson",6.24527612563175,20
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Software Engineer",8.089059921904147,1
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Project Manager",2.193779476386842,2
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",1.9473798526243025,3
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Account Manager",1.914575885163562,4
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Business Analyst",1.5850149827393623,5
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Solutions Architect",1.4931183702914417,6
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Account Executive",1.4797023932215874,7
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"System Engineer",1.3236363045881503,8
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Technical Consultant",1.163084221586241,9
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.055392759371409,10
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Product Manager",1.0394560824228753,11
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.8659519873870062,12
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Customer Service Representative",0.854582695674794,13
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Support Associate",0.8186971408806839,14
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Information Technology Consultant",0.8038979753721245,15
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"General Manager",0.802503973142769,16
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Marketing Manager",0.7965630543025108,17
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Sales Manager",0.7107176393937108,18
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Sales Director",0.6849146992760468,19
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Network Engineer",0.6551701889253011,20
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Account Management",-1,1
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Business Analysis",-1,2
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Sales Management",-1,3
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,4
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Stakeholder Management",-1,5
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Project Delivery",-1,6
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Marketing Strategy",-1,7
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Change Management",-1,8
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,9
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Time Management",-1,10
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Digital Marketing",-1,11
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,12
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Product Development",-1,13
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"React.js",-1,14
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Integration",-1,15
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Node.js",-1,16
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Active Directory",-1,17
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Mental Health",-1,18
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"VMware",-1,19
+2020-03-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Cisco Systems Products",-1,20

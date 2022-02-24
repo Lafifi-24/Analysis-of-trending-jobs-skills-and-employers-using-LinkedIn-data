@@ -1,0 +1,22 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"AbbVie",2.309621912030924,1
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"AMITA Health",4.804846250937545,2
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Northwestern Medicine",3.098757811282963,3
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Abbott",3.7702188265642285,4
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Rush University Medical Center",3.1902818900835093,5
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Northwestern Memorial Hospital",3.1316893768607024,6
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"UChicago Medicine",3.036799300522827,7
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Medline Industries, Inc.",3.203386427016292,8
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Ann & Robert H. Lurie Children's Hospital of Chicago",2.6655230784847888,9
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Tempus Labs, Inc.",7.015581894918432,10
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Loyola Medicine",6.010613137028784,11
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Nurse",8.968096704745205,1
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Patient Care Technician",2.0445513324907623,2
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Account Manager",1.2983079705327856,3
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Physical Therapist",1.1839497948805142,4
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Account Management",-1,1
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Physical Therapy",-1,3
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Rehabilitation",-1,4
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,5
+2021-01-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,6

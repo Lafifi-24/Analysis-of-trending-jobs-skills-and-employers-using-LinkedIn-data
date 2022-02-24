@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Employers,"Target",3.9019478910855825,1
+2020-01-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Employers,"Best Buy",3.646497490564513,2
+2020-01-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Jobs,"Software Engineer",4.777505682993826,1
+2020-01-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Jobs,"Salesperson",4.222535760933576,2
+2020-01-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Skills,"JavaScript",-1,1

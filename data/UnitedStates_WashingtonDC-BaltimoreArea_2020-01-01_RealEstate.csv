@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Real Estate",Top Trending Employers,"Samson Properties",9.3637028912682,1
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",5.9412926000490325,2
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Real Estate",Top Trending Jobs,"Real Estate Agent",39.10551004499359,1
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Real Estate",Top Trending Jobs,"Property Manager",5.1900231792025515,2
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Real Estate",Top Trending Skills,"Property Management",-1,3

@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Employers,"ETH Zürich",3.8681707072496962,1
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",3.553262520833304,2
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Zurich",2.678287284749799,3
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Employers,"CERN",3.050668290681455,4
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Geneva",2.5406896772966645,5
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Bern",3.1583158060450867,6
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Postdoctoral Researcher",14.787609044576314,1
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Lecturer",12.823613401940785,2
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Scientific Officer",3.979328338131328,3
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Skills,"Teaching",-1,1
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Skills,"Change Management",-1,2
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Skills,"Scientific Writing",-1,3
+2021-05-01,ch,"Switzerland","All","Education",Top Trending Skills,"Research",-1,4

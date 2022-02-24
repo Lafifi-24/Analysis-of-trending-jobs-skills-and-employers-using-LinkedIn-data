@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Chicago Area","Real Estate",Top Trending Employers,"@properties",6.393143087984841,1
+2021-01-01,us,"United States","Greater Chicago Area","Real Estate",Top Trending Employers,"Compass",8.382506122584534,2
+2021-01-01,us,"United States","Greater Chicago Area","Real Estate",Top Trending Employers,"Baird & Warner",5.320029904857371,3
+2021-01-01,us,"United States","Greater Chicago Area","Real Estate",Top Trending Jobs,"Real Estate Broker",32.225404948850354,1
+2021-01-01,us,"United States","Greater Chicago Area","Real Estate",Top Trending Jobs,"Real Estate Agent",16.468664886713903,2
+2021-01-01,us,"United States","Greater Chicago Area","Real Estate",Top Trending Jobs,"Property Manager",3.7583715063987264,3
+2021-01-01,us,"United States","Greater Chicago Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2021-01-01,us,"United States","Greater Chicago Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2021-01-01,us,"United States","Greater Chicago Area","Real Estate",Top Trending Skills,"Property Management",-1,3

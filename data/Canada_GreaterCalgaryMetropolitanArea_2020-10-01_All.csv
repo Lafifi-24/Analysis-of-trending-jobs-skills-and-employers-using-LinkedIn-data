@@ -1,0 +1,49 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"University of Calgary",4.544992823091277,1
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Alberta Health Services",3.178845785578176,2
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"TC Energy",4.306167849536706,3
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Amazon",32.53024301998138,4
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Symend",43.602806513452485,5
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Calgary Board of Education",3.2842540291901097,6
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Enbridge",4.252604832003186,7
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"ATB Financial",2.7205769598493834,8
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"City of Calgary",1.4006393505322372,9
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Canadian Natural Resources Limited (CNRL)",2.060552476490317,10
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Southern Alberta Institute of Technology (SAIT)",3.3802649407752385,11
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"MNP",10.86314570215202,12
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Employers,"Government of Alberta",4.0570176659927,13
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.4494623520791325,1
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.0625505339895054,2
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Teacher",1.9324449446281546,3
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Accountant",1.8535992620369788,4
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.582488132031248,5
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.2326982305204233,6
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",1.1000891069471643,7
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",0.9276206235301109,8
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.8995289582126395,9
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Full Stack Engineer",0.8558730142256794,11
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.8235703472656487,12
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Account Executive",0.800243215555217,13
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Business Development Manager",0.7363384010534968,14
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.6974735957062517,15
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Jobs,"Nurse",0.5928400265296926,16
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Time Management",-1,2
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,3
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,4
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Account Management",-1,5
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,6
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,7
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Financial Reporting",-1,8
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,9
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,10
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,11
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Residential Real Estate",-1,12
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Team Building",-1,13
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,14
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Requirements Gathering",-1,15
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Public Speaking",-1,16
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"React.js",-1,17
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Node.js",-1,18
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Nursing",-1,19
+2020-10-01,ca,"Canada","Greater Calgary Metropolitan Area","All",Top Trending Skills,"Nonprofit Organizations",-1,20

@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","Finance",Top Trending Employers,"U.S. Bank",1.1716506069729709,1
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","Finance",Top Trending Employers,"Wells Fargo",0.9632063870943924,2
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","Finance",Top Trending Jobs,"Software Engineer",3.971484383653781,1
+2021-01-01,us,"United States","Greater Minneapolis-St. Paul Area","Finance",Top Trending Skills,"JavaScript",-1,1

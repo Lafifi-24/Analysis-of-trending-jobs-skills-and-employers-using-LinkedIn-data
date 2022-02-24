@@ -1,0 +1,24 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Employers,"SpaceX",5.920785175621787,1
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Employers,"Boeing",3.4534566215877462,2
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Employers,"NASA Jet Propulsion Laboratory",3.270382750796054,3
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Employers,"Lockheed Martin",7.318861357474517,4
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Employers,"Rivian",31.313876394108004,5
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",3.676705143861482,1
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"System Engineer",2.9023585861540804,2
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",2.6689169333817655,3
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.7152205206343745,4
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Account Manager",1.6969838050422772,5
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",1.5103252660609534,6
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",1.4285620872066414,7
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Salesperson",1.2672707851257874,8
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Construction Management",-1,4
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,5
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Systems Engineering",-1,6
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Integration",-1,7
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,8
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,9
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Manufacturing Engineering",-1,10

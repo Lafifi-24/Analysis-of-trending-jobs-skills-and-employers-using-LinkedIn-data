@@ -1,0 +1,55 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Intel Corporation",2.854981213342344,1
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Qualcomm",2.2718387097263903,2
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Jio",1.564609203789604,3
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Nokia",1.480831744234698,4
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Micron Technology",10.4659147282837,5
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Vodafone",0.9918899702917646,6
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Tata Communications",1.4149664255925827,7
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Netcracker Technology",4.100145535637822,8
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Mavenir",5.335630130256992,9
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"airtel",1.1778832924843992,10
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Cerium Systems",9.432936196948393,11
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Subex",8.363368971188383,12
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Microchip Technology Inc.",6.119261100453851,13
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"NVIDIA",2.3081361441662964,14
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"AMD",3.5298098528124724,15
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Infineon Technologies",10.21083808460148,16
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Comcast",6.778102192971006,17
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"OPPO",1.2469863737661449,18
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"Telstra",6.703515919061795,19
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Employers,"NXP Semiconductors",2.905147182064857,20
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Software Engineer",16.05337474169383,1
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Design Engineer",3.1647048567853338,2
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Network Engineer",2.3709043059948844,3
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Validation Engineer",2.0390085480719757,4
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Research And Development Engineer",1.6316617952193018,5
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Test Engineer",1.5603820897707699,6
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Business Development Executive",1.4664029090236241,7
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Design Verification Engineer",1.4509468212850711,8
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Sales Manager",1.3901598427828628,9
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Physical Design Engineer",1.3163732211127588,10
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Radio Frequency Engineer",1.271690232241273,11
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Sales Executive",1.2154061723964045,12
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Business Analyst",1.0117483836702124,13
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Jobs,"Territory Sales Manager",0.9813857755895679,14
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"SQL",-1,1
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"JavaScript",-1,2
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Sales Management",-1,3
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Business Analysis",-1,4
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"AutoCAD",-1,5
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Networking",-1,6
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"CATIA",-1,7
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Manual Testing",-1,8
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Requirements Gathering",-1,9
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Test Automation",-1,10
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Network Engineering",-1,11
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Lead Generation",-1,12
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"C (Programming Language)",-1,13
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Physical Design",-1,14
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Radio Frequency (RF)",-1,15
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"C++",-1,16
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Static Timing Analysis",-1,17
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"Universal Verification Methodology (UVM)",-1,18
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"LTE",-1,19
+2021-02-01,in,"India","All","Hardware & Networking",Top Trending Skills,"SystemVerilog",-1,20

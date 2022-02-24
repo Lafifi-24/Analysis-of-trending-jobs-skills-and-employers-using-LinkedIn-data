@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Desjardins",4.471818220788126,1
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Hydro Québec",4.159962035258523,2
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"McGill University",3.0628598017282207,3
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Université de Montréal",4.088199908637478,4
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Concordia University",3.7879252612307415,5
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"CIUSSS du Centre-Sud-de-l'Île-de-Montréal",5.71588036987872,6
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Ville de Montréal",2.5107835878437443,7
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Deloitte Canada",10.271428801534842,8
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Université du Québec à Montréal",3.6920290082424216,9
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"ubisoft-montreal",4.2307189886661245,10
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"National Bank of Canada",1.1112799599442986,11
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Ubisoft",4.717688752541992,12
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Bell",2.1077583398044304,13
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"CGI",3.000898918362042,14
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"KPMG Canada",12.030253674731158,15
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"TELUS",5.478170046164536,16
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Morgan Stanley",5.886259603745708,17
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Polytechnique Montréal",5.477258270855623,18
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Software Engineer",3.139968821357501,1
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.3164767738728393,2
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Project Associate",1.7252516918403953,3
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",1.1600381033080742,4
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Teacher",1.1414697010798553,5
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Accountant",1.0647757212930415,6
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.9992442399520397,7
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Full Stack Engineer",0.8973406337337752,8
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.7253078860075209,9
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Account Manager",0.7069418588809397,10
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Financial Analyst",0.6375943605047307,11
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Financial Advisor",0.6053461297181342,13
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Attorney",0.5742564253067404,14
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.535775912379922,15
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"General Manager",0.5305274166967247,16
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Postdoctoral Researcher",0.5159383842945685,17
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Marketing Coordinator",0.5099606509147019,18
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Account Executive",0.4885727868482993,19
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Human Resources Administrator",0.4784471501353244,20
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Time Management",-1,2
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,3
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,4
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Adobe Illustrator",-1,5
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Account Management",-1,6
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,7
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Financial Reporting",-1,8
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,9
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,10
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Team Building",-1,11
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Financial Analysis",-1,12
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Investments",-1,13
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Financial Planning",-1,14
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Requirements Gathering",-1,15
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"React.js",-1,16
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Public Speaking",-1,17
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Node.js",-1,18
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Social Media Marketing",-1,19
+2021-02-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,20

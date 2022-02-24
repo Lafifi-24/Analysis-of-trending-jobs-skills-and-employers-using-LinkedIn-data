@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Sainsbury's",4.241136176023747,1
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Tesco",2.6246442892718305,2
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Marks and Spencer",4.31002481118156,3
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Co-op",5.262220199162189,4
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Costa Coffee",7.387599801243637,5
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Morrisons",4.12432302585173,6
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Boots UK",3.8702753083502683,7
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Next",4.942523791717137,8
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Specsavers",4.236852346626869,9
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Asda",2.2876663173708063,10
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Lidl GB",5.330677355916422,11
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Harrods",5.810038585411051,12
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Waitrose & Partners",3.2616382735155747,13
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Primark",3.6739508529755236,14
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"B&Q",4.405105583878085,15
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"JD Sports Fashion plc",5.775174871340864,16
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Dixons Carphone",3.4371032086306723,17
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Selfridges",4.556577991663033,18
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Screwfix",5.775232244790868,19
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Employers,"Aldi UK",3.5889560632308104,20
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Store Manager",5.750326074250195,1
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Buyer",2.099384676391421,2
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Sales Manager",2.0530268714224373,3
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Barista",2.0225186506168327,4
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Sales Advisor",1.5509693826198854,5
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Salesperson",1.4081343254170213,6
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Merchandiser",1.3731743165814858,7
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Sales Consultant",1.3275617957559673,8
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Sales Executive",1.2387296996308599,9
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Delivery Driver",1.236750060912251,10
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Software Engineer",1.2273833794003286,11
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Account Manager",1.1309735685794604,12
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Project Manager",1.0475123835939186,13
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Warehouse Associate",1.0078121908649857,14
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Customer Advisor",0.9720640499867305,15
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Operations Manager",0.8675458494082439,16
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Business Development Manager",0.8256931697656763,17
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Brand Representative",0.7939604705182444,18
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Customer Service Representative",0.7887152659060392,19
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Jobs,"Marketing Manager",0.7793063053670393,20
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Account Management",-1,1
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Sales Management",-1,2
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"JavaScript",-1,3
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Operations Management",-1,4
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Retail",-1,5
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Stakeholder Management",-1,6
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Project Delivery",-1,7
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Store Management",-1,8
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Marketing Strategy",-1,9
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Business-to-Business (B2B)",-1,10
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Change Management",-1,11
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Digital Marketing",-1,12
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Sales Process",-1,13
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Time Management",-1,14
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Procurement",-1,15
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Merchandising",-1,16
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Barista",-1,17
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Warehouse Operations",-1,18
+2020-02-01,gb,"United Kingdom","All","Retail",Top Trending Skills,"Forklift Operation",-1,19

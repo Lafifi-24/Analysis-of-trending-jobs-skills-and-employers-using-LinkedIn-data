@@ -1,0 +1,22 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard University",2.815650165862887,1
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Northeastern University",2.716719690998414,2
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Massachusetts Institute of Technology",2.685737019196333,3
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Broad Institute of MIT and Harvard",7.672411258080674,4
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston University",2.4612306300877838,5
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Medical School",1.8861092065186915,6
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brown University",2.681654122841054,7
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"MIT Sloan School of Management",12.07846774502373,8
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Tufts University",2.834508588907803,9
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard T.H. Chan School of Public Health",5.167600803047036,10
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brandeis University",4.879685870891961,11
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Professor",6.22598133201663,1
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Postdoctoral Researcher",5.840694769055812,2
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Teacher",4.739779122407878,3
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Software Engineer",1.9899889786672706,4
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Teaching",-1,1
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Skills,"JavaScript",-1,2
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Higher Education",-1,4
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Molecular Biology",-1,5
+2020-06-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Cell Culture",-1,6

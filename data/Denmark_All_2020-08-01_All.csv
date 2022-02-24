@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Novo Nordisk",4.343490232021439,1
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Danske Bank",4.883622744144059,2
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Københavns Kommune",5.52337118264803,3
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Københavns Universitet - University of Copenhagen",4.655069447502489,4
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Aarhus University",4.2081378439995,5
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Copenhagen Business School",6.4799598913863665,6
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Aalborg University",4.910828553086013,7
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"DTU - Technical University of Denmark",4.603620551444726,8
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Forsvaret",4.941107801516321,9
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"MentorDanmark",11.475123108850063,10
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Tryg",6.385676717140175,11
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Pandora",14.224185839214426,12
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"DR - Danmarks Radio",5.582011328899916,13
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Syddansk Universitet - University of Southern Denmark",3.8901342553947984,14
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Nordea",1.5985950703335619,15
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"DSV - Global Transport and Logistics",6.572149101541902,16
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Banedanmark",6.546657897317261,17
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Jyske Bank",4.343541420627673,18
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Region Midtjylland",5.168951217859041,19
+2020-08-01,dk,"Denmark","All","All",Top Trending Employers,"Coop Danmark",4.5873606019233915,20
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Project Manager",4.11509718903916,1
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Software Engineer",1.9978121974490166,2
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Administrative Officer",1.9101663207789263,3
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Lecturer",1.8612767459338315,4
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Teacher",1.613184898334383,5
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Food Server",1.1712594152674525,6
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Sales Consultant",1.0921039878081154,7
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Sales Manager",1.0755515320775955,8
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Nurse",0.8823099945446561,9
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Salesperson",0.8756387184094683,10
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Construction Engineer",0.8666231068032451,11
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Architect",0.731085387043438,12
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Community Outreach Coordinator",0.7243552507546355,13
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Journalist",0.6927012106320876,14
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Key Account Manager",0.6720914324233727,15
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Receptionist",0.5824094695169519,16
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Postdoctoral Researcher",0.5707917172625779,17
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Electrician",0.5591263421615189,18
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Physical Therapist",0.5489145421011463,19
+2020-08-01,dk,"Denmark","All","All",Top Trending Jobs,"Financial Controller",0.5427765274775729,20
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Teaching",-1,1
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Project Planning",-1,2
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Change Management",-1,3
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Sales Management",-1,4
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"C#",-1,5
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Pedagogy",-1,7
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Account Management",-1,8
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Nursing",-1,9
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Journalism",-1,10
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Rehabilitation",-1,11
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Physical Therapy",-1,12
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Revit",-1,13
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Architectural Design",-1,14
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Online Journalism",-1,15
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Receptionist Duties",-1,16
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Electrical Wiring",-1,17
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Social Services",-1,18
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Building Information Modeling (BIM)",-1,19
+2020-08-01,dk,"Denmark","All","All",Top Trending Skills,"Molecular Biology",-1,20

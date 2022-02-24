@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-30,us,"United States","Atlanta Metropolitan Area","Education",Top Trending Employers,"Georgia Institute of Technology",1.622920489491288,1
+2020-11-30,us,"United States","Atlanta Metropolitan Area","Education",Top Trending Employers,"Emory University",1.9010215342057455,2
+2020-11-30,us,"United States","Atlanta Metropolitan Area","Education",Top Trending Jobs,"Teacher",11.947088173469593,1
+2020-11-30,us,"United States","Atlanta Metropolitan Area","Education",Top Trending Jobs,"Professor",4.989600268629457,2
+2020-11-30,us,"United States","Atlanta Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-11-30,us,"United States","Atlanta Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-11-30,us,"United States","Atlanta Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

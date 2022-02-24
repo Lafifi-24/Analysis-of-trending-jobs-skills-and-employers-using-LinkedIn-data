@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"NBCUniversal Media, LLC",4.705566547272879,1
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Spotify",5.779032384649755,2
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"The Walt Disney Company",6.218246101726338,3
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Netflix",17.043214347989164,4
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Discovery Inc",4.9726023543189966,5
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Editor",3.848534730320112,1
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Software Engineer",2.3384509915503147,2
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Writer",2.021766620028854,3
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Writing",-1,2
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Editing",-1,3
+2021-05-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Copy Editing",-1,4

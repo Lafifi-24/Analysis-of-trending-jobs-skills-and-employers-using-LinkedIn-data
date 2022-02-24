@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Philadelphia","Retail",Top Trending Employers,"Target",9.851215810416804,1
+2020-09-01,us,"United States","Greater Philadelphia","Retail",Top Trending Employers,"Burlington Stores, Inc.",6.249950984805246,2
+2020-09-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Salesperson",11.485977730964583,1
+2020-09-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Cashier",6.55213165656017,2
+2020-09-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Store Manager",3.6202110585432683,3
+2020-09-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-09-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Store Management",-1,2
+2020-09-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Time Management",-1,3
+2020-09-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Cashiering",-1,4

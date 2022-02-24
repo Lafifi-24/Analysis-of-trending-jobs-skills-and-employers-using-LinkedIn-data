@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,sg,"Singapore","All","Manufacturing",Top Trending Employers,"ST Engineering",4.359303593183948,1
+2020-02-01,sg,"Singapore","All","Manufacturing",Top Trending Employers,"Dyson",9.401433830770713,2
+2020-02-01,sg,"Singapore","All","Manufacturing",Top Trending Jobs,"Software Engineer",4.9161985364060055,1
+2020-02-01,sg,"Singapore","All","Manufacturing",Top Trending Jobs,"Sales Manager",4.2901944087866655,2
+2020-02-01,sg,"Singapore","All","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,sg,"Singapore","All","Manufacturing",Top Trending Skills,"Java",-1,2
+2020-02-01,sg,"Singapore","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3

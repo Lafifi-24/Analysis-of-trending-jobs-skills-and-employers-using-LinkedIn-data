@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Employers,"Target",3.4528536317492926,1
+2020-06-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Jobs,"Software Engineer",9.500806687294167,1
+2020-06-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Jobs,"Cashier",7.741605116252466,2
+2020-06-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Jobs,"Salesperson",6.358626903902333,3
+2020-06-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Skills,"Time Management",-1,2
+2020-06-01,us,"United States","Greater Minneapolis-St. Paul Area","Retail",Top Trending Skills,"Cashiering",-1,3

@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Employers,"United Airlines",3.8270357998111777,1
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Employers,"McDonald's",5.496776034333821,2
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Jobs,"General Manager",5.075024310574456,1
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Jobs,"Server",3.207472235176381,2
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Jobs,"Flight Attendant",3.1583506153426657,3
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Skills,"Team Building",-1,1
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Skills,"Time Management",-1,2
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Skills,"Inventory Management",-1,3
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Skills,"Flight Safety",-1,4
+2020-01-01,us,"United States","Greater Chicago Area","Recreation & Travel",Top Trending Skills,"Airlines",-1,5

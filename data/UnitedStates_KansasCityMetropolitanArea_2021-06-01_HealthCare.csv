@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Kansas City Metropolitan Area","Health Care",Top Trending Employers,"The University of Kansas Health System",3.135278289819645,1
+2021-06-01,us,"United States","Kansas City Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",4.152708822984147,1
+2021-06-01,us,"United States","Kansas City Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-06-01,us,"United States","Kansas City Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

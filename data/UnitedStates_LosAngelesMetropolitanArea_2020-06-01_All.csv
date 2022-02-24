@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Amazon",14.29220543811065,1
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Netflix",5.454862887813222,2
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Target",6.698434103327913,3
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Apple",5.193132320151531,4
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Southern California Edison (SCE)",4.469744419399005,5
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"UCLA Health",2.82842356761655,6
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"University of Southern California",2.463142933112424,7
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Edwards Lifesciences",6.094787338424279,8
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Kaiser Permanente",1.388427348528251,9
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"University of California, Los Angeles",2.6580448104322674,10
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Cedars-Sinai",3.305871352865355,11
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Amazon Web Services (AWS)",19.295802431128077,12
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"UC Irvine",4.097087590385283,13
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Riot Games",6.323405817770834,14
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Facebook",10.60879487478771,15
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Rivian",31.825088564023602,16
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Compass",5.384837283633808,17
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"PennyMac Loan Services, LLC",9.512848332728199,18
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"loanDepot",8.47250999343297,19
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Employers,"Keller Williams Realty, Inc.",3.2397173374680204,20
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.9633496803068575,1
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Nurse",1.7835950632239903,2
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",1.566058012684194,3
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.5495651791232774,4
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.064655672670942,5
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Account Executive",0.9947506873656085,6
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Writer",0.8717718225385942,7
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.8478288034594306,8
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.738272684815264,10
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Accountant",0.7024503677187008,11
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Teacher",0.6711242603032395,12
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.6624803830405549,13
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Attorney",0.659974267020408,14
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.6168381000551865,15
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",0.6042236090326423,16
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Editor",0.5953028227846393,17
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.5875069183912085,18
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Marketing Director",0.5700910444576374,19
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Jobs,"Creative Director",0.5012148652298397,20
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Writing",-1,8
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,9
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Team Building",-1,10
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Legal Writing",-1,11
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Editing",-1,12
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Adobe Creative Suite",-1,13
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,14
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Civil Litigation",-1,15
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,16
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,17
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,18
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,19
+2020-06-01,us,"United States","Los Angeles Metropolitan Area","All",Top Trending Skills,"Public Speaking",-1,20

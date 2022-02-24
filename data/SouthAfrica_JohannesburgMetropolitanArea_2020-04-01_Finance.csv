@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Employers,"Absa Group",2.5816417611077314,1
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Employers,"Standard Bank Group",2.485324881800251,2
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Employers,"Discovery Limited",4.21952679135765,3
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Employers,"FNB South Africa",1.634302721244716,4
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Employers,"Nedbank",1.4881207952869302,5
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Employers,"Liberty Group South Africa",4.906635289237526,6
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",6.179609986891432,1
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",3.018962740477943,2
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Skills,"C#",-1,2
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Skills,"Financial Planning",-1,3
+2020-04-01,za,"South Africa","Johannesburg Metropolitan Area","Finance",Top Trending Skills,"Retirement Planning",-1,4

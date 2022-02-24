@@ -1,0 +1,19 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Employers,"Desjardins",5.005385096359517,1
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Employers,"National Bank of Canada",3.9467913064294655,2
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Employers,"TD",4.243912393915441,3
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Employers,"BMO Financial Group",5.73633070277242,4
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Employers,"Caisse de dépôt et placement du Québec (CDPQ)",7.9777412838633435,5
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Employers,"iA Financial Group (Industrial Alliance)",8.154267840149164,6
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Employers,"BNP Paribas",9.71442240307338,7
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Employers,"RBC",3.055408491207012,8
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",5.814772918948064,1
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",4.016224488481506,2
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Jobs,"Customer Service Representative",3.9519921358966523,3
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Jobs,"Financial Security Advisor",2.478834422892707,4
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Skills,"Time Management",-1,2
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Skills,"Investments",-1,3
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Skills,"Financial Planning",-1,4
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Skills,"Life Insurance",-1,5
+2020-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Finance",Top Trending Skills,"Retirement Planning",-1,6

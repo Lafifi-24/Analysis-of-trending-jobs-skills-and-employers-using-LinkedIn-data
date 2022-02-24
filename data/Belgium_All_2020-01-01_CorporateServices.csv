@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,be,"Belgium","All","Corporate Services",Top Trending Employers,"Deloitte",5.931305856564081,1
+2020-01-01,be,"Belgium","All","Corporate Services",Top Trending Jobs,"Accountant",3.8106323765289294,1
+2020-01-01,be,"Belgium","All","Corporate Services",Top Trending Jobs,"Project Manager",3.539121887889803,2
+2020-01-01,be,"Belgium","All","Corporate Services",Top Trending Jobs,"Human Resources Advisor",2.4315501130051844,3
+2020-01-01,be,"Belgium","All","Corporate Services",Top Trending Skills,"Project Management",-1,1
+2020-01-01,be,"Belgium","All","Corporate Services",Top Trending Skills,"Financial Accounting",-1,2

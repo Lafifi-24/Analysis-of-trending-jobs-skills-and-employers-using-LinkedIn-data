@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Detroit Metropolitan Area","Legal",Top Trending Jobs,"Attorney",28.832786089955565,1
+2020-07-01,us,"United States","Detroit Metropolitan Area","Legal",Top Trending Jobs,"Law Clerk",28.01381413405461,2
+2020-07-01,us,"United States","Detroit Metropolitan Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-07-01,us,"United States","Detroit Metropolitan Area","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2020-07-01,us,"United States","Detroit Metropolitan Area","Legal",Top Trending Skills,"Legal Research",-1,3

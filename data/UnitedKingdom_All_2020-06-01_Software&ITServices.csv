@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Amazon",12.146091021352246,1
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Facebook",9.144928955941706,2
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",12.68833798515179,3
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Serco",7.493041772634405,4
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Microsoft",3.7799706743726436,5
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Capgemini",2.2383813952552343,6
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Accenture",1.6545795498708258,7
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"THG",8.465198904591627,8
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"DXC Technology",2.486704738796192,9
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Tata Consultancy Services",1.6937332307775717,10
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"YouTube",5.442208322898029,11
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Fiverr",10.92266347804529,12
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Twitch",18.59725587909368,13
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Uber",6.84263202896504,14
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Computacenter",2.969581887050037,15
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Deliveroo",4.169029586029717,16
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Atos",2.066293322813932,17
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Sage",3.2176621304544897,18
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"IRIS Software Group",10.210344580243017,19
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Employers,"Worldpay",3.1404472562527257,20
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Software Engineer",7.903421877798454,1
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Account Manager",2.0179572263409624,2
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Project Manager",1.9933008594357453,3
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",1.3199906323568906,4
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Product Manager",1.288459410043635,5
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Account Executive",1.2579735119627784,6
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Business Analyst",1.0565846213665184,7
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Solutions Architect",1.040385250296725,8
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Warehouse Associate",1.0146258118008538,9
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",0.9257822586827719,10
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Marketing Manager",0.9112520361169966,11
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Sales Director",0.9020777846310171,12
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Fulfillment Associate",0.7377534407041092,13
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.7336706070082651,14
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Chief Technology Officer",0.7225642580927764,15
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",0.6777364124442542,16
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Program Manager",0.6743076391415311,17
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Sales Manager",0.6616252843024757,18
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Data Scientist",0.6157696114936435,19
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Jobs,"Content Manager",0.6035286857259621,20
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Account Management",-1,1
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Sales Management",-1,2
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,3
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Business Analysis",-1,4
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Stakeholder Management",-1,5
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Project Delivery",-1,6
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Marketing Strategy",-1,7
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Business-to-Business (B2B)",-1,8
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Digital Marketing",-1,9
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,10
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Program Management",-1,11
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Product Development",-1,12
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,13
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,14
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Data Science",-1,15
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"React.js",-1,16
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"SASS",-1,17
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Node.js",-1,18
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Enterprise Architecture",-1,19
+2020-06-01,gb,"United Kingdom","All","Software & IT Services",Top Trending Skills,"Customer Relationship Management (CRM)",-1,20

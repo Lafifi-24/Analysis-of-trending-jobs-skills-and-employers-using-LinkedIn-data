@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Madison Area","Education",Top Trending Employers,"University of Wisconsin-Madison",6.67636527687872,1
+2020-08-01,us,"United States","Greater Madison Area","Education",Top Trending Jobs,"Professor",14.045500077135365,1
+2020-08-01,us,"United States","Greater Madison Area","Education",Top Trending Skills,"Higher Education",-1,1
+2020-08-01,us,"United States","Greater Madison Area","Education",Top Trending Skills,"Teaching",-1,2

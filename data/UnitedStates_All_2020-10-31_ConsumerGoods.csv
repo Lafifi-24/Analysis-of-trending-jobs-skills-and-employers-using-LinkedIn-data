@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Apple",2.5962520908316113,1
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Stitch Fix",11.578335943984479,2
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"PepsiCo",2.267106697150121,3
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Louis Vuitton",17.743324269367058,4
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"The RealReal",18.928169677358163,5
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Techtronic Industries - TTI",15.194810067082837,6
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Procter & Gamble",2.680262396437374,7
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Milwaukee Tool",13.011644864851702,8
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Athleta",11.911206226224417,9
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Vector Marketing",7.577381031291757,10
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Sysco",4.1994055866230955,11
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Southern Glazer's Wine & Spirits",3.3821530367427926,12
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Samsung Electronics America",4.437767432982649,13
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Anheuser-Busch",6.6139414808961945,14
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Forever 21",5.924359378136708,15
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"The Estée Lauder Companies Inc.",3.127266900462633,16
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"adidas",4.26092652494779,17
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Michael Kors",6.116950386785481,18
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Stanley Black & Decker, Inc.",4.210922600954365,19
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Employers,"Pampered Chef",6.69702161895087,20
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Salesperson",5.206220177267873,1
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Customer Service Representative",1.9953358530485052,2
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Sales Manager",1.8821403261398681,3
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Software Engineer",1.6490096285265647,4
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Store Manager",1.5313001888615614,5
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Account Manager",1.3511278212118063,6
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Barista",1.1468786352773561,7
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Graphic Designer",1.0837758374340953,8
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Project Manager",0.9524917717173157,9
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"General Manager",0.9509040731945476,10
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Sales Consultant",0.8708807422193442,11
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Operations Manager",0.8698445082174827,12
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Brand Representative",0.866061824341112,13
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Accountant",0.8315579728123582,14
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Sales Director",0.7764516006796557,15
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Marketing Manager",0.7681127936451957,16
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Brand Manager",0.751984554641921,17
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Merchandiser",0.708821032825171,18
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Cashier",0.6596818421696041,19
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Jobs,"Retail Salesperson",0.6572787950171747,20
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"JavaScript",-1,1
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Account Management",-1,2
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Sales Management",-1,3
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Team Building",-1,4
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Operations Management",-1,5
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Merchandising",-1,6
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Adobe Creative Suite",-1,7
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Construction Management",-1,8
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Store Management",-1,9
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Account Reconciliation",-1,10
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Sales Operations",-1,11
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Inventory Management",-1,12
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Time Management",-1,13
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"General Ledger",-1,14
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Customer Satisfaction",-1,15
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Cashiering",-1,16
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Social Media Marketing",-1,17
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Social Media",-1,18
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Barista",-1,19
+2020-10-31,us,"United States","All","Consumer Goods",Top Trending Skills,"Retail",-1,20

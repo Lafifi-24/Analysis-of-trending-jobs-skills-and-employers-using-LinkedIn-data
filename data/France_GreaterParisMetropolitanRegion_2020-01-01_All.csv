@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"BNP Paribas",2.9154237703975303,1
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Greater Paris University Hospitals - AP-HP",6.4464372451958,2
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Thales",3.6707022076891542,3
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Total",4.860089978599573,4
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Capgemini",4.526085607393322,5
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Safran",2.497409802696449,6
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Le Groupe La Poste",5.58685338735267,7
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Groupe Renault",3.467005499026416,8
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"L'Oréal",2.986289610333815,9
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"ALTEN",7.28022688298726,10
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Natixis",3.5132948739799783,11
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Bouygues Telecom",6.150679454741478,12
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"EDF",2.716401569327638,13
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"McDonald's",11.74276887192523,14
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"AXA",3.6739974789454926,15
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"RATPgroup",4.322116417127956,16
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Orange",1.833598312421282,17
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Wavestone",6.6318451914253576,18
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Hermès",7.851794927288652,19
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Employers,"Altran",6.066094861595224,20
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Project Manager",4.3374377639283646,1
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Business Manager",1.231509762570696,2
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Software Engineer",1.1528793534308446,3
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Communications Manager",1.0108266533633734,4
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Salesperson",0.9970741263301053,5
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Legal Officer",0.9005338193525251,6
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Accountant",0.8763774654590926,7
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Attorney",0.8690039087184785,8
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Product Manager",0.8015573289210827,9
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Human Resources Manager",0.7854209227099146,10
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Sales Consultant",0.7848962824265414,11
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Account Manager",0.7797642932045205,12
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"General Manager",0.7492438157523262,13
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Teacher",0.6859485910409027,14
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Sales Manager",0.6262583214544007,15
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Education Instructor",0.6147231680547003,16
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Data Scientist",0.5885090927993452,17
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Architect",0.58793897983141,18
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Key Account Manager",0.5619347448599438,19
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Jobs,"Product Owner",0.556230083427736,20
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Project Management",-1,1
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Teaching",-1,2
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Social Media",-1,3
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Litigation",-1,4
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Recruiting",-1,5
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Java",-1,6
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Legal Advice",-1,7
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Git",-1,8
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Sales Management",-1,9
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Marketing Strategy",-1,10
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Internal Communications",-1,11
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Legal Research",-1,12
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Architectural Design",-1,13
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Account Reconciliation",-1,14
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Sales Prospecting",-1,15
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Merchandising",-1,16
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Training Facilitation",-1,17
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Machine Learning",-1,18
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Agile Methodologies",-1,19
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","All",Top Trending Skills,"Scrum",-1,20

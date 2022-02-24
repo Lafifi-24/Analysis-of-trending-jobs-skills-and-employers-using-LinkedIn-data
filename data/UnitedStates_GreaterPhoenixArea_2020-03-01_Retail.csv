@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Phoenix Area","Retail",Top Trending Employers,"Sprouts Farmers Market",8.9535244037661,1
+2020-03-01,us,"United States","Greater Phoenix Area","Retail",Top Trending Jobs,"Cashier",7.511734845380202,1
+2020-03-01,us,"United States","Greater Phoenix Area","Retail",Top Trending Jobs,"Salesperson",6.231720526176404,2
+2020-03-01,us,"United States","Greater Phoenix Area","Retail",Top Trending Jobs,"Barista",6.134565191893729,3
+2020-03-01,us,"United States","Greater Phoenix Area","Retail",Top Trending Skills,"Time Management",-1,1
+2020-03-01,us,"United States","Greater Phoenix Area","Retail",Top Trending Skills,"Cashiering",-1,2
+2020-03-01,us,"United States","Greater Phoenix Area","Retail",Top Trending Skills,"Barista",-1,3

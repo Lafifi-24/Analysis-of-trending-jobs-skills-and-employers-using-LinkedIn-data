@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Employers,"The Kraft Heinz Company",6.24492727692773,1
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Employers,"Ferrara",10.083495733950746,2
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Employers,"Cresco Labs",22.891761220988275,3
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Jobs,"Salesperson",3.4092376889537404,1
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Jobs,"Sales Manager",2.526238537574884,2
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Jobs,"Account Manager",2.3167897248520886,3
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Jobs,"Brand Manager",1.9079229517659546,4
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Skills,"Account Management",-1,1
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Skills,"Sales Management",-1,2
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Skills,"Sales Operations",-1,3
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Skills,"Brand Management",-1,4
+2020-03-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Skills,"Brand Development",-1,5

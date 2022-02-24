@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Volvo Cars",1.538316546570179,1
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Saab",1.8648860168660593,2
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Scania Group",1.1133732929233757,3
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Volvo Group",1.0223245903823872,4
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Project Manager",4.003656424508329,1
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Salesperson",3.7728468065887206,2
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Software Engineer",2.739417556596934,3
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.56584263337401,4
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Project Planning",-1,2
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Git",-1,3
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Sales Management",-1,4
+2020-12-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,5

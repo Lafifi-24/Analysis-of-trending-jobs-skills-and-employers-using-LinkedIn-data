@@ -1,0 +1,56 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Capgemini",5.355381274076036,1
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Sogeti",7.245409464206332,2
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Just Eat Takeaway.com",34.490507798342115,3
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Thales",7.935755772845933,4
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Worldline Global",81.00077401892982,5
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Centric",4.913994339856545,6
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"OGD ict-diensten",8.941702717245368,7
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Microsoft",4.437576129925599,8
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"CGI Nederland",7.6904364810688355,9
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Amazon",17.31897591923199,10
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Croonwolter&dros",3.9917206084782415,11
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Catawiki",11.53492324785215,12
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Mendix",9.869669048945555,13
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",14.220638042415198,14
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Employers,"Tata Consultancy Services",2.4112439401720436,15
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Software Engineer",9.334357317363557,1
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Account Manager",3.5555924966543557,2
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Project Manager",2.4346217551433016,3
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",1.8646349881094468,4
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",1.283202230481406,5
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Customer Service Representative",1.2369780743867325,6
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Marketer",1.1405062537409199,7
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Product Owner",1.139319532010588,8
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Business Consultant",1.073483035269975,9
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Recruiter",1.0173042691751115,10
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"DevOps Engineer",1.0153443648387348,11
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Sales Manager",0.9880928947508857,12
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Business Analyst",0.9820111165392633,13
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"User Experience Designer",0.9121503195159734,14
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Data Scientist",0.8887525426717249,15
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Account Executive",0.8026025849388484,16
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Support Engineer",0.8011019799001611,17
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Web Developer",0.7942826597164372,18
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Product Manager",0.7801485576557227,19
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",0.7750825744747837,20
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Account Management",-1,1
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Scrum",-1,2
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Recruiting",-1,3
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Sales Management",-1,4
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Process Management",-1,5
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,7
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Business Analysis",-1,8
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"PHP",-1,9
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Online Marketing",-1,10
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Management Consulting",-1,11
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"React.js",-1,12
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,13
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"SASS",-1,14
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,15
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Data Science",-1,16
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Git",-1,17
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"User Experience Design (UED)",-1,18
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"DevOps",-1,19
+2020-11-01,nl,"Netherlands","All","Software & IT Services",Top Trending Skills,"Interaction Design",-1,20

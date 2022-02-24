@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Education",Top Trending Employers,"University of Johannesburg",4.34677382287003,1
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Education",Top Trending Employers,"University of the Witwatersrand",4.026280266182444,2
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Education",Top Trending Jobs,"Teacher",16.3264612460922,1
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Education",Top Trending Jobs,"Lecturer",11.378587155540147,2
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

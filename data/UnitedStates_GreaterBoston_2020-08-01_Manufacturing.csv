@@ -1,0 +1,22 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Employers,"MIT Lincoln Laboratory",4.59522131795021,1
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Employers,"United States Air Force",4.171420758611082,2
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Software Engineer",5.619527198616975,1
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"System Engineer",5.138858869938103,2
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Mechanical Engineer",3.3926775490690404,3
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Electrical Engineer",3.1006619330728786,4
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Sales Manager",2.31872735519312,5
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Project Manager",1.9323108333879915,6
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",1.8147664990376209,7
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Program Manager",1.4198686830018084,8
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Construction Management",-1,3
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Program Management",-1,4
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Sales Operations",-1,5
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,6
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Systems Engineering",-1,7
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Integration",-1,8
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,9
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,10
+2020-08-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Manufacturing Engineering",-1,11

@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-31,us,"United States","Austin, Texas Metropolitan Area","Manufacturing",Top Trending Employers,"General Motors",2.7518385396587304,1
+2020-05-31,us,"United States","Austin, Texas Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",11.85136589698965,1
+2020-05-31,us,"United States","Austin, Texas Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1

@@ -1,0 +1,29 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"KTH Royal Institute of Technology",10.484602640506852,1
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Uppsala University",6.055979219421618,2
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Lund University",6.403209272278089,3
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Karolinska Institutet",4.5023908724115245,4
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Linköping University",6.2548922450745374,5
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Internationella Engelska Skolan",12.282255180253157,6
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Chalmers University of Technology",6.244869835035314,7
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Nackademin",36.11436489686152,8
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"University of Gothenburg",4.654640194413099,9
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Umeå University",5.518139679731322,10
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"SLU - Swedish University of Agricultural Sciences",6.884116201421725,11
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Malmö University",8.16604634110369,12
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"RISE Research Institutes of Sweden",3.6070747850031295,13
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"IHM Business School",19.618572543483932,14
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Stockholm School of Economics",14.52261963811457,15
+2020-10-01,se,"Sweden","All","Education",Top Trending Employers,"Folkuniversitetet",6.741889700034831,16
+2020-10-01,se,"Sweden","All","Education",Top Trending Jobs,"Teacher",17.521240855433675,1
+2020-10-01,se,"Sweden","All","Education",Top Trending Jobs,"Postdoctoral Researcher",9.288207278296492,2
+2020-10-01,se,"Sweden","All","Education",Top Trending Jobs,"Professor",5.282088849003667,3
+2020-10-01,se,"Sweden","All","Education",Top Trending Jobs,"Lecturer",3.560348797109393,4
+2020-10-01,se,"Sweden","All","Education",Top Trending Jobs,"Project Manager",2.2318132086295113,5
+2020-10-01,se,"Sweden","All","Education",Top Trending Jobs,"Head Of Training",2.1946742167708555,6
+2020-10-01,se,"Sweden","All","Education",Top Trending Jobs,"Research Engineer",2.1123669420114477,7
+2020-10-01,se,"Sweden","All","Education",Top Trending Skills,"Project Management",-1,1
+2020-10-01,se,"Sweden","All","Education",Top Trending Skills,"Project Planning",-1,2
+2020-10-01,se,"Sweden","All","Education",Top Trending Skills,"Teaching",-1,3
+2020-10-01,se,"Sweden","All","Education",Top Trending Skills,"Pedagogy",-1,4
+2020-10-01,se,"Sweden","All","Education",Top Trending Skills,"Scientific Writing",-1,5

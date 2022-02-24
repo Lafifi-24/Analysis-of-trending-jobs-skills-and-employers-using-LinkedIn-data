@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Greater Seattle Area","Manufacturing",Top Trending Employers,"BLUE ORIGIN",5.9332012588432645,1
+2021-06-01,us,"United States","Greater Seattle Area","Manufacturing",Top Trending Employers,"Boeing",0.39611740497350845,2
+2021-06-01,us,"United States","Greater Seattle Area","Manufacturing",Top Trending Employers,"SpaceX",11.005963570288415,3
+2021-06-01,us,"United States","Greater Seattle Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.945476386388642,1
+2021-06-01,us,"United States","Greater Seattle Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1

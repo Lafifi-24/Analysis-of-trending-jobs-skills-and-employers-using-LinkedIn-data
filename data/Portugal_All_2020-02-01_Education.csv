@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,pt,"Portugal","All","Education",Top Trending Employers,"Instituto Superior Técnico",6.6228961030855515,1
+2020-02-01,pt,"Portugal","All","Education",Top Trending Jobs,"Teacher",16.403575155878336,1
+2020-02-01,pt,"Portugal","All","Education",Top Trending Jobs,"Professor",13.913902388497817,2
+2020-02-01,pt,"Portugal","All","Education",Top Trending Jobs,"Lecturer",5.7195958960218025,3
+2020-02-01,pt,"Portugal","All","Education",Top Trending Jobs,"Postdoctoral Researcher",5.421405607290536,4
+2020-02-01,pt,"Portugal","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,pt,"Portugal","All","Education",Top Trending Skills,"Higher Education",-1,2
+2020-02-01,pt,"Portugal","All","Education",Top Trending Skills,"Research",-1,3

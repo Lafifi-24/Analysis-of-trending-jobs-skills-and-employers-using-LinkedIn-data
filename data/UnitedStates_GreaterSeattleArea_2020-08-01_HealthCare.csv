@@ -1,0 +1,22 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seattle Children's",3.97784513244574,1
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Swedish",4.7016560274574,2
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Bristol Myers Squibb",19.287610488998947,3
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"MultiCare Health System",4.791775487456594,4
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"University of Washington Medical Center",6.511688780494176,5
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seagen",7.412922781526469,6
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Virginia Mason Medical Center",5.045879498927648,7
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Providence Health & Services",3.1606505729304892,8
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"UW Medicine",4.463298954932699,9
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"The Everett Clinic",12.654370677141719,10
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seattle Cancer Care Alliance",5.705089152622037,11
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"EvergreenHealth",5.994127107583991,12
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Overlake Medical Center & Clinics",7.021205367314272,13
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Kaiser Permanente",2.4168987910473154,14
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"The Polyclinic",10.61313193683298,15
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Nurse",8.757255710903031,1
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Software Engineer",1.6534324537532525,2
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Medical Doctor",1.5254660449355555,3
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-08-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,3

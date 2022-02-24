@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Employers,"Roku Inc.",9.21433288537116,1
+2021-06-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Employers,"Netflix",2.84343910059749,2
+2021-06-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Jobs,"Software Engineer",11.398729426291416,1
+2021-06-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Skills,"JavaScript",-1,1

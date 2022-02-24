@@ -1,0 +1,52 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Amazon",10.428826649592356,1
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Facebook",10.179738895291015,2
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",12.914669762203223,3
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Accenture",2.7375700763862,4
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"ASOS.com",5.81422022631457,5
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Expedia Group",7.182860452602421,6
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Capgemini",4.240958096050386,7
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Deliveroo",10.91664742829718,8
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Microsoft",5.091970783781161,9
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Visa",6.289294501295732,10
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Skyscanner",27.93509855719404,11
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Employers,"Thomson Reuters",3.847468754402404,12
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Software Engineer",7.080940630265585,1
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Account Manager",2.1407739558597543,2
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Project Manager",1.720397199843781,3
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Account Executive",1.701115624419492,4
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Business Development Manager",1.5477639008251105,5
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.5196351238297356,6
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Solutions Architect",1.5058925779542456,7
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Product Manager",1.4090464669502436,8
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Sales Director",1.2671886285223566,9
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Data Scientist",1.2632290758018245,10
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Marketing Manager",1.1989561449785295,11
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Business Analyst",1.1149866904930825,12
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Data Engineer",0.8475589181434653,13
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Recruiter",0.7972962450134377,15
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Sales Manager",0.7571894392830302,16
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Program Manager",0.6974491643291604,17
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Business Development Representative",0.6760154593447333,18
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Account Director",0.6499326714491811,19
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.6265329220977831,20
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Account Management",-1,1
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Sales Management",-1,2
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"JavaScript",-1,3
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Business Analysis",-1,4
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Stakeholder Management",-1,5
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Project Delivery",-1,6
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Marketing Strategy",-1,7
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Business-to-Business (B2B)",-1,8
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Digital Marketing",-1,9
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,10
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Program Management",-1,11
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Recruiting",-1,12
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Product Development",-1,13
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,14
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Machine Learning",-1,15
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Strategy",-1,16
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Data Science",-1,17
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"React.js",-1,18
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Change Management",-1,19
+2020-01-01,gb,"United Kingdom","London Area, United Kingdom","Software & IT Services",Top Trending Skills,"Node.js",-1,20

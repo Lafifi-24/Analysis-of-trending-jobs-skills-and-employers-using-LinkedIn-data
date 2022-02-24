@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",7.9344265127087725,1
+2020-11-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Agent",22.69403214410179,1
+2020-11-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Broker",13.116846112961172,2
+2020-11-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Broker Associate",5.246799561568735,3
+2020-11-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Jobs,"Property Manager",4.312464349142984,4
+2020-11-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-11-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-11-01,us,"United States","Denver Metropolitan Area","Real Estate",Top Trending Skills,"Property Management",-1,3

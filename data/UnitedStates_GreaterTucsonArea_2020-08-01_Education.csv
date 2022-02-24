@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Tucson Area","Education",Top Trending Employers,"University of Arizona",4.520066832605791,1
+2020-08-01,us,"United States","Greater Tucson Area","Education",Top Trending Jobs,"Teacher",11.061495346348673,1
+2020-08-01,us,"United States","Greater Tucson Area","Education",Top Trending Jobs,"Professor",10.874607245375019,2
+2020-08-01,us,"United States","Greater Tucson Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","Greater Tucson Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-08-01,us,"United States","Greater Tucson Area","Education",Top Trending Skills,"Higher Education",-1,3

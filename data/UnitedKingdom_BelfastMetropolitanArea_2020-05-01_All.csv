@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,gb,"United Kingdom","Belfast Metropolitan Area","All",Top Trending Employers,"Citi",4.926485559060525,1
+2020-05-01,gb,"United Kingdom","Belfast Metropolitan Area","All",Top Trending Jobs,"Software Engineer",6.459515746176122,1
+2020-05-01,gb,"United Kingdom","Belfast Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1

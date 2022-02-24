@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Omaha Metropolitan Area","Education",Top Trending Employers,"University of Nebraska Medical Center",5.106044968953864,1
+2020-09-01,us,"United States","Omaha Metropolitan Area","Education",Top Trending Employers,"University of Nebraska at Omaha",6.828451887338688,2
+2020-09-01,us,"United States","Omaha Metropolitan Area","Education",Top Trending Employers,"Creighton University",6.506345601415712,3
+2020-09-01,us,"United States","Omaha Metropolitan Area","Education",Top Trending Jobs,"Teacher",14.54057671522314,1
+2020-09-01,us,"United States","Omaha Metropolitan Area","Education",Top Trending Jobs,"Professor",12.924734373256493,2
+2020-09-01,us,"United States","Omaha Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Omaha Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,us,"United States","Omaha Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

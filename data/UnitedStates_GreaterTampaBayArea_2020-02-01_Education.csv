@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Tampa Bay Area","Education",Top Trending Employers,"University of South Florida",4.583460605394886,1
+2020-02-01,us,"United States","Greater Tampa Bay Area","Education",Top Trending Employers,"Hillsborough County Public Schools",3.2983556166585166,2
+2020-02-01,us,"United States","Greater Tampa Bay Area","Education",Top Trending Jobs,"Teacher",13.773297244183352,1
+2020-02-01,us,"United States","Greater Tampa Bay Area","Education",Top Trending Jobs,"Professor",10.232191847048624,2
+2020-02-01,us,"United States","Greater Tampa Bay Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Greater Tampa Bay Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-02-01,us,"United States","Greater Tampa Bay Area","Education",Top Trending Skills,"Higher Education",-1,3

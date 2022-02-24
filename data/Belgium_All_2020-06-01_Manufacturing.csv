@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Project Manager",3.1097360885074985,1
+2020-06-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Project Engineer",2.798206659928933,2
+2020-06-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Account Manager",2.439215633352404,3
+2020-06-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.4224158210240274,4
+2020-06-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-06-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2020-06-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2020-06-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,4
+2020-06-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Project Engineering",-1,5

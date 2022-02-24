@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,it,"Italy","All","Design",Top Trending Jobs,"Architect",21.99834205273012,1
+2020-01-01,it,"Italy","All","Design",Top Trending Jobs,"Graphic Designer",6.032866869567726,2
+2020-01-01,it,"Italy","All","Design",Top Trending Skills,"Architectural Design",-1,1
+2020-01-01,it,"Italy","All","Design",Top Trending Skills,"Adobe Illustrator",-1,2
+2020-01-01,it,"Italy","All","Design",Top Trending Skills,"Graphics",-1,3

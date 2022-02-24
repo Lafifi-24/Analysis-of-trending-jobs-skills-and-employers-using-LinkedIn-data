@@ -1,0 +1,25 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Swedbank",5.066425885826524,1
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Klarna",11.989466923096117,2
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"SEB",4.167156225403582,3
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Länsförsäkringar",3.465580519143304,4
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Nordea",1.622235028775372,5
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Folksam",4.322847229664705,6
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Söderberg & Partners",6.832151421528709,7
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Nordnet Bank AB",11.705072950639222,8
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Danske Bank",5.0853660782878,9
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Skandia",4.145712709629901,10
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"iZettle",10.629370260543347,11
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"If Insurance",3.2973670143069693,12
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"Trustly",13.435729799117786,13
+2020-10-01,se,"Sweden","All","Finance",Top Trending Employers,"SBAB",6.390487680745731,14
+2020-10-01,se,"Sweden","All","Finance",Top Trending Jobs,"Software Engineer",6.120282703894262,1
+2020-10-01,se,"Sweden","All","Finance",Top Trending Jobs,"Financial Advisor",3.6547821354171726,2
+2020-10-01,se,"Sweden","All","Finance",Top Trending Jobs,"Customer Advisor",2.4887079637317915,3
+2020-10-01,se,"Sweden","All","Finance",Top Trending Jobs,"Financial Representative",2.1447716616882486,4
+2020-10-01,se,"Sweden","All","Finance",Top Trending Jobs,"Anti-Money Laundering Analyst",1.745092301880952,5
+2020-10-01,se,"Sweden","All","Finance",Top Trending Jobs,"System Developer",1.579935468823527,6
+2020-10-01,se,"Sweden","All","Finance",Top Trending Skills,"Git",-1,1
+2020-10-01,se,"Sweden","All","Finance",Top Trending Skills,"C#",-1,2
+2020-10-01,se,"Sweden","All","Finance",Top Trending Skills,".NET Framework",-1,3
+2020-10-01,se,"Sweden","All","Finance",Top Trending Skills,"Insurance",-1,4

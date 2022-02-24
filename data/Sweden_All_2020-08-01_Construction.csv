@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,se,"Sweden","All","Construction",Top Trending Jobs,"Project Manager",11.436071838794993,1
+2020-08-01,se,"Sweden","All","Construction",Top Trending Jobs,"Project Engineer",4.401717946990443,2
+2020-08-01,se,"Sweden","All","Construction",Top Trending Jobs,"Salesperson",4.113172177248963,3
+2020-08-01,se,"Sweden","All","Construction",Top Trending Jobs,"Location Manager",3.7933100075123174,4
+2020-08-01,se,"Sweden","All","Construction",Top Trending Skills,"Project Management",-1,1
+2020-08-01,se,"Sweden","All","Construction",Top Trending Skills,"Project Planning",-1,2
+2020-08-01,se,"Sweden","All","Construction",Top Trending Skills,"Business-to-Business (B2B)",-1,3
+2020-08-01,se,"Sweden","All","Construction",Top Trending Skills,"Project Engineering",-1,4

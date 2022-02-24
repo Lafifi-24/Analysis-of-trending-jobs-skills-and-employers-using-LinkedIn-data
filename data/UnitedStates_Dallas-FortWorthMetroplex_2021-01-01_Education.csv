@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Employers,"University of North Texas",2.4255673646782463,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Employers,"The University of Texas at Arlington",2.8270449837163985,2
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Employers,"The University of Texas at Dallas",1.9990754368554384,3
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Jobs,"Teacher",19.202316474497874,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Jobs,"Professor",7.489691896833437,2
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Higher Education",-1,3

@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"UT Southwestern Medical Center",2.4025535151447883,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Baylor Scott & White Health",2.606256698178761,2
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Texas Health Resources",2.4916078025809267,3
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Parkland Hospital",2.712955027075338,4
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"McKesson",3.4407476268002752,5
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Methodist Health System",4.099502344983331,6
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Jobs,"Nurse",6.5141662276983325,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-01-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

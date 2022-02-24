@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Jobs,"Teacher",12.260310097233267,1
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Jobs,"Professor",5.83466028566183,2
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-01-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Skills,"Higher Education",-1,3

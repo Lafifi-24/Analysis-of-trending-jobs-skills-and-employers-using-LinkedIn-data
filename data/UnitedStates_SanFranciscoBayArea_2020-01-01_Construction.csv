@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","San Francisco Bay Area","Construction",Top Trending Jobs,"Project Manager",16.735896807384226,1
+2020-01-01,us,"United States","San Francisco Bay Area","Construction",Top Trending Jobs,"Project Engineer",11.796135602454093,2
+2020-01-01,us,"United States","San Francisco Bay Area","Construction",Top Trending Skills,"Construction Management",-1,1

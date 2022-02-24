@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Accenture",10.895549857363513,1
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Health Service Executive",6.132308489084077,2
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Microsoft",7.164017216937099,3
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Amazon Web Services (AWS)",6.3350265478236025,4
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"HubSpot",13.343088202180445,5
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Eli Lilly and Company",8.16261953104968,6
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"AIB",2.208439751929632,7
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Apple",3.2516719712068682,8
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Facebook",4.034678993490231,9
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Boston Scientific",5.138712049252262,10
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Regeneron",6.834318675594631,11
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Abbott",5.536150026310128,12
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"PFH Technology Group",34.71286626008192,13
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Infosys BPM",18.787474360893164,14
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Pinterest",35.34644918451414,15
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Infosys",22.516461395354447,16
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Zendesk",14.335013298295262,17
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"IQVIA",22.008038526950095,18
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"Bank of Ireland",1.7685145306019838,19
+2021-05-01,ie,"Ireland","All","All",Top Trending Employers,"University College Dublin",2.6520658063792615,20
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Software Engineer",3.4068671311272167,1
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Project Manager",1.7564123450405331,2
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Account Executive",1.7433325350428346,3
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Customer Service Representative",1.2624520223113733,4
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Account Manager",1.1086721731279237,5
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Clerical Officer",0.9012032612141622,6
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Sales Development Representative",0.8392789918998556,7
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Business Development Manager",0.7464780951304505,8
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Business Development Representative",0.7368859035779611,9
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Business Analyst",0.7295250411899108,10
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Salesperson",0.7210122992837439,11
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Process Executive",0.6828812085440733,12
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Data Analyst",0.664371849605297,13
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Recruiter",0.6531920439515063,14
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Sales Manager",0.6191447982152998,15
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Accountant",0.5888204004411142,16
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Sales Executive",0.5682348717424439,17
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Marketing Executive",0.5482557209823901,18
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Operations Manager",0.5416451253120529,19
+2021-05-01,ie,"Ireland","All","All",Top Trending Jobs,"Quality Control Analyst",0.5235637897408695,20
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Project Management",-1,1
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"JavaScript",-1,2
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Account Management",-1,3
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Sales Management",-1,4
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Project Planning",-1,5
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Financial Reporting",-1,6
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Financial Accounting",-1,7
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Time Management",-1,8
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Business Analysis",-1,9
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Customer Relationship Management (CRM)",-1,10
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Data Analysis",-1,11
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Operations Management",-1,12
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Customer Satisfaction",-1,13
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Social Media Marketing",-1,14
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Digital Marketing",-1,15
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Tableau",-1,16
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Change Management",-1,17
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Requirements Gathering",-1,18
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"High-Performance Liquid Chromatography (HPLC)",-1,19
+2021-05-01,ie,"Ireland","All","All",Top Trending Skills,"Salesforce.com",-1,20

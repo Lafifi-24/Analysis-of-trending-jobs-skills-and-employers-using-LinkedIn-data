@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Indianapolis","Education",Top Trending Employers,"Indiana University–Purdue University Indianapolis",7.163624744724885,1
+2020-10-01,us,"United States","Greater Indianapolis","Education",Top Trending Employers,"Ball State University",6.148543470036485,2
+2020-10-01,us,"United States","Greater Indianapolis","Education",Top Trending Employers,"Covance",6.911037280000255,3
+2020-10-01,us,"United States","Greater Indianapolis","Education",Top Trending Employers,"Indiana University School of Medicine",3.0831596921974973,4
+2020-10-01,us,"United States","Greater Indianapolis","Education",Top Trending Jobs,"Teacher",11.072305912313436,1
+2020-10-01,us,"United States","Greater Indianapolis","Education",Top Trending Jobs,"Professor",9.080044096544345,2
+2020-10-01,us,"United States","Greater Indianapolis","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Greater Indianapolis","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-10-01,us,"United States","Greater Indianapolis","Education",Top Trending Skills,"Higher Education",-1,3

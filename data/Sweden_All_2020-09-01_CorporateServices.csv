@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Employers,"KPMG Sweden",9.404651515589354,1
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Employers,"Deloitte",7.799739776247719,2
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Audit Associate",10.698638846398296,1
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Management Consultant",4.38157909407303,2
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Project Manager",3.141398533408986,3
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Project Management",-1,1
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Project Planning",-1,2
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Change Management",-1,3
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Management Consulting",-1,4
+2020-09-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Auditing",-1,5

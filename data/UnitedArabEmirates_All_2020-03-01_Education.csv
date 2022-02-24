@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,ae,"United Arab Emirates","All","Education",Top Trending Employers,"GEMS Education",3.082085336851555,1
+2020-03-01,ae,"United Arab Emirates","All","Education",Top Trending Jobs,"Professor",8.219243768760789,1
+2020-03-01,ae,"United Arab Emirates","All","Education",Top Trending Jobs,"Teacher",7.390139804924546,2
+2020-03-01,ae,"United Arab Emirates","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,ae,"United Arab Emirates","All","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-03-01,ae,"United Arab Emirates","All","Education",Top Trending Skills,"Higher Education",-1,3

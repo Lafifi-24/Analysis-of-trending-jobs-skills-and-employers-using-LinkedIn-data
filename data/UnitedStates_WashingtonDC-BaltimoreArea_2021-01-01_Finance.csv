@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Employers,"Capital One",2.0890193804984096,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Employers,"Freddie Mac",2.5370459688339153,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Employers,"T. Rowe Price",1.7077462552126395,3
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Employers,"Morgan Stanley",3.339510669251485,4
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Employers,"Navy Federal Credit Union",1.885137332416251,5
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Jobs,"Software Engineer",4.431039647448015,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Jobs,"Mortgage Loan Officer",3.2533505987667626,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Jobs,"Credit Analyst",1.8097168106766288,3
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Finance",Top Trending Skills,"Mortgage Lending",-1,2

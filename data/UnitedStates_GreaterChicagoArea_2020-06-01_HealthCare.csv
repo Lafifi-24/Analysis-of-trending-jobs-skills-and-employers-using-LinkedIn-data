@@ -1,0 +1,28 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"AbbVie",4.8160167899757775,1
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"AMITA Health",6.964720145985274,2
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Rush University Medical Center",3.9980401244584614,3
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Medline Industries, Inc.",5.789787883341653,4
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Northwestern Medicine",2.9756655588510204,5
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Abbott",3.5804867171310226,6
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"UChicago Medicine",3.6484447907718756,7
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Tempus Labs, Inc.",14.322846479460116,8
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Northwestern Memorial Hospital",2.915968505755023,9
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Baxter International Inc.",4.140268577123437,10
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"GE Healthcare",7.269817390829826,11
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Ann & Robert H. Lurie Children's Hospital of Chicago",2.36239940888562,12
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"UI Health",5.409555777325204,13
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Astellas Pharma US",4.400350125389493,14
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Nurse",8.772755754256965,1
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Medical Doctor",1.368987881183272,2
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Medical Resident",1.318447096128097,3
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Software Engineer",1.3146867565144529,4
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Pharmacy Technician",1.2970352727156873,5
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Patient Care Technician",1.2748064397171865,6
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Pharmacy",-1,3
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Pharmacy Technicians",-1,4
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,5
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,6
+2020-06-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Clinical Pharmacy",-1,7

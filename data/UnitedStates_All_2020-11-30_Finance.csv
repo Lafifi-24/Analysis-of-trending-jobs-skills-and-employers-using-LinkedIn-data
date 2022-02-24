@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"JPMorgan Chase & Co.",2.269503286483819,1
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Wells Fargo",1.0801061852309277,2
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Fidelity Investments",3.955971591924855,3
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Northwestern Mutual",5.449530305179455,4
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Citi",2.639568827979684,5
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"New York Life Insurance Company",5.452697337848201,6
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Morgan Stanley",3.1652851023027493,7
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"State Farm ®",2.4165372870363626,8
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Charles Schwab",4.1186710590592455,9
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"KPMG US",3.251703054988982,10
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Capital One",1.7498051768990175,11
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"U.S. Bank",1.9333381073079674,12
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Guaranteed Rate",13.244211853441957,13
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Farmers Insurance",3.395546416302777,14
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"loanDepot",11.390755085097348,15
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"PNC",2.1283126815959634,16
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Allstate",2.221226808460756,17
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Anthem, Inc.",2.8921672100399256,18
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Freedom Mortgage",11.131232995366839,19
+2020-11-30,us,"United States","All","Finance",Top Trending Employers,"Caliber Home Loans, Inc.",8.535697169636347,20
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Software Engineer",3.2753553494950722,1
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Mortgage Loan Officer",2.9523160902078636,2
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Insurance Agent",2.5139500272691078,3
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Customer Service Representative",2.45560721000434,4
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Financial Advisor",2.4477541211303966,5
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Underwriter",1.9220262519904112,6
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Account Executive",1.6176165807758467,7
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Account Manager",1.5186044183235101,8
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Loan Officer",1.2027798107411765,9
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Mortgage Loan Originator",1.1309063005933573,10
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Financial Representative",0.9721796454925782,11
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Financial Analyst",0.971615022952305,12
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Investment Analyst",0.8912220684150358,13
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Business Analyst",0.8506588708633227,14
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Accountant",0.8041648682711015,15
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Banker",0.7632701015862696,16
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Bank Teller",0.7477069926716235,17
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Relationship Banker",0.7309842461399366,18
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Relationship Manager",0.6816035960607915,19
+2020-11-30,us,"United States","All","Finance",Top Trending Jobs,"Credit Analyst",0.642392448660162,20
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Account Management",-1,2
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Account Reconciliation",-1,3
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Business Analysis",-1,4
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Financial Analysis",-1,5
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"General Ledger",-1,6
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Customer Satisfaction",-1,7
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Financial Reporting",-1,8
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,9
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Retirement Planning",-1,10
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Investments",-1,11
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Life Insurance",-1,12
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,13
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Underwriting",-1,14
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Mortgage Lending",-1,15
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Insurance",-1,16
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Business Relationship Management",-1,17
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Cash Handling",-1,18
+2020-11-30,us,"United States","All","Finance",Top Trending Skills,"Financial Modeling",-1,19

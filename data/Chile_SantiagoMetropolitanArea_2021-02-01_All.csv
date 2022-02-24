@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"walmart-chile-corp",7.166638124992622,1
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Globant",13.587572700892316,2
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"WOM Chile",8.865879840114607,3
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Entel",3.487413799951956,4
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Deloitte",6.138620235509146,5
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Cencosud S.A.",4.5288614406372565,6
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Banco Bci",3.042994407481665,7
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"redsaludcchc",10.48981698560412,8
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Falabella Retail",4.570816170437722,9
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"everis",6.994277458813998,10
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Itaú",5.363379748602307,11
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"mercadolibre",16.516770564334216,12
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"ACHS",5.293286293521866,13
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Ripley Chile",5.673602013723661,14
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"CODELCO – Corporación Nacional del Cobre de Chile",6.152021131040952,15
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Banco BICE",8.73373978004874,16
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Clinica Alemana de Santiago",6.937892025136799,17
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"Universidad de Chile",1.7380380331647465,18
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Employers,"BancoEstado",4.452930109793694,19
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.966729532391003,1
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Nurse",2.245946347254872,2
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.7720807988769067,3
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Attorney",1.7228674724012023,4
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Commercial Associate",1.5891969935497154,5
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Project Engineer",1.5775521737891232,6
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Full Stack Engineer",1.3415421157950667,7
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Sales Executive",1.3400224409444053,8
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Product Manager",1.3083273309987442,9
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Journalist",1.2085739348993558,10
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Law Clerk",1.2085099790659455,11
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Key Account Manager",1.1150425531439851,12
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Kinesiologist",1.0077806301088632,13
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Dentist",0.9183041224553317,14
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Professor",0.8948426748040839,15
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Assignment Manager",0.8942234227303926,16
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Community Manager",0.8848942533736306,17
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Salesperson",0.858372883380109,18
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Medical Technologist",0.8049141616715598,19
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Jobs,"Frontend Developer",0.8035464913475777,20
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Legal Advice",-1,2
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Team Leadership",-1,3
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Litigation",-1,4
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,5
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Negotiation",-1,6
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Microsoft Project",-1,7
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"MySQL",-1,8
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Nursing",-1,9
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Journalism",-1,10
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Rehabilitation",-1,11
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Dentistry",-1,12
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Physical Therapy",-1,13
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Digital Marketing",-1,14
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Node.js",-1,15
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Hospitals",-1,16
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"Clinical Research",-1,17
+2021-02-01,cl,"Chile","Santiago Metropolitan Area","All",Top Trending Skills,"React.js",-1,18

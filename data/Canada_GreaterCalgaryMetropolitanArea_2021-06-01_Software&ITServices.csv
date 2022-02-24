@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,ca,"Canada","Greater Calgary Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",12.198458447859087,1
+2021-06-01,ca,"Canada","Greater Calgary Metropolitan Area","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",4.333447220161324,2
+2021-06-01,ca,"Canada","Greater Calgary Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,ca,"Canada","Greater Calgary Metropolitan Area","Software & IT Services",Top Trending Skills,"React.js",-1,2
+2021-06-01,ca,"Canada","Greater Calgary Metropolitan Area","Software & IT Services",Top Trending Skills,"Node.js",-1,3

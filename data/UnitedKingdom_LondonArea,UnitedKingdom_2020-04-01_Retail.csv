@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,gb,"United Kingdom","London Area, United Kingdom","Retail",Top Trending Employers,"Sainsbury's",5.327580579129814,1
+2020-04-01,gb,"United Kingdom","London Area, United Kingdom","Retail",Top Trending Employers,"Tesco",6.015965831729756,2
+2020-04-01,gb,"United Kingdom","London Area, United Kingdom","Retail",Top Trending Employers,"Marks and Spencer",3.2915929381473767,3
+2020-04-01,gb,"United Kingdom","London Area, United Kingdom","Retail",Top Trending Jobs,"Store Manager",3.252452675397365,1
+2020-04-01,gb,"United Kingdom","London Area, United Kingdom","Retail",Top Trending Jobs,"Software Engineer",2.9748214713417385,2
+2020-04-01,gb,"United Kingdom","London Area, United Kingdom","Retail",Top Trending Skills,"JavaScript",-1,1
+2020-04-01,gb,"United Kingdom","London Area, United Kingdom","Retail",Top Trending Skills,"Retail",-1,2
+2020-04-01,gb,"United Kingdom","London Area, United Kingdom","Retail",Top Trending Skills,"Store Management",-1,3

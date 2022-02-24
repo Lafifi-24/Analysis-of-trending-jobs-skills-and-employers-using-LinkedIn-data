@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","New York City Metropolitan Area","Legal",Top Trending Jobs,"Attorney",22.637748496360356,1
+2020-02-01,us,"United States","New York City Metropolitan Area","Legal",Top Trending Jobs,"Paralegal",12.938083858609367,2
+2020-02-01,us,"United States","New York City Metropolitan Area","Legal",Top Trending Jobs,"Legal Associate",6.115814385058617,3
+2020-02-01,us,"United States","New York City Metropolitan Area","Legal",Top Trending Jobs,"Lawyer",5.9257941671491965,4
+2020-02-01,us,"United States","New York City Metropolitan Area","Legal",Top Trending Jobs,"Law Clerk",2.571863866616989,5
+2020-02-01,us,"United States","New York City Metropolitan Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-02-01,us,"United States","New York City Metropolitan Area","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2020-02-01,us,"United States","New York City Metropolitan Area","Legal",Top Trending Skills,"Legal Research",-1,3

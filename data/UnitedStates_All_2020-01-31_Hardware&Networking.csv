@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Comcast",3.0702938395778583,1
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Intel Corporation",2.525078273593094,2
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Charter Communications",3.6039061496841045,3
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Qualcomm",3.6746996402429497,4
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"NVIDIA",6.473538639591185,5
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Sprint",2.801368740198567,6
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Comcast Business",4.44355369677231,7
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Micron Technology",3.799959692340055,8
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"AMD",6.537763469810574,9
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Cox Communications",3.032475497838232,10
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Motorola Solutions",3.9465934842770687,11
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"NXP Semiconductors",6.276774152685788,12
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Lam Research",5.599006856407746,13
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Juniper Networks",5.259513257894076,14
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Crown Castle",4.005047507858905,15
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Frontier Communications",3.049230505823925,16
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Windstream",2.762848425050367,17
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Texas Instruments",2.1905781394165524,18
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"Viasat Inc.",3.7467075944314447,19
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Employers,"CommScope",3.820503386785283,20
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Software Engineer",5.43855596056034,1
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Account Manager",2.597984661245677,2
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Project Manager",2.342311544827887,3
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Account Executive",2.0342362138765786,4
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Customer Service Representative",1.5875239875722698,5
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Sales Manager",1.4001669174336977,6
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Process Engineer",1.314939256703591,7
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Salesperson",1.2595444157820705,8
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Business Account Executive",1.0096622580857462,9
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"System Engineer",1.0079246548126175,10
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Program Manager",1.0064915656767963,11
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Sales Consultant",1.00033681446997,12
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Network Engineer",0.943368941013346,13
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Design Engineer",0.9340041806638978,14
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Retail Sales Consultant",0.9169679871988164,15
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Sales Director",0.9120488238376798,16
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Store Manager",0.8985903510048265,17
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Business Development Manager",0.7567081409349607,18
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Accountant",0.6880784629334916,19
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Jobs,"Product Manager",0.6806478744506301,20
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Account Management",-1,2
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Sales Management",-1,3
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Merchandising",-1,4
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Construction Management",-1,5
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Store Management",-1,6
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Program Management",-1,7
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Account Reconciliation",-1,8
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Sales Operations",-1,9
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"General Ledger",-1,10
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Customer Satisfaction",-1,11
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Cross-functional Team Leadership",-1,12
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Systems Engineering",-1,13
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Agile Methodologies",-1,14
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Integration",-1,15
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Cisco Systems Products",-1,16
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Process Engineering",-1,17
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Network Engineering",-1,18
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"SOLIDWORKS",-1,19
+2020-01-31,us,"United States","All","Hardware & Networking",Top Trending Skills,"Computer-Aided Design (CAD)",-1,20

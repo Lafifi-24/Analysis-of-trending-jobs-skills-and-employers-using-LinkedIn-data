@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Swedbank",6.842714565676307,1
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Volvo Cars",3.193800342621552,2
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Saab",4.399813053264788,3
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Ericsson",2.4859000456600358,4
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Stockholms stad",4.095732122528055,5
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"SEB",4.460090750981483,6
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Klarna",14.5927963798861,7
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Swedish Police Authority",5.401155344982618,8
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Länsförsäkringar",5.504292808229119,9
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Försäkringskassan",4.868594570377176,10
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"ICA Gruppen",6.624655968395212,11
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Avarn Security Sverige",24.753921339386483,12
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Trafikverket",4.34601020898306,13
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Scania Group",2.7145129275306585,14
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Spotify",9.442502969300602,15
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Göteborgs Stad",3.6219324681707006,16
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Malmö stad",3.6210661741509926,17
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"RISE Research Institutes of Sweden",7.956660936951717,18
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Uppsala University",4.039054803436393,19
+2020-02-01,se,"Sweden","All","All",Top Trending Employers,"Volvo Group",2.54203470342234,20
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Project Manager",4.602198821017662,1
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Software Engineer",3.035475204744091,2
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Salesperson",2.751990641664985,3
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Teacher",1.7186538065270662,4
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Sales Manager",1.3776251490539735,5
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Nurse",1.144531357095331,6
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Account Manager",1.1320544198474616,7
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"System Developer",1.1201759673626837,8
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Key Account Manager",1.0106374727883611,9
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Order Processor",0.8576036029647833,10
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Information Technology Consultant",0.6455622406839469,11
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Financial Accountant",0.6387807007397437,12
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Postdoctoral Researcher",0.6147919069313621,13
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Business Controller",0.5887636199596504,14
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Accountant",0.5854082278612587,15
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Product Manager",0.5763113358912054,16
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Location Manager",0.5353041265098625,17
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Chief Financial Officer",0.5263655998128204,18
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Frontend Developer",0.4802713703207995,19
+2020-02-01,se,"Sweden","All","All",Top Trending Jobs,"Receptionist",0.4589305542649868,20
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Project Management",-1,1
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Project Planning",-1,2
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Teaching",-1,3
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Git",-1,4
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"C#",-1,7
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,".NET Framework",-1,8
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Sales Process",-1,9
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Product Development",-1,10
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Pedagogy",-1,11
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Active Directory",-1,12
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Financial Reporting",-1,13
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"React.js",-1,14
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Receptionist Duties",-1,15
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Scrum",-1,16
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Accounts Payable",-1,17
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Forecasting",-1,18
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Front Office",-1,19
+2020-02-01,se,"Sweden","All","All",Top Trending Skills,"Scientific Writing",-1,20

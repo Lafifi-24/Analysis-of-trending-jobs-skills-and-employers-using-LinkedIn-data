@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"Vanguard",1.6857674625217594,1
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"New York Life Insurance Company",40.44757778341566,2
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"JPMorgan Chase & Co.",1.389515084014222,3
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"Freedom Mortgage",4.4338717886268055,4
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"Citi",4.899736327954095,5
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Jobs,"Software Engineer",2.898311727991691,1
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Jobs,"Financial Advisor",2.74339093827708,2
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Jobs,"Underwriter",2.2905554648915194,3
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Retirement Planning",-1,2
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Investments",-1,3
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Underwriting",-1,4
+2021-02-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Insurance",-1,5

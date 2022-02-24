@@ -1,0 +1,38 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Employers,"University of Cape Town",9.738072881023108,1
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Employers,"City of Cape Town",6.642357937694151,2
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Employers,"University of the Western Cape",10.350961487878735,3
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Employers,"Sanlam",5.166309875571091,4
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Employers,"Amazon Web Services (AWS)",8.93500785062787,5
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Employers,"Stellenbosch University",9.0899390657744,6
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Employers,"Capitec Bank",4.512065142463409,7
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Software Engineer",4.198074808815779,1
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Attorney",1.700802066600039,2
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Teacher",1.6931439436366376,3
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Lecturer",1.6838935356569087,4
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Project Manager",1.5130805470293898,5
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Accountant",1.167882173363437,6
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Graphic Designer",0.9704881072571263,7
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Account Manager",0.941807374428174,8
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Customer Service Representative",0.9245036459933527,9
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Operations Manager",0.91522297124674,10
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Business Analyst",0.8783398291939158,11
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Jobs,"Sales Manager",0.8484015380783987,12
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Teaching",-1,1
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Financial Accounting",-1,2
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Financial Reporting",-1,3
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Project Planning",-1,4
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"JavaScript",-1,6
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Legal Research",-1,7
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"C#",-1,8
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Legal Writing",-1,9
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Operations Management",-1,10
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Account Management",-1,11
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Business Analysis",-1,12
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Curriculum Development",-1,13
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Logo Design",-1,14
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Contract Management",-1,15
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Higher Education",-1,16
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Requirements Analysis",-1,17
+2020-02-01,za,"South Africa","City of Cape Town","All",Top Trending Skills,"Customer Experience",-1,18

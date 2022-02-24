@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,fi,"Finland","All","Education",Top Trending Employers,"Aalto University",4.161372619521151,1
+2021-01-01,fi,"Finland","All","Education",Top Trending Jobs,"Teacher",17.65058405958374,1
+2021-01-01,fi,"Finland","All","Education",Top Trending Jobs,"Postdoctoral Researcher",9.984579979958367,2
+2021-01-01,fi,"Finland","All","Education",Top Trending Jobs,"Lecturer",8.578532753906162,3
+2021-01-01,fi,"Finland","All","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,fi,"Finland","All","Education",Top Trending Skills,"Adult Education",-1,2
+2021-01-01,fi,"Finland","All","Education",Top Trending Skills,"Scientific Writing",-1,3

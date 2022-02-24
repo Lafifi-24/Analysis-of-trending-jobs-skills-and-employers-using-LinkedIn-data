@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,de,"Germany","Berlin Metropolitan Area","Education",Top Trending Employers,"Technische Universität Berlin",5.425921896427037,1
+2020-05-01,de,"Germany","Berlin Metropolitan Area","Education",Top Trending Jobs,"Lecturer",16.36830393585695,1
+2020-05-01,de,"Germany","Berlin Metropolitan Area","Education",Top Trending Jobs,"Scientific Officer",8.840932302671055,2
+2020-05-01,de,"Germany","Berlin Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-05-01,de,"Germany","Berlin Metropolitan Area","Education",Top Trending Skills,"LaTeX",-1,2

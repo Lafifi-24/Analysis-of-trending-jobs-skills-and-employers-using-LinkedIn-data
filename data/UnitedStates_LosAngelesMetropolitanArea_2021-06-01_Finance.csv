@@ -1,0 +1,30 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Employers,"loanDepot",7.73849239316122,1
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Employers,"City National Bank",3.892239081640822,2
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Employers,"Capital Group",3.0736270542595516,3
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",5.052854142371022,4
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Employers,"Northwestern Mutual",11.058292737707788,5
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Employers,"Farmers Insurance",2.1728093857487143,6
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Employers,"Wells Fargo",1.5307469112266265,7
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Employers,"U.S. Bank",4.219872412623368,8
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Mortgage Loan Officer",2.8644558500561383,1
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",2.4443937359113255,2
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Loan Officer",2.4077665145585816,3
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Account Executive",2.39815295825919,4
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Account Manager",2.3128512995602044,5
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Loan Consultant",2.1433574874963983,6
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Investment Analyst",2.0519131164629547,7
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",1.862197010149514,8
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Underwriter",1.6124070035444416,9
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Banker",1.3684739039107867,10
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Jobs,"Insurance Agent",1.0887362635373483,11
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"Account Management",-1,2
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"Retirement Planning",-1,3
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"Life Insurance",-1,4
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"Investments",-1,5
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,6
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"Underwriting",-1,7
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"Mortgage Lending",-1,8
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"Insurance",-1,9
+2021-06-01,us,"United States","Los Angeles Metropolitan Area","Finance",Top Trending Skills,"Financial Modeling",-1,10

@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"NHS Greater Glasgow and Clyde",4.6183402010667,1
+2020-06-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"University of Glasgow",2.056620892052878,2
+2020-06-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"Morrisons",24.520207491536986,3
+2020-06-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"NHS",7.003542350324947,4
+2020-06-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Project Manager",2.4449513972141728,1
+2020-06-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Software Engineer",2.390704707663491,2
+2020-06-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Stakeholder Management",-1,2
+2020-06-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Project Delivery",-1,3

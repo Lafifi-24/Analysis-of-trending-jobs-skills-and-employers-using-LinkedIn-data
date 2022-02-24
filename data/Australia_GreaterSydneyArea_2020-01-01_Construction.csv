@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,au,"Australia","Greater Sydney Area","Construction",Top Trending Employers,"Downer",5.565320764535514,1
+2020-01-01,au,"Australia","Greater Sydney Area","Construction",Top Trending Jobs,"Project Manager",8.528611899599438,1
+2020-01-01,au,"Australia","Greater Sydney Area","Construction",Top Trending Jobs,"Contract Administrator",4.844504405126178,2
+2020-01-01,au,"Australia","Greater Sydney Area","Construction",Top Trending Jobs,"Project Engineer",4.32521466671085,3
+2020-01-01,au,"Australia","Greater Sydney Area","Construction",Top Trending Skills,"Stakeholder Management",-1,1
+2020-01-01,au,"Australia","Greater Sydney Area","Construction",Top Trending Skills,"Project Delivery",-1,2
+2020-01-01,au,"Australia","Greater Sydney Area","Construction",Top Trending Skills,"Project Engineering",-1,3
+2020-01-01,au,"Australia","Greater Sydney Area","Construction",Top Trending Skills,"Contract Management",-1,4
+2020-01-01,au,"Australia","Greater Sydney Area","Construction",Top Trending Skills,"Procurement",-1,5

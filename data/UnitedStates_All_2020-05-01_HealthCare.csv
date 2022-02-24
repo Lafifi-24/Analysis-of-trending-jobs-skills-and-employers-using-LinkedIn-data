@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Kaiser Permanente",2.014382517641261,1
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Bristol Myers Squibb",7.94410382908613,2
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Abbott",4.785800863537935,3
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Centene Corporation",5.11252560698483,4
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"UnitedHealth Group",1.6553245625276776,5
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"AbbVie",5.416626021009295,6
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Optum",4.179102744798281,7
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Ascension",4.825732257402559,8
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"CVS Pharmacy",3.92252455978534,9
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"IQVIA",4.951310296002068,10
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"NYC Health + Hospitals",12.03520730932475,11
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Cleveland Clinic",3.3213416118224752,12
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Philips",4.0542096790391895,13
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"GSK",4.855026287020303,14
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"AdventHealth",4.984004562006301,15
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Pfizer",2.444199558767321,16
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Northwell Health",3.682427484851253,17
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"HCA Healthcare",2.9677532305188685,18
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"Genentech",4.11613688816403,19
+2020-05-01,us,"United States","All","Health Care",Top Trending Employers,"NewYork-Presbyterian Hospital",3.9621249629688347,20
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Nurse",9.519661151356628,1
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Software Engineer",1.072381296155182,2
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Project Manager",0.9831414878705135,3
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Pharmacy Technician",0.9322445489806911,4
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Salesperson",0.8872580286750715,5
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Account Manager",0.8659415253164491,6
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Medical Doctor",0.751575838255381,7
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Physical Therapist",0.7431702975653505,8
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Patient Care Technician",0.7150545466296925,9
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Occupational Therapist",0.695631325985357,10
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Pharmacist",0.6397969221404797,11
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Family Nurse Practitioner",0.6280591185237674,12
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Emergency Medical Technician",0.5933929460129195,13
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Medical Scribe",0.5738106293571551,14
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Behavioral Health Technician",0.5659684057520751,15
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Social Worker",0.5568302735809502,16
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Accountant",0.5493181696908522,17
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Financial Analyst",0.5221446182899625,18
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Account Executive",0.5093495090922795,19
+2020-05-01,us,"United States","All","Health Care",Top Trending Jobs,"Case Manager",0.4936847841760795,20
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Account Management",-1,2
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Construction Management",-1,3
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Account Reconciliation",-1,4
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Financial Analysis",-1,5
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"General Ledger",-1,6
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Financial Reporting",-1,7
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Case Management",-1,8
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Nursing",-1,9
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Pharmacy",-1,10
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Physical Therapy",-1,11
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Rehabilitation",-1,12
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Medication Therapy Management (MTM)",-1,13
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Community Outreach",-1,14
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Pharmacy Technicians",-1,15
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,16
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Social Services",-1,17
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Occupational Therapy",-1,18
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"Emergency Medical Services (EMS)",-1,19
+2020-05-01,us,"United States","All","Health Care",Top Trending Skills,"EMT",-1,20

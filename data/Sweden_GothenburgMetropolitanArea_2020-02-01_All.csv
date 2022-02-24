@@ -1,0 +1,22 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Employers,"Volvo Cars",2.462745004666056,1
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Employers,"Göteborgs Stad",2.972815175018167,2
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Employers,"Volvo Group",2.6159584708642063,3
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Employers,"University of Gothenburg",3.342400825901295,4
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Project Manager",4.888443366271693,1
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Software Engineer",4.028532304058658,2
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Salesperson",2.4832386710156524,3
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Sales Manager",1.6502317470824392,5
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Key Account Manager",1.3375177919953736,6
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Teacher",1.2099086691512395,7
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"System Developer",1.1078111855985098,8
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,2
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Teaching",-1,3
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Git",-1,4
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"C#",-1,7
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Change Management",-1,8
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,".NET Framework",-1,9
+2020-02-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Pedagogy",-1,10

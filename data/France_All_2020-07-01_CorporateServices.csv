@@ -1,0 +1,55 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"AFPA",10.241849181977056,1
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"IFOCOP",17.03271630422016,2
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"Veolia",2.5186703488136533,3
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"Wavestone",3.3464521364623008,4
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"SUEZ",2.203349209240893,5
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"Bureau Veritas Group",2.5031235065086452,6
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"Apave",3.5181851384877554,7
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"SOCOTEC",4.093460249897389,8
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"onepoint",4.45614418777698,9
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"Webhelp",9.78631385092997,10
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"simplon-co",20.307437550718284,11
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"SUEZ France",2.4539708383569216,12
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"Mazars",1.8591980460512092,13
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Employers,"Groupe AKSIS",26.27712821375549,14
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Education Instructor",4.660839197249936,1
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Accountant",3.8258089783753277,2
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Payroll Accountant",3.6723942858613614,3
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Project Manager",3.3253235738757825,4
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Business Manager",1.7845317962087774,5
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Salesperson",1.6626189545028411,6
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Web Developer",1.6100270072306078,7
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Communications Manager",1.4553348529902217,8
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Human Resources Manager",1.3097335468354443,9
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Recruitment Manager",1.0967609450533697,10
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Employment Consultant",1.0550331728986486,11
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Safety Officer",0.9965534094722817,12
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Business Account Executive",0.945492787346492,13
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Legal Officer",0.8783475080559792,14
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Customer Associate",0.8377712361554684,15
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Public Accountant",0.8124206951047975,16
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Business Development Manager",0.7965268546366238,17
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"General Manager",0.7241256420143428,18
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Account Manager",0.6806565762558376,19
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Jobs,"Community Manager",0.6489755101355491,20
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Project Management",-1,1
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Teaching",-1,2
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Social Media",-1,3
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Recruiting",-1,4
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"JavaScript",-1,5
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"PHP",-1,6
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Internal Communications",-1,7
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Marketing Strategy",-1,8
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Negotiation",-1,9
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Legal Research",-1,10
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Legal Advice",-1,11
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Sourcing",-1,12
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,13
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Sales Prospecting",-1,14
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Training Facilitation",-1,15
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Assurance",-1,16
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Community Management",-1,17
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Auditing",-1,18
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Payroll Administration",-1,19
+2020-07-01,fr,"France","All","Corporate Services",Top Trending Skills,"Security",-1,20

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-30,us,"United States","Buffalo-Niagara Falls Area","All",Top Trending Employers,"University at Buffalo",2.4990098241660785,1
+2020-06-30,us,"United States","Buffalo-Niagara Falls Area","All",Top Trending Employers,"M&T Bank",2.249815776249522,2
+2020-06-30,us,"United States","Buffalo-Niagara Falls Area","All",Top Trending Employers,"Citi",6.896793931675345,3
+2020-06-30,us,"United States","Buffalo-Niagara Falls Area","All",Top Trending Jobs,"Nurse",2.7921644239203602,1
+2020-06-30,us,"United States","Buffalo-Niagara Falls Area","All",Top Trending Jobs,"Software Engineer",2.5246630188474226,2
+2020-06-30,us,"United States","Buffalo-Niagara Falls Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-06-30,us,"United States","Buffalo-Niagara Falls Area","All",Top Trending Skills,"Nursing",-1,2
+2020-06-30,us,"United States","Buffalo-Niagara Falls Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,3

@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater St. Louis","Software & IT Services",Top Trending Employers,"Amazon",5.720160327581323,1
+2021-02-01,us,"United States","Greater St. Louis","Software & IT Services",Top Trending Jobs,"Software Engineer",10.245770966724466,1
+2021-02-01,us,"United States","Greater St. Louis","Software & IT Services",Top Trending Skills,"JavaScript",-1,1

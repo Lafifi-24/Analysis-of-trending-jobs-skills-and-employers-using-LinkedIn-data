@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Desjardins",2.2526811454310725,1
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"MNP",9.634703855760076,2
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"TD",0.9570499163967298,3
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"CIBC",1.4790218464869074,4
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"RBC",1.15357422414249,5
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"BMO Financial Group",1.730777786215312,6
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Deloitte Canada",3.495911605406956,7
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"KPMG Canada",3.2227444819700315,8
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Accenture",4.021349120114502,9
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Alberta Health Services",1.109610384146846,10
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"CGI",2.214871168897078,11
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Walmart Canada",1.9419309686858972,12
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Shopify",2.7277400523189237,13
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Sun Life",1.5419405078421398,14
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Bell",0.9708058616757316,15
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Concentrix",5.099791599937524,16
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Hydro Québec",1.9854348124614372,17
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Microsoft",3.3145783348808724,18
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"TELUS",0.9947908560482298,19
+2021-04-01,ca,"Canada","All","All",Top Trending Employers,"Loblaw Companies Limited",1.4465648024905975,20
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Software Engineer",3.3443281756352854,1
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Project Manager",2.2775773147343985,2
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Salesperson",1.6984096007813532,3
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Customer Service Representative",1.523390448978062,4
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Account Manager",1.1009727856595501,5
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Accountant",0.960525782161773,6
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Real Estate Agent",0.9391131894890669,7
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Account Executive",0.8715301293967387,8
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Business Analyst",0.7980166542448215,9
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Full Stack Engineer",0.6386941919082008,10
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Sales Manager",0.631338747100065,11
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Human Resources Administrator",0.589368856973517,12
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Graphic Designer",0.5662401035602638,13
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Marketing Coordinator",0.5449752268051467,14
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"General Manager",0.5396054286933986,15
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Project Associate",0.5384497508767597,16
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Business Development Manager",0.5302813398086349,17
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Product Manager",0.5199169633080926,18
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Teacher",0.5142517705730313,19
+2021-04-01,ca,"Canada","All","All",Top Trending Jobs,"Financial Analyst",0.5118930206362597,20
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Teaching",-1,1
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Time Management",-1,2
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"JavaScript",-1,3
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Project Planning",-1,4
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Adobe Illustrator",-1,5
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Account Management",-1,6
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Curriculum Development",-1,7
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Sales Management",-1,8
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Financial Reporting",-1,9
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Business Analysis",-1,10
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Construction Management",-1,11
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Team Building",-1,12
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Residential Real Estate",-1,13
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Financial Analysis",-1,14
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,15
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"React.js",-1,16
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Requirements Gathering",-1,17
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Node.js",-1,18
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Social Media Marketing",-1,19
+2021-04-01,ca,"Canada","All","All",Top Trending Skills,"Agile Methodologies",-1,20

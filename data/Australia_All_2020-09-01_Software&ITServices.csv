@@ -1,0 +1,56 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",11.770740994237396,1
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Concentrix",37.71552385730463,2
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Datacom",8.832283899469951,3
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Amazon",14.254409711595562,4
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Infosys",3.5523665407515725,5
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"DXC Technology",2.43666463752609,6
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Accenture",2.9518106605587864,7
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Atlassian",4.488574213599646,8
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Canva",11.728116308674696,9
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Accenture Australia",5.280556089617802,10
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Thales",4.4038415371652455,11
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Serco",4.072969264714345,12
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Hireup",6.676492738263888,13
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Microsoft",2.967239215686826,14
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Employers,"Tata Consultancy Services",2.583144721615686,15
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Software Engineer",7.849487752736446,1
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Project Manager",2.236402571904394,2
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",2.186425776949959,3
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Business Analyst",1.9718763840623006,4
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Account Manager",1.77420166205943,5
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Solutions Architect",1.462050700274238,6
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Data Analyst",1.2909625765274764,7
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Customer Service Representative",1.2589525587146362,8
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Account Executive",1.1882504625101578,9
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",1.1695410449971146,10
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"System Engineer",1.154420816316882,11
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Product Manager",1.0517043457468365,12
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Support Associate",0.9935852995217684,13
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Web Developer",0.954962109527366,14
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",0.949032031500167,15
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Technical Consultant",0.8606302957252676,16
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Sales Manager",0.809685857113274,17
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",0.8012255284145761,18
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Data Scientist",0.6786203517144194,19
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Jobs,"Security Consultant",0.6525610806046549,20
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Account Management",-1,1
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Business Analysis",-1,2
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Sales Management",-1,3
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,4
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Stakeholder Management",-1,5
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Project Delivery",-1,6
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,7
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Time Management",-1,8
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Data Analysis",-1,9
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Web Development",-1,10
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,11
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Product Development",-1,12
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Tableau",-1,13
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"React.js",-1,14
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Integration",-1,15
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Active Directory",-1,16
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Node.js",-1,17
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Mental Health",-1,18
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"VMware",-1,19
+2020-09-01,au,"Australia","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,20

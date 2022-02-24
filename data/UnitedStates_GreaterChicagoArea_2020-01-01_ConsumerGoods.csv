@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Employers,"The Kraft Heinz Company",6.999441745515436,1
+2020-01-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Employers,"Ferrara",16.57762039899393,2
+2020-01-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Employers,"Cresco Labs",25.53510652415415,3
+2020-01-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Jobs,"Salesperson",3.3462353387573778,1
+2020-01-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Jobs,"Sales Manager",2.4028843768934336,2
+2020-01-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Skills,"Sales Management",-1,1
+2020-01-01,us,"United States","Greater Chicago Area","Consumer Goods",Top Trending Skills,"Sales Operations",-1,2

@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,es,"Spain","Greater Madrid Metropolitan Area","Health Care",Top Trending Jobs,"Psychologist",5.987753083981973,1
+2021-01-01,es,"Spain","Greater Madrid Metropolitan Area","Health Care",Top Trending Jobs,"Clinical Research Associate",5.593956683551619,2
+2021-01-01,es,"Spain","Greater Madrid Metropolitan Area","Health Care",Top Trending Skills,"Psychotherapy",-1,1
+2021-01-01,es,"Spain","Greater Madrid Metropolitan Area","Health Care",Top Trending Skills,"Clinical Trials",-1,2
+2021-01-01,es,"Spain","Greater Madrid Metropolitan Area","Health Care",Top Trending Skills,"Good Clinical Practice (GCP)",-1,3

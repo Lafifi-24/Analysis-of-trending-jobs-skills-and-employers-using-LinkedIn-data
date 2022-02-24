@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS",3.7062848780509623,1
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS England",6.664555917150912,2
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"GSK",4.593661580346127,3
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Public Health England",13.596685870917439,4
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Priory Group",8.290706194791591,5
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Bupa",3.7436927782259453,6
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Cygnet Health Care",13.263868284214746,7
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"IQVIA",4.947272144275818,8
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Roche",5.742407700832224,9
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Oxford University Hospitals NHS Foundation Trust",4.890738854293689,10
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Barts Health NHS Trust",2.88542898129992,11
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Imperial College Healthcare NHS Trust",3.519152740623379,12
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Guy's and St Thomas'​ NHS Foundation Trust",1.9934970912964896,13
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Elysium Healthcare",8.886045980584912,14
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Spire Healthcare Group plc",4.603298153749448,15
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Medicines Discovery Catapult",53.75751137890348,16
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"HC-One",8.36070068289877,17
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"NHS Trust",3.0742916754211103,18
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Manchester University NHS Foundation Trust",3.6997250227239564,19
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Employers,"Care UK",4.857459891828385,20
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Support Associate",4.892232076947666,1
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Nurse",2.5827253430951287,2
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Pharmacist",2.3299878577604756,3
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Physical Therapist",1.665324993825806,4
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Project Manager",1.576363367575494,5
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Psychologist",1.3308792889694543,6
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Medical Doctor",1.0879683596598873,7
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Caseworker",0.8702301371263383,8
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Occupational Therapist",0.8603450424999356,9
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Account Manager",0.7779895358759833,10
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"General Practitioner",0.7761779121174148,11
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Laboratory Scientist",0.7745997070652273,12
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Veterinary Surgeon",0.7691588554353156,13
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Software Engineer",0.7010883936217591,14
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Receptionist",0.6959223597481935,15
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Radiographer",0.6615058966271976,16
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Laboratory Technician",0.6280607350026272,17
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Clinical Pharmacist",0.6186794937963938,18
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Business Development Manager",0.5617097153395122,19
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Jobs,"Operations Manager",0.561216496075151,20
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Account Management",-1,1
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"JavaScript",-1,2
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Operations Management",-1,3
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Stakeholder Management",-1,4
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Project Delivery",-1,5
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Change Management",-1,7
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Time Management",-1,8
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Receptionist Duties",-1,9
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Nursing",-1,10
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Mental Health",-1,11
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Pharmacy",-1,12
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Rehabilitation",-1,13
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Physical Therapy",-1,14
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Community Pharmacy",-1,15
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Occupational Therapy",-1,16
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Medical Education",-1,17
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Laboratory Skills",-1,18
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Veterinary Medicine",-1,19
+2020-07-01,gb,"United Kingdom","All","Health Care",Top Trending Skills,"Support Workers",-1,20

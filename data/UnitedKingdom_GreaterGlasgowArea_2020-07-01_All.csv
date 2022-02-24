@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"University of Glasgow",2.480316294830616,1
+2020-07-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"Morrisons",25.87900909547892,2
+2020-07-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"Barclays",6.59742102713191,3
+2020-07-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"Morgan Stanley",4.498819900162617,4
+2020-07-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Software Engineer",2.9112000189175835,1
+2020-07-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Project Manager",2.1670928278807624,2
+2020-07-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Stakeholder Management",-1,2
+2020-07-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Project Delivery",-1,3

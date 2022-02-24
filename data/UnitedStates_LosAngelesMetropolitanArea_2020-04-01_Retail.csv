@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Target",4.997115771573479,1
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Starbucks",3.434030918903085,2
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Walmart",7.206300373878916,3
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"The Home Depot",7.502084915565101,4
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Ralphs Grocery Company",12.971741587711527,5
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Lowe's Companies, Inc.",9.449681372341304,6
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Salesperson",5.609714357562926,1
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Cashier",4.741101944832601,2
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Barista",4.556873316072815,3
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Store Manager",3.6117585619972195,4
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Store Management",-1,2
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Time Management",-1,3
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Cashiering",-1,4
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Barista",-1,5

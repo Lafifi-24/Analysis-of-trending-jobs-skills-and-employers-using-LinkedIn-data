@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Employers,"HSBC",5.123437289474772,1
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Employers,"Vancity",6.022729043996767,2
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Employers,"ICBC (Insurance Corporation of British Columbia)",3.203026131022726,3
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Employers,"KPMG Canada",8.80518179776388,4
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Employers,"TD",3.419368808444866,5
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",4.796297652460564,1
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Jobs,"Customer Service Representative",4.28844854158731,2
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",3.957373412219086,3
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Skills,"Time Management",-1,2
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Skills,"Investments",-1,3
+2020-01-01,ca,"Canada","Greater Vancouver Metropolitan Area","Finance",Top Trending Skills,"Financial Planning",-1,4

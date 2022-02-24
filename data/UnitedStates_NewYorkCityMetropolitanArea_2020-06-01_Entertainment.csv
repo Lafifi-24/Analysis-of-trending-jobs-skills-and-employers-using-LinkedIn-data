@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Spotify",9.722893538450032,1
+2020-06-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Writer",3.4939085175864517,1
+2020-06-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Software Engineer",3.4919620062861734,2
+2020-06-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Host",2.1270687749928205,3
+2020-06-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Writing",-1,2
+2020-06-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Editing",-1,3
+2020-06-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Social Media",-1,4
+2020-06-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Public Speaking",-1,5

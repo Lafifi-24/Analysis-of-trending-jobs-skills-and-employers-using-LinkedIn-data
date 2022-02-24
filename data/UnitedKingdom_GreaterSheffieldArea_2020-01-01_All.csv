@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Employers,"The University of Sheffield",4.030330066093949,1
+2020-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Employers,"Sheffield Hallam University",3.517863918047855,2
+2020-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Jobs,"Software Engineer",2.2714373632927205,1
+2020-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Jobs,"Project Manager",1.950638408392169,2
+2020-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Skills,"Stakeholder Management",-1,2
+2020-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Skills,"Project Delivery",-1,3

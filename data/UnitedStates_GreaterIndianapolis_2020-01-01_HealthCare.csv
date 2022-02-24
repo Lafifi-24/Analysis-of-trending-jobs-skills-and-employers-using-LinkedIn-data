@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Indianapolis","Health Care",Top Trending Employers,"Indiana University Health",3.517098935699238,1
+2020-01-01,us,"United States","Greater Indianapolis","Health Care",Top Trending Employers,"Community Health Network",4.324006581271402,2
+2020-01-01,us,"United States","Greater Indianapolis","Health Care",Top Trending Employers,"Ascension",6.164742595491267,3
+2020-01-01,us,"United States","Greater Indianapolis","Health Care",Top Trending Employers,"Eli Lilly and Company",0.9880735858500247,4
+2020-01-01,us,"United States","Greater Indianapolis","Health Care",Top Trending Jobs,"Nurse",11.856519626282845,1
+2020-01-01,us,"United States","Greater Indianapolis","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,us,"United States","Greater Indianapolis","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,in,"India","Greater Chennai Area","All",Top Trending Employers,"Accenture",1.019143367690388,1
+2020-04-01,in,"India","Greater Chennai Area","All",Top Trending Employers,"Infosys",0.8360716825057379,2
+2020-04-01,in,"India","Greater Chennai Area","All",Top Trending Employers,"HCL Technologies",0.4740339267389923,3
+2020-04-01,in,"India","Greater Chennai Area","All",Top Trending Jobs,"Software Engineer",11.730139161726811,1
+2020-04-01,in,"India","Greater Chennai Area","All",Top Trending Skills,"SQL",-1,1
+2020-04-01,in,"India","Greater Chennai Area","All",Top Trending Skills,"JavaScript",-1,2

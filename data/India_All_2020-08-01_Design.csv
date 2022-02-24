@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,in,"India","All","Design",Top Trending Employers,"Tata Elxsi",1.5235033161296794,1
+2020-08-01,in,"India","All","Design",Top Trending Jobs,"Architect",13.678893954025995,1
+2020-08-01,in,"India","All","Design",Top Trending Jobs,"Graphic Designer",7.422283451567843,2
+2020-08-01,in,"India","All","Design",Top Trending Jobs,"Interior Designer",4.5574508533512565,3
+2020-08-01,in,"India","All","Design",Top Trending Jobs,"User Experience Designer",3.343106182221542,4
+2020-08-01,in,"India","All","Design",Top Trending Jobs,"Project Manager",2.986898582136648,5
+2020-08-01,in,"India","All","Design",Top Trending Skills,"Adobe Illustrator",-1,1
+2020-08-01,in,"India","All","Design",Top Trending Skills,"Requirements Analysis",-1,2
+2020-08-01,in,"India","All","Design",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,3
+2020-08-01,in,"India","All","Design",Top Trending Skills,"SketchUp",-1,4
+2020-08-01,in,"India","All","Design",Top Trending Skills,"Architectural Design",-1,5
+2020-08-01,in,"India","All","Design",Top Trending Skills,"Interior Design",-1,6
+2020-08-01,in,"India","All","Design",Top Trending Skills,"User Experience Design (UED)",-1,7
+2020-08-01,in,"India","All","Design",Top Trending Skills,"Wireframing",-1,8

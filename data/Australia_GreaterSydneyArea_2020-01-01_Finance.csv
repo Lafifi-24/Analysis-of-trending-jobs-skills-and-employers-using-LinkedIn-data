@@ -1,0 +1,27 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Commonwealth Bank",4.923491327080368,1
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Westpac",4.965915162169118,2
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Macquarie Group",6.2910473759639025,3
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"AMP",7.369513333663921,4
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"IAG",6.218367349920705,5
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"ING Australia",9.823568788511754,6
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"QBE Insurance",5.401845425683286,7
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Allianz Australia",8.955562434148009,8
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"BT",5.068593156508054,9
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"ANZ",2.456089569281144,10
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Suncorp Group",3.851448985484617,11
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"Reserve Bank of Australia",6.782230621900988,12
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Employers,"EML (Employers Mutual Limited)",11.51386572834773,13
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Business Analyst",4.992455063267837,1
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Software Engineer",3.0581775704969782,2
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Project Manager",2.8035316826032264,3
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Customer Service Representative",1.2960510910309238,4
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Jobs,"Data Analyst",1.2666947011200211,5
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Business Analysis",-1,1
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Stakeholder Management",-1,3
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Project Delivery",-1,4
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Time Management",-1,5
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Requirements Gathering",-1,6
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Data Analysis",-1,7
+2020-01-01,au,"Australia","Greater Sydney Area","Finance",Top Trending Skills,"Tableau",-1,8

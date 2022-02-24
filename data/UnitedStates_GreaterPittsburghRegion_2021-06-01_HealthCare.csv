@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Employers,"Highmark Health",4.125329838091293,1
+2021-06-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Jobs,"Nurse",5.622566396610484,1
+2021-06-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-06-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

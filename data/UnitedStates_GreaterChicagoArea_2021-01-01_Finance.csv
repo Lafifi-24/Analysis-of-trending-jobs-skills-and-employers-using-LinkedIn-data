@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Guaranteed Rate",8.484124759461812,1
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",2.4941697852999,2
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Northern Trust Corporation",1.5193824351741814,3
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Morningstar",4.678711008991119,4
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Dovenmuehle Mortgage, Inc.",8.296625497365502,5
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"GoHealth",9.744426725474744,6
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Software Engineer",4.288633555318798,1
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Underwriter",2.0350207793311483,2
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Financial Advisor",1.902769622037773,3
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Investment Analyst",1.8340798749064011,4
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Insurance Agent",1.6649840849961628,5
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Retirement Planning",-1,2
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Investments",-1,3
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Life Insurance",-1,4
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,5
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Underwriting",-1,6
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Insurance",-1,7
+2021-01-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Financial Modeling",-1,8

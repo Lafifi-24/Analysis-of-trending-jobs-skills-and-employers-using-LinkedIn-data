@@ -1,0 +1,29 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Pennsylvania",6.669719227237801,1
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Temple University",6.22348152435479,2
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"The School District of Philadelphia",6.314785292544584,3
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Delaware",5.877366562812869,4
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Drexel University",6.194226022243534,5
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Villanova University",7.395488082063142,6
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Thomas Jefferson University",4.738505865845784,7
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Pennsylvania School of Medicine",5.712897082553117,8
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Rowan University",4.49604619646554,9
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"PRA Health Sciences",8.285684780824065,10
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"West Chester University of Pennsylvania",8.031161945853952,11
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Haverford College",13.3090268756069,12
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Bryn Mawr College",12.80161045743546,13
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Teacher",11.609481512469646,1
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Professor",11.508118415761901,2
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Elementary School Teacher",3.8306350415794985,3
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Postdoctoral Researcher",2.936890580111297,4
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Special Education Teacher",1.8319773271533903,5
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Lecturer",1.4787428882746707,6
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"English Teacher",1.3201714768453174,7
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Higher Education",-1,3
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Special Education",-1,4
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Classroom Management",-1,5
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Elementary Education",-1,6
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Molecular Biology",-1,7
+2020-09-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Cell Culture",-1,8

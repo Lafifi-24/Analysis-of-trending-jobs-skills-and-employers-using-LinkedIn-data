@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Hartford","Manufacturing",Top Trending Employers,"General Dynamics Electric Boat",8.483791075324332,1
+2020-07-01,us,"United States","Greater Hartford","Manufacturing",Top Trending Jobs,"System Engineer",12.423544903361927,1
+2020-07-01,us,"United States","Greater Hartford","Manufacturing",Top Trending Skills,"Systems Engineering",-1,1
+2020-07-01,us,"United States","Greater Hartford","Manufacturing",Top Trending Skills,"Integration",-1,2

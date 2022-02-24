@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Health Care",Top Trending Employers,"UNC Health",5.125750254102282,1
+2020-01-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Health Care",Top Trending Employers,"Duke University Health System",3.6310201169681164,2
+2020-01-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Health Care",Top Trending Employers,"IQVIA",4.7514722126269096,3
+2020-01-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Health Care",Top Trending Employers,"Pfizer",10.295168385185747,4
+2020-01-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Health Care",Top Trending Employers,"WakeMed",3.0378661455956286,5
+2020-01-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Health Care",Top Trending Employers,"PPD",5.6632617685025135,6
+2020-01-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Health Care",Top Trending Jobs,"Nurse",4.100252050813968,1
+2020-01-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

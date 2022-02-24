@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Cleveland","Manufacturing",Top Trending Employers,"Sherwin-Williams",3.3165188300133397,1
+2020-02-01,us,"United States","Greater Cleveland","Manufacturing",Top Trending Jobs,"Sales Manager",4.2947748154554075,1
+2020-02-01,us,"United States","Greater Cleveland","Manufacturing",Top Trending Skills,"Sales Management",-1,1
+2020-02-01,us,"United States","Greater Cleveland","Manufacturing",Top Trending Skills,"Sales Operations",-1,2

@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Pennsylvania",3.134208053876681,1
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Temple University",2.4365541288480985,2
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Drexel University",3.784594855672342,3
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Delaware",2.8379935261020046,4
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Villanova University",4.800407915731841,5
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Professor",12.751875921885134,1
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Teacher",9.205052195719517,2
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Postdoctoral Researcher",4.221807560035776,3
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Teaching",-1,1
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Higher Education",-1,3
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Molecular Biology",-1,4
+2021-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Cell Culture",-1,5

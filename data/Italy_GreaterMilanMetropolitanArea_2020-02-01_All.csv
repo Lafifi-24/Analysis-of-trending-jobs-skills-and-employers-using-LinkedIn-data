@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Deloitte",21.37168471696543,1
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"PwC",8.665197143504713,2
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Accenture",5.7984578098489,3
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Intesa Sanpaolo",4.943513504996822,4
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Saipem",8.818179224549441,5
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Sky Italia",9.087082355590228,6
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Eni",5.391898048389569,7
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"KPMG Italy",12.837180002624876,8
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Deloitte Italia",10.847743959606019,9
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Luxottica",8.902088834606989,10
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Capgemini",11.17496245464021,11
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Generali",7.453926217286833,12
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"business-integration-partners",9.265858793056957,13
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Università Cattolica del Sacro Cuore",6.553893910102161,14
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"jakala-spa",22.792890062346853,15
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"Comune di Milano",9.822245503028894,16
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"UniCredit",2.941161586162324,17
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Employers,"A2A",9.676348808507745,18
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.5198898633427973,1
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.7738145827694223,2
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Sales Manager",1.7524640338741158,3
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Business Analyst",1.737323259395098,4
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Software Engineer",1.4735444658571775,5
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Teacher",1.275104626330807,6
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Lawyer",1.1867768204806948,7
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.1718711736397964,8
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Accountant",0.8943263568497493,9
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.8185169583091636,10
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Architect",0.7779480782489384,11
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Business Development Manager",0.77756850983806,12
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Social Media Manager",0.7244421608149594,13
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Product Manager",0.660693871160005,14
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Store Manager",0.6404810896453101,15
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Back Office Employee",0.6006761546078508,16
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Data Scientist",0.595313521867651,18
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Key Account Manager",0.5871857928978392,19
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Jobs,"Editor",0.5139839685719476,20
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Litigation",-1,2
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Legal Advice",-1,3
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Teaching",-1,4
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Architectural Design",-1,5
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,6
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Adobe Illustrator",-1,7
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,8
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,9
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Business Planning",-1,10
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Graphics",-1,11
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Store Management",-1,12
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Visual Merchandising",-1,13
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Social Media Marketing",-1,14
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Editing",-1,15
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,16
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Product Development",-1,17
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Journalism",-1,18
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Instagram",-1,19
+2020-02-01,it,"Italy","Greater Milan Metropolitan Area","All",Top Trending Skills,"Back Office Operations",-1,20

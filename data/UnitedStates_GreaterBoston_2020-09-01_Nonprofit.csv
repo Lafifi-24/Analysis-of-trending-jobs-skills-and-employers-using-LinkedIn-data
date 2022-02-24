@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Boston","Nonprofit",Top Trending Employers,"City Year",32.384846166736544,1
+2020-09-01,us,"United States","Greater Boston","Nonprofit",Top Trending Jobs,"Teacher",2.6619367828764404,2
+2020-09-01,us,"United States","Greater Boston","Nonprofit",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Boston","Nonprofit",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,us,"United States","Greater Boston","Nonprofit",Top Trending Skills,"Public Speaking",-1,3
+2020-09-01,us,"United States","Greater Boston","Nonprofit",Top Trending Skills,"Nonprofit Organizations",-1,4

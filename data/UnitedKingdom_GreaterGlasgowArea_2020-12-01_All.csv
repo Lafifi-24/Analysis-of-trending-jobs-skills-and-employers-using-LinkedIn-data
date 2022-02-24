@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"University of Glasgow",4.423905878959896,1
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"NHS Greater Glasgow and Clyde",5.3299504230981904,2
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"The Scottish Government",7.319456432588198,3
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"University of Strathclyde",3.0186964460151477,4
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Project Manager",2.3190557656240762,1
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Software Engineer",1.9673099200396151,2
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Business Development Manager",1.4474418458565022,3
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Account Manager",1.3396752597742934,4
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Account Management",-1,1
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Stakeholder Management",-1,3
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Project Delivery",-1,4
+2020-12-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Business-to-Business (B2B)",-1,5

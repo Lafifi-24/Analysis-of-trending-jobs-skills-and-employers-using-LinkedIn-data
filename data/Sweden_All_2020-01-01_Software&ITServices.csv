@@ -1,0 +1,28 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Employers,"Ericsson",2.6699369815554053,1
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Employers,"Consid AB",13.662134256415193,2
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Employers,"CGI",3.5855955631123795,3
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Employers,"Capgemini",5.142391014711964,4
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Employers,"Atea Sverige",3.7822550376411317,5
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Employers,"Sigma IT Group",8.686181781075904,6
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Jobs,"Software Engineer",10.004428593395575,1
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Jobs,"Project Manager",4.381982107794824,2
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Jobs,"Information Technology Consultant",3.9806915489437906,3
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Jobs,"System Developer",3.6972273970615435,4
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Jobs,"Account Manager",2.3762889874528845,5
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",1.887508813540098,6
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Jobs,"Key Account Manager",1.7201329423947735,7
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Jobs,"Sales Manager",1.3973175588061728,8
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",1.2370352421182427,9
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"Project Planning",-1,2
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"Git",-1,3
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"Sales Management",-1,4
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"Business-to-Business (B2B)",-1,5
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"C#",-1,6
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,".NET Framework",-1,7
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"Sales Process",-1,8
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"Active Directory",-1,9
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"Scrum",-1,10
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"React.js",-1,11
+2020-01-01,se,"Sweden","All","Software & IT Services",Top Trending Skills,"SASS",-1,12

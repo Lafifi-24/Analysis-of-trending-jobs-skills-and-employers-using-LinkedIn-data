@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Employers,"OpenClassrooms",13.496378100810984,1
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Project Manager",5.880798437861781,1
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Teacher",5.188644249034146,2
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Postdoctoral Researcher",4.530313140080187,3
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Jobs,"Lecturer",3.173402718442703,4
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Project Management",-1,1
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Teaching",-1,2
+2020-06-01,fr,"France","Greater Paris Metropolitan Region","Education",Top Trending Skills,"Molecular Biology",-1,3

@@ -1,0 +1,27 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of Southern California",5.039531779494992,1
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Los Angeles",5.5869268239744505,2
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"UC Irvine",5.1398002938745,3
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Los Angeles Unified School District",2.1084048668433857,4
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Riverside",5.264980027247594,5
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Chapman University",6.507908694183216,6
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Long Beach",5.7103970654737894,7
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Loyola Marymount University",5.187307258714835,8
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Fullerton",5.054550170972574,9
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Northridge",4.799231286815201,10
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State Polytechnic University-Pomona",6.093423520001566,11
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Los Angeles",4.743727830382561,12
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Caltech",4.891855895929714,13
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Teacher",11.91899662341748,1
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Professor",9.973985356043068,2
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Lecturer",3.350616106598725,3
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",2.080633487579365,4
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Special Education Paraeducator",1.2430135929429564,5
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Public Speaking",-1,4
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Nonprofit Organizations",-1,5
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,6
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,7
+2020-03-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Special Education",-1,8

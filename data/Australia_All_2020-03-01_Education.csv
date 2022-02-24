@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"University of Melbourne",8.720310276142532,1
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"Monash University",7.473748405643925,2
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"University of Sydney",7.686724769206483,3
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"The University of Queensland",7.479524847731728,4
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"RMIT University",6.93636054424663,5
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"UNSW",5.805056743290517,6
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"NSW Department of Education",5.095130313730555,7
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"University of Technology Sydney",6.963572777821674,8
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"Deakin University",6.600118115828689,9
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"Griffith University",6.519975898609507,10
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"QUT (Queensland University of Technology)",6.033875716131685,11
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"Department of Education & Training, Victoria",6.619011072178764,12
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"The Australian National University",8.177951309267094,13
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"La Trobe University",7.588967630680974,14
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"University of Adelaide",7.169206725922618,15
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"Curtin University",6.150945517566238,16
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"Swinburne University of Technology",6.878775759373318,17
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"Macquarie University",5.763670933377768,18
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"The University of Western Australia",6.54194371509373,19
+2020-03-01,au,"Australia","All","Education",Top Trending Employers,"University of South Australia",6.859775318030261,20
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Teacher",15.154608412885858,1
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Lecturer",7.882709276923454,2
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Academic Tutor",3.963899121632271,3
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Postdoctoral Researcher",2.033685813468499,4
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Professor",1.9793770820786354,5
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Primary School Teacher",1.3057394416785506,6
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"English Teacher",1.217133206827521,7
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Mathematics Teacher",1.1917132492333606,8
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Support Associate",1.0019879699678822,9
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Science Teacher",0.9896365504529994,10
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Secondary School Teacher",0.9615498021866539,11
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Administrative Officer",0.9233253056721241,12
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Teaching Associate",0.9208353088820256,13
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Research Officer",0.8874593328901698,14
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Mathematics Tutor",0.7786206134668525,15
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Psychologist",0.7512807810778863,16
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Early Childhood Educator",0.6350687519256268,17
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Early Childhood Teacher",0.616123798918957,18
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Project Manager",0.6089098518374287,19
+2020-03-01,au,"Australia","All","Education",Top Trending Jobs,"Sports Coach",0.5476779114745904,20
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Stakeholder Management",-1,3
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Project Delivery",-1,4
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Administration",-1,5
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Office Administration",-1,6
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Cognitive Behavioral Therapy (CBT)",-1,7
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Psychological Assessment",-1,8
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Public Speaking",-1,9
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Mental Health",-1,10
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Early Childhood Education",-1,11
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Case Management",-1,12
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Lesson Planning",-1,13
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Scientific Writing",-1,14
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Classroom Management",-1,15
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Sports Coaching",-1,16
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"Qualitative Research",-1,17
+2020-03-01,au,"Australia","All","Education",Top Trending Skills,"English Teaching",-1,18

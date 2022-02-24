@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Employers,"Apple",6.109023518361132,1
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Employers,"Niagara Bottling",9.365367817075452,2
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Employers,"Arbonne",7.463968049197294,3
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Jobs,"Salesperson",2.6471222005162747,1
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Jobs,"Graphic Designer",2.3131437362790552,2
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Jobs,"Sales Manager",1.9061193260208855,3
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Skills,"Sales Management",-1,1
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Skills,"Adobe Creative Suite",-1,2
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Consumer Goods",Top Trending Skills,"Sales Operations",-1,3

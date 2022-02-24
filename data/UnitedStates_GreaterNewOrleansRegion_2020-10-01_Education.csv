@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater New Orleans Region","Education",Top Trending Employers,"Tulane University",7.100884688197283,1
+2020-10-01,us,"United States","Greater New Orleans Region","Education",Top Trending Jobs,"Teacher",12.064894060735512,1
+2020-10-01,us,"United States","Greater New Orleans Region","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Greater New Orleans Region","Education",Top Trending Skills,"Curriculum Development",-1,2

@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Fidelity Investments",9.825564237670308,1
+2021-01-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Charles Schwab",1.9172336955795781,2
+2021-01-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Western Union",5.7478538439244105,3
+2021-01-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Customer Service Representative",5.313916293995616,1
+2021-01-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Mortgage Loan Officer",3.0126550859062573,2
+2021-01-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",2.913278722545259,3
+2021-01-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Customer Satisfaction",-1,2
+2021-01-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Mortgage Lending",-1,3

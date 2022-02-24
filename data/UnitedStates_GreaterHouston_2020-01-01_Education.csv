@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Employers,"University of Houston",5.051454687276424,1
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Employers,"Baylor College of Medicine",3.2646708749942577,2
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Employers,"Rice University",5.468096943410448,3
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Employers,"Lone Star College",5.6896752728144,4
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Employers,"Houston ISD",2.121546477372643,5
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Employers,"Houston Community College",4.208931398367877,6
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Employers,"Sam Houston State University",6.504056256783001,7
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Jobs,"Teacher",14.166249582119223,1
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Jobs,"Professor",11.993331493269052,2
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-01-01,us,"United States","Greater Houston","Education",Top Trending Skills,"Higher Education",-1,3

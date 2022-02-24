@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Employers,"Nebraska Medicine",3.897793321864171,1
+2020-06-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Employers,"University of Nebraska Medical Center",4.021663146569125,2
+2020-06-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.41747202645403,1
+2020-06-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1

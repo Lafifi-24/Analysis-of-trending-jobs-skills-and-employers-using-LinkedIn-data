@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Employers,"Walmart",2.3832697605675692,1
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Employers,"University of Arkansas",6.586126032511157,2
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Employers,"J.B. Hunt Transport Services, Inc",4.138933342102793,3
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Jobs,"Software Engineer",2.9247404740970357,1
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Jobs,"Teacher",2.6524861806841487,2
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Jobs,"Real Estate Agent",2.504416503127187,3
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Jobs,"Salesperson",2.4686919583097606,4
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Jobs,"Project Manager",2.3119967336440665,5
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Skills,"Investment Properties",-1,4
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,5
+2020-09-01,us,"United States","Greater Fayetteville, AR Area","All",Top Trending Skills,"Construction Management",-1,6

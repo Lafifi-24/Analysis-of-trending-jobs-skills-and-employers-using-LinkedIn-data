@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,gb,"United Kingdom","Tyneside Area","All",Top Trending Employers,"Newcastle University",2.8760025640707663,1
+2020-04-01,gb,"United Kingdom","Tyneside Area","All",Top Trending Jobs,"Software Engineer",2.348842682531423,1
+2020-04-01,gb,"United Kingdom","Tyneside Area","All",Top Trending Skills,"JavaScript",-1,1

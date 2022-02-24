@@ -1,0 +1,36 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"PwC",6.982226352401163,1
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"Deloitte",12.890867494613381,2
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"business-integration-partners",12.99084716293323,3
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"KPMG Italy",7.999156392100493,4
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"Deloitte Italia",6.910142834607225,5
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"Würth Italia",7.631148766862647,6
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"Sicuritalia S.p.A.",9.434114538132981,7
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"Be | Shaping the Future Italy",9.364950492495552,8
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"Randstad Italia",3.272789860121218,9
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Employers,"Cerved Group Spa",4.853559348638911,10
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Business Analyst",4.386394244421201,1
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Teacher",3.9752093487108633,2
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Project Manager",2.9069332085456017,3
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Accountant",2.8993397360140287,4
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Tax Preparer",2.3701161778649777,5
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Auditor",1.9365602522867218,6
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Administration Employee",1.6584944006258837,7
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Account Manager",1.5306011364299483,8
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Salesperson",1.1590144139739746,9
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Business Consultant",1.1474545571759482,10
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Human Resources Advisor",1.0170790936708367,11
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Recruiter",0.9436979983041285,12
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Jobs,"Sales Manager",0.9015812249237248,13
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Project Management",-1,1
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Teaching",-1,2
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Sales Management",-1,3
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Project Planning",-1,4
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Business Planning",-1,5
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Invoicing",-1,6
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"General Ledger",-1,7
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Auditing",-1,8
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Recruiting",-1,9
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"SQL",-1,10
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Sourcing",-1,11
+2020-03-01,it,"Italy","All","Corporate Services",Top Trending Skills,"Management Consulting",-1,12

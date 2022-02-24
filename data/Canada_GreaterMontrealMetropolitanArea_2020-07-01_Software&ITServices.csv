@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",11.153410828270637,1
+2020-07-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",3.6496426906059134,2
+2020-07-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Skills,"React.js",-1,2
+2020-07-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Skills,"Node.js",-1,3

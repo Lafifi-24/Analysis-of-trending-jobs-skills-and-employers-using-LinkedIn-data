@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"CIBC",4.408319048157553,1
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"RBC",4.036461306026353,2
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"TD",2.3754649107706696,3
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"BMO Financial Group",4.608606969453577,4
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"City of Toronto",4.691550940977963,5
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Statistics Canada",145.83690120109281,6
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Deloitte Canada",7.333425535687477,7
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Loblaw Companies Limited",5.580548611075774,8
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Rogers Communications",2.816454376903304,9
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Region of Peel",13.183486494033456,10
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Bell",3.953930655742932,11
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"AMD",10.723542081955758,12
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Shopify",9.93163156948937,13
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Ryerson University",4.792216252175105,14
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Sun Life",5.012121811348412,15
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"University Health Network",3.714759888914764,16
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Tata Consultancy Services",6.720971757143385,17
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"CGI",8.58506727506142,18
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Accenture",6.763874686113924,19
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Employers,"Walmart Canada",5.3804327950343716,20
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Software Engineer",4.220977420288148,1
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Project Manager",1.9267388182954746,2
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Salesperson",1.5105336738377022,3
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Customer Service Representative",1.3733743797672897,4
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Business Analyst",1.2411344309899157,5
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Account Executive",1.0512463755341297,6
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Account Manager",0.9862425463290232,7
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Financial Analyst",0.9222803831510726,8
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Real Estate Agent",0.8025243993622628,9
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Product Manager",0.8001010322068516,10
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Full Stack Engineer",0.7983861882723868,11
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Data Analyst",0.7624354482139372,12
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Nurse",0.7550255154302099,13
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Graphic Designer",0.6295586986967343,14
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Accountant",0.6021791551669036,15
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Recruiter",0.5750739487549852,16
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Human Resources Administrator",0.5626511995464812,17
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Marketing Manager",0.5440319073710762,18
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Marketing Coordinator",0.47626714564755984,19
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Jobs,"Lawyer",0.4688004037867196,20
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Time Management",-1,1
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"JavaScript",-1,2
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Project Planning",-1,3
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Adobe Illustrator",-1,4
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Account Management",-1,5
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Financial Reporting",-1,6
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Business Analysis",-1,7
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Construction Management",-1,8
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Residential Real Estate",-1,9
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Financial Analysis",-1,10
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,11
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Legal Writing",-1,12
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Legal Advice",-1,13
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Marketing Strategy",-1,14
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Data Analysis",-1,15
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Requirements Gathering",-1,16
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"React.js",-1,17
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Social Media Marketing",-1,18
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Recruiting",-1,19
+2021-06-01,ca,"Canada","Greater Toronto Area, Canada","All",Top Trending Skills,"Node.js",-1,20

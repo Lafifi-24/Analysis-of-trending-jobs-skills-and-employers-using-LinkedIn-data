@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,be,"Belgium","All","Consumer Goods",Top Trending Jobs,"Salesperson",5.277293302661985,1
+2020-01-01,be,"Belgium","All","Consumer Goods",Top Trending Jobs,"Account Manager",4.873470557919211,2
+2020-01-01,be,"Belgium","All","Consumer Goods",Top Trending Skills,"Account Management",-1,1
+2020-01-01,be,"Belgium","All","Consumer Goods",Top Trending Skills,"Business-to-Business (B2B)",-1,2

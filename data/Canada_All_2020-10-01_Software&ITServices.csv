@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Amazon",16.947195004711997,1
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Concentrix",30.57980485329084,2
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Shopify",8.732748907400838,3
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",11.60069635843188,4
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"CGI",3.170780355623263,5
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"SkipTheDishes",10.270430700166239,6
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Microsoft",5.402439362012181,7
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Accenture",4.008500605937249,8
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Sutherland",28.132346438121864,9
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Ceridian",6.559390433909125,10
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Communitech",54.618785230971476,11
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"NTT DATA Services",12.463962541687359,12
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Levio",13.454788977514667,13
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Uber",8.002466161635539,14
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Ericsson",4.263081375320556,15
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Sherweb",12.749354591414628,16
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"Lightspeed HQ",11.998910798960742,17
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"MindGeek",8.203647170048017,18
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"TELUS Business",9.558024966611509,19
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Employers,"ApplyBoard",17.465807795593697,20
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Software Engineer",13.77498542718304,1
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",2.149168353221829,2
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Project Manager",1.9969531160831901,3
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Account Executive",1.7894973869262147,4
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Product Manager",1.5232590080689263,5
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Web Developer",1.3192548428115876,6
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Business Analyst",1.2282176476008233,7
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Account Manager",1.1683631048448933,8
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Fulfillment Associate",1.168348792549509,9
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",1.0637653329745507,10
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Technical Support Advisor",1.009574122650371,11
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Customer Service Representative",0.9894950280810305,12
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Warehouse Associate",0.8686289261364369,13
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Data Scientist",0.8677561365825395,14
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",0.8349399850236947,15
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Sales Development Representative",0.8130355381489102,16
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Business Development Representative",0.800725790389536,17
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Solutions Architect",0.7175613969761615,18
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"User Experience Designer",0.7068411615038989,19
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Jobs,"Product Designer",0.6744482710432947,20
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Project Planning",-1,2
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Time Management",-1,3
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Account Management",-1,4
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Business Analysis",-1,5
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Construction Management",-1,6
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,7
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,8
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"React.js",-1,9
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Node.js",-1,10
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,11
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,12
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Solution Architecture",-1,13
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Data Science",-1,14
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"User Experience Design (UED)",-1,15
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Wireframing",-1,16
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Integration",-1,17
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"SASS",-1,18
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Product Design",-1,19
+2020-10-01,ca,"Canada","All","Software & IT Services",Top Trending Skills,"Warehouse Operations",-1,20

@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Tesla",7.373092016931195,1
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Cruise",12.485211038556253,2
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Lucid Motors",21.472023546156745,3
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Zoox",10.82868974933333,4
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Rivian",44.709335291782374,5
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Lockheed Martin",5.377446285856516,6
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Software Engineer",6.608673513578357,1
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",2.498297766293003,2
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Sales Manager",1.7699438692214173,3
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Project Manager",1.69529918390462,4
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Construction Management",-1,3
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,4
+2020-02-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,5

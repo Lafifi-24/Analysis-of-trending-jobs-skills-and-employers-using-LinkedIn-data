@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"everis",10.424621140829968,1
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Globant",16.806984158592083,2
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Cornershop",14.580702477976523,3
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Deloitte",6.277683011483232,4
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"walmart-chile-corp",4.944217035362907,5
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Banco Bci",2.4202616530023664,6
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"WOM Chile",7.028691221574636,7
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Falabella Retail",3.827695846857294,8
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"poder-judicial-de-chile",9.18546789521113,9
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"CODELCO – Corporación Nacional del Cobre de Chile",2.6578263833503537,10
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"redsaludcchc",7.003889097882151,11
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Cencosud S.A.",3.056539083845729,12
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"afp-planvital",12.838489876457931,13
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Clinica Alemana de Santiago",6.74458302427719,14
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Banco de Chile",2.107037281721672,15
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Ripley Chile",4.489928584077832,16
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Itaú",3.5413524226852435,17
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Entel",1.8779372301903092,18
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Pontificia Universidad Católica de Chile",1.0993196873903206,19
+2021-01-01,cl,"Chile","All","All",Top Trending Employers,"Imagemaker S.A.",27.604088717258513,20
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Software Engineer",2.603733878913191,1
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Nurse",2.2657977785442203,2
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Project Manager",1.8629967680032635,3
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Attorney",1.626031355934554,4
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Commercial Associate",1.5635288243516992,5
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Project Engineer",1.5423835044278762,6
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Sales Executive",1.1731846241409047,7
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Teacher",1.1558968195511632,8
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Full Stack Engineer",1.0982433170740349,9
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Journalist",1.0625574856123619,10
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Product Manager",1.018776180512344,11
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Medical Technologist",0.9740568153757989,12
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Salesperson",0.9241414629016016,13
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Kinesiologist",0.8821194828797297,14
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Psychologist",0.8757426538348321,15
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Key Account Manager",0.8739886115525927,16
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Dentist",0.869217770123637,17
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Professor",0.8469495287655374,18
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Assignment Manager",0.8301543448399366,19
+2021-01-01,cl,"Chile","All","All",Top Trending Jobs,"Operations Manager",0.8045305068603573,20
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Teaching",-1,1
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Legal Advice",-1,2
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Legal Research",-1,3
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Team Leadership",-1,4
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"JavaScript",-1,5
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Negotiation",-1,6
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Microsoft Project",-1,7
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"MySQL",-1,8
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Nursing",-1,9
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Journalism",-1,10
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Rehabilitation",-1,11
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Psychotherapy",-1,12
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Dentistry",-1,13
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Physical Therapy",-1,14
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Node.js",-1,15
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"Clinical Research",-1,16
+2021-01-01,cl,"Chile","All","All",Top Trending Skills,"React.js",-1,17

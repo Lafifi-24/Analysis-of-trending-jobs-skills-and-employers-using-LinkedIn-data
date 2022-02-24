@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Salt Lake City Metropolitan Area","Health Care",Top Trending Employers,"Intermountain Healthcare",3.0265624661547523,1
+2020-03-01,us,"United States","Salt Lake City Metropolitan Area","Health Care",Top Trending Employers,"University of Utah Health",4.254466102667879,2
+2020-03-01,us,"United States","Salt Lake City Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",7.761272670153188,1
+2020-03-01,us,"United States","Salt Lake City Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-03-01,us,"United States","Salt Lake City Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

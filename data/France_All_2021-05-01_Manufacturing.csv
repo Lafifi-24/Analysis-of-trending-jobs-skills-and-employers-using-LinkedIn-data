@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"EDF",1.9653970759441264,1
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Safran",2.1256122900665897,2
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"NAVAL GROUP",4.47761736515265,3
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Renault Group",1.9641150433831351,4
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Air Liquide",3.5509808601162964,5
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Michelin",2.5487476280626002,6
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Eiffage Énergie Systèmes",4.005868298342982,7
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Schneider Electric",1.9714413871615382,8
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Thales Alenia Space",4.4423061122953715,9
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"dassault-aviation",4.424713832300959,10
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Assystem",3.6267547689412862,11
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Dalkia",2.4434935841114047,12
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Centre National d'Études Spatiales",6.932001478090875,13
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"MBDA",4.076050177756053,14
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Arkema",3.6072159505313457,15
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Airbus",0.5106353096525279,16
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Danone",2.2499095478850974,17
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Faurecia",1.9361203696207827,18
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"Valeo",1.2139044911667,19
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Employers,"SEGULA Technologies",2.7644385231143622,20
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Project Manager",3.946051252485974,1
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Salesperson",2.691462655342672,2
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Business Manager",2.5867618964401413,3
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Sales Advisor",1.8641719621240516,4
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Communications Manager",1.3723074228614518,5
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Maintenance Technician",1.295960246364889,6
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Business Account Executive",1.2909067781473094,7
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Human Resources Manager",1.167063231690162,8
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Buyer",1.1052448832978259,9
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Sales Manager",0.98902584227708,10
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Development Engineer",0.9199917231633181,11
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Research And Development Engineer",0.9109182303960086,12
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Research Analyst",0.9083235517106378,13
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Software Engineer",0.8539136357094307,14
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Project Associate",0.8454828105906547,15
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Design Engineer",0.7636089884192221,16
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Methods Engineer",0.7441397011308071,17
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Business Development Manager",0.7214305580384827,18
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Production Manager",0.7021210064569923,19
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Jobs,"Project Engineer",0.6918319315525528,20
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Negotiation",-1,2
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Social Media",-1,3
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Recruiting",-1,4
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Java",-1,5
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Git",-1,6
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Sales Management",-1,7
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Internal Communications",-1,8
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"JavaScript",-1,9
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Commerce",-1,10
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Research and Development (R&D)",-1,11
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Maintenance & Repair",-1,12
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"AutoCAD",-1,13
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Maintenance",-1,14
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Continuous Improvement",-1,15
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Production Management",-1,16
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"MATLAB",-1,17
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,18
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Project Engineering",-1,19
+2021-05-01,fr,"France","All","Manufacturing",Top Trending Skills,"Quantum GIS",-1,20

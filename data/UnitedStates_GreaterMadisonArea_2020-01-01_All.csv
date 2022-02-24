@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"University of Wisconsin-Madison",4.056229858303001,1
+2020-01-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"Epic",3.4531794802994127,2
+2020-01-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"Exact Sciences",12.768770018915745,3
+2020-01-01,us,"United States","Greater Madison Area","All",Top Trending Employers,"UW Health",4.061800818929456,4
+2020-01-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Project Manager",2.4855081027605133,1
+2020-01-01,us,"United States","Greater Madison Area","All",Top Trending Jobs,"Software Engineer",2.433696673861795,2
+2020-01-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","Greater Madison Area","All",Top Trending Skills,"Construction Management",-1,2

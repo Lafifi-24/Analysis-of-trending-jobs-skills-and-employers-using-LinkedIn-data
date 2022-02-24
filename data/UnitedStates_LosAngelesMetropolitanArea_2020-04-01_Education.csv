@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of Southern California",2.95542716118228,1
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Los Angeles",3.354389211071844,2
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"UC Irvine",4.072198339225731,3
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Riverside",4.535201782185133,4
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Los Angeles Unified School District",1.2144707661845964,5
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Chapman University",3.36419101410736,6
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Teacher",11.353681636119632,1
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Professor",6.102730863311728,2
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Lecturer",2.103403487789096,3
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-04-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

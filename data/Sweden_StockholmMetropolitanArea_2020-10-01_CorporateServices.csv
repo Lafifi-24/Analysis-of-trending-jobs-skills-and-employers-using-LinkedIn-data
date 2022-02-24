@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Employers,"Deloitte",9.548757107180208,1
+2020-10-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Jobs,"Management Consultant",5.9817883752549,1
+2020-10-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Jobs,"Audit Associate",5.97080696138016,2
+2020-10-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Skills,"Change Management",-1,1
+2020-10-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Skills,"Management Consulting",-1,2
+2020-10-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Skills,"Auditing",-1,3

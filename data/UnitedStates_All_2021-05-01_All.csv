@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Microsoft",3.6726600971066565,1
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Amazon Web Services (AWS)",6.177395279155869,2
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Facebook",4.686921196545518,3
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Keller Williams Realty, Inc.",3.664876902373324,4
+2021-05-01,us,"United States","All","All",Top Trending Employers,"eXp Realty",9.818320673968453,5
+2021-05-01,us,"United States","All","All",Top Trending Employers,"JPMorgan Chase & Co.",3.0366633971806016,6
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Apple",2.549184053765879,7
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Accenture",4.280728688831112,8
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Northwestern Mutual",8.743233570603596,9
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Wells Fargo",1.6270970713441992,10
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Fidelity Investments",5.431335006427237,11
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Compass",7.700762400810023,12
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Lowe's Companies, Inc.",3.807966091283986,13
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Target",2.1962269699084525,14
+2021-05-01,us,"United States","All","All",Top Trending Employers,"General Motors",4.757533525875774,15
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Morgan Stanley",4.831043571107023,16
+2021-05-01,us,"United States","All","All",Top Trending Employers,"DoorDash",6.845912352576206,17
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Starbucks",2.7868012577862356,18
+2021-05-01,us,"United States","All","All",Top Trending Employers,"Tesla",5.9981505855941775,19
+2021-05-01,us,"United States","All","All",Top Trending Employers,"The Home Depot",3.0695129759794626,20
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Software Engineer",3.145400906135129,1
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Project Manager",1.9592510089738027,2
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Real Estate Agent",1.6341903543834906,3
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Account Executive",1.6053898955141588,4
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Salesperson",1.5165405360056354,5
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Account Manager",1.3583154964785735,6
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Recruiter",1.091962562827423,7
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Nurse",0.9983050402898406,8
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Customer Service Representative",0.8810944297084147,9
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Sales Manager",0.7967318911223128,10
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Accountant",0.7576022161535351,11
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Operations Manager",0.7044387005354199,12
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Product Manager",0.6634987858569248,13
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Attorney",0.6630243808931188,14
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Program Manager",0.6391506794306644,15
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"General Manager",0.6046951386261616,16
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Teacher",0.5434735785533646,17
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Sales Director",0.5231794015797164,18
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Financial Analyst",0.5151847904888732,19
+2021-05-01,us,"United States","All","All",Top Trending Jobs,"Human Resources Administrator",0.5059907232732449,20
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Teaching",-1,1
+2021-05-01,us,"United States","All","All",Top Trending Skills,"JavaScript",-1,2
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Account Management",-1,4
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Sales Management",-1,5
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Investment Properties",-1,6
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Team Building",-1,8
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Operations Management",-1,9
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Legal Writing",-1,10
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Recruiting",-1,11
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Construction Management",-1,12
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Program Management",-1,13
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Civil Litigation",-1,14
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Account Reconciliation",-1,15
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Sales Operations",-1,16
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Inventory Management",-1,17
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Financial Analysis",-1,18
+2021-05-01,us,"United States","All","All",Top Trending Skills,"General Ledger",-1,19
+2021-05-01,us,"United States","All","All",Top Trending Skills,"Customer Satisfaction",-1,20

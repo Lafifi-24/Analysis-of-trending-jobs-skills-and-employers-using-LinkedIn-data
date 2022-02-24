@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Employers,"Tesla",8.729838845558355,1
+2021-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",2.499417855402173,1
+2021-01-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1

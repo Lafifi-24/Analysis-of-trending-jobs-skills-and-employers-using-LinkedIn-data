@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Tesla",12.45131903879276,1
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Lockheed Martin",2.3189895735347643,2
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"General Motors",3.506743137789469,3
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"United States Air Force",1.3753385503245894,4
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Honeywell",3.198001913174246,5
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Rivian",20.81168499547274,6
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Boeing",1.129731858162507,7
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Ford Motor Company",2.279741111593181,8
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"SpaceX",8.175371178952716,9
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Sunrun",13.903277886501375,10
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Sherwin-Williams",2.653047431045892,11
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"3M",2.3889975214382195,12
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Lucid Motors",24.74682139518179,13
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"NASA - National Aeronautics and Space Administration",4.36994256675853,14
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"AutoZone",4.12282649202912,15
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Federal Aviation Administration",2.6166686513164694,16
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"KBR, Inc.",5.230443457240478,17
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Cargill",2.656988810851867,18
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"Alion Science and Technology",11.850929806968137,19
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Employers,"BAE Systems, Inc.",2.9587635740222025,20
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Software Engineer",3.1263831782292293,1
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.0857688527623415,2
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Project Manager",1.7315364708555148,3
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"System Engineer",1.6369615228741197,4
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Salesperson",1.4844548829039934,5
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.477237637019558,6
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Account Manager",1.3419105558124507,7
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Customer Service Representative",1.0416873720560542,8
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Program Manager",0.9839977024717826,9
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",0.9687383876981043,10
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Sales Consultant",0.9368082827037494,11
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Accountant",0.9150212813725892,12
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Electrical Engineer",0.9078709509724102,13
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Human Resources Administrator",0.8280072813117538,14
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Financial Analyst",0.7944707758927227,15
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Quality Engineer",0.7859563178980967,16
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Project Engineer",0.7578578881419386,17
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Operations Manager",0.7091303355018798,18
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Recruiter",0.6941997670620388,19
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Human Resources Manager",0.6856182026606736,20
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Operations Management",-1,4
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Team Building",-1,5
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Recruiting",-1,6
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Construction Management",-1,7
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Program Management",-1,8
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Account Reconciliation",-1,9
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Sales Operations",-1,10
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Financial Analysis",-1,11
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"General Ledger",-1,12
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Customer Satisfaction",-1,13
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Interviewing",-1,14
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Employee Relations",-1,15
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Financial Reporting",-1,16
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,17
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Systems Engineering",-1,18
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"Integration",-1,19
+2020-10-31,us,"United States","All","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,20

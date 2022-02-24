@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Capgemini",2.288537180160965,1
+2021-04-01,fr,"France","All","All",Top Trending Employers,"AFPA",4.033058066193376,2
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Orange",1.10790663147348,3
+2021-04-01,fr,"France","All","All",Top Trending Employers,"BNP Paribas",0.8108111026155659,4
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Leroy Merlin",3.308787449306482,5
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Thales",1.3416825707399822,6
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Sopra Steria",2.063118232871359,7
+2021-04-01,fr,"France","All","All",Top Trending Employers,"E.Leclerc",2.6663887781035487,8
+2021-04-01,fr,"France","All","All",Top Trending Employers,"AXA",1.8689476459766023,9
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Safran",1.1180979167513452,10
+2021-04-01,fr,"France","All","All",Top Trending Employers,"L'Oréal",1.741241168154057,11
+2021-04-01,fr,"France","All","All",Top Trending Employers,"EDF",0.9128025909104746,12
+2021-04-01,fr,"France","All","All",Top Trending Employers,"CNRS",2.7357810360199406,13
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Total",1.5205115362866286,14
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Sanofi",1.7586131131526141,15
+2021-04-01,fr,"France","All","All",Top Trending Employers,"ALTEN",2.3982187889075726,16
+2021-04-01,fr,"France","All","All",Top Trending Employers,"DECATHLON FRANCE",1.6241774918326253,17
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Pôle emploi",1.3160205074350249,18
+2021-04-01,fr,"France","All","All",Top Trending Employers,"NAVAL GROUP",2.732417325487764,19
+2021-04-01,fr,"France","All","All",Top Trending Employers,"Wavestone",4.513956182432084,20
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Project Manager",4.986939401574454,1
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Communications Manager",2.017784978433881,2
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Salesperson",2.012884798763186,3
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Business Manager",1.6321089064037484,4
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Software Engineer",1.3304467885237055,5
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Project Associate",1.2298292687045185,6
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Business Account Executive",0.9409151395628623,7
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Human Resources Manager",0.933290156533144,8
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Education Instructor",0.9264162829130297,9
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Community Manager",0.8878729308020472,10
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Real Estate Consultant",0.8833775774127129,11
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Web Developer",0.8570127964957714,12
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Research Analyst",0.844963743042286,13
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Product Manager",0.8252578242826349,14
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Sales Advisor",0.7807706603863701,15
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Accountant",0.7762855476216748,16
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Commercial Associate",0.7447998632085672,17
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Development Engineer",0.734097911363286,18
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Account Manager",0.684914964652562,19
+2021-04-01,fr,"France","All","All",Top Trending Jobs,"Legal Officer",0.6752884412154403,20
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Project Management",-1,1
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Teaching",-1,2
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Negotiation",-1,3
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Social Media",-1,4
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Recruiting",-1,5
+2021-04-01,fr,"France","All","All",Top Trending Skills,"JavaScript",-1,6
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Java",-1,7
+2021-04-01,fr,"France","All","All",Top Trending Skills,"PHP",-1,8
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Git",-1,9
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Marketing Strategy",-1,10
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Internal Communications",-1,11
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Legal Research",-1,12
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Legal Advice",-1,13
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Account Reconciliation",-1,14
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Training Facilitation",-1,15
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Account Management",-1,16
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Real Estate Transactions",-1,17
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Community Management",-1,18
+2021-04-01,fr,"France","All","All",Top Trending Skills,"Commerce",-1,19
+2021-04-01,fr,"France","All","All",Top Trending Skills,"AutoCAD",-1,20

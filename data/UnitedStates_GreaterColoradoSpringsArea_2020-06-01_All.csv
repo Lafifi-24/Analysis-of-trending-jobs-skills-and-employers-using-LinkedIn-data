@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Employers,"United States Air Force",4.121208252677768,1
+2020-06-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Jobs,"Software Engineer",3.7106833358574316,1
+2020-06-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Jobs,"System Engineer",2.0189227711925084,2
+2020-06-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Skills,"Systems Engineering",-1,2
+2020-06-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Skills,"Integration",-1,3

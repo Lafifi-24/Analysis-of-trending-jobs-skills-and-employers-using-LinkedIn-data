@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"University of Glasgow",2.3211451755382586,1
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"NHS Greater Glasgow and Clyde",4.6366299216149685,2
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"NHS",8.519761271242663,3
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"Morrisons",23.49715090396335,4
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Project Manager",2.7794897696471854,1
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Software Engineer",2.01468603145182,2
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Support Associate",1.3983014402502438,3
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Stakeholder Management",-1,2
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Project Delivery",-1,3
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Mental Health",-1,4
+2020-05-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Support Workers",-1,5

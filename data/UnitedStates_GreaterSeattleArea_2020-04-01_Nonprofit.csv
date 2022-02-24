@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Greater Seattle Area","Nonprofit",Top Trending Employers,"Bill & Melinda Gates Foundation",4.5239362006919785,1
+2020-04-01,us,"United States","Greater Seattle Area","Nonprofit",Top Trending Skills,"Public Speaking",-1,1
+2020-04-01,us,"United States","Greater Seattle Area","Nonprofit",Top Trending Skills,"Nonprofit Organizations",-1,2

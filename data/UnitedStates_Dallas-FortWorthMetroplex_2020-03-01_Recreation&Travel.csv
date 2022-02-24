@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Dallas-Fort Worth Metroplex","Recreation & Travel",Top Trending Employers,"American Airlines",3.134780161043962,1
+2020-03-01,us,"United States","Dallas-Fort Worth Metroplex","Recreation & Travel",Top Trending Employers,"Southwest Airlines",2.6316309224547236,2
+2020-03-01,us,"United States","Dallas-Fort Worth Metroplex","Recreation & Travel",Top Trending Jobs,"General Manager",4.144672152870423,1
+2020-03-01,us,"United States","Dallas-Fort Worth Metroplex","Recreation & Travel",Top Trending Jobs,"Server",3.66690646233391,2
+2020-03-01,us,"United States","Dallas-Fort Worth Metroplex","Recreation & Travel",Top Trending Skills,"Team Building",-1,1
+2020-03-01,us,"United States","Dallas-Fort Worth Metroplex","Recreation & Travel",Top Trending Skills,"Time Management",-1,2
+2020-03-01,us,"United States","Dallas-Fort Worth Metroplex","Recreation & Travel",Top Trending Skills,"Inventory Management",-1,3

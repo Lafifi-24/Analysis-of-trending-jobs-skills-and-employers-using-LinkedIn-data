@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Employers,"Jacobs",33.905328740137705,1
+2021-02-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Jobs,"Real Estate Agent",3.272005435154393,1
+2021-02-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Jobs,"Software Engineer",2.824284034583804,2
+2021-02-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-02-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Skills,"Investment Properties",-1,2
+2021-02-01,us,"United States","Greater Colorado Springs Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,3

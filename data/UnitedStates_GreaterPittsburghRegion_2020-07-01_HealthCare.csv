@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Employers,"Allegheny Health Network",3.8177814325603396,1
+2020-07-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Employers,"Highmark Health",4.123285960255871,2
+2020-07-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Employers,"Philips",5.2905231332567615,3
+2020-07-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Employers,"UPMC Children's Hospital of Pittsburgh",3.8690744158016694,4
+2020-07-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Jobs,"Nurse",8.085863970999831,1
+2020-07-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Jobs,"Clinical Fellow",3.4558014404571784,2
+2020-07-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-07-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2
+2020-07-01,us,"United States","Greater Pittsburgh Region","Health Care",Top Trending Skills,"Clinical Research",-1,3

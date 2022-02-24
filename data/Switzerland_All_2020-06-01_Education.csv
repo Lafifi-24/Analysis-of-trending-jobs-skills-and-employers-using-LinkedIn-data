@@ -1,0 +1,18 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Employers,"ETH Zürich",3.142811511408851,1
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Zurich",3.729804373888309,2
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",3.178194569372462,3
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Bern",4.064611180802356,4
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Employers,"ZHAW Zurich University of Applied Sciences",5.812779571819084,5
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Applied Sciences and Arts Northwestern Switzerland FHNW",5.256761773208639,6
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Geneva",2.0261072446036934,7
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Employers,"CERN",1.7361902232670063,8
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of St.Gallen",5.358510939635191,9
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Lecturer",14.013125202095999,1
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Postdoctoral Researcher",10.306641713129567,2
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Professor",4.7975146800830775,3
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Scientific Officer",3.8069692265648603,4
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Skills,"Change Management",-1,2
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Skills,"Scientific Writing",-1,3
+2020-06-01,ch,"Switzerland","All","Education",Top Trending Skills,"Research",-1,4

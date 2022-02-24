@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Apple",2.519252560998767,1
+2021-06-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Amazon Lab126",3.4964471287792778,2
+2021-06-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Levi Strauss & Co.",3.4185506336931404,3
+2021-06-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Jobs,"Software Engineer",6.789880317286849,1
+2021-06-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Jobs,"Salesperson",3.7777618642246122,2
+2021-06-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Jobs,"Product Manager",1.4531711184017855,3
+2021-06-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Skills,"Agile Methodologies",-1,2

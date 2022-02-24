@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Wellness & Fitness",Top Trending Employers,"Equinox",6.290899014711806,1
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Wellness & Fitness",Top Trending Employers,"CVS Health",5.9202043874758825,2
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Wellness & Fitness",Top Trending Jobs,"Personal Trainer",5.075677456166126,1
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Wellness & Fitness",Top Trending Jobs,"Yoga Instructor",3.6383124186821476,2
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Personal Training",-1,1
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Fitness",-1,2
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Yoga Instruction",-1,3
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Wellness & Fitness",Top Trending Skills,"Yoga",-1,4

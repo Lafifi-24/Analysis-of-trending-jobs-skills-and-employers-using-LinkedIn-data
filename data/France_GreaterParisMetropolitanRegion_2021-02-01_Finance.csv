@@ -1,0 +1,55 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"BNP Paribas",1.5881084735254518,1
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Bpifrance",7.250260453361883,2
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Natixis",2.6977070595637493,3
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"AXA",2.570188541684779,4
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"KPMG France",4.844174780627673,5
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Societe Generale Corporate and Investment Banking - SGCIB",2.409921757706456,6
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"PwC France",4.496632103603685,7
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Banque de France",4.312612547114267,8
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Crédit Agricole CIB",2.363340663650284,9
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"LCL",2.137142147715235,10
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"La Banque Postale",2.547433832509396,11
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Amundi",3.8654043728794147,12
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"CACEIS",5.725400681300826,13
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Groupe BPCE",2.549982236418234,14
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"BNP Paribas Cardif",2.881413058812574,15
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Generali",2.849680699031965,16
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"ODDO BHF",7.670828749278691,17
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"HSBC",1.340586164405391,18
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Project Manager",4.200063021845064,1
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Mergers and Acquisitions Analyst",2.2138755654050155,2
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Legal Officer",2.2030081014672542,3
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Financial Auditor",2.0879779311507565,4
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Wealth Management Advisor",2.0012754824299295,5
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Client Advisor",1.9629087540133772,6
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Financial Analyst",1.916539318239534,7
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Business Analyst",1.581254872296691,8
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Private Equity Analyst",1.5804987927434173,9
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Financial Advisor",1.551258233091896,10
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Investment Analyst",1.2222825392642431,11
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Software Engineer",1.0830380719377861,12
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Communications Manager",1.078647064543848,13
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Credit Analyst",0.9815626173135438,14
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Product Owner",0.9805820664336783,15
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Customer Associate",0.9744877505785805,16
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Auditor",0.9335791091748371,17
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Accountant",0.9330133228512341,18
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Project Management",-1,1
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Social Media",-1,2
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Java",-1,3
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Git",-1,4
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Internal Communications",-1,5
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Legal Research",-1,6
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Legal Advice",-1,7
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Account Reconciliation",-1,8
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Wealth Management",-1,9
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Agile Methodologies",-1,10
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Scrum",-1,11
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Assurance",-1,12
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Auditing",-1,13
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Financial Analysis",-1,14
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"SQL",-1,15
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Financial Audits",-1,16
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Corporate Finance",-1,17
+2021-02-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Mergers & Acquisitions (M&A)",-1,18

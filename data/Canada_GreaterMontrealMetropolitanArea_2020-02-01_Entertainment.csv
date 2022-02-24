@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,ca,"Canada","Greater Montreal Metropolitan Area","Entertainment",Top Trending Employers,"DNEG",31.065880992885397,1
+2020-02-01,ca,"Canada","Greater Montreal Metropolitan Area","Entertainment",Top Trending Employers,"Framestore",14.787467842306656,2
+2020-02-01,ca,"Canada","Greater Montreal Metropolitan Area","Entertainment",Top Trending Employers,"ubisoft-montreal",4.552770941327852,3
+2020-02-01,ca,"Canada","Greater Montreal Metropolitan Area","Entertainment",Top Trending Jobs,"Animator",5.08428203731018,1
+2020-02-01,ca,"Canada","Greater Montreal Metropolitan Area","Entertainment",Top Trending Jobs,"Artist",4.143392210489507,2
+2020-02-01,ca,"Canada","Greater Montreal Metropolitan Area","Entertainment",Top Trending Jobs,"Software Engineer",3.9488713121281513,3
+2020-02-01,ca,"Canada","Greater Montreal Metropolitan Area","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,ca,"Canada","Greater Montreal Metropolitan Area","Entertainment",Top Trending Skills,"Character Animation",-1,2
+2020-02-01,ca,"Canada","Greater Montreal Metropolitan Area","Entertainment",Top Trending Skills,"Computer Animation",-1,3

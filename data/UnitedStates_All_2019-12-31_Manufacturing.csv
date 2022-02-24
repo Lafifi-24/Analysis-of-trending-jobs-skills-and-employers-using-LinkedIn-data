@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Lockheed Martin",4.7459040006233355,1
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Boeing",3.3911988433621714,2
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"United States Air Force",2.1893118489387127,3
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Tesla",6.338246058578006,4
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Ford Motor Company",4.260498202068579,5
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Honeywell",3.526573941629927,6
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"FCA Fiat Chrysler Automobiles",4.201251634745322,7
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"General Motors",1.8010520126392402,8
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Sherwin-Williams",3.09999164907184,9
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"BLUE ORIGIN",16.462528197071215,10
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Rivian",35.514910174674434,11
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"3M",2.7023108768753956,12
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"BAE Systems",5.523077925695468,13
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Federal Aviation Administration",3.2166575157909216,14
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Cargill",3.731426385568003,15
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Toyota North America",4.185753008519767,16
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"KBR, Inc.",6.767896445851567,17
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"AutoZone",4.5457410628924615,18
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"BAE Systems, Inc.",4.733615074976819,19
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Employers,"Georgia-Pacific LLC",4.157868187786294,20
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Software Engineer",2.899897769221169,1
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.5513915633038406,2
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"System Engineer",1.6412839593903057,3
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Project Manager",1.6261262451967944,4
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Account Manager",1.5024810436808806,5
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.438174016200642,6
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Salesperson",1.4171488500056986,7
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",1.0152306860910343,8
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Accountant",0.9900625489774991,9
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Customer Service Representative",0.9463813754882983,10
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Program Manager",0.8890965201093168,11
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"General Manager",0.8618983141691804,12
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Electrical Engineer",0.8586099734158401,13
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Sales Consultant",0.7796113374977649,14
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Financial Analyst",0.7746090856729418,15
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Quality Engineer",0.772402616364764,16
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Operations Manager",0.7621626888066227,17
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Project Engineer",0.7246113068278308,18
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Business Development Manager",0.7151907910757191,19
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Jobs,"Human Resources Administrator",0.6981442786408207,20
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Team Building",-1,4
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Operations Management",-1,5
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Construction Management",-1,6
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Program Management",-1,7
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Account Reconciliation",-1,8
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Sales Operations",-1,9
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Inventory Management",-1,10
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Financial Analysis",-1,11
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"General Ledger",-1,12
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Customer Satisfaction",-1,13
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Financial Reporting",-1,14
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,15
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Systems Engineering",-1,16
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Integration",-1,17
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,18
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,19
+2019-12-31,us,"United States","All","Manufacturing",Top Trending Skills,"Manufacturing Engineering",-1,20

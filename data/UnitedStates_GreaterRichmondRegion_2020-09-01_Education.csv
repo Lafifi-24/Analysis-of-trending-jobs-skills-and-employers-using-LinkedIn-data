@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Richmond Region","Education",Top Trending Employers,"Virginia Commonwealth University",5.943315329909317,1
+2020-09-01,us,"United States","Greater Richmond Region","Education",Top Trending Employers,"Chesterfield County Public Schools",10.48554614127104,2
+2020-09-01,us,"United States","Greater Richmond Region","Education",Top Trending Employers,"Richmond Public Schools",18.72228028909219,3
+2020-09-01,us,"United States","Greater Richmond Region","Education",Top Trending Employers,"University of Richmond",4.95806277497134,4
+2020-09-01,us,"United States","Greater Richmond Region","Education",Top Trending Jobs,"Teacher",13.882808360577295,1
+2020-09-01,us,"United States","Greater Richmond Region","Education",Top Trending Jobs,"Professor",11.72223468317161,2
+2020-09-01,us,"United States","Greater Richmond Region","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Richmond Region","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,us,"United States","Greater Richmond Region","Education",Top Trending Skills,"Higher Education",-1,3

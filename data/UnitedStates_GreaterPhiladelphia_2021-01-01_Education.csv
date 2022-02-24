@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Pennsylvania",2.2985695749204265,1
+2021-01-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Temple University",1.9721983199705289,2
+2021-01-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Delaware",1.6439081274070055,3
+2021-01-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Drexel University",1.67871233162334,4
+2021-01-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Teacher",10.516937941554753,1
+2021-01-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Professor",8.630103716132753,2
+2021-01-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Teaching",-1,1
+2021-01-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-01-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Higher Education",-1,3

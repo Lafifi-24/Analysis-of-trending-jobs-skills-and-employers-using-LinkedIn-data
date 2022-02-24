@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Employers,"Microsoft",10.656075260679001,1
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",4.732202989752906,2
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Employers,"Fortinet",6.877657904120532,3
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Employers,"SAP",4.589419194048322,4
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Employers,"Tipalti",124.55869039281131,5
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",23.098530709413296,1
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Account Executive",3.200284998606578,2
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Sales Development Representative",2.935702508141062,3
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",2.7216183737227264,4
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Product Manager",2.350804132043813,5
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Skills,"React.js",-1,3
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Skills,"Node.js",-1,4
+2021-03-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,5

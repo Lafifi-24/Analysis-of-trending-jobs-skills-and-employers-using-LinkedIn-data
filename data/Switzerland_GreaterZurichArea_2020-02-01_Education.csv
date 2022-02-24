@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,ch,"Switzerland","Greater Zurich Area","Education",Top Trending Employers,"ETH Zürich",6.268506914904877,1
+2020-02-01,ch,"Switzerland","Greater Zurich Area","Education",Top Trending Employers,"University of Zurich",5.351995139415755,2
+2020-02-01,ch,"Switzerland","Greater Zurich Area","Education",Top Trending Jobs,"Lecturer",22.684311481432992,1
+2020-02-01,ch,"Switzerland","Greater Zurich Area","Education",Top Trending Jobs,"Postdoctoral Researcher",13.543855617049786,2
+2020-02-01,ch,"Switzerland","Greater Zurich Area","Education",Top Trending Jobs,"Teacher",7.52677087445323,3
+2020-02-01,ch,"Switzerland","Greater Zurich Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,ch,"Switzerland","Greater Zurich Area","Education",Top Trending Skills,"Change Management",-1,2
+2020-02-01,ch,"Switzerland","Greater Zurich Area","Education",Top Trending Skills,"Scientific Writing",-1,3

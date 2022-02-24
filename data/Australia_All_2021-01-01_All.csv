@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Commonwealth Bank",3.0086118523047913,1
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"KPMG Australia",6.226584752623883,2
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"ANZ",2.489694716733441,3
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"PwC Australia",6.722432555330096,4
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Westpac",3.0877372946193358,5
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Deloitte Australia",5.327387197913977,6
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Department of Justice and Community Safety, Victoria",10.025879021401266,7
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"BHP",2.054703225341781,8
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Crown Resorts",10.02255930598726,9
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Rio Tinto",2.9817733963298965,10
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Macquarie Group",3.81330953066801,11
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Victorian Department of Health",6.427494677486443,12
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Suncorp Group",3.144318379105862,13
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Bega Cheese Limited",31.267839734783585,14
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Downer",3.203893215191166,15
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Fortescue Metals Group",5.201026622625171,16
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Optus",2.707874107106097,17
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Woolworths Supermarkets",2.215971174050101,18
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Australia Post",3.348160685279066,19
+2021-01-01,au,"Australia","All","All",Top Trending Employers,"Telstra",0.9750656735121871,20
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Project Manager",2.3676253130233813,1
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Software Engineer",1.9858573959977797,2
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Business Development Manager",1.4818940696706604,3
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Business Analyst",1.3458193855997151,4
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Account Manager",1.2019920526082786,5
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Customer Service Representative",1.0771986294250757,6
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Accountant",0.9607816035116308,7
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Teacher",0.9215289244709088,8
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Support Associate",0.905176713533405,9
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Operations Manager",0.8580710244661826,10
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"General Manager",0.802532682970581,11
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Salesperson",0.7638855785100513,12
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Nurse",0.7237185964821562,13
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Lawyer",0.676970233032459,14
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Marketing Manager",0.6322419607363324,15
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Project Engineer",0.6107241927205708,16
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Sales Manager",0.5560128514354907,17
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Sales Consultant",0.5537758365836775,18
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Physical Therapist",0.5354832087420569,19
+2021-01-01,au,"Australia","All","All",Top Trending Jobs,"Administrative Officer",0.5055027072359305,20
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Teaching",-1,1
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Account Management",-1,2
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Business Analysis",-1,4
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Sales Management",-1,5
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"JavaScript",-1,6
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Operations Management",-1,7
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"MYOB",-1,8
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Stakeholder Management",-1,9
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Project Delivery",-1,10
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Marketing Strategy",-1,11
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Legal Advice",-1,12
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Change Management",-1,13
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Legal Research",-1,14
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Requirements Gathering",-1,15
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Time Management",-1,16
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Digital Marketing",-1,17
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Rehabilitation",-1,18
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Project Engineering",-1,19
+2021-01-01,au,"Australia","All","All",Top Trending Skills,"Physical Therapy",-1,20

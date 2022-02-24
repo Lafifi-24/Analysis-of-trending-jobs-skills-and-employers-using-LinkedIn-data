@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"L'Oréal",4.236712316041828,1
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"DECATHLON FRANCE",3.2537558977744934,2
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"CHANEL",4.477886250323655,3
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Hermès",4.437784032917266,4
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Louis Vuitton",3.8511134451471363,5
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Christian Dior Couture",7.447526051636371,6
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Parfums Christian Dior",6.037330025524269,7
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"The Estée Lauder Companies Inc.",10.342348052841533,8
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Pernod Ricard",5.820944071877623,9
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"FAREVA",22.257038653760446,10
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Nestlé",4.216810181604005,11
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Henkel",11.419896153669535,12
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Ferrero",11.607354492976988,13
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"PepsiCo",8.576135178480465,14
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Unilever",6.415998197318854,15
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Guerlain",7.7482033940511315,16
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Lacoste",4.917275810511298,17
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Groupe SEB",3.2507746587529507,18
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"RB",11.88887868331213,19
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Employers,"Cartier",4.069848797585174,20
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Product Manager",7.458881387572077,1
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Project Manager",5.694661866924289,2
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Sales Consultant",5.235560149152488,3
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Salesperson",3.2043426420749554,4
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Communications Manager",1.8691560220616927,5
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Category Manager",1.496247046479429,6
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Sales Manager",1.177374719277782,7
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Store Manager",1.0935529717981531,8
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Community Manager",1.0372714013821533,9
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Brand Manager",1.0251540403935975,10
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Business Manager",0.9626229216370642,11
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Human Resources Manager",0.8575761276947116,12
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Graphic Designer",0.8552938489745434,13
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Key Account Manager",0.8183855873099518,14
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Merchandiser",0.780465094234307,15
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Business Analyst",0.7607203543866501,16
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Marketing Manager",0.7328121239098109,17
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Commercial Associate",0.7097586484062902,18
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Jobs,"Floor Manager",0.6659500473788386,19
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Project Management",-1,1
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Social Media",-1,2
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Adobe Illustrator",-1,3
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Adobe InDesign",-1,4
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Recruiting",-1,5
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Marketing Strategy",-1,6
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Sales Management",-1,7
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Internal Communications",-1,8
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Merchandising",-1,9
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Sales Prospecting",-1,10
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Store Management",-1,11
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Community Management",-1,12
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"SQL",-1,13
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Retail",-1,14
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Agile Methodologies",-1,15
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Visual Merchandising",-1,16
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Brand Management",-1,17
+2021-01-01,fr,"France","All","Consumer Goods",Top Trending Skills,"Category Management",-1,18

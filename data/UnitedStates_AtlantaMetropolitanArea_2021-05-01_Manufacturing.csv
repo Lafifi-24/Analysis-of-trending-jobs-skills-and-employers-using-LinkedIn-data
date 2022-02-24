@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"General Motors",7.516598484810564,1
+2021-05-01,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Vanderlande",15.481851378724492,2
+2021-05-01,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.4282218592815035,1
+2021-05-01,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",2.7781327051082854,2
+2021-05-01,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2021-05-01,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

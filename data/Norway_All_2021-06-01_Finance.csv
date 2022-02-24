@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,no,"Norway","All","Finance",Top Trending Employers,"DNB",3.7447778176502773,1
+2021-06-01,no,"Norway","All","Finance",Top Trending Jobs,"Customer Advisor",10.825180318972953,1
+2021-06-01,no,"Norway","All","Finance",Top Trending Jobs,"Financial Advisor",7.017600039722504,2
+2021-06-01,no,"Norway","All","Finance",Top Trending Jobs,"Insurance Advisor",5.829468223093121,3
+2021-06-01,no,"Norway","All","Finance",Top Trending Jobs,"Software Engineer",5.0728716806013425,4
+2021-06-01,no,"Norway","All","Finance",Top Trending Skills,"Git",-1,1

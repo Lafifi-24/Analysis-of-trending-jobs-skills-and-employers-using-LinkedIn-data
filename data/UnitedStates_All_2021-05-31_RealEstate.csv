@@ -1,0 +1,56 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",3.4259571505164517,1
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"eXp Realty",8.19841947700133,2
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Compass",7.534431871534299,3
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"CBRE",4.4183621268245865,4
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Cushman & Wakefield",5.592466902431608,5
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Coldwell Banker",4.488581343540435,6
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Zillow",9.35875549259064,7
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Redfin",8.227249286085819,8
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Greystar",5.096640997890393,9
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"eXp Realty, LLC",8.285660869546039,10
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"RE/MAX",2.9546932550848726,11
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Lennar",5.04252735610597,12
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Berkshire Hathaway HomeServices",3.4353102279679124,13
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Realty ONE Group",4.171384608884772,14
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Opendoor",20.293312564806406,15
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"First American Title",5.181443779488388,16
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"WeWork",6.229117495408605,17
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"CENTURY 21®",2.5418506809221024,18
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Toll Brothers",6.092322826606937,19
+2021-05-31,us,"United States","All","Real Estate",Top Trending Employers,"Fathom Realty",5.9983439631022035,20
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Real Estate Agent",35.192440734324876,1
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Real Estate Broker",3.8336327641680428,2
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Property Manager",3.7491638360540693,3
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Project Manager",2.1257640438406002,4
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Community Manager",1.5908418191867175,5
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Accountant",1.3315505623473904,6
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Leasing Consultant",1.2139526658398603,7
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Salesperson",1.1679520837277821,8
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Real Estate Consultant",1.1212781981702902,9
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Financial Analyst",0.930900709251022,10
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Marketing Coordinator",0.7525243559372884,11
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Software Engineer",0.699867840390846,12
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Construction Manager",0.683065598743105,13
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Real Estate Broker Associate",0.6593691653330509,14
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Leasing Agent",0.6429691822009236,15
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Property Accountant",0.605516571085079,16
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Realtor Sales Associate",0.5497281468288162,17
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Transaction Coordinator",0.544876036854707,18
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"Operations Manager",0.5247493629344309,19
+2021-05-31,us,"United States","All","Real Estate",Top Trending Jobs,"General Manager",0.5110415138288221,20
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"JavaScript",-1,1
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Investment Properties",-1,2
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,3
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Team Building",-1,4
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Operations Management",-1,5
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Construction Management",-1,6
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Account Reconciliation",-1,7
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Inventory Management",-1,8
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Financial Analysis",-1,9
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"General Ledger",-1,10
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Property Management",-1,11
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Financial Reporting",-1,12
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Social Media Marketing",-1,13
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Real Estate Transactions",-1,14
+2021-05-31,us,"United States","All","Real Estate",Top Trending Skills,"Apartments",-1,15

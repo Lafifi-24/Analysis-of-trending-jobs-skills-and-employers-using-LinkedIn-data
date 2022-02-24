@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Boeing",3.4287955046527103,1
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Centene Corporation",5.390887229054826,2
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Washington University in St. Louis",3.61729716844705,3
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Charter Communications",4.591646462503475,4
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Amazon",16.76635133517687,5
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Bayer Crop Science",3.4283949973523518,6
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Barnes-Jewish Hospital",4.592367668613083,7
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Ameren",4.157301623533546,8
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Saint Louis University",4.797008602857817,9
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Washington University School of Medicine in St. Louis",2.5860547015989237,10
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Mercy",2.3889540552928366,11
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Mastercard",2.502097519754066,12
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Wells Fargo",4.662757422385125,13
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"CVS Health",65.00107673465651,14
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"World Wide Technology",2.7974587078503297,15
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"SSM Health",3.1543537727081454,16
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"TD Ameritrade",7.980892637109198,17
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Equifax",5.163642293698754,18
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Reinsurance Group of America, Incorporated",5.0320251069464685,19
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Software Engineer",2.3205949828728496,1
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Nurse",1.6306736590665252,2
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Salesperson",1.5574595158612905,3
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Project Manager",1.5272406804318808,4
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Account Manager",1.0781294390761909,5
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Customer Service Representative",1.0586700585331237,6
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Real Estate Agent",0.9542202212226556,7
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Account Executive",0.9286936386662379,8
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Professor",0.8941052256953695,9
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Sales Manager",0.8642916795544584,10
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Teacher",0.8071373667052816,11
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Accountant",0.8015789655237708,12
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Editor",0.7544641079854961,13
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Business Analyst",0.7289178004548692,14
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Office Manager",0.6160517396132307,15
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Attorney",0.5689469446411676,16
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Data Analyst",0.5634599561519379,17
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Clinical Fellow",0.5559033333348495,18
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Director Of Operations",0.5382498220893228,19
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"System Engineer",0.5292211228104207,20
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Teaching",-1,1
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"JavaScript",-1,2
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Account Management",-1,4
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Sales Management",-1,5
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Investment Properties",-1,6
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Legal Writing",-1,8
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Higher Education",-1,9
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Construction Management",-1,10
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Civil Litigation",-1,11
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Account Reconciliation",-1,12
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Business Analysis",-1,13
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Sales Operations",-1,14
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Editing",-1,15
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Office Administration",-1,16
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"General Ledger",-1,17
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Customer Satisfaction",-1,18
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Data Analysis",-1,19
+2020-07-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Writing",-1,20

@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Memphis Metropolitan Area","Health Care",Top Trending Employers,"St. Jude Children's Research Hospital",4.544951225294782,1
+2020-10-01,us,"United States","Memphis Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",8.701280999326103,1
+2020-10-01,us,"United States","Memphis Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-10-01,us,"United States","Memphis Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

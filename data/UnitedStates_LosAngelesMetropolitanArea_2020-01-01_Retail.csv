@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Target",5.8631006952863345,1
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Starbucks",4.839411241989752,2
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Nordstrom",5.607756298115648,3
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Employers,"Walmart",5.239705662131065,4
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Salesperson",8.870828558850254,1
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Barista",5.84326619337607,2
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Cashier",5.155288563693849,3
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Jobs,"Store Manager",3.909418274701089,4
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Store Management",-1,2
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Time Management",-1,3
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Cashiering",-1,4
+2020-01-01,us,"United States","Los Angeles Metropolitan Area","Retail",Top Trending Skills,"Barista",-1,5

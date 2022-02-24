@@ -1,0 +1,57 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Health Service Executive",5.694232248460068,1
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Amazon",15.645625283100845,2
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Facebook",8.48228681160948,3
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Accenture",3.95088315110353,4
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Amazon Web Services (AWS)",9.565032004184449,5
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Apple",4.967592141455414,6
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Microsoft",5.437174035881521,7
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Regeneron",12.738049574589509,8
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Eli Lilly and Company",10.323345401683683,9
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Pfizer",4.545005464536889,10
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Intel Corporation",5.500946854173521,11
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Fidelity Investments",8.168094752053765,12
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"HubSpot",9.318010958589717,13
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Novartis",6.999802158058705,14
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Trinity College Dublin",2.8726460295725635,15
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Mastercard",7.9469535227518024,16
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"University College Dublin",2.343291940262376,17
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Citi",3.258979888977096,18
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"Lidl Ireland",6.130928205339216,19
+2020-06-01,ie,"Ireland","All","All",Top Trending Employers,"PayPal",3.5963110449607747,20
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Software Engineer",3.938677301876824,1
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Project Manager",1.4780078274020592,2
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Account Executive",1.1534009794175148,3
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Account Manager",1.0361665578174062,4
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Accountant",0.9621779859088248,5
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Quality Control Analyst",0.7908348147150612,6
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Quality Analyst",0.7406287469053623,7
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Nurse",0.7167310044250033,8
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Financial Accountant",0.6974948233750353,9
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Customer Service Representative",0.6943185515228797,10
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Operations Manager",0.659591884163236,11
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Business Development Representative",0.5964330119234109,12
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Data Analyst",0.5895961053010462,13
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Support Associate",0.5694948893648628,14
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Sales Development Representative",0.5556141466223153,15
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Sales Manager",0.5124439482105874,16
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Production Operator",0.5072302074378122,17
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Data Scientist",0.4934578896059973,18
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Clerical Officer",0.4911212068883672,19
+2020-06-01,ie,"Ireland","All","All",Top Trending Jobs,"Process Engineer",0.4869842792031406,20
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Project Management",-1,1
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"JavaScript",-1,2
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Account Management",-1,3
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Sales Management",-1,4
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Project Planning",-1,5
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Financial Accounting",-1,6
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Financial Reporting",-1,7
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Customer Relationship Management (CRM)",-1,8
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Data Analysis",-1,9
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Customer Satisfaction",-1,10
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Operations Management",-1,11
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Tableau",-1,12
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Change Management",-1,13
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"High-Performance Liquid Chromatography (HPLC)",-1,14
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Salesforce.com",-1,15
+2020-06-01,ie,"Ireland","All","All",Top Trending Skills,"Process Engineering",-1,16

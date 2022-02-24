@@ -1,0 +1,31 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Guaranteed Rate",12.49001474454969,1
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",2.891154211022469,2
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Northern Trust Corporation",3.0049528180812892,3
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Chime",61.4971545871028,4
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Morningstar",4.942733192449871,5
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Dovenmuehle Mortgage, Inc.",8.915067474646786,6
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"Northwestern Mutual",7.490014293881783,7
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"KPMG US",4.479979959844881,8
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Employers,"GoHealth",9.370576977484737,9
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Software Engineer",4.0192659150638885,1
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Investment Analyst",2.1439988653471573,2
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Underwriter",2.119600809529686,3
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Financial Advisor",2.04831049726236,4
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Account Manager",1.686714078755815,5
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Account Executive",1.5358694251094274,6
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Insurance Agent",1.5031408848547354,7
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Mortgage Loan Officer",1.4248604454786964,8
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Jobs,"Financial Analyst",1.3288554657127714,9
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Account Management",-1,2
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Financial Analysis",-1,3
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Financial Reporting",-1,4
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Retirement Planning",-1,5
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Investments",-1,6
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Life Insurance",-1,7
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,8
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Underwriting",-1,9
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Mortgage Lending",-1,10
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Insurance",-1,11
+2020-11-01,us,"United States","Greater Chicago Area","Finance",Top Trending Skills,"Financial Modeling",-1,12

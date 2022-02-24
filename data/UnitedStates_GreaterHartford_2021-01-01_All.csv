@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater Hartford","All",Top Trending Employers,"General Dynamics Electric Boat",2.3992250357967673,1
+2021-01-01,us,"United States","Greater Hartford","All",Top Trending Employers,"Hartford HealthCare",3.376763060210787,2
+2021-01-01,us,"United States","Greater Hartford","All",Top Trending Jobs,"Real Estate Agent",2.348542828865105,1
+2021-01-01,us,"United States","Greater Hartford","All",Top Trending Jobs,"Project Manager",2.0249667714631645,2
+2021-01-01,us,"United States","Greater Hartford","All",Top Trending Jobs,"Software Engineer",1.8231474673977461,3
+2021-01-01,us,"United States","Greater Hartford","All",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Investment Properties",-1,2
+2021-01-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,3
+2021-01-01,us,"United States","Greater Hartford","All",Top Trending Skills,"Construction Management",-1,4

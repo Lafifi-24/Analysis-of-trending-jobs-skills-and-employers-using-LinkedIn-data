@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"NVIDIA",5.419750333578302,1
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Intel Corporation",2.24037122141476,2
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"NXP Semiconductors",40.13344031868101,3
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Lam Research",6.627757458953296,4
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Arista Networks",9.566074486637964,5
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Juniper Networks",4.024000527020682,6
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Employers,"Supermicro",6.200463382458858,7
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Software Engineer",10.26284858599493,1
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Jobs,"Process Engineer",2.9074309452013436,2
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","San Francisco Bay Area","Hardware & Networking",Top Trending Skills,"Process Engineering",-1,2

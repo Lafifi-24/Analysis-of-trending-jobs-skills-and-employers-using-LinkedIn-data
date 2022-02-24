@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"Safran",2.402034560312045,1
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"Groupe Renault",3.3090236246504734,2
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"Air Liquide",4.912850101920866,3
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"Danone",5.205181733465791,4
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"Faurecia",6.139425249852902,5
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"Groupe ADP",6.178262524758107,6
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"dassault-aviation",5.3467608614447775,7
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Employers,"MBDA",7.143272029010628,8
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Jobs,"Project Manager",4.426381994386721,1
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Jobs,"Business Manager",1.7575158066111332,2
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Jobs,"Buyer",1.6481919685382442,3
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Jobs,"Salesperson",1.5952037023349641,4
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Jobs,"Sales Manager",1.502664275841421,5
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Jobs,"Sales Advisor",1.2725399723172077,6
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Skills,"Negotiation",-1,2
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Skills,"Sales Prospecting",-1,4
+2020-01-01,fr,"France","Greater Paris Metropolitan Region","Manufacturing",Top Trending Skills,"Commerce",-1,5

@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,ch,"Switzerland","Greater Zurich Area","Software & IT Services",Top Trending Employers,"Swisscom",4.744939580111419,1
+2020-09-01,ch,"Switzerland","Greater Zurich Area","Software & IT Services",Top Trending Jobs,"Software Engineer",13.52185482371099,1
+2020-09-01,ch,"Switzerland","Greater Zurich Area","Software & IT Services",Top Trending Jobs,"System Engineer",3.283423888421367,2
+2020-09-01,ch,"Switzerland","Greater Zurich Area","Software & IT Services",Top Trending Skills,"Java",-1,1
+2020-09-01,ch,"Switzerland","Greater Zurich Area","Software & IT Services",Top Trending Skills,"Windows Server",-1,2
+2020-09-01,ch,"Switzerland","Greater Zurich Area","Software & IT Services",Top Trending Skills,"Virtualization",-1,3

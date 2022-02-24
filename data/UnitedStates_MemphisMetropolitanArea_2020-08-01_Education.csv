@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Memphis Metropolitan Area","Education",Top Trending Employers,"Shelby County Schools",4.943510807602577,1
+2020-08-01,us,"United States","Memphis Metropolitan Area","Education",Top Trending Employers,"The University of Memphis",6.278849180204468,2
+2020-08-01,us,"United States","Memphis Metropolitan Area","Education",Top Trending Employers,"The University of Tennessee Health Science Center",5.14580663105211,3
+2020-08-01,us,"United States","Memphis Metropolitan Area","Education",Top Trending Jobs,"Teacher",14.682662519379711,1
+2020-08-01,us,"United States","Memphis Metropolitan Area","Education",Top Trending Jobs,"Professor",11.262943432300503,2
+2020-08-01,us,"United States","Memphis Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","Memphis Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-08-01,us,"United States","Memphis Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

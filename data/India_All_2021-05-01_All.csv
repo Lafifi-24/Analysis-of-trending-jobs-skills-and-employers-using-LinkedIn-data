@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,in,"India","All","All",Top Trending Employers,"Accenture",6.679333072457746,1
+2021-05-01,in,"India","All","All",Top Trending Employers,"Tata Consultancy Services",4.260636566590936,2
+2021-05-01,in,"India","All","All",Top Trending Employers,"Capgemini",5.855768690801543,3
+2021-05-01,in,"India","All","All",Top Trending Employers,"Infosys",3.822860762810286,4
+2021-05-01,in,"India","All","All",Top Trending Employers,"HCL Technologies",4.727902064145844,5
+2021-05-01,in,"India","All","All",Top Trending Employers,"Wipro Limited",3.724859068078686,6
+2021-05-01,in,"India","All","All",Top Trending Employers,"ICICI Bank",7.577965742444473,7
+2021-05-01,in,"India","All","All",Top Trending Employers,"PwC",9.959792444499879,8
+2021-05-01,in,"India","All","All",Top Trending Employers,"Genpact",5.607110279311661,9
+2021-05-01,in,"India","All","All",Top Trending Employers,"Mindtree",10.751420147966172,10
+2021-05-01,in,"India","All","All",Top Trending Employers,"LTI - Larsen & Toubro Infotech",6.597589971206358,11
+2021-05-01,in,"India","All","All",Top Trending Employers,"HDFC Bank",2.9760327036163328,12
+2021-05-01,in,"India","All","All",Top Trending Employers,"Axis Bank",3.9197034436287423,13
+2021-05-01,in,"India","All","All",Top Trending Employers,"Oracle",4.369160929999933,14
+2021-05-01,in,"India","All","All",Top Trending Employers,"JPMorgan Chase & Co.",5.111197367297437,15
+2021-05-01,in,"India","All","All",Top Trending Employers,"Wells Fargo",7.534350185656994,16
+2021-05-01,in,"India","All","All",Top Trending Employers,"Microsoft",6.35103707111896,17
+2021-05-01,in,"India","All","All",Top Trending Employers,"Kotak Mahindra Bank",5.327982702870486,18
+2021-05-01,in,"India","All","All",Top Trending Employers,"Flipkart",7.300358909254726,19
+2021-05-01,in,"India","All","All",Top Trending Employers,"IDFC FIRST Bank",8.472952196610313,20
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Software Engineer",11.62255415453927,1
+2021-05-01,in,"India","All","All",Top Trending Jobs,"System Engineer",2.181409992422062,2
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Recruiter",1.6237125841633164,3
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Business Development Executive",1.5356120149493022,4
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Business Analyst",1.446375098779194,5
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Sales Manager",1.3696704725273776,6
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Content Writer",1.3599048384503942,7
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Campus Ambassador",1.3037245715312447,8
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Human Resources Executive",1.164219297136655,9
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Application Developer",1.0231720825227728,10
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Business Development Manager",1.0149045664731757,11
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Project Manager",1.010172504936271,12
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Human Resources Manager",0.9480078021024968,13
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Graphic Designer",0.9061732568234103,14
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Sales Executive",0.8534140363379947,15
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Data Analyst",0.837690944807492,16
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Professor",0.7170953682786615,17
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Relationship Manager",0.7048063228958946,18
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Product Manager",0.686876013291946,19
+2021-05-01,in,"India","All","All",Top Trending Jobs,"Web Developer",0.6461805801865015,20
+2021-05-01,in,"India","All","All",Top Trending Skills,"SQL",-1,1
+2021-05-01,in,"India","All","All",Top Trending Skills,"JavaScript",-1,2
+2021-05-01,in,"India","All","All",Top Trending Skills,"Sales Management",-1,3
+2021-05-01,in,"India","All","All",Top Trending Skills,"Teaching",-1,4
+2021-05-01,in,"India","All","All",Top Trending Skills,"Business Analysis",-1,5
+2021-05-01,in,"India","All","All",Top Trending Skills,"Adobe Illustrator",-1,6
+2021-05-01,in,"India","All","All",Top Trending Skills,"Recruiting",-1,7
+2021-05-01,in,"India","All","All",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,8
+2021-05-01,in,"India","All","All",Top Trending Skills,"Team Leadership",-1,9
+2021-05-01,in,"India","All","All",Top Trending Skills,"Higher Education",-1,10
+2021-05-01,in,"India","All","All",Top Trending Skills,"Core Java",-1,11
+2021-05-01,in,"India","All","All",Top Trending Skills,"Employee Relations",-1,12
+2021-05-01,in,"India","All","All",Top Trending Skills,"Requirements Analysis",-1,13
+2021-05-01,in,"India","All","All",Top Trending Skills,"Data Analysis",-1,14
+2021-05-01,in,"India","All","All",Top Trending Skills,"Employee Engagement",-1,15
+2021-05-01,in,"India","All","All",Top Trending Skills,"Web Content Writing",-1,16
+2021-05-01,in,"India","All","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,17
+2021-05-01,in,"India","All","All",Top Trending Skills,"Requirements Gathering",-1,18
+2021-05-01,in,"India","All","All",Top Trending Skills,"Java",-1,19
+2021-05-01,in,"India","All","All",Top Trending Skills,"Writing",-1,20

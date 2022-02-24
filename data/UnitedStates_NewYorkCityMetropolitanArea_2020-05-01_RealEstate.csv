@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"Compass",5.576007942371991,1
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",3.4965121617265567,2
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"eXp Realty",10.577434100078593,3
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Employers,"The Corcoran Group",3.8174134192702414,4
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Agent",34.91236082110474,1
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Salesperson",3.0680759851742785,2
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Broker",2.995182102342283,3
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Property Manager",2.894034952189386,4
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Project Manager",2.1519520667371776,5
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Jobs,"Realtor Sales Associate",1.7371532606582967,6
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Skills,"Construction Management",-1,3
+2020-05-01,us,"United States","New York City Metropolitan Area","Real Estate",Top Trending Skills,"Property Management",-1,4

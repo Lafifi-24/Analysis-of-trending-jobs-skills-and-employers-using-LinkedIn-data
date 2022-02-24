@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,sa,"Saudi Arabia","All","Education",Top Trending Employers,"King Saud University",2.3976739394262636,1
+2020-09-01,sa,"Saudi Arabia","All","Education",Top Trending Jobs,"Professor",10.960129929320036,1
+2020-09-01,sa,"Saudi Arabia","All","Education",Top Trending Jobs,"Lecturer",9.118068512265552,2
+2020-09-01,sa,"Saudi Arabia","All","Education",Top Trending Jobs,"Teacher",7.192189320797791,3
+2020-09-01,sa,"Saudi Arabia","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,sa,"Saudi Arabia","All","Education",Top Trending Skills,"Higher Education",-1,2
+2020-09-01,sa,"Saudi Arabia","All","Education",Top Trending Skills,"Curriculum Development",-1,3

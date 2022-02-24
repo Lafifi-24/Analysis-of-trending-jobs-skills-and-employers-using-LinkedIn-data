@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Phoenix Area","Software & IT Services",Top Trending Employers,"Carvana",13.583340568426635,1
+2020-03-01,us,"United States","Greater Phoenix Area","Software & IT Services",Top Trending Employers,"Amazon",7.417995542733186,2
+2020-03-01,us,"United States","Greater Phoenix Area","Software & IT Services",Top Trending Employers,"DoorDash",11.108844406224708,3
+2020-03-01,us,"United States","Greater Phoenix Area","Software & IT Services",Top Trending Jobs,"Software Engineer",5.951573296104126,1
+2020-03-01,us,"United States","Greater Phoenix Area","Software & IT Services",Top Trending Jobs,"Account Executive",5.43960982199264,2
+2020-03-01,us,"United States","Greater Phoenix Area","Software & IT Services",Top Trending Jobs,"Account Manager",2.710475677553674,3
+2020-03-01,us,"United States","Greater Phoenix Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-03-01,us,"United States","Greater Phoenix Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2

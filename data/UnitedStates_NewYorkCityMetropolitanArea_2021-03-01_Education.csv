@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Columbia University in the City of New York",2.3173906705797354,1
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Rutgers University",1.9897044130142354,2
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Yale University",2.4837166105903528,3
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Stony Brook University",3.1967180687464793,4
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"NYC Department of Education",0.5496172873644336,5
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Princeton University",2.459334726804665,6
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Kean University",4.971844016781265,7
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Professor",14.639814392033074,1
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Teacher",9.46063887266864,2
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.021657224666458,3
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Lecturer",2.834103581824174,4
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2021-03-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,5

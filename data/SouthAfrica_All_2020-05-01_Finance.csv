@@ -1,0 +1,29 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"Absa Group",2.148080672625463,1
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"Standard Bank Group",2.3399281436913175,2
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"Old Mutual South Africa",4.134723962688254,3
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"Discovery Limited",3.0167393160244043,4
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"Sanlam",3.2856216095532744,5
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"FNB South Africa",1.3325109915297646,6
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"Capitec Bank",2.410808539559037,7
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"Nedbank",1.1450367891096944,8
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"Liberty Group South Africa",3.760322548535324,9
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"OUTsurance",4.488070685620501,10
+2020-05-01,za,"South Africa","All","Finance",Top Trending Employers,"Momentum",4.308784691511066,11
+2020-05-01,za,"South Africa","All","Finance",Top Trending Jobs,"Financial Advisor",11.31428766398029,1
+2020-05-01,za,"South Africa","All","Finance",Top Trending Jobs,"Software Engineer",2.931303536836621,2
+2020-05-01,za,"South Africa","All","Finance",Top Trending Jobs,"Financial Planner",2.2584374796856834,3
+2020-05-01,za,"South Africa","All","Finance",Top Trending Jobs,"Business Analyst",2.046728508000631,4
+2020-05-01,za,"South Africa","All","Finance",Top Trending Jobs,"Sales Consultant",1.340184533760263,5
+2020-05-01,za,"South Africa","All","Finance",Top Trending Jobs,"Project Manager",1.3179113732730219,6
+2020-05-01,za,"South Africa","All","Finance",Top Trending Jobs,"Accountant",1.143233341382383,7
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"Financial Accounting",-1,1
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"Financial Reporting",-1,2
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"Project Planning",-1,3
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"JavaScript",-1,4
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"C#",-1,5
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"Business Analysis",-1,6
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"Financial Planning",-1,7
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"Contract Management",-1,8
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"Retirement Planning",-1,9
+2020-05-01,za,"South Africa","All","Finance",Top Trending Skills,"Requirements Analysis",-1,10

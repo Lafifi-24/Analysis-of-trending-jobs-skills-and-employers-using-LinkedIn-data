@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"The Home Depot",3.9202870302149613,1
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Walmart",7.917091827521727,2
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Publix Super Markets",9.84216546909856,3
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Kroger",8.178752875918155,4
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Lowe's Companies, Inc.",11.199242504957988,5
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Target",5.919230980890306,6
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Cashier",8.746879313395217,1
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Salesperson",5.7563638909480765,2
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Customer Service Representative",5.385840476400534,3
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"Time Management",-1,1
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"Customer Satisfaction",-1,2
+2020-05-01,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"Cashiering",-1,3

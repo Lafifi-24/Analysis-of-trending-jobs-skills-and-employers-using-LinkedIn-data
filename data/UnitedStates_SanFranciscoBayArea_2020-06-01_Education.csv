@@ -1,0 +1,27 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, San Francisco",3.723579815246407,1
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Berkeley",3.777911974937697,2
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University",2.2164221559192328,3
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Lawrence Livermore National Laboratory",5.100713439121163,4
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University School of Medicine",3.500429498588906,5
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Santa Cruz",3.735456637043222,6
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"San Jose State University",2.9594095124145054,7
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Coursera",11.896134764437383,8
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"San Francisco State University",2.880528757634449,9
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Teach For America",22.12923440609339,10
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Udemy",10.402307877313461,11
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Teacher",7.074888884812845,1
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Postdoctoral Researcher",4.568737311680745,2
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Professor",3.0137543666872357,3
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Software Engineer",2.6367631913911276,4
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Member Of The Board Of Advisors",1.8772541976241957,6
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"JavaScript",-1,2
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Higher Education",-1,4
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Public Speaking",-1,5
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Nonprofit Organizations",-1,6
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Molecular Biology",-1,7
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Cell Culture",-1,8
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Strategy",-1,9
+2020-06-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Strategic Partnerships",-1,10

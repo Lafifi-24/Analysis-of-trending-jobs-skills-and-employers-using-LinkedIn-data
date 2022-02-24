@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Wayfair",3.8348878946372076,1
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Target",10.375622288217873,2
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"Starbucks",5.383899812036191,3
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Employers,"BJ's Wholesale Club",4.54660030162004,4
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Salesperson",9.796372700010945,1
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Cashier",4.824908088361338,2
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Store Manager",4.60698896850346,3
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Jobs,"Barista",3.1126925303604147,4
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Store Management",-1,2
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Time Management",-1,3
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Cashiering",-1,4
+2020-09-01,us,"United States","Greater Boston","Retail",Top Trending Skills,"Barista",-1,5

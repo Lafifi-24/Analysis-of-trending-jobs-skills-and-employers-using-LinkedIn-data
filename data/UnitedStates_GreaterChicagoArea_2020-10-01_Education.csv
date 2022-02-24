@@ -1,0 +1,35 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Chicago Public Schools",4.871718119246414,1
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Chicago",6.178390800146034,2
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northwestern University",5.991592241035884,3
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Illinois Chicago",5.245779625235727,4
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Loyola University Chicago",5.735674043429497,5
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"DePaul University",4.867162830933535,6
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Illinois Urbana-Champaign",16.21827278382479,7
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northwestern University - The Feinberg School of Medicine",4.952270317275122,8
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Illinois Institute of Technology",7.623042461861811,9
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northern Illinois University",5.7590373581935665,10
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Wheaton College",10.157796911089802,11
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"The University of Chicago Booth School of Business",7.8775052238805845,12
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Argonne National Laboratory",3.1819944161870444,13
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"College of DuPage",5.789372377332777,14
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Columbia College Chicago",5.874702632596464,15
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Roosevelt University",8.070714652201858,16
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Noble Network of Charter Schools",6.759217071691273,17
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Teacher",11.814902272011867,1
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Professor",8.014466192274572,2
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Elementary School Teacher",3.3347515186750556,3
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Postdoctoral Researcher",2.970571068278768,4
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Special Education Teacher",2.3671620482517683,5
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Social Worker",1.9584907240817826,6
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Lecturer",1.2421779030331574,7
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Special Education",-1,4
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Classroom Management",-1,5
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Elementary Education",-1,6
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Molecular Biology",-1,7
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Cell Culture",-1,8
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Case Management",-1,9
+2020-10-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Social Services",-1,10

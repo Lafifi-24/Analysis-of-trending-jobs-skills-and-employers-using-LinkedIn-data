@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,it,"Italy","All","Real Estate",Top Trending Employers,"Tecnocasa",4.405241212285955,1
+2020-12-01,it,"Italy","All","Real Estate",Top Trending Jobs,"Real Estate Agent",17.077133025295236,1
+2020-12-01,it,"Italy","All","Real Estate",Top Trending Jobs,"Real Estate Consultant",15.012759413893138,2
+2020-12-01,it,"Italy","All","Real Estate",Top Trending Skills,"Investment Properties",-1,1

@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Hartford","Health Care",Top Trending Employers,"Hartford HealthCare",5.352277455711774,1
+2020-02-01,us,"United States","Greater Hartford","Health Care",Top Trending Jobs,"Nurse",10.407563132644174,1
+2020-02-01,us,"United States","Greater Hartford","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-02-01,us,"United States","Greater Hartford","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Staples",4.226515278877931,1
+2020-03-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"PwC",2.654273774980705,2
+2020-03-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Project Manager",2.4313734147440473,1
+2020-03-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Tax Associate",2.1580112113437644,2
+2020-03-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Construction Management",-1,1
+2020-03-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Tax",-1,2
+2020-03-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Tax Preparation",-1,3

@@ -1,0 +1,57 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"ETH Zürich",12.495972965977186,1
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"UBS",3.172456126959332,2
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Credit Suisse",2.9082913361767218,3
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"University of Zurich",8.223021239888295,4
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Universitätsspital Zürich",7.588893111436761,5
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Swisscom",4.0949062424183005,6
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"ZHAW Zurich University of Applied Sciences",9.082055865293137,7
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"AXA",4.79213414161606,8
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"ABB",3.277004471819715,9
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Julius Baer",4.379111435510945,10
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Zürcher Kantonalbank",3.4518905534037407,11
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Swiss Re",3.0282221307613657,12
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Deloitte Switzerland",7.549784102501341,13
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"KPMG Switzerland",8.958162436256359,14
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Amt für Wirtschaft und Arbeit, Kanton Zürich",19.42530858421671,15
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"SIX",5.076826808643156,16
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Employers,"Hirslanden",8.394746701128831,17
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Software Engineer",3.631199219544857,1
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Project Manager",2.790037285955779,2
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Project Control Manager",2.6864229549453467,3
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Clerical Officer",2.2398366163087746,4
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Lecturer",1.7855725078779663,5
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Sales Manager",1.2472601895988475,7
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Product Manager",1.1516267706569205,8
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Postdoctoral Researcher",1.1368135726569808,9
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"System Engineer",1.1330089663845937,10
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Business Analyst",1.0350046098812606,11
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Teacher",0.948689082518374,12
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Key Account Manager",0.9186321837894286,13
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Account Manager",0.865679631322247,14
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Business Development Manager",0.8547168435821959,15
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Data Scientist",0.663612808529593,16
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Sales Consultant",0.6578344239290476,17
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Scientific Officer",0.559471646936594,18
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Customer Advisor",0.5516723646401349,19
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Jobs,"Project Engineer",0.5466992073738474,20
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Project Management",-1,1
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Java",-1,2
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Teaching",-1,3
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Change Management",-1,4
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Account Management",-1,6
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Product Development",-1,7
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Windows Server",-1,8
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Business Analysis",-1,9
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Virtualization",-1,10
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Scientific Writing",-1,11
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Project Leadership",-1,12
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Negotiation",-1,13
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Research",-1,14
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Data Science",-1,15
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Client Counseling",-1,16
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Machine Learning",-1,17
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Solution Selling",-1,18
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Project Engineering",-1,19
+2020-10-01,ch,"Switzerland","Greater Zurich Area","All",Top Trending Skills,"Requirements Engineering",-1,20

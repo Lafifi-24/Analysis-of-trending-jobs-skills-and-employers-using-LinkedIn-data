@@ -1,0 +1,33 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,de,"Germany","All","Health Care",Top Trending Employers,"Siemens Healthineers",2.6812618608778527,1
+2021-02-01,de,"Germany","All","Health Care",Top Trending Employers,"Boehringer Ingelheim",2.2525042117809644,2
+2021-02-01,de,"Germany","All","Health Care",Top Trending Employers,"Roche",2.0862892798316572,3
+2021-02-01,de,"Germany","All","Health Care",Top Trending Employers,"Charité",4.047412491937371,4
+2021-02-01,de,"Germany","All","Health Care",Top Trending Employers,"BioNTech SE",9.530140616152408,5
+2021-02-01,de,"Germany","All","Health Care",Top Trending Employers,"CENTOGENE",17.660091823353948,6
+2021-02-01,de,"Germany","All","Health Care",Top Trending Employers,"Abbott",4.109054251344111,7
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Project Manager",3.5086257230482505,1
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Sales Manager",2.3176698326873884,2
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Pharmacist",2.258867802162983,3
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Product Manager",2.155328873952907,4
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Software Engineer",2.0234576732837546,5
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Key Account Manager",1.6030686892108539,6
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Nurse",1.5795797314926985,7
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Medical Director",1.551322530295536,8
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Psychologist",1.3112489833204521,9
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Quality Assurance Manager",1.2300067001666224,10
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Scientific Officer",1.1461507420893953,11
+2021-02-01,de,"Germany","All","Health Care",Top Trending Jobs,"Medical Doctor",1.1365337587017899,12
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Project Management",-1,1
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Java",-1,2
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Project Planning",-1,3
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Account Management",-1,4
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Product Development",-1,5
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"International Sales",-1,6
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Quality Management",-1,7
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"LaTeX",-1,8
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Clinical Research",-1,9
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Nursing",-1,10
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Pharmacy",-1,11
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Psychotherapy",-1,12
+2021-02-01,de,"Germany","All","Health Care",Top Trending Skills,"Critical Care Nursing",-1,13

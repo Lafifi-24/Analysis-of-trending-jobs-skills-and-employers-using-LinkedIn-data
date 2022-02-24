@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"Barclays",10.085520438051292,1
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"University of Glasgow",2.466681660500869,2
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"ScottishPower",6.928028165888475,3
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"University of Strathclyde",3.270699466414001,4
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"Morgan Stanley",5.55868032890147,5
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Employers,"NHS Greater Glasgow and Clyde",3.7963248705100283,6
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Software Engineer",2.353349898653398,1
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Project Manager",2.248636504247499,2
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Jobs,"Laboratory Scientist",1.179751654909485,3
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Stakeholder Management",-1,2
+2020-08-01,gb,"United Kingdom","Greater Glasgow Area","All",Top Trending Skills,"Project Delivery",-1,3

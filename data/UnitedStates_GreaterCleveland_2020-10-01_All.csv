@@ -1,0 +1,56 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Cleveland Clinic",3.3288189075384325,1
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"University Hospitals",2.933644367835254,2
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Amazon",14.696809573167608,3
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Case Western Reserve University",4.513561128096309,4
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Progressive Insurance",2.64108809580664,5
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Kent State University",5.29344929591133,6
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"KeyBank",3.602547786689943,7
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"The MetroHealth System (Cleveland, OH)",5.528913381803913,8
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Sherwin-Williams",2.8055384506077496,9
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Cleveland State University",6.186866926969041,10
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"The University of Akron",5.241787016939599,11
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Summa Health",5.022455182724731,12
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"PNC",2.12303258802081,13
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"CrossCountry Mortgage, LLC",13.659370981252211,14
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Employers,"Target",10.294703826915079,15
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Real Estate Agent",1.9342770709750232,1
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Salesperson",1.8039454446279313,2
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Nurse",1.6746709120163197,3
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Teacher",1.6540870455821335,4
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Software Engineer",1.5331642922126782,5
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Project Manager",1.3107999911291095,6
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Customer Service Representative",1.2551600494748376,7
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Account Executive",1.1223574219378116,8
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Accountant",1.0266660951466187,9
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Account Manager",0.9481136533607045,10
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Sales Manager",0.9357414802006976,11
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Professor",0.9238567059351317,12
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Operations Manager",0.6761512684876849,13
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"General Manager",0.6317159218434861,14
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Human Resources Administrator",0.5864572916418483,15
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Cashier",0.5825982146862971,16
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Business Analyst",0.5044773987694078,17
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Sales Consultant",0.49460265461389336,18
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Sales Director",0.4893580812837007,19
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Jobs,"Attorney",0.48929982103831937,20
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"JavaScript",-1,2
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Account Management",-1,4
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Sales Management",-1,5
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Investment Properties",-1,6
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Team Building",-1,8
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Operations Management",-1,9
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Legal Writing",-1,10
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Construction Management",-1,11
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Higher Education",-1,12
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Civil Litigation",-1,13
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Account Reconciliation",-1,14
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Business Analysis",-1,15
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Sales Operations",-1,16
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Inventory Management",-1,17
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Time Management",-1,18
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"General Ledger",-1,19
+2020-10-01,us,"United States","Greater Cleveland","All",Top Trending Skills,"Customer Satisfaction",-1,20

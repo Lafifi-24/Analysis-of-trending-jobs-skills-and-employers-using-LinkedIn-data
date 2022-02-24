@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Legal",Top Trending Jobs,"Attorney",27.01953434030387,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Legal",Top Trending Jobs,"Law Clerk",17.067080364213457,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Legal",Top Trending Jobs,"Paralegal",9.152689324788282,3
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2021-01-01,us,"United States","Washington DC-Baltimore Area","Legal",Top Trending Skills,"Legal Research",-1,3

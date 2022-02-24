@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Barclays",2.4085285933462797,1
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Lloyds Banking Group",1.6339146512462086,2
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"HSBC",1.5345942505219383,3
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Citi",4.3013013058532845,4
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Morgan Stanley",4.5301765695409095,5
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Metro Bank (UK)",10.414350206553532,6
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Deutsche Bank",2.6887041643312126,7
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"J.P. Morgan",3.016460389242367,8
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"JPMorgan Chase & Co.",2.791841657050159,9
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"UBS",3.026675259849101,10
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Nationwide Building Society",2.6648920588094573,11
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Bloomberg LP",4.923068391989578,12
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Bank of England",5.739974147563809,13
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Legal & General",4.389625427520541,14
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Phoenix Group",15.742549793047015,15
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"BNP Paribas",3.273953648725706,16
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"BNY Mellon",4.737490667606966,17
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"NFU Mutual",4.359713435628527,18
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Barclays UK",2.935357460838295,19
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"MUFG",5.7815936442373985,20
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Software Engineer",3.305189348019045,1
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Business Analyst",2.3680860311635357,2
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Investment Analyst",2.0091536042324227,3
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Financial Advisor",1.8060829711963438,4
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Project Manager",1.8012710816334068,5
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Mortgage Advisor",1.3650967682516988,6
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Customer Service Representative",1.2949664054908723,7
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Business Development Manager",1.1711599700976045,8
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Financial Analyst",1.1249801740374088,9
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Account Manager",0.9910921523742362,10
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Underwriter",0.891998147245426,11
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Data Analyst",0.845667118297935,12
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Relationship Manager",0.6633823765176543,13
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Operations Analyst",0.653454503826021,14
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Risk Analyst",0.6373520387613404,15
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Auditor",0.6281003110400865,16
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Product Manager",0.5815182024047939,17
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Financial Planner",0.5788974885645343,18
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Account Handler",0.5752025649203484,19
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Account Executive",0.5661620572593886,20
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Account Management",-1,1
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Business Analysis",-1,3
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Stakeholder Management",-1,4
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Project Delivery",-1,5
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Data Analysis",-1,7
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Requirements Gathering",-1,8
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Time Management",-1,9
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Analysis",-1,10
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"SQL",-1,11
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Product Development",-1,12
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Business Relationship Management",-1,13
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Underwriting",-1,14
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Services",-1,15
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Digital Marketing",-1,16
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Mortgage Lending",-1,17
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Auditing",-1,18
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Reporting",-1,19
+2020-09-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Advisory",-1,20

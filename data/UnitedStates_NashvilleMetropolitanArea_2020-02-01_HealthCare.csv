@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Employers,"Vanderbilt University Medical Center",4.358559153687836,1
+2020-02-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Employers,"HCA Healthcare",3.5341410416931764,2
+2020-02-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",9.228927649424556,1
+2020-02-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Jobs,"Accountant",2.7739222123998974,2
+2020-02-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Skills,"Account Reconciliation",-1,1
+2020-02-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Skills,"General Ledger",-1,2
+2020-02-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,3
+2020-02-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,4

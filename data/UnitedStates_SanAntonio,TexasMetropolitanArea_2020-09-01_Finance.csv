@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","San Antonio, Texas Metropolitan Area","Finance",Top Trending Employers,"Wells Fargo",4.438217783720208,1
+2020-09-01,us,"United States","San Antonio, Texas Metropolitan Area","Finance",Top Trending Jobs,"Insurance Agent",6.847284746138656,1
+2020-09-01,us,"United States","San Antonio, Texas Metropolitan Area","Finance",Top Trending Skills,"Life Insurance",-1,1
+2020-09-01,us,"United States","San Antonio, Texas Metropolitan Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,2

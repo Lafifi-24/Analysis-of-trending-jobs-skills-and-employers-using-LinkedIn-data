@@ -1,0 +1,21 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Employers,"Avarn Security Sverige",24.146423393047957,1
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Employers,"PwC Sweden",4.0695610628601395,2
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Employers,"KPMG Sweden",8.859632080117894,3
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Employers,"Grant Thornton Sweden",7.01810620026969,4
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Project Manager",5.49433627489605,1
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Audit Associate",4.567195161307475,2
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Management Consultant",3.7441415967881095,3
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Accountant",3.7299875775992675,4
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Payroll Consultant",2.786247368675474,5
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Financial Accountant",2.429328448708178,6
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Jobs,"Salesperson",2.339787858064282,7
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Project Management",-1,1
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Project Planning",-1,2
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Business-to-Business (B2B)",-1,3
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Financial Reporting",-1,4
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Change Management",-1,5
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Management Consulting",-1,6
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Accounts Payable",-1,7
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Auditing",-1,8
+2020-01-01,se,"Sweden","All","Corporate Services",Top Trending Skills,"Payroll",-1,9

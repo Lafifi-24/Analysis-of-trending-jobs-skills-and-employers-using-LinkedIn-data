@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,jp,"Japan","All","Education",Top Trending Employers,"The University of Tokyo",5.225852153567207,1
+2020-10-01,jp,"Japan","All","Education",Top Trending Jobs,"Professor",20.42960048912639,1
+2020-10-01,jp,"Japan","All","Education",Top Trending Jobs,"Postdoctoral Researcher",11.766357641774096,2
+2020-10-01,jp,"Japan","All","Education",Top Trending Jobs,"Lecturer",9.43651032684853,3
+2020-10-01,jp,"Japan","All","Education",Top Trending Skills,"Teaching",-1,1

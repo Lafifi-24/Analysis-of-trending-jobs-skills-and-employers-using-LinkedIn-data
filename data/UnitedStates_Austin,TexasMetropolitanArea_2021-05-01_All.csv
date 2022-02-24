@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Apple",3.3249971810897736,1
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"General Motors",7.025040439552697,2
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Tesla",58.69259799838851,3
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Facebook",6.706242470873591,4
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Oracle",5.796617247431311,5
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"The University of Texas at Austin",1.6647800998392779,6
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"AMD",5.515285584834225,7
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Charles Schwab",5.053961888685945,8
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Accenture",4.46101789736329,9
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"NetSuite",11.684797578086007,10
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Arrive Logistics",13.744367048489584,11
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Whole Foods Market",4.056792934034046,12
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"City of Austin",2.800441847199675,13
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"GLG",8.234538811493191,14
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"BigCommerce",11.915033182361064,15
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Amazon Web Services (AWS)",8.208288667556417,16
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"H-E-B",3.942955497766302,17
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"Ascension",3.752111637538279,18
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"SailPoint",8.252654800010161,19
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Employers,"CrowdStrike",19.573218515983378,20
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Software Engineer",5.470823862938578,1
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Account Executive",3.311098374964039,2
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.8898923843331927,3
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Recruiter",1.7375817062554835,4
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Sales Development Representative",1.5873978119656622,5
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.5857855482971825,6
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",1.528448055705794,7
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.33902258351396,8
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Product Manager",1.2961341502334258,9
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Customer Success Manager",1.0064206352115639,10
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.8241934645701884,11
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Program Manager",0.7858040435290915,12
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Business Development Representative",0.7291570335228381,13
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Sales Director",0.6399600075332869,14
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Accountant",0.6245044112101866,15
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"General Manager",0.5972310184562063,16
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Operations Manager",0.5728667290905102,17
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"User Experience Designer",0.5567352929464359,18
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Data Analyst",0.5565363711994915,19
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",0.5296889722388004,20
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Account Management",-1,2
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,3
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,4
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,5
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Team Building",-1,6
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,7
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Recruiting",-1,8
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,9
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Program Management",-1,10
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,11
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,12
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,13
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,14
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Data Analysis",-1,15
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Social Media Marketing",-1,16
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Interviewing",-1,17
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Cross-functional Team Leadership",-1,18
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Tableau",-1,19
+2021-05-01,us,"United States","Austin, Texas Metropolitan Area","All",Top Trending Skills,"Agile Methodologies",-1,20

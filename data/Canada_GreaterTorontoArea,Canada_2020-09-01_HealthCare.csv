@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"University Health Network",4.6274836711624685,1
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"The Hospital for Sick Children",5.081785938839713,2
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Sunnybrook",5.731634694832151,3
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Trillium Health Partners",11.377427814595578,4
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"St. Michael's Hospital",5.699119584430426,5
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"CAMH",5.659413134737259,6
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Mackenzie Health",12.116893969778973,7
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Apotex Inc.",4.187694720891262,8
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Employers,"Mount Sinai Hospital (Toronto), Sinai Health System",6.010430989220851,9
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Jobs,"Nurse",9.310334217250322,1
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Jobs,"Support Associate",1.7303367143966333,2
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,2
+2020-09-01,ca,"Canada","Greater Toronto Area, Canada","Health Care",Top Trending Skills,"Crisis Intervention",-1,3

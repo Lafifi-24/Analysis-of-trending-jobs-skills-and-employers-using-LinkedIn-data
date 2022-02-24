@@ -1,0 +1,54 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Accenture",3.652212234342515,1
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Amazon",5.480664289739337,2
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Accenture Italia",7.359345804746866,3
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Capgemini",4.927820275599372,4
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Noovle",92.7351849340415,5
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"ALTEN Italia",6.457866967717128,6
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"NTT DATA Italia",2.6481478758071932,7
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Altran",2.5269154282917823,8
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Engineering Ingegneria Informatica Spa",1.5922606112030633,9
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"DXC Technology",4.411101341450518,10
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Zucchetti",4.893563968311208,11
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Techedge Group",5.796313523141416,12
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Employers,"Dedagroup",5.710986182434871,13
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Software Engineer",9.3777630183612,1
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Project Manager",2.633678080889111,2
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"System Engineer",2.1995845911673095,3
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Information Technology Consultant",2.054163630848984,4
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Business Analyst",1.9442547763813507,5
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",1.8732092836847607,6
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Account Manager",1.820608645729523,7
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",1.7062915861559935,8
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Data Scientist",1.4475534139676423,9
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Web Developer",1.4019520511167043,10
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Java Software Engineer",1.0667035047733664,11
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Data Analyst",0.9171305493964335,12
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Application Developer",0.8950418467664365,13
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Management Analyst",0.8471317897066616,14
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Sales Manager",0.8173961057658229,15
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Software Analyst",0.7946218923948913,16
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"User Experience Designer",0.7721436896643413,17
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Computer Technician",0.7501008269641846,18
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Solutions Architect",0.7280059294412818,19
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",0.7262712897193272,20
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Sales Management",-1,2
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,3
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Project Planning",-1,4
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Business Planning",-1,5
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"SQL",-1,6
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Cascading Style Sheets (CSS)",-1,7
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"jQuery",-1,8
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"XML",-1,9
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Windows Server",-1,10
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"VMware",-1,11
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Linux",-1,12
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Windows",-1,13
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Data Analysis",-1,14
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Spring Framework",-1,15
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Python (Programming Language)",-1,16
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,17
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Bootstrap",-1,18
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"Computer Hardware",-1,19
+2021-01-01,it,"Italy","All","Software & IT Services",Top Trending Skills,"SASS",-1,20

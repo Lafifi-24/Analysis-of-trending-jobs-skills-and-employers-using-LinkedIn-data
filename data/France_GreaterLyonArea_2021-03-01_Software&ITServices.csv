@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,fr,"France","Greater Lyon Area","Software & IT Services",Top Trending Jobs,"Software Engineer",5.327762064228969,1
+2021-03-01,fr,"France","Greater Lyon Area","Software & IT Services",Top Trending Jobs,"Project Manager",3.7753177573302454,2
+2021-03-01,fr,"France","Greater Lyon Area","Software & IT Services",Top Trending Jobs,"Business Manager",3.4615101450782713,3
+2021-03-01,fr,"France","Greater Lyon Area","Software & IT Services",Top Trending Jobs,"Web Developer",3.454696704090279,4
+2021-03-01,fr,"France","Greater Lyon Area","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2021-03-01,fr,"France","Greater Lyon Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,2
+2021-03-01,fr,"France","Greater Lyon Area","Software & IT Services",Top Trending Skills,"Java",-1,3
+2021-03-01,fr,"France","Greater Lyon Area","Software & IT Services",Top Trending Skills,"PHP",-1,4
+2021-03-01,fr,"France","Greater Lyon Area","Software & IT Services",Top Trending Skills,"Git",-1,5

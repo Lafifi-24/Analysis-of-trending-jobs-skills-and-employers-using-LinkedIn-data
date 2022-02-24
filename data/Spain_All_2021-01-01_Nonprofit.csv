@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,es,"Spain","All","Nonprofit",Top Trending Employers,"Cruz Roja Española",4.85176587186504,1
+2021-01-01,es,"Spain","All","Nonprofit",Top Trending Employers,"SGS",3.1734536201376646,2
+2021-01-01,es,"Spain","All","Nonprofit",Top Trending Jobs,"Psychologist",6.082983970182452,1
+2021-01-01,es,"Spain","All","Nonprofit",Top Trending Jobs,"Social Educator",6.03026526265968,2
+2021-01-01,es,"Spain","All","Nonprofit",Top Trending Jobs,"Social Worker",5.633508557237751,3
+2021-01-01,es,"Spain","All","Nonprofit",Top Trending Jobs,"Teacher",5.5129262023665335,4
+2021-01-01,es,"Spain","All","Nonprofit",Top Trending Skills,"Teaching",-1,1
+2021-01-01,es,"Spain","All","Nonprofit",Top Trending Skills,"Psychotherapy",-1,2
+2021-01-01,es,"Spain","All","Nonprofit",Top Trending Skills,"Social Services",-1,3

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Nashville Metropolitan Area","Education",Top Trending Employers,"Vanderbilt University",5.859130296837395,1
+2020-10-01,us,"United States","Nashville Metropolitan Area","Education",Top Trending Employers,"Middle Tennessee State University (MTSU)",8.141627873366735,2
+2020-10-01,us,"United States","Nashville Metropolitan Area","Education",Top Trending Employers,"Belmont University",6.485040088553141,3
+2020-10-01,us,"United States","Nashville Metropolitan Area","Education",Top Trending Jobs,"Teacher",12.436802787981668,1
+2020-10-01,us,"United States","Nashville Metropolitan Area","Education",Top Trending Jobs,"Professor",11.022017816904182,2
+2020-10-01,us,"United States","Nashville Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Nashville Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-10-01,us,"United States","Nashville Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

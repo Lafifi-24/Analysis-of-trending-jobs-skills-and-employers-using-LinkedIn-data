@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Accenture",6.484121097868849,1
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"PwC Deutschland",6.354094509419521,2
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"BMW Group",2.596950960797061,3
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"SAP",2.2548053531812156,4
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"KPMG Deutschland",6.175563555129379,5
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Tesla",33.809126374842414,6
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Delivery Hero",10.851428632554228,7
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Bosch",1.4996333400444009,8
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Capgemini",5.553534003012985,9
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"SumUp",20.653557336493385,10
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Infineon Technologies",3.2249302161122304,11
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Volkswagen AG",1.929033004219879,12
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"HelloFresh",14.370405002321373,13
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Henkel",4.184206951574651,14
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Amazon Web Services (AWS)",6.137543963391536,15
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Deloitte Deutschland",5.52950848449895,16
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",3.6153260032078722,17
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Technical University of Munich",3.348223445467302,18
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"Siemens Healthineers",2.559398519800312,19
+2021-03-01,de,"Germany","All","All",Top Trending Employers,"adidas",2.4975869937791466,20
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Project Manager",4.033631269575506,1
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Software Engineer",3.6686567044085425,2
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Sales Manager",2.2606834560795526,3
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Product Manager",1.436221511715729,4
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Marketing Manager",1.4225507681353535,5
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Key Account Manager",1.3140726332694603,6
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Account Manager",1.2950698812152925,7
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Scientific Officer",1.2297222446935157,8
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Business Development Manager",0.9385803485129552,9
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Law Clerk",0.924446014539388,10
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Project Control Manager",0.8938721498625161,11
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Recruiter",0.8785655203743916,12
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Lecturer",0.8020131517159919,13
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Project Engineer",0.7625631155772248,14
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Human Resources Manager",0.7293873558068453,15
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Postdoctoral Researcher",0.7097095883602456,16
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Social Media Manager",0.6261828806372306,17
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Information Technology Consultant",0.6236778509281438,18
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Clerical Officer",0.602856568457693,19
+2021-03-01,de,"Germany","All","All",Top Trending Jobs,"Product Owner",0.5753384248030311,20
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Project Management",-1,1
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Java",-1,2
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Project Planning",-1,3
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Account Management",-1,4
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Product Development",-1,5
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"International Sales",-1,6
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Recruiting",-1,7
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Online Marketing",-1,8
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Teaching",-1,9
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Molecular Biology",-1,10
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Scrum",-1,11
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Social Media Marketing",-1,12
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Agile Methodologies",-1,13
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"LaTeX",-1,14
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Project Engineering",-1,15
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"IT Consulting",-1,16
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Project Leadership",-1,17
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Instagram",-1,18
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"SAP Products",-1,19
+2021-03-01,de,"Germany","All","All",Top Trending Skills,"Legal Research",-1,20

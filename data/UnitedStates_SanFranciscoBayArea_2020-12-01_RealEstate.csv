@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Employers,"Compass",3.3698959397940222,1
+2020-12-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Jobs,"Real Estate Agent",33.574618517865254,1
+2020-12-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Jobs,"Property Manager",5.374682977622589,2
+2020-12-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-12-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-12-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Skills,"Property Management",-1,3

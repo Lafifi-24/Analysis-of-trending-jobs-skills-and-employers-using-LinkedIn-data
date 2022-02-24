@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Philadelphia","Retail",Top Trending Employers,"Target",10.002227908877522,1
+2020-08-01,us,"United States","Greater Philadelphia","Retail",Top Trending Employers,"The Home Depot",10.226880470309377,2
+2020-08-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Salesperson",11.567107469780282,1
+2020-08-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Cashier",7.098959209428644,2
+2020-08-01,us,"United States","Greater Philadelphia","Retail",Top Trending Jobs,"Store Manager",3.993801323492464,3
+2020-08-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-08-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Store Management",-1,2
+2020-08-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Time Management",-1,3
+2020-08-01,us,"United States","Greater Philadelphia","Retail",Top Trending Skills,"Cashiering",-1,4

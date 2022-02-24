@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Education",Top Trending Employers,"Københavns Universitet - University of Copenhagen",4.254540246092487,1
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Education",Top Trending Employers,"DTU - Technical University of Denmark",4.903758775693813,2
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Education",Top Trending Employers,"Copenhagen Business School",4.346330368006041,3
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Education",Top Trending Jobs,"Lecturer",14.92464621717754,1
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",11.457782791158571,2
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Education",Top Trending Jobs,"Teacher",9.213794552608,3
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Education",Top Trending Skills,"Pedagogy",-1,2
+2020-01-01,dk,"Denmark","Copenhagen Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,3

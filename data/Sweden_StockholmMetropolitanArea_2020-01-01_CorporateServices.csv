@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Employers,"Avarn Security Sverige",37.789978950765644,1
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Jobs,"Management Consultant",6.511420501109925,1
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Jobs,"Audit Associate",5.785890813895869,2
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Skills,"Change Management",-1,1
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Skills,"Management Consulting",-1,2
+2020-01-01,se,"Sweden","Stockholm Metropolitan Area","Corporate Services",Top Trending Skills,"Auditing",-1,3

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,au,"Australia","All","Design",Top Trending Employers,"Aurecon",2.997832129729424,1
+2021-01-01,au,"Australia","All","Design",Top Trending Jobs,"Architect",7.596703773497163,1
+2021-01-01,au,"Australia","All","Design",Top Trending Jobs,"Interior Designer",7.582294346348675,2
+2021-01-01,au,"Australia","All","Design",Top Trending Skills,"Architectural Design",-1,1
+2021-01-01,au,"Australia","All","Design",Top Trending Skills,"Revit",-1,2
+2021-01-01,au,"Australia","All","Design",Top Trending Skills,"Interior Design",-1,3
+2021-01-01,au,"Australia","All","Design",Top Trending Skills,"Space Planning",-1,4

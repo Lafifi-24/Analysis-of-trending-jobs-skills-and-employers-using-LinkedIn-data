@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Software & IT Services",Top Trending Employers,"Entelect",22.088395983499538,1
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Software & IT Services",Top Trending Employers,"Altron Managed Solutions",17.150724280443214,2
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",12.837163461191189,1
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,za,"South Africa","Johannesburg Metropolitan Area","Software & IT Services",Top Trending Skills,"C#",-1,2

@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Employers,"GSK",3.256806256540448,1
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Employers,"Galapagos",24.599065073925008,2
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Employers,"Pfizer",4.8445702953572285,3
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Employers,"The Janssen Pharmaceutical Companies of Johnson & Johnson",4.008147132462437,4
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Jobs,"Nurse",4.637461779345871,1
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Jobs,"Project Manager",2.331895214543777,2
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Jobs,"Clinical Psychologist",2.2647374668244304,3
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Jobs,"Psychologist",2.0322887371909593,4
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Skills,"Project Management",-1,1
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-03-01,be,"Belgium","All","Health Care",Top Trending Skills,"Psychotherapy",-1,3

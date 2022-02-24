@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-31,us,"United States","Boise Metropolitan Area","Health Care",Top Trending Employers,"St. Luke's Health System",3.968645546165042,1
+2020-03-31,us,"United States","Boise Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",16.306422172176894,1
+2020-03-31,us,"United States","Boise Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-03-31,us,"United States","Boise Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

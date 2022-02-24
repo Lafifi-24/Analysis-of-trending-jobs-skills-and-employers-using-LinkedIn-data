@@ -1,0 +1,25 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"DBS Bank",4.347667959893835,1
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"UOB",5.189973405549331,2
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"Standard Chartered Bank",3.6141153575133402,3
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"Prudential Assurance Company Singapore",7.654936333222098,4
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"OCBC Bank",4.239148312758848,5
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"Citi",3.8420610958695955,6
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"GREAT EASTERN",6.673139027350851,7
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"AIA Singapore",7.2844927736717375,8
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"UBS",3.1582659210866386,9
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"Income",7.442634943847123,10
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"MUFG",7.159836399187013,11
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Employers,"GIC",6.488503084409928,12
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Financial Advisor",6.988191906830782,1
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Software Engineer",3.1795657014296186,2
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Financial Services Consultant",2.958305417746967,3
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Relationship Manager",2.673435521296702,4
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Jobs,"Business Analyst",2.2708988720993983,5
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Skills,"Java",-1,2
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Skills,"Business Analysis",-1,3
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Skills,"Financial Planning",-1,4
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Skills,"Requirements Gathering",-1,5
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Skills,"Portfolio Management",-1,6
+2020-01-01,sg,"Singapore","All","Finance",Top Trending Skills,"Financial Advisory",-1,7

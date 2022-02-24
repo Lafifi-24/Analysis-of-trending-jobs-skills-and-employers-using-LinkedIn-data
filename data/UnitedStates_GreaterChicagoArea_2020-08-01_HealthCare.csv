@@ -1,0 +1,53 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"AbbVie",4.671353398962163,1
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Northwestern Medicine",4.983893154872029,2
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Rush University Medical Center",5.429903368315476,3
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"AMITA Health",6.208255059149912,4
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Northwestern Memorial Hospital",5.2978092396146845,5
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"UChicago Medicine",5.241341183101826,6
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Abbott",3.929603340373728,7
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Tempus Labs, Inc.",17.546949049388168,8
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Medline Industries, Inc.",3.8608414164140568,9
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Ann & Robert H. Lurie Children's Hospital of Chicago",3.6567542681271417,10
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Baxter International Inc.",4.679270578548678,11
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"UI Health",6.248253359694373,12
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Loyola Medicine",8.721483414642746,13
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Blue Cross and Blue Shield of Illinois, Montana, New Mexico, Oklahoma & Texas",1.356262162562352,14
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Oak Street Health",9.385271444209653,15
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Advocate Illinois Masonic Medical Center",9.497979125870927,16
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Advocate Lutheran General Hospital",8.420325956829181,17
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Centene Corporation",13.731011399730273,18
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"DuPage Medical Group",4.743249998383422,19
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Employers,"Sinai Health System",8.163595358551321,20
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Nurse",7.9332116795771155,1
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Medical Doctor",2.056762188043013,2
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Medical Resident",1.4444391201609859,3
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Clinical Fellow",1.380570915466926,4
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Patient Care Technician",1.1280411842357896,5
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Speech Language Pathologist",1.0714410004219832,6
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Physical Therapist",1.038761922253162,7
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Software Engineer",0.9838742234894591,8
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Pharmacy Technician",0.9041058319462147,9
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Psychotherapist",0.9012078649070554,10
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Salesperson",0.8264030346384571,11
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Account Manager",0.8061314376450132,12
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Occupational Therapist",0.7797570449699666,13
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Jobs,"Social Worker",0.7030805495697928,14
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Account Management",-1,2
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Nursing",-1,3
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Pharmacy",-1,4
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Physical Therapy",-1,5
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Rehabilitation",-1,6
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Pharmacy Technicians",-1,7
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,8
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Speech Therapy",-1,9
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Case Management",-1,10
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Social Services",-1,11
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Occupational Therapy",-1,12
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Speech",-1,13
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Psychotherapy",-1,14
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Mental Health Counseling",-1,15
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,16
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Clinical Research",-1,17
+2020-08-01,us,"United States","Greater Chicago Area","Health Care",Top Trending Skills,"Clinical Pharmacy",-1,18

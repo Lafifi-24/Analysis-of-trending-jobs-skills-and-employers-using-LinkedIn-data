@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Pacific Gas and Electric Company",4.151232003480907,1
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Southern California Edison (SCE)",4.587751394703655,2
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Duke Energy Corporation",1.7488922341422373,3
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Shell",1.3462800986323897,4
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"bp",1.9135039996902075,5
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Marathon Petroleum Corporation",2.3215545140077327,6
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Phillips 66",2.6735284256572065,7
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Sargent & Lundy",12.928547294862236,8
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Wood",2.411354961317554,9
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"National Grid",2.9274230273227504,10
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Ameren",4.034851666791748,11
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Entergy",2.583824200862418,12
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Baker Hughes",1.5254585048865825,13
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Xcel Energy",2.6673205295368936,14
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"ExxonMobil",0.7721245757845736,15
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Dominion Energy",1.9446762072983441,16
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Exelon",2.5031125711703828,17
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Kinder Morgan, Inc.",2.617870093654357,18
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Puget Sound Energy",6.299738436243018,19
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Employers,"Tennessee Valley Authority",2.6306587973402835,20
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Project Manager",3.213399093238304,1
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Accountant",1.5607360989870949,2
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Account Manager",1.4271801173115075,3
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Software Engineer",1.3866026241187017,4
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Operations Manager",1.1796209044890833,5
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Business Development Manager",1.0667165303884936,6
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Sales Manager",0.9949271834396808,7
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Project Engineer",0.8994153090681066,8
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Customer Service Representative",0.8737453262188064,9
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Business Analyst",0.8293595214836559,10
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Electrical Engineer",0.806031548531738,11
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Financial Analyst",0.7986835461943499,12
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Mechanical Engineer",0.6885156655745391,13
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Salesperson",0.6754819942165372,14
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Field Engineer",0.5699782335284352,15
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Process Engineer",0.5493649186539504,16
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Chief Financial Officer",0.5139361598979892,17
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Human Resources Administrator",0.5112312074667908,18
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Director Of Business Development",0.49550292502376053,19
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Jobs,"Civil Engineer",0.4911408904571946,20
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Account Management",-1,2
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Sales Management",-1,3
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Operations Management",-1,4
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Team Building",-1,5
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Construction Management",-1,6
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Account Reconciliation",-1,7
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Business Analysis",-1,8
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Sales Operations",-1,9
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Financial Analysis",-1,10
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"General Ledger",-1,11
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Customer Satisfaction",-1,12
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Financial Reporting",-1,13
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,14
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"SOLIDWORKS",-1,15
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Process Engineering",-1,16
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Strategic Partnerships",-1,17
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Stormwater Management",-1,18
+2020-05-01,us,"United States","All","Energy & Mining",Top Trending Skills,"Onboarding",-1,19

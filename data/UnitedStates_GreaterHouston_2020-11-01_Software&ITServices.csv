@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Employers,"Amazon",15.868756898784723,1
+2020-11-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",15.149312229463973,2
+2020-11-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Jobs,"Software Engineer",5.238969837078315,1
+2020-11-01,us,"United States","Greater Houston","Software & IT Services",Top Trending Skills,"JavaScript",-1,1

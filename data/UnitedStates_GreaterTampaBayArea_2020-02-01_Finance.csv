@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Employers,"Citi",3.1861744523949844,1
+2020-02-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Employers,"Raymond James",3.718983117056555,2
+2020-02-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Jobs,"Insurance Agent",3.2243069530719497,1
+2020-02-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Skills,"Life Insurance",-1,1
+2020-02-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,2

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,gb,"United Kingdom","London Area, United Kingdom","Consumer Goods",Top Trending Employers,"Apple",3.4589951573393263,1
+2020-09-01,gb,"United Kingdom","London Area, United Kingdom","Consumer Goods",Top Trending Employers,"Greene King",16.821336159873496,2
+2020-09-01,gb,"United Kingdom","London Area, United Kingdom","Consumer Goods",Top Trending Jobs,"Account Manager",1.808394460048777,1
+2020-09-01,gb,"United Kingdom","London Area, United Kingdom","Consumer Goods",Top Trending Jobs,"Software Engineer",1.7697712329598232,2
+2020-09-01,gb,"United Kingdom","London Area, United Kingdom","Consumer Goods",Top Trending Skills,"Account Management",-1,1
+2020-09-01,gb,"United Kingdom","London Area, United Kingdom","Consumer Goods",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,gb,"United Kingdom","London Area, United Kingdom","Consumer Goods",Top Trending Skills,"Business-to-Business (B2B)",-1,3

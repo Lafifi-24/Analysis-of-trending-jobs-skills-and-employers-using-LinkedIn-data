@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Greater Philadelphia","Legal",Top Trending Jobs,"Attorney",32.57526931983841,1
+2021-05-01,us,"United States","Greater Philadelphia","Legal",Top Trending Jobs,"Paralegal",11.58353042137013,2
+2021-05-01,us,"United States","Greater Philadelphia","Legal",Top Trending Jobs,"Law Clerk",9.067684947870113,3
+2021-05-01,us,"United States","Greater Philadelphia","Legal",Top Trending Skills,"Legal Writing",-1,1
+2021-05-01,us,"United States","Greater Philadelphia","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2021-05-01,us,"United States","Greater Philadelphia","Legal",Top Trending Skills,"Legal Research",-1,3

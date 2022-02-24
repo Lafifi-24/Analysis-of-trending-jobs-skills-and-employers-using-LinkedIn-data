@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,ca,"Canada","Greater Ottawa Metropolitan Area","Education",Top Trending Employers,"University of Ottawa",8.118674748978899,1
+2020-09-01,ca,"Canada","Greater Ottawa Metropolitan Area","Education",Top Trending Employers,"Carleton University",9.861933648336386,2
+2020-09-01,ca,"Canada","Greater Ottawa Metropolitan Area","Education",Top Trending Employers,"Algonquin College of Applied Arts and Technology",5.541872813667886,3
+2020-09-01,ca,"Canada","Greater Ottawa Metropolitan Area","Education",Top Trending Jobs,"Teacher",16.949197975743928,1
+2020-09-01,ca,"Canada","Greater Ottawa Metropolitan Area","Education",Top Trending Jobs,"Professor",12.590793727003884,2
+2020-09-01,ca,"Canada","Greater Ottawa Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,ca,"Canada","Greater Ottawa Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,ca,"Canada","Greater Ottawa Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

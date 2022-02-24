@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",7.164199406805665,1
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Booz Allen Hamilton",3.642584112908856,2
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Amazon",11.792911138486335,3
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"General Dynamics Information Technology",3.988956233318903,4
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"CACI International Inc",3.8963133719785636,5
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"ManTech",6.010592607870388,6
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Microsoft",5.742900880647703,7
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"SAIC",3.489470232391509,8
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"CGI",5.2172797298860925,9
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Carahsoft",10.534130192370013,10
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Accenture",2.336473260527585,11
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Perspecta",3.482592004354961,12
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"MITRE",2.921380882592321,13
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"ID.me",42.630905723062114,14
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Facebook",6.992634447282797,15
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Oracle",3.1713132642021877,16
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Cvent",6.069954876285965,17
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Employers,"Appian Corporation",6.457047221680072,18
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Software Engineer",8.321369903013204,1
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Project Manager",2.0972942504335137,2
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Business Analyst",2.0238280905978465,3
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Program Manager",1.931769918374025,4
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"System Engineer",1.9160028887645262,5
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Account Executive",1.9045830071870793,6
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Recruiter",1.7844532999940887,7
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Sales Development Representative",1.450752616174471,8
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Solutions Architect",1.249994802380837,9
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Cyber Security Analyst",1.0386199430205596,10
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Account Manager",1.0377300857067018,11
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Data Scientist",1.0123027644506604,12
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Data Analyst",0.9849265348209997,13
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Product Manager",0.9516217807821588,14
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"System Administrator",0.9220655922781845,15
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Network Engineer",0.7847552012269936,16
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Business Development Representative",0.7542059932244028,17
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Customer Success Manager",0.7399653830088234,18
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Management Analyst",0.6865593339913244,19
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Jobs,"Intelligence Analyst",0.6746270677972654,20
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Recruiting",-1,3
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Construction Management",-1,4
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Program Management",-1,5
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Business Analysis",-1,6
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Data Analysis",-1,7
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Interviewing",-1,8
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"System Administration",-1,9
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Active Directory",-1,10
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Cross-functional Team Leadership",-1,11
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Tableau",-1,12
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,13
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Systems Engineering",-1,14
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,15
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Integration",-1,16
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Machine Learning",-1,17
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Cisco Systems Products",-1,18
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Data Science",-1,19
+2020-11-01,us,"United States","Washington DC-Baltimore Area","Software & IT Services",Top Trending Skills,"Network Engineering",-1,20

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Nashville Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon",25.434731791264365,1
+2020-05-01,us,"United States","Nashville Metropolitan Area","Software & IT Services",Top Trending Employers,"Asurion",3.151315255461252,2
+2020-05-01,us,"United States","Nashville Metropolitan Area","Software & IT Services",Top Trending Employers,"ServiceSource",10.135417900101276,3
+2020-05-01,us,"United States","Nashville Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",9.227581489516094,1
+2020-05-01,us,"United States","Nashville Metropolitan Area","Software & IT Services",Top Trending Jobs,"Program Manager",3.443340046492873,2
+2020-05-01,us,"United States","Nashville Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","Nashville Metropolitan Area","Software & IT Services",Top Trending Skills,"Program Management",-1,2
+2020-05-01,us,"United States","Nashville Metropolitan Area","Software & IT Services",Top Trending Skills,"Cross-functional Team Leadership",-1,3

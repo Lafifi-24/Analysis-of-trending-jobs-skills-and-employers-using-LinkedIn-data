@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"North Carolina State University",5.407488698166824,1
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"University of North Carolina at Chapel Hill",5.776432094596156,2
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"Duke University",5.519257545907025,3
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"Wake County Public School System",3.5158311888764247,4
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"RTI International",4.607321723116956,5
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"PRA Health Sciences",5.288259038260482,6
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"Duke University School of Medicine",6.252067116248713,7
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"University of North Carolina at Chapel Hill School of Medicine",9.493611450307066,8
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Jobs,"Teacher",10.022980171087601,1
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Jobs,"Professor",7.78641153237716,2
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Jobs,"Postdoctoral Researcher",6.2361901936735595,3
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-10-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Skills,"Cell Culture",-1,5

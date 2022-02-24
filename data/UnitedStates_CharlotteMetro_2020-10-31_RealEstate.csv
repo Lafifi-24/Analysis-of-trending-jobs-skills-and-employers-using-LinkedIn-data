@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-31,us,"United States","Charlotte Metro","Real Estate",Top Trending Jobs,"Real Estate Agent",24.270721018636667,1
+2020-10-31,us,"United States","Charlotte Metro","Real Estate",Top Trending Jobs,"Real Estate Broker",22.449214224680254,2
+2020-10-31,us,"United States","Charlotte Metro","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-10-31,us,"United States","Charlotte Metro","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2

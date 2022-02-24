@@ -1,0 +1,25 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of Southern California",5.156897984997657,1
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Los Angeles",5.332152000130969,2
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"UC Irvine",4.079770872074331,3
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Los Angeles Unified School District",2.1907310116900773,4
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Riverside",5.4147265882485955,5
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Long Beach",6.772731300936566,6
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Chapman University",6.657268486502891,7
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Loyola Marymount University",5.01393719841048,8
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Fullerton",4.538092122241539,9
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Northridge",4.3607069227096344,10
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State Polytechnic University-Pomona",5.936167789372852,11
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"California State University, Los Angeles",4.5457519682717145,12
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Azusa Pacific University",5.085658463365467,13
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"Caltech",4.298689611306769,14
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"David Geffen School of Medicine at UCLA",5.102876421317247,15
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Teacher",12.106544135410772,1
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Professor",10.19740201917078,2
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Lecturer",3.50802930275072,3
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",2.09765096863172,4
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-02-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,5

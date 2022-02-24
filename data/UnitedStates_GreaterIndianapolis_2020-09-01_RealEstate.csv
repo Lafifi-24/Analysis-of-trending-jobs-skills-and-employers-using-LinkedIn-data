@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Indianapolis","Real Estate",Top Trending Jobs,"Real Estate Agent",20.434369860755687,1
+2020-09-01,us,"United States","Greater Indianapolis","Real Estate",Top Trending Jobs,"Real Estate Broker",18.08122302509472,2
+2020-09-01,us,"United States","Greater Indianapolis","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-09-01,us,"United States","Greater Indianapolis","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2

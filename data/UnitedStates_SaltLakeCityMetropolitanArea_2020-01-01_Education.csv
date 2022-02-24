@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Employers,"Brigham Young University",6.138843250122904,1
+2020-01-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Employers,"University of Utah",5.061089315479168,2
+2020-01-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Employers,"Utah Valley University",6.739828318976801,3
+2020-01-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Employers,"Western Governors University",7.116369268763917,4
+2020-01-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Jobs,"Teacher",8.237579390253861,1
+2020-01-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Jobs,"Professor",7.684998272913076,2
+2020-01-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-01-01,us,"United States","Salt Lake City Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

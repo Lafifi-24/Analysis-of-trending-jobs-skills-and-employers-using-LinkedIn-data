@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Richmond Region","Health Care",Top Trending Employers,"VCU Health",3.7717575038889826,1
+2020-01-01,us,"United States","Greater Richmond Region","Health Care",Top Trending Employers,"McKesson",13.70611981748589,2
+2020-01-01,us,"United States","Greater Richmond Region","Health Care",Top Trending Jobs,"Nurse",7.882180015927945,1
+2020-01-01,us,"United States","Greater Richmond Region","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,us,"United States","Greater Richmond Region","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

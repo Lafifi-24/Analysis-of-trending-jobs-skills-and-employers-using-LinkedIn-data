@@ -1,0 +1,21 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Northeastern University",6.8371747658091815,1
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston University",3.613761786483643,2
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard University",2.499005152030397,3
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Massachusetts Institute of Technology",2.6808449246226447,4
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Tufts University",3.897888438852906,5
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Medical School",1.7252011236902718,6
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Broad Institute of MIT and Harvard",4.145507267999463,7
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brown University",2.019655434519661,8
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Medical School",3.7301573389130724,9
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Southern New Hampshire University",2.174082472904332,10
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston College",2.22177125279708,11
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Professor",8.900752591622913,1
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Teacher",7.407787265751073,2
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Postdoctoral Researcher",6.386502143984223,3
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Lecturer",3.0296899794070047,4
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Teaching",-1,1
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Higher Education",-1,3
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Molecular Biology",-1,4
+2021-02-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Cell Culture",-1,5

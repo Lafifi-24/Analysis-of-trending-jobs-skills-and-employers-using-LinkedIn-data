@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Denver Metropolitan Area","Legal",Top Trending Jobs,"Attorney",38.303176767478334,1
+2020-09-01,us,"United States","Denver Metropolitan Area","Legal",Top Trending Jobs,"Paralegal",10.930841244473728,2
+2020-09-01,us,"United States","Denver Metropolitan Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-09-01,us,"United States","Denver Metropolitan Area","Legal",Top Trending Skills,"Civil Litigation",-1,2
+2020-09-01,us,"United States","Denver Metropolitan Area","Legal",Top Trending Skills,"Legal Research",-1,3

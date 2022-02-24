@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Target",5.991914455878029,1
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Walmart",4.8376666262350705,2
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"The Home Depot",7.229232524583878,3
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Lowe's Companies, Inc.",7.461500762706542,4
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Starbucks",2.7440298097115514,5
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"DICK'S Sporting Goods",11.031447504967092,6
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Walgreens",2.639753900425932,7
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Kroger",3.6418256585074054,8
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Bath & Body Works",8.731255227603738,9
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Publix Super Markets",4.187064392602319,10
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Old Navy",5.130466148552646,11
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"H-E-B",5.726448973706007,12
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Dollar General",4.908662025466537,13
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Chewy",13.518587410421839,14
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Costco Wholesale",3.582166605059398,15
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Whole Foods Market",2.921142254853257,16
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Sam's Club",4.309016336367024,17
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Dollar Tree Stores",7.652626387874241,18
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Wayfair",4.5963194626208805,19
+2020-06-30,us,"United States","All","Retail",Top Trending Employers,"Meijer",5.677564013578953,20
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Salesperson",9.848833254893059,1
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Cashier",8.69703966479285,2
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Store Manager",3.8034434495675637,3
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Customer Service Representative",2.930449697616679,4
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Barista",2.320845633208244,5
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Retail Associate",1.979575902408036,6
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Retail Salesperson",1.8117445385092519,7
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Sales Manager",1.5358217746519425,8
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"General Manager",1.3210746702858276,9
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Personal Shopper",1.2921010036916087,10
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Software Engineer",1.2650691081830412,11
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Pharmacy Technician",1.2295872950459563,12
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Operations Manager",1.1700053826905694,13
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Store Associate",1.1301699354325174,14
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Warehouse Associate",0.90581800199488,15
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Brand Associate",0.8471096183562491,16
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Merchandiser",0.7940804662028726,17
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Sales Consultant",0.779341076400468,18
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Keyholder",0.7694405912959831,19
+2020-06-30,us,"United States","All","Retail",Top Trending Jobs,"Brand Representative",0.6985418148393596,20
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"JavaScript",-1,1
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Sales Management",-1,2
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Team Building",-1,3
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Operations Management",-1,4
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Merchandising",-1,5
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Store Management",-1,6
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Sales Operations",-1,7
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Inventory Management",-1,8
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Time Management",-1,9
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Customer Satisfaction",-1,10
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Cashiering",-1,11
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Social Media",-1,12
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Pharmacy",-1,13
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Pharmacy Technicians",-1,14
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Barista",-1,15
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Retail",-1,16
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Warehouse Operations",-1,17
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Forklift Operation",-1,18
+2020-06-30,us,"United States","All","Retail",Top Trending Skills,"Retail Sales",-1,19

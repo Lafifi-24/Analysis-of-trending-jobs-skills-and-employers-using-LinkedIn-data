@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northwestern University",2.8748315394103505,1
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Chicago",2.3782484062812874,2
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Illinois Chicago",2.307664255310769,3
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Chicago Public Schools",1.6266372729600322,4
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Loyola University Chicago",3.5048698122379975,5
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Illinois Institute of Technology",3.7624364226186335,6
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Teacher",9.418983864759497,1
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Professor",9.347526266253578,2
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Postdoctoral Researcher",4.303154710487975,3
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Higher Education",-1,3
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2021-03-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Cell Culture",-1,5

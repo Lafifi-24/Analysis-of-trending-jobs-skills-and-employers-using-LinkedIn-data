@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Metro Jacksonville","Health Care",Top Trending Employers,"Baptist Health",5.560969366489773,1
+2020-01-01,us,"United States","Metro Jacksonville","Health Care",Top Trending Employers,"Mayo Clinic",4.115608824416861,2
+2020-01-01,us,"United States","Metro Jacksonville","Health Care",Top Trending Jobs,"Nurse",7.971678444802004,1
+2020-01-01,us,"United States","Metro Jacksonville","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,us,"United States","Metro Jacksonville","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

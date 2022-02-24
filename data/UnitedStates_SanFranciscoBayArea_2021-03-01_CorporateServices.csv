@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"PwC",2.560785396170117,1
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Recruiter",3.48132616676975,1
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Tax Associate",3.404445633197505,2
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Accountant",3.248317164010676,3
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Recruiting",-1,1
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,2
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"General Ledger",-1,3
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Interviewing",-1,4
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Tax",-1,5
+2021-03-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Tax Preparation",-1,6

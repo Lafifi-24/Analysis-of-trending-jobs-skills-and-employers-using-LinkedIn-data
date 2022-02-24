@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"Vanguard",2.8955212283534957,1
+2021-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"JPMorgan Chase & Co.",2.5213404947404747,2
+2021-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Employers,"SEI",2.7620829938741704,3
+2021-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Jobs,"Software Engineer",4.7938425565285385,1
+2021-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Jobs,"Underwriter",2.418952468730502,2
+2021-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Underwriting",-1,2
+2021-05-01,us,"United States","Greater Philadelphia","Finance",Top Trending Skills,"Insurance",-1,3

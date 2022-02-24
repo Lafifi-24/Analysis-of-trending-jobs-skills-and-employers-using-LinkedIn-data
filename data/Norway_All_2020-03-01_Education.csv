@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,no,"Norway","All","Education",Top Trending Employers,"Norwegian University of Science and Technology (NTNU)",5.593015427309497,1
+2020-03-01,no,"Norway","All","Education",Top Trending Employers,"University of Oslo (UiO)",9.0944075380609,2
+2020-03-01,no,"Norway","All","Education",Top Trending Employers,"University of Bergen (UiB)",5.375176656831385,3
+2020-03-01,no,"Norway","All","Education",Top Trending Employers,"MentorNorge AS",20.524012785476685,4
+2020-03-01,no,"Norway","All","Education",Top Trending Jobs,"Professor",15.679080038749088,1
+2020-03-01,no,"Norway","All","Education",Top Trending Jobs,"Postdoctoral Researcher",10.219647587767327,2
+2020-03-01,no,"Norway","All","Education",Top Trending Jobs,"Teacher",6.704847462862373,3
+2020-03-01,no,"Norway","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,no,"Norway","All","Education",Top Trending Skills,"Pedagogy",-1,2

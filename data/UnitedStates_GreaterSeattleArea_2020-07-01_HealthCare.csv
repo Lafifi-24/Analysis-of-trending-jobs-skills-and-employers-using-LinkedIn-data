@@ -1,0 +1,19 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seattle Children's",3.0802487139060846,1
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Bristol Myers Squibb",19.854795815056843,2
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Swedish",3.5495064071811084,3
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"MultiCare Health System",3.775910788026276,4
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"University of Washington Medical Center",5.9098492917510335,5
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seagen",7.002324709540877,6
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Providence Health & Services",2.9487362081572326,7
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"The Everett Clinic",12.704775819801299,8
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Virginia Mason Medical Center",3.7714079325780623,9
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Overlake Medical Center & Clinics",6.847871490525975,10
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seattle Cancer Care Alliance",5.006372203461248,11
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"UW Medicine",3.3719321895365297,12
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Nurse",8.228372933253763,1
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Medical Doctor",1.7223906845282764,2
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Software Engineer",1.638708930330623,3
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-07-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,3

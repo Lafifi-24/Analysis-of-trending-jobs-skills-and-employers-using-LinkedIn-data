@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Minneapolis-St. Paul Area","Education",Top Trending Employers,"University of St. Thomas",3.749243498856237,1
+2020-02-01,us,"United States","Greater Minneapolis-St. Paul Area","Education",Top Trending Jobs,"Professor",9.229652248909265,1
+2020-02-01,us,"United States","Greater Minneapolis-St. Paul Area","Education",Top Trending Jobs,"Teacher",8.96233769951191,2
+2020-02-01,us,"United States","Greater Minneapolis-St. Paul Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Greater Minneapolis-St. Paul Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-02-01,us,"United States","Greater Minneapolis-St. Paul Area","Education",Top Trending Skills,"Higher Education",-1,3

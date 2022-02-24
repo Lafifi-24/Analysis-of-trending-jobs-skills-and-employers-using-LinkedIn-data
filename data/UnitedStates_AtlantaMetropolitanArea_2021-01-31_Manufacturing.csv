@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"General Motors",8.864617874678952,1
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Honeywell",5.40945432067226,2
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.298553549069767,1
+2021-01-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1

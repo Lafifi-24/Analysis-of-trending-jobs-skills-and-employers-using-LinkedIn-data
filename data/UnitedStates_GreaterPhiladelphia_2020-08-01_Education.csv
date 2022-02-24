@@ -1,0 +1,25 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Pennsylvania",5.293212282732475,1
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Temple University",5.592365149646723,2
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"The School District of Philadelphia",5.585804843669604,3
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Delaware",3.9811695230012525,4
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Villanova University",7.5062327923514,5
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Thomas Jefferson University",4.269721872947783,6
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Drexel University",2.8266959176759436,7
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Pennsylvania School of Medicine",5.446193680231776,8
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"West Chester University of Pennsylvania",8.301585586681894,9
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"PRA Health Sciences",7.004905622106844,10
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Saint Joseph's University",6.270905866598721,11
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Teacher",11.161797167900508,1
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Professor",11.154603317424018,2
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Elementary School Teacher",4.403808159948669,3
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Postdoctoral Researcher",2.7261244919096836,4
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Special Education Teacher",1.75395180375152,5
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Higher Education",-1,3
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Special Education",-1,4
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Classroom Management",-1,5
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Elementary Education",-1,6
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Molecular Biology",-1,7
+2020-08-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Cell Culture",-1,8

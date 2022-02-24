@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Employers,"Redfin",9.547976471499474,1
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Employers,"Zillow",3.531151661941899,2
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Employers,"Compass",10.475473818119927,3
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Employers,"CBRE",4.8974537381616035,4
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Jobs,"Real Estate Broker",19.153607653316207,1
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Jobs,"Real Estate Agent",12.415587923662114,2
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Jobs,"Software Engineer",5.101573288744106,3
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Skills,"Investment Properties",-1,2
+2021-06-01,us,"United States","Greater Seattle Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,3

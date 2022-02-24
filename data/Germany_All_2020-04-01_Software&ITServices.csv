@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"Amazon",7.872325091218917,1
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"SAP",3.109114300781518,2
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"Accenture",6.097749396466026,3
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"Delivery Hero",18.781422880199212,4
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"CGI",11.30975399168165,5
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"Bosch",1.3032206496472392,6
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",12.556793323323964,7
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"Microsoft",4.436709118654656,8
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"CHECK24 Vergleichsportal GmbH",9.512836228440056,9
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"Capgemini",4.681204512523469,10
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"DB Systel GmbH",6.512264195922592,11
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"about-you-gmbh",22.158781393839142,12
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"SVA System Vertrieb Alexander GmbH",12.609073668480777,13
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"CANCOM",8.285467515975336,14
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"msg",6.1459654621242015,15
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"AUTO1 Group",9.771464539494364,16
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"OTTO GmbH & Co KG",5.151998021502367,17
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"T-Systems International",1.9739263820382162,18
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"idealo internet GmbH",9.880226835906782,19
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Employers,"diconium",12.467421318746094,20
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Software Engineer",10.649475302396107,1
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Project Manager",2.816103640402885,2
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Information Technology Consultant",2.3485189754210665,3
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Account Manager",2.0161885214987003,4
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Product Manager",1.6911912403287404,5
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Sales Manager",1.633707088213621,6
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Marketing Manager",1.4661670575261472,7
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Product Owner",1.1759101855660834,8
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Business Development Manager",1.1209299433948703,9
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Data Scientist",1.0992396487275198,10
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"System Engineer",1.09506708869874,11
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Account Executive",1.0509315008424653,12
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Key Account Manager",0.9923175205933422,13
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.9681483644233565,14
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Solutions Architect",0.9025391726059083,15
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"User Experience Designer",0.8443522005082341,16
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"SAP Consultant",0.8317543773125485,17
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Frontend Developer",0.7963603129685813,18
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Business Consultant",0.7870193881057006,19
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",0.6720247785494164,20
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Java",-1,2
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Project Planning",-1,3
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Account Management",-1,4
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Product Development",-1,5
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"International Sales",-1,6
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Online Marketing",-1,7
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Scrum",-1,8
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,9
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,10
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Data Science",-1,11
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"IT Consulting",-1,12
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Systems Engineering",-1,13
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"User Experience Design (UED)",-1,14
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"User Interface Design",-1,15
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"SAP ERP",-1,16
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"React.js",-1,17
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Node.js",-1,18
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"SASS",-1,19
+2020-04-01,de,"Germany","All","Software & IT Services",Top Trending Skills,"Virtualization",-1,20

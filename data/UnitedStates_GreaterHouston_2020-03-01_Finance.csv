@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Houston","Finance",Top Trending Employers,"JPMorgan Chase & Co.",3.977229559629479,1
+2020-03-01,us,"United States","Greater Houston","Finance",Top Trending Jobs,"Insurance Agent",3.2481342256622283,1
+2020-03-01,us,"United States","Greater Houston","Finance",Top Trending Jobs,"Financial Advisor",3.007177917765419,2
+2020-03-01,us,"United States","Greater Houston","Finance",Top Trending Jobs,"Mortgage Loan Officer",2.9794283581763037,3
+2020-03-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Retirement Planning",-1,1
+2020-03-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Investments",-1,2
+2020-03-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Life Insurance",-1,3
+2020-03-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,4
+2020-03-01,us,"United States","Greater Houston","Finance",Top Trending Skills,"Mortgage Lending",-1,5

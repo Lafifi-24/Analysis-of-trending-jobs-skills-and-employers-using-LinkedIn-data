@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,it,"Italy","Greater Rome Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",15.50169698063035,1
+2021-01-01,it,"Italy","Greater Rome Metropolitan Area","Health Care",Top Trending Jobs,"Medical Doctor",15.32404938204312,2
+2021-01-01,it,"Italy","Greater Rome Metropolitan Area","Health Care",Top Trending Skills,"Clinical Research",-1,1
+2021-01-01,it,"Italy","Greater Rome Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,2

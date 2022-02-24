@@ -1,0 +1,55 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"BHP",6.940790928220224,1
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Rio Tinto",5.459643150230583,2
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Fortescue Metals Group",10.146643209119569,3
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Origin Energy",5.601717107133587,4
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"AGL Energy",6.472179645313197,5
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Woodside Energy",6.1284193356572825,6
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"bp",5.9433817156357955,7
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Worley",5.0099623447937764,8
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Shell",5.155566755680174,9
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Australian Energy Market Operator (AEMO)",10.515994105271448,10
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Water Corporation",7.3672203310487845,11
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Glencore",8.647529165270278,12
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Roy Hill",5.945755823138176,13
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Santos Ltd",5.095861539142681,14
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Newcrest Mining",6.643342314696348,15
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Jemena",7.307785441894779,16
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Orica",7.477984267053038,17
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Sydney Water",4.891952330481536,18
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Beach Energy Ltd",13.627684694479644,19
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Employers,"Caltex Australia",4.529914979334675,20
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Project Manager",3.17449159820835,1
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Project Engineer",2.0294377105499284,2
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Business Analyst",1.4060622912351333,3
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Customer Service Representative",1.3877369117734202,4
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Geologist",1.3101646361749861,5
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Software Engineer",1.2286325523595367,6
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Mining Engineer",1.2223852266333874,7
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Mechanical Engineer",1.2038118008073009,8
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Electrician",1.185465401572588,9
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Electrical Engineer",1.0340543582036412,10
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Business Development Manager",0.9984752297492542,11
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Accountant",0.9888290611754084,12
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"General Manager",0.9877482245717131,13
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Jobs,"Process Engineer",0.8758206337006799,14
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Business Analysis",-1,1
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"MYOB",-1,3
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Stakeholder Management",-1,4
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Account Management",-1,5
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Project Delivery",-1,6
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Change Management",-1,7
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Electrical Wiring",-1,8
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Time Management",-1,9
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Requirements Gathering",-1,10
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Project Engineering",-1,11
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Contract Management",-1,12
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Commissioning",-1,13
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Process Engineering",-1,14
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Geology",-1,15
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Geological Mapping",-1,16
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Electrical Design",-1,17
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Mining Engineering",-1,18
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Chemical Engineering",-1,19
+2020-01-01,au,"Australia","All","Energy & Mining",Top Trending Skills,"Underground Mining",-1,20

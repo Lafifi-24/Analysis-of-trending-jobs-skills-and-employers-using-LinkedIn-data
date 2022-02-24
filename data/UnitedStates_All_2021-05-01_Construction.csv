@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Jacobs",3.0572524778295356,1
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"United Rentals",4.976650449561634,2
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Burns & McDonnell",3.8180273506136633,3
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Kimley-Horn",5.916854793915122,4
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"D.R. Horton",4.815743607217897,5
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"PulteGroup",7.180445694039269,6
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"DPR Construction",5.639682647471469,7
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Kiewit",1.8732297717252575,8
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Renewal by Andersen",6.774458339897231,9
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Terracon",4.787669215866038,10
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"EquipmentShare",12.47515717133321,11
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"WSP USA",2.0285958430881146,12
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"HNTB",2.797595412800618,13
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"First Onsite Property Restoration",40.204603967245326,14
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Michael Baker International",3.680876063176422,15
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Black & Veatch",2.2514987904289923,16
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Owens Corning",3.254734822799712,17
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"NVR, Inc.",5.976769814591014,18
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"Langan Engineering & Environmental Services",8.141746419147513,19
+2021-05-01,us,"United States","All","Construction",Top Trending Employers,"CRB",7.371829799366248,20
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Project Manager",14.250526115768212,1
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Project Engineer",5.8354103238954655,2
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Salesperson",2.0449194770100867,3
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Accountant",1.3784805065956156,4
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Account Manager",1.3498757928398788,5
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Sales Manager",1.3154471770838276,6
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Construction Manager",1.2318124702082587,7
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Operations Manager",1.149033505902545,8
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Office Manager",1.0116707411092627,9
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Field Engineer",1.0112597634578442,10
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Electrician",0.9465150839918599,11
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Outside Sales Representative",0.9361150254989353,12
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Civil Engineer",0.9240134541835029,13
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Business Development Manager",0.8862058267058619,14
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Project Superintendent",0.8299099952749179,15
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Foreperson",0.8223107754584347,16
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Marketing Coordinator",0.7768561931226242,17
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Human Resources Administrator",0.742448935241989,18
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"Project Estimator",0.6929320460018704,19
+2021-05-01,us,"United States","All","Construction",Top Trending Jobs,"General Manager",0.6918257772657945,20
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Account Management",-1,1
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Sales Management",-1,2
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Team Building",-1,3
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Operations Management",-1,4
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Construction Management",-1,5
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Account Reconciliation",-1,6
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Sales Operations",-1,7
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Inventory Management",-1,8
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Office Administration",-1,9
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"General Ledger",-1,10
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"QuickBooks",-1,11
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Social Media Marketing",-1,12
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Electrical Wiring",-1,13
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Electrical Troubleshooting",-1,14
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Project Estimation",-1,15
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Outside Sales",-1,16
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Contractors",-1,17
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Stormwater Management",-1,18
+2021-05-01,us,"United States","All","Construction",Top Trending Skills,"Onboarding",-1,19

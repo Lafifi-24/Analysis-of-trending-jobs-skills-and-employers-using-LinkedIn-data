@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Cleveland","Retail",Top Trending Jobs,"Salesperson",14.602966401170642,1
+2020-10-01,us,"United States","Greater Cleveland","Retail",Top Trending Jobs,"Cashier",7.448231530507784,2
+2020-10-01,us,"United States","Greater Cleveland","Retail",Top Trending Skills,"Time Management",-1,1
+2020-10-01,us,"United States","Greater Cleveland","Retail",Top Trending Skills,"Cashiering",-1,2

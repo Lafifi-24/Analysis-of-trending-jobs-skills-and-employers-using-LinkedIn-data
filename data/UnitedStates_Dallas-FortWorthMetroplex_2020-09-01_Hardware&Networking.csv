@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Dallas-Fort Worth Metroplex","Hardware & Networking",Top Trending Employers,"Texas Instruments",1.3479730694572565,1
+2020-09-01,us,"United States","Dallas-Fort Worth Metroplex","Hardware & Networking",Top Trending Jobs,"Software Engineer",8.10830408016856,1
+2020-09-01,us,"United States","Dallas-Fort Worth Metroplex","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1

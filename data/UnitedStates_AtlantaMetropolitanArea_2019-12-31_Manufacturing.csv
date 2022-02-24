@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Georgia-Pacific LLC",4.818316486524045,1
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Employers,"Cox Automotive Inc.",5.024239967316861,2
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",3.2820421907753796,1
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",2.2903022810595077,2
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2019-12-31,us,"United States","Atlanta Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

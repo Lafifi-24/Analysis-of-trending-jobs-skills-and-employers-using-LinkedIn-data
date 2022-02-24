@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,nl,"Netherlands","Eindhoven","All",Top Trending Employers,"ASML",2.9432093601665037,1
+2020-09-01,nl,"Netherlands","Eindhoven","All",Top Trending Employers,"Eindhoven University of Technology",5.219849327511158,2
+2020-09-01,nl,"Netherlands","Eindhoven","All",Top Trending Jobs,"Software Engineer",3.963326926873455,1
+2020-09-01,nl,"Netherlands","Eindhoven","All",Top Trending Jobs,"Teacher",3.034341906328459,2
+2020-09-01,nl,"Netherlands","Eindhoven","All",Top Trending Jobs,"Account Manager",2.387945052233384,3
+2020-09-01,nl,"Netherlands","Eindhoven","All",Top Trending Skills,"Teaching",-1,1
+2020-09-01,nl,"Netherlands","Eindhoven","All",Top Trending Skills,"Account Management",-1,2
+2020-09-01,nl,"Netherlands","Eindhoven","All",Top Trending Skills,"Scrum",-1,3

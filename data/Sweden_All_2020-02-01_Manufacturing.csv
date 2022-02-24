@@ -1,0 +1,26 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Volvo Cars",3.172688380673133,1
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Saab",4.281179444400404,2
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Scania Group",2.531224067374854,3
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Volvo Group",2.7420140339345784,4
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"ABB",3.0651275767100645,5
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Tetra Pak",3.076106579067103,6
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Employers,"Knightec",9.752336433597907,7
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Project Manager",4.8475584350202094,1
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Salesperson",3.3404683315364676,2
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Sales Manager",3.2479145923178,3
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Software Engineer",2.7810879356093956,4
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"System Engineer",1.422840546769167,5
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Design Engineer",1.4177894500227992,6
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Key Account Manager",1.4160383688975982,7
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Jobs,"Automation Engineer",1.2662204874641365,8
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Project Planning",-1,2
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Git",-1,3
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Sales Management",-1,4
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,5
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Computer-Aided Design (CAD)",-1,6
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"CATIA",-1,7
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Programmable Logic Controller (PLC)",-1,8
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Systems Engineering",-1,9
+2020-02-01,se,"Sweden","All","Manufacturing",Top Trending Skills,"Windows Server",-1,10

@@ -1,0 +1,31 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Employers,"Amazon",14.372939352670874,1
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Employers,"University of Nevada-Las Vegas",4.393340866797149,2
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Employers,"Clark County School District",2.351598977698135,3
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Employers,"Tesla",11.81597550695969,4
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",4.428598832843733,1
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",1.8651630348115116,2
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.7081295387038824,3
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Nurse",1.6837875245214147,4
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Software Engineer",1.3733473878549725,5
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.3404885901601544,6
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Operations Manager",1.2777969892135965,7
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Teacher",1.0671474504168355,8
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"General Manager",0.8977007451691218,9
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Sales Manager",0.8951921767341571,10
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Jobs,"Account Manager",0.8770963284151975,11
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Team Building",-1,8
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Operations Management",-1,9
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,10
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Sales Operations",-1,11
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Inventory Management",-1,12
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Customer Satisfaction",-1,13
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Nursing",-1,14
+2020-10-01,us,"United States","Las Vegas Metropolitan Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,15

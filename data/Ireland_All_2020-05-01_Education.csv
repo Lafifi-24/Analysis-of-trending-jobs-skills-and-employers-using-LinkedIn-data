@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,ie,"Ireland","All","Education",Top Trending Employers,"University College Dublin",2.9186353523219557,1
+2020-05-01,ie,"Ireland","All","Education",Top Trending Employers,"Trinity College Dublin",2.801870367472465,2
+2020-05-01,ie,"Ireland","All","Education",Top Trending Jobs,"Postdoctoral Researcher",10.62731379198254,1
+2020-05-01,ie,"Ireland","All","Education",Top Trending Jobs,"Lecturer",8.668951420941893,2
+2020-05-01,ie,"Ireland","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-05-01,ie,"Ireland","All","Education",Top Trending Skills,"Higher Education",-1,2

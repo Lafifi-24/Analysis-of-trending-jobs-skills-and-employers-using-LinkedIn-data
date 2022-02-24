@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"PwC",3.098209437201497,1
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"McKinsey & Company",8.542653488969542,2
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Deloitte",3.4659990905350213,3
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Staples",2.676730623362836,4
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Employers,"Bain & Company",6.8296518258684085,5
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Accountant",3.399496926258025,1
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Security Officer",2.8049755096348243,2
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Jobs,"Project Manager",2.4091743515267092,3
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Construction Management",-1,1
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,2
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"General Ledger",-1,3
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Security",-1,4
+2020-09-01,us,"United States","Greater Boston","Corporate Services",Top Trending Skills,"Physical Security",-1,5

@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"PwC",3.8527351159847676,1
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"Slalom",13.709281777717216,2
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"Deloitte",3.0623300528962587,3
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"Allied Universal",6.172362614449945,4
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Accountant",3.804207289725561,1
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Tax Associate",3.069879120219378,2
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Project Manager",2.581799354613536,3
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Construction Management",-1,1
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,2
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"General Ledger",-1,3
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Public Speaking",-1,4
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Nonprofit Organizations",-1,5
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Tax",-1,6
+2020-02-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Tax Preparation",-1,7

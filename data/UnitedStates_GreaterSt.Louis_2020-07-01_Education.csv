@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Washington University in St. Louis",3.589704091499484,1
+2020-07-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Saint Louis University",4.376505061564924,2
+2020-07-01,us,"United States","Greater St. Louis","Education",Top Trending Jobs,"Professor",10.914851203782352,1
+2020-07-01,us,"United States","Greater St. Louis","Education",Top Trending Jobs,"Teacher",8.15700923686124,2
+2020-07-01,us,"United States","Greater St. Louis","Education",Top Trending Skills,"Teaching",-1,1
+2020-07-01,us,"United States","Greater St. Louis","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-07-01,us,"United States","Greater St. Louis","Education",Top Trending Skills,"Higher Education",-1,3

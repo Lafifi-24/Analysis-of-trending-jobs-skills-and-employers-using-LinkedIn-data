@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,ae,"United Arab Emirates","All","Corporate Services",Top Trending Employers,"Deloitte",4.365044225017176,1
+2021-01-01,ae,"United Arab Emirates","All","Corporate Services",Top Trending Jobs,"Business Development Manager",3.687878977352362,1
+2021-01-01,ae,"United Arab Emirates","All","Corporate Services",Top Trending Jobs,"Auditor",3.411655244130902,2
+2021-01-01,ae,"United Arab Emirates","All","Corporate Services",Top Trending Skills,"Team Leadership",-1,1
+2021-01-01,ae,"United Arab Emirates","All","Corporate Services",Top Trending Skills,"Auditing",-1,2
+2021-01-01,ae,"United Arab Emirates","All","Corporate Services",Top Trending Skills,"External Audit",-1,3

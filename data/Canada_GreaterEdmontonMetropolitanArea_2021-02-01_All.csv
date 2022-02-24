@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Employers,"Alberta Health Services",3.877405040302269,1
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Employers,"University of Alberta",1.9088136376978795,2
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Employers,"Government of Alberta",1.4520242032231194,3
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.3101857786838087,1
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.1593386808993102,2
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Jobs,"Accountant",1.9852045306675135,3
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.8050345293805927,4
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Skills,"Time Management",-1,1
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,3
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Skills,"Financial Reporting",-1,4
+2021-02-01,ca,"Canada","Greater Edmonton Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,5

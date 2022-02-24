@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Kirkland & Ellis",9.890503931835045,1
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Cooley LLP",12.931221682592478,2
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Goodwin",13.822528197098663,3
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Fragomen",8.42479884728769,4
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Latham & Watkins",6.6985869263905125,5
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Sidley Austin LLP",6.0160487563153975,6
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Lewis Brisbois",7.312568699452668,7
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"United States Attorneys'​ Offices",3.6401290906160018,8
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Greenberg Traurig, LLP",5.815799333521021,9
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Morgan & Morgan, P.A.",6.6089900011431375,10
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Epiq",3.7698035215308052,11
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Seyfarth Shaw LLP",8.122984335651374,12
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"DLA Piper",5.196924042083872,13
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Gunderson Dettmer",21.534714448947632,14
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Perkins Coie LLP",4.895160904762771,15
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Wilson Elser",8.32067653062181,16
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Littler",6.01161913699716,17
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"K&L Gates",5.631405897134186,18
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Ogletree Deakins",5.412867489213016,19
+2021-05-31,us,"United States","All","Legal",Top Trending Employers,"Willkie Farr & Gallagher LLP",10.939790497811124,20
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Attorney",29.27509216040427,1
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Law Clerk",16.191165859788377,2
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Paralegal",10.315157483990973,3
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Lawyer",3.511437003858157,4
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Litigation Paralegal",2.4688594110733124,5
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Legal Secretary",1.05220705140654,6
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Trial Attorney",0.9830554542953093,7
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Litigation Associate",0.9612253931307874,8
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Case Manager",0.9226208919298493,9
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Receptionist",0.7625499299436518,10
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Law Fellow",0.7519769430084563,11
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Corporate Associate",0.7225716228383507,12
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Business Analyst",0.559150259107012,13
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Immigration Paralegal",0.5573614211191108,14
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Real Estate Paralegal",0.5461933319886945,15
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Project Manager",0.5251758266345251,16
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"File Clerk",0.395927558549236,17
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Office Manager",0.39088374083216954,18
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Accountant",0.3824071751539315,19
+2021-05-31,us,"United States","All","Legal",Top Trending Jobs,"Editor",0.37946202005144813,20
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Legal Writing",-1,1
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Construction Management",-1,2
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Civil Litigation",-1,3
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Account Reconciliation",-1,4
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Business Analysis",-1,5
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Office Administration",-1,6
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Editing",-1,7
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"General Ledger",-1,8
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Legal Research",-1,9
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"QuickBooks",-1,10
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Copy Editing",-1,11
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Case Management",-1,12
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,13
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Community Outreach",-1,14
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Data Entry",-1,15
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Receptionist Duties",-1,16
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Litigation",-1,17
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Legal Advice",-1,18
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Trials",-1,19
+2021-05-31,us,"United States","All","Legal",Top Trending Skills,"Immigration Law",-1,20

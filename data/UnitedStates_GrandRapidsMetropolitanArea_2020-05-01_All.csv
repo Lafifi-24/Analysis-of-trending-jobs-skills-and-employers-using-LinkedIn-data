@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Employers,"Spectrum Health",1.9876002430775517,1
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Employers,"Amazon",36.82627478666231,2
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Employers,"Meijer",4.812146752193108,3
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.7071616218076342,1
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Jobs,"Software Engineer",1.6615243068062815,2
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.589370440035751,3
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Jobs,"Account Executive",1.4003363443840082,4
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Skills,"Account Management",-1,2
+2020-05-01,us,"United States","Grand Rapids Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,3

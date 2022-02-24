@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Accenture",2.818340681656683,1
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Concentrix",7.0310853734755705,2
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Globe Telecom",7.310465033043689,3
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Citi",8.669772509656243,4
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Sun Life",8.402812908028157,5
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"DXC Technology",6.280194709124201,6
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"AXA",7.795546921516837,7
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Bank of the Philippine Islands (BPI)",6.3815470094969005,8
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Shopee",21.26476737764442,9
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"JPMorgan Chase & Co.",4.735145192847482,10
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Security Bank Corporation",5.881429734910796,11
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"ISS | Institutional Shareholder Services",29.871892713281063,12
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"HCL Technologies",18.656135020224934,13
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"TaskUs",10.628803661131665,14
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Huawei",14.104093855309378,15
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Wells Fargo",6.130384450250305,16
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"ING",9.187066866268115,17
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Shell",3.7878797792121346,18
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Metrobank",5.553119990650787,19
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Employers,"Okada Manila",5.824925342282321,20
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Financial Advisor",2.771838812995235,1
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Software Engineer",2.597075571113596,2
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Customer Service Representative",2.320973018892578,3
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Audit Associate",2.016576970315543,4
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Project Manager",1.3463162340083656,5
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Accountant",1.30260475154642,6
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Account Manager",1.178599835432056,7
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Sales Manager",0.7990140460243423,8
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Financial Analyst",0.7473678588277812,9
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Graphic Designer",0.7416593216314779,10
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Data Analyst",0.7399846863549777,11
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Assurance Associate",0.6985524183719579,12
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Professor",0.6671753801781419,13
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Sales Executive",0.6422968062002096,14
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Recruiter",0.6341446852978571,15
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Business Development Manager",0.6069748721597256,16
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Operations Manager",0.6005461910565262,17
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Marketing Executive",0.5935038901102555,18
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Business Analyst",0.5723832134040089,19
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Jobs,"Nurse",0.5284274299564868,20
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Project Management",-1,2
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Adobe Illustrator",-1,3
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Financial Reporting",-1,4
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Account Reconciliation",-1,5
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Sales Management",-1,6
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Operations Management",-1,7
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Data Analysis",-1,8
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Account Management",-1,9
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Customer Experience",-1,10
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Data Entry",-1,11
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"External Audit",-1,12
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Teaching",-1,13
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Financial Analysis",-1,14
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Financial Planning",-1,15
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Business Analysis",-1,16
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Project Planning",-1,17
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Financial Advisory",-1,18
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Recruiting",-1,19
+2020-01-01,ph,"Philippines","Metro Manila","All",Top Trending Skills,"Sales Operations",-1,20

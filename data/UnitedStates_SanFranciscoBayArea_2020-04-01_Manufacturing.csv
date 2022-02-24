@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Tesla",7.105007681869028,1
+2020-04-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Cruise",8.03283499586703,2
+2020-04-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Rivian",46.65680698680616,3
+2020-04-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Lucid Motors",19.70474034088697,4
+2020-04-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Zoox",7.636491360818227,5
+2020-04-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Employers,"Lockheed Martin",3.4456228989106856,6
+2020-04-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Jobs,"Software Engineer",7.073982494397982,1
+2020-04-01,us,"United States","San Francisco Bay Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1

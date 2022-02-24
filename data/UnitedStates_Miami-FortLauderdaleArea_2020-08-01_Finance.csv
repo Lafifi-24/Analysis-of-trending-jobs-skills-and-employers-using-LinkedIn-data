@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Employers,"Northwestern Mutual",17.437617805745965,1
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Jobs,"Insurance Agent",5.679653203244619,1
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Jobs,"Mortgage Loan Officer",3.964129670937465,2
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Jobs,"Financial Advisor",3.350165769045485,3
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Jobs,"Mortgage Loan Originator",2.704551731890596,4
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Jobs,"Financial Representative",2.662420885992966,5
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Skills,"Retirement Planning",-1,1
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Skills,"Investments",-1,2
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Skills,"Life Insurance",-1,3
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,4
+2020-08-01,us,"United States","Miami-Fort Lauderdale Area","Finance",Top Trending Skills,"Mortgage Lending",-1,5

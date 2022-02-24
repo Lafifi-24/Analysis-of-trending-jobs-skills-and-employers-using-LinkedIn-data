@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Portland, Maine Metropolitan Area","All",Top Trending Employers,"Maine Medical Center",2.9196779968649986,1
+2020-05-01,us,"United States","Portland, Maine Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.806370934270595,1
+2020-05-01,us,"United States","Portland, Maine Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1

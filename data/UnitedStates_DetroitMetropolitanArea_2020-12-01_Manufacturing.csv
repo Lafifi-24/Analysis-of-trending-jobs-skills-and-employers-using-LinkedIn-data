@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"General Motors",2.536530831420567,1
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Ford Motor Company",1.1443431084579105,2
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"FCA Fiat Chrysler Automobiles",1.0244100350254517,3
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"BorgWarner Inc.",7.103964314215562,4
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Magna International",2.8678512817869275,5
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.421401500327344,1
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Account Manager",2.629457493084185,2
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Program Manager",1.788746584132804,3
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Program Management",-1,3
+2020-12-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,4

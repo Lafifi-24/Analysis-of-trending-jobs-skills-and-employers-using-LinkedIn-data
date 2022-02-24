@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Employers,"Target",9.285725102909344,1
+2020-07-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Employers,"Albertsons Companies",13.088365420692691,2
+2020-07-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Employers,"The Home Depot",9.258197565642694,3
+2020-07-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Jobs,"Salesperson",6.575244800978278,1
+2020-07-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Jobs,"Cashier",5.216692946268913,2
+2020-07-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Skills,"Time Management",-1,1
+2020-07-01,us,"United States","San Francisco Bay Area","Retail",Top Trending Skills,"Cashiering",-1,2

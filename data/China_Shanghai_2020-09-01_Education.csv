@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,cn,"China","Shanghai","Education",Top Trending Jobs,"Teacher",17.684381871374935,1
+2020-09-01,cn,"China","Shanghai","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,cn,"China","Shanghai","Education",Top Trending Skills,"Curriculum Development",-1,2

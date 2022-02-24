@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,it,"Italy","All","Nonprofit",Top Trending Employers,"ITA - Italian Trade Agency",24.499039304392852,1
+2021-01-01,it,"Italy","All","Nonprofit",Top Trending Jobs,"Teacher",7.147621096780147,1
+2021-01-01,it,"Italy","All","Nonprofit",Top Trending Jobs,"Social Educator",5.855396096808208,2
+2021-01-01,it,"Italy","All","Nonprofit",Top Trending Skills,"Teaching",-1,1

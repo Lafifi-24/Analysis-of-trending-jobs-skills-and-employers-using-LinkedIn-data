@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"North Carolina State University",6.590031734289995,1
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"University of North Carolina at Chapel Hill",7.344533380080201,2
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Duke University",6.304902142360177,3
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Duke University Health System",4.774765425255199,4
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Amazon",33.006705091903335,5
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"UNC Health",4.055777984605465,6
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Wake County Public School System",4.616135826786524,7
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Fidelity Investments",3.4618452931040067,8
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"IQVIA",4.248935200966475,9
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"PPD",6.4744049615787045,10
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Labcorp",10.104145121915648,11
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Mako Medical",56.49915018383944,12
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Credit Suisse",3.439261936038941,13
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Red Hat",2.3290141727012226,14
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"The Daily Tar Heel",50.70662490843627,15
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"RTI International",4.729752502771388,16
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"University of North Carolina at Chapel Hill School of Medicine",11.721869638610308,17
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"WakeMed",3.116002275483269,18
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Policygenius Inc.",68.2931384646467,19
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Pfizer",7.011636159772292,20
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Software Engineer",2.9122693513779314,1
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Project Manager",1.8391308573160872,2
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Teacher",1.6946233207708044,3
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Nurse",1.5040220001243045,4
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Salesperson",1.3250533174158523,5
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Professor",1.1816049457293374,6
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Real Estate Broker",1.0636982044583199,7
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Real Estate Agent",1.0100723863226393,8
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Postdoctoral Researcher",0.9888006478407291,9
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Sales Development Representative",0.8779523020296135,10
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Customer Service Representative",0.8406255321662054,11
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Account Manager",0.8102358052047219,12
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Attorney",0.7256062078888592,13
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Account Executive",0.6874367985198508,14
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Sales Manager",0.6401127135619322,15
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Financial Analyst",0.5805414056699888,17
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Writer",0.5590337038602367,18
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Data Analyst",0.5488248288102063,19
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Program Manager",0.48710747980707636,20
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Account Management",-1,4
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Writing",-1,8
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Legal Writing",-1,9
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Editing",-1,10
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Construction Management",-1,11
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Higher Education",-1,12
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Program Management",-1,13
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Civil Litigation",-1,14
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Sales Operations",-1,15
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Financial Analysis",-1,16
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Customer Satisfaction",-1,17
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Data Analysis",-1,18
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Public Speaking",-1,19
+2020-09-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Financial Reporting",-1,20

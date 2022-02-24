@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","San Antonio, Texas Metropolitan Area","Education",Top Trending Employers,"The University of Texas at San Antonio",5.17576987335031,1
+2020-08-01,us,"United States","San Antonio, Texas Metropolitan Area","Education",Top Trending Employers,"UT Health San Antonio",4.405339294875221,2
+2020-08-01,us,"United States","San Antonio, Texas Metropolitan Area","Education",Top Trending Employers,"San Antonio ISD",7.518494488367241,3
+2020-08-01,us,"United States","San Antonio, Texas Metropolitan Area","Education",Top Trending Jobs,"Teacher",15.677736042375901,1
+2020-08-01,us,"United States","San Antonio, Texas Metropolitan Area","Education",Top Trending Jobs,"Professor",9.247011299802137,2
+2020-08-01,us,"United States","San Antonio, Texas Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","San Antonio, Texas Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-08-01,us,"United States","San Antonio, Texas Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

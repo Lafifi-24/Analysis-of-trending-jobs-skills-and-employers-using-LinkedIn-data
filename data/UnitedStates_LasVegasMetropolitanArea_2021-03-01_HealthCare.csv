@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Las Vegas Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",10.814839204334339,1
+2021-03-01,us,"United States","Las Vegas Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-03-01,us,"United States","Las Vegas Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Employers,"Porsche AG",3.734264409421712,1
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Employers,"Daimler AG",0.9436019064017251,2
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Jobs,"Development Engineer",6.202171305520796,1
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Jobs,"Software Engineer",5.300464584850963,2
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Jobs,"Project Manager",4.7037233378012795,3
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Jobs,"Sales Manager",4.343398982287746,4
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Skills,"Java",-1,2
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Skills,"Project Planning",-1,3
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Skills,"International Sales",-1,4
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Skills,"MATLAB",-1,5
+2020-03-01,de,"Germany","Stuttgart Region","Manufacturing",Top Trending Skills,"Automotive",-1,6

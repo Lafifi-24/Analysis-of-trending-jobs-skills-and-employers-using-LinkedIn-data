@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greenville-Spartanburg-Anderson, South Carolina Area","Education",Top Trending Employers,"Clemson University",7.176665864396045,1
+2020-10-01,us,"United States","Greenville-Spartanburg-Anderson, South Carolina Area","Education",Top Trending Jobs,"Professor",12.58773620815328,1
+2020-10-01,us,"United States","Greenville-Spartanburg-Anderson, South Carolina Area","Education",Top Trending Jobs,"Teacher",10.405386061152692,2
+2020-10-01,us,"United States","Greenville-Spartanburg-Anderson, South Carolina Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Greenville-Spartanburg-Anderson, South Carolina Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-10-01,us,"United States","Greenville-Spartanburg-Anderson, South Carolina Area","Education",Top Trending Skills,"Higher Education",-1,3

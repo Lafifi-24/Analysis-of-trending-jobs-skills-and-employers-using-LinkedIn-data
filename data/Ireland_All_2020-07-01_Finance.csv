@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,ie,"Ireland","All","Finance",Top Trending Employers,"Fidelity Investments",10.921809641587913,1
+2020-07-01,ie,"Ireland","All","Finance",Top Trending Jobs,"Software Engineer",6.150450522426556,1
+2020-07-01,ie,"Ireland","All","Finance",Top Trending Skills,"JavaScript",-1,1

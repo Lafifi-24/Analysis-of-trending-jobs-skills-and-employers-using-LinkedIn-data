@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Employers,"ETH Zürich",4.98603777955645,1
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",4.96063813610653,2
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Zurich",4.691898760173322,3
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Geneva",3.467622182341169,4
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Employers,"CERN",3.0472274106440986,5
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Bern",4.156355896106896,6
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Lausanne - UNIL",4.3391683277196496,7
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Postdoctoral Researcher",15.553239794935484,1
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Lecturer",11.491728437103333,2
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Teacher",4.566944271560432,3
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Professor",4.167625213624258,4
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Scientific Officer",3.529679529065071,5
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Skills,"Change Management",-1,2
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Skills,"Scientific Writing",-1,3
+2020-12-01,ch,"Switzerland","All","Education",Top Trending Skills,"Research",-1,4

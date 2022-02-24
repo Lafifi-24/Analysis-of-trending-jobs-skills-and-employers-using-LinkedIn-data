@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Employers,"Netflix",4.2900951110807615,1
+2020-10-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Employers,"Roku Inc.",5.563462163192891,2
+2020-10-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Employers,"The Daily Californian",28.98692060623048,3
+2020-10-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Jobs,"Software Engineer",8.369277839089749,1
+2020-10-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Jobs,"Product Manager",3.2816585944681202,2
+2020-10-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-10-01,us,"United States","San Francisco Bay Area","Entertainment",Top Trending Skills,"Agile Methodologies",-1,2

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Seattle Area","Finance",Top Trending Employers,"Caliber Home Loans, Inc.",19.809610858716496,1
+2020-09-01,us,"United States","Greater Seattle Area","Finance",Top Trending Jobs,"Software Engineer",4.568734580016095,1
+2020-09-01,us,"United States","Greater Seattle Area","Finance",Top Trending Jobs,"Financial Advisor",3.8329825366629025,2
+2020-09-01,us,"United States","Greater Seattle Area","Finance",Top Trending Jobs,"Mortgage Loan Officer",3.680164696619643,3
+2020-09-01,us,"United States","Greater Seattle Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-09-01,us,"United States","Greater Seattle Area","Finance",Top Trending Skills,"Retirement Planning",-1,2
+2020-09-01,us,"United States","Greater Seattle Area","Finance",Top Trending Skills,"Investments",-1,3
+2020-09-01,us,"United States","Greater Seattle Area","Finance",Top Trending Skills,"Mortgage Lending",-1,4

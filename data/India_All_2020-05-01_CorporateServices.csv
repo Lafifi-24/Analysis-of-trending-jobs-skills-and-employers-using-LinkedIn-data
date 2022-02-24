@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Deloitte",3.894554058318583,1
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"PwC",5.175078252751712,2
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"WNS Global Services",3.459346715758023,3
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"ZS",7.638430194390679,4
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Teleperformance",2.9154396045189,5
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"S&P Global",2.957284058973807,6
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"KPMG Global Services (KGS)",7.876386595023259,7
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"IHS Markit",5.026934697687143,8
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Morneau Shepell",102.12120728814149,9
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Axtria - Ingenious Insights",14.042606423057217,10
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"McKinsey & Company",4.754207330242577,11
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"ADP",1.9191672648642215,12
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Bada Business Pvt. Ltd. ",25.14824258623753,13
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Firstsource",6.957103139081858,14
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Mercer",4.133471700951404,15
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"TaskUs",32.38996669833928,16
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"BDO in India",5.414249270408035,17
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Fractal",5.355347692777224,18
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Bain & Company",6.549523014241782,19
+2020-05-01,in,"India","All","Corporate Services",Top Trending Employers,"Webhelp",12.785651726610755,20
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Software Engineer",5.050549048231273,1
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Recruiter",2.494633074283158,2
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Financial Analyst",1.8306403355784397,3
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Data Analyst",1.6059731061468006,4
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Tax Associate",1.5448788911332991,5
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Human Resources Executive",1.4756567475024824,6
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Accountant",1.4550583575705087,7
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Consultant",1.2975949730133265,8
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Technology Analyst",1.2388701341538555,9
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Development Manager",1.2110371616607254,10
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Analyst",1.2093713473830208,11
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Human Resources Manager",1.1132288569063142,12
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Research Analyst",1.094609719891243,13
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Project Manager",0.97067433178387,14
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Business Development Executive",0.9617764993306305,15
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Auditor",0.8805554450312435,16
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Legal Associate",0.8550649957789551,17
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Tax Consultant",0.8538989432223523,18
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Data Scientist",0.8298332050088502,19
+2020-05-01,in,"India","All","Corporate Services",Top Trending Jobs,"Tax Analyst",0.7763073669837661,20
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"SQL",-1,1
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"JavaScript",-1,2
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Business Analysis",-1,3
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Recruiting",-1,4
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Team Leadership",-1,5
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Employee Relations",-1,6
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Tally ERP",-1,7
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Requirements Analysis",-1,8
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Data Analysis",-1,9
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Employee Engagement",-1,10
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,11
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Requirements Gathering",-1,12
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Financial Analysis",-1,13
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Machine Learning",-1,14
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Screening",-1,15
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Market Research",-1,16
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Tableau",-1,17
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Data Science",-1,18
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Lead Generation",-1,19
+2020-05-01,in,"India","All","Corporate Services",Top Trending Skills,"Financial Reporting",-1,20

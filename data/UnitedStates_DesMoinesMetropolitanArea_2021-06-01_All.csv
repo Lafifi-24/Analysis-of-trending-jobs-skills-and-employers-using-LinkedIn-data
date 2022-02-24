@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Employers,"Iowa State University",1.927163763717983,1
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Employers,"Principal Financial Group",1.9722032843014337,2
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Employers,"F&G",21.052148615735252,3
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Employers,"Wells Fargo",0.9964170829757529,4
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.895478979462495,1
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.1079647248478035,2
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.8610798707808272,3
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.7823984867640468,4
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"Account Management",-1,2
+2021-06-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,3

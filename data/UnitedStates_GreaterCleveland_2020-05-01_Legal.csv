@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Greater Cleveland","Legal",Top Trending Jobs,"Attorney",41.96642429723102,1
+2020-05-01,us,"United States","Greater Cleveland","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-05-01,us,"United States","Greater Cleveland","Legal",Top Trending Skills,"Civil Litigation",-1,2

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,in,"India","All","All",Top Trending Employers,"Accenture",3.497593410502985,1
+2020-05-01,in,"India","All","All",Top Trending Employers,"HCL Technologies",3.1844213032536373,2
+2020-05-01,in,"India","All","All",Top Trending Employers,"Amazon",5.843657072261269,3
+2020-05-01,in,"India","All","All",Top Trending Employers,"Capgemini",2.5951821681134244,4
+2020-05-01,in,"India","All","All",Top Trending Employers,"Deloitte",3.882337099520619,5
+2020-05-01,in,"India","All","All",Top Trending Employers,"Wipro Limited",1.7920181932536552,6
+2020-05-01,in,"India","All","All",Top Trending Employers,"Infosys",1.5154577675313239,7
+2020-05-01,in,"India","All","All",Top Trending Employers,"Axis Bank",4.107174969104297,8
+2020-05-01,in,"India","All","All",Top Trending Employers,"Microsoft",8.141999081814635,9
+2020-05-01,in,"India","All","All",Top Trending Employers,"DXC Technology",4.844333383474296,10
+2020-05-01,in,"India","All","All",Top Trending Employers,"PwC",5.148936448914643,11
+2020-05-01,in,"India","All","All",Top Trending Employers,"Oracle",3.601819319325452,12
+2020-05-01,in,"India","All","All",Top Trending Employers,"Tata Consultancy Services",0.48143203196526574,13
+2020-05-01,in,"India","All","All",Top Trending Employers,"HDFC Bank",2.304521631598979,14
+2020-05-01,in,"India","All","All",Top Trending Employers,"IDFC FIRST Bank",10.026678126011749,15
+2020-05-01,in,"India","All","All",Top Trending Employers,"Unilever",12.840534033493292,16
+2020-05-01,in,"India","All","All",Top Trending Employers,"JPMorgan Chase & Co.",3.81095557058485,17
+2020-05-01,in,"India","All","All",Top Trending Employers,"Wells Fargo",7.247554834300556,18
+2020-05-01,in,"India","All","All",Top Trending Employers,"Chegg Inc.",20.84765504375031,19
+2020-05-01,in,"India","All","All",Top Trending Employers,"ICICI Bank",1.8898096984686383,20
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Software Engineer",11.285103319427513,1
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Sales Manager",1.7152851538623644,2
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Business Analyst",1.1889449162683028,3
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Project Manager",1.1398851676593207,4
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Business Development Executive",1.0306951168952116,5
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Business Development Manager",1.0189924207367502,6
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Content Writer",1.0085117226579037,7
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Sales Executive",0.889170253486836,8
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Graphic Designer",0.8265500227747861,9
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Campus Ambassador",0.8204531596097165,10
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Financial Analyst",0.7597743560506994,11
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Human Resources Manager",0.7507455004590314,12
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Product Manager",0.7379026405193284,13
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Application Developer",0.7289125449358105,14
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Human Resources Executive",0.7201526241181633,15
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Recruiter",0.7066910807543376,16
+2020-05-01,in,"India","All","All",Top Trending Jobs,"System Engineer",0.6855918484119072,17
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Teacher",0.6712412751852064,18
+2020-05-01,in,"India","All","All",Top Trending Jobs,"General Manager",0.6503800891939352,19
+2020-05-01,in,"India","All","All",Top Trending Jobs,"Data Analyst",0.6406243986963274,20
+2020-05-01,in,"India","All","All",Top Trending Skills,"SQL",-1,1
+2020-05-01,in,"India","All","All",Top Trending Skills,"JavaScript",-1,2
+2020-05-01,in,"India","All","All",Top Trending Skills,"Sales Management",-1,3
+2020-05-01,in,"India","All","All",Top Trending Skills,"Business Analysis",-1,4
+2020-05-01,in,"India","All","All",Top Trending Skills,"Adobe Illustrator",-1,5
+2020-05-01,in,"India","All","All",Top Trending Skills,"Recruiting",-1,6
+2020-05-01,in,"India","All","All",Top Trending Skills,"Team Leadership",-1,7
+2020-05-01,in,"India","All","All",Top Trending Skills,"Employee Relations",-1,8
+2020-05-01,in,"India","All","All",Top Trending Skills,"Core Java",-1,9
+2020-05-01,in,"India","All","All",Top Trending Skills,"Teaching",-1,10
+2020-05-01,in,"India","All","All",Top Trending Skills,"Requirements Analysis",-1,11
+2020-05-01,in,"India","All","All",Top Trending Skills,"Data Analysis",-1,12
+2020-05-01,in,"India","All","All",Top Trending Skills,"Employee Engagement",-1,13
+2020-05-01,in,"India","All","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,14
+2020-05-01,in,"India","All","All",Top Trending Skills,"Web Content Writing",-1,15
+2020-05-01,in,"India","All","All",Top Trending Skills,"Requirements Gathering",-1,16
+2020-05-01,in,"India","All","All",Top Trending Skills,"Financial Analysis",-1,17
+2020-05-01,in,"India","All","All",Top Trending Skills,"Java",-1,18
+2020-05-01,in,"India","All","All",Top Trending Skills,"Writing",-1,19
+2020-05-01,in,"India","All","All",Top Trending Skills,"Screening",-1,20

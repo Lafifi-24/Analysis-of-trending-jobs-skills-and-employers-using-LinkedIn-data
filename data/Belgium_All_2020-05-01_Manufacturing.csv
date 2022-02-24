@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Employers,"BASF",3.8206407741895445,1
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Project Manager",3.5112023079511085,1
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Account Manager",3.438994080186824,2
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Project Engineer",2.6588547537915894,3
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.221240796955308,4
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,4
+2020-05-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Project Engineering",-1,5

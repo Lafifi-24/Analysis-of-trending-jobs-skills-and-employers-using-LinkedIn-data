@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Deloitte",5.42237186350677,1
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"PwC",2.797063327093435,2
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"KPMG UK",3.7105399486818005,3
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Deloitte UK",4.051120689790176,4
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"BDO UK LLP",7.318899815345286,5
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"PwC UK",4.7543823227518285,6
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Mitie",5.500994902160103,7
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"PA Consulting",8.516719841154282,8
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Sodexo",4.751614695410124,9
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"G4S",5.062754264628917,10
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Mercer",8.049070980551946,11
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Environment Agency",3.3842473305363026,12
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Grant Thornton UK LLP",4.044081931727563,13
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"ISS Facility Services UK",5.586453165727297,14
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Interserve",4.180370068147625,15
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"IHS Markit",6.728331504166707,16
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Gartner",5.905584191395405,17
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Veolia",6.59706672948655,18
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Experian",3.022392515896731,19
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Employers,"Elsevier",5.54670184955627,20
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Account Manager",2.276813444002013,1
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Project Manager",2.253732022077054,2
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Accountant",2.170265406516727,3
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Business Development Manager",2.111197040014898,4
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Auditor",1.4334532758858394,5
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Operations Manager",1.4172498320216969,6
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Security Officer",1.4168565973540634,7
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Software Engineer",1.1211153661514828,8
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Sales Manager",0.8713260904778077,9
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Audit Manager",0.8237851621507952,10
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Director Of Development",0.7719899773529423,11
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Marketing Manager",0.7031206299065353,12
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Sales Executive",0.6985235010520452,13
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Business Analyst",0.6884006065132435,14
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Director Of Operations",0.6706953490655058,15
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Marketing Executive",0.6601315327970567,16
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Contract Manager",0.6583246322183554,17
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Management Consultant",0.6378410774617269,18
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Tax Manager",0.6198711459456115,19
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Jobs,"Bookkeeper",0.6055968435518806,20
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Account Management",-1,1
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Sales Management",-1,2
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"JavaScript",-1,3
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Operations Management",-1,4
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Business Analysis",-1,5
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Stakeholder Management",-1,6
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Project Delivery",-1,7
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Marketing Strategy",-1,8
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Business-to-Business (B2B)",-1,9
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Financial Accounting",-1,10
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Change Management",-1,11
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Contract Management",-1,12
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Digital Marketing",-1,13
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Requirements Gathering",-1,14
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Sales Process",-1,15
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Contract Negotiation",-1,16
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Email Marketing",-1,17
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Security",-1,18
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Auditing",-1,19
+2020-01-01,gb,"United Kingdom","All","Corporate Services",Top Trending Skills,"Bookkeeping",-1,20

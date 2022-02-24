@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Employers,"Vanderbilt University Medical Center",2.6792183293228606,1
+2021-01-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",7.542290155253823,1
+2021-01-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-01-01,us,"United States","Nashville Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

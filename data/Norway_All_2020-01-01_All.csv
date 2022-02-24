@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Norsk Helsenett SF",60.20273308838032,1
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Norwegian University of Science and Technology (NTNU)",5.275858823259832,2
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"DNB",3.46771229238017,3
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Norconsult AS",8.273628886686426,4
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Sopra Steria",5.930489977773044,5
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Atea Norge AS",8.888167396300727,6
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"University of Oslo (UiO)",9.814350240457236,7
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Asker kommune",27.676731237355252,8
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"NAV",2.6225934867980776,9
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Bergen kommune",5.140818720535663,10
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Oslo kommune",3.962610654917443,11
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"University of Bergen (UiB)",5.037386609471925,12
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Oslo University Hospital",2.7511056072243867,13
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Baker Hughes",8.838854289904456,14
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Rogaland fylkeskommune",27.07957458928989,15
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Aker Solutions",2.0744815937082257,16
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Kristiansand kommune",14.265357695971522,17
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Rosenberg WorleyParsons",14.14456687122883,18
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Municipal Council, Drammen kommune",26.3267775598291,19
+2020-01-01,no,"Norway","All","All",Top Trending Employers,"Telenor",2.9424498529247907,20
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Project Manager",5.415289592961549,1
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"General Manager",2.326541371521698,2
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Software Engineer",1.8251163484295834,3
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Chapter Chair",1.365470511002125,4
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Salesperson",1.274707506652835,5
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Sales Manager",1.2315487862787968,6
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Lawyer",1.180210009802813,7
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Project Engineer",1.127478848947922,8
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Information Technology Consultant",1.1046556857777856,9
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Storekeeper",0.97402061623391,10
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Communications Advisor",0.9523563520459231,11
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Key Account Manager",0.9437145596635335,12
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Financial Advisor",0.9392033340051178,13
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Accountant",0.8787566908542026,14
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Teacher",0.8732427384901493,15
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Account Manager",0.8628765982731686,16
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Architect",0.7702592234863493,17
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Sales Executive",0.764725586463914,18
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Professor",0.7535603310532036,19
+2020-01-01,no,"Norway","All","All",Top Trending Jobs,"Customer Advisor",0.7373257067875963,20
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Project Management",-1,1
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Project Planning",-1,2
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Sales Management",-1,3
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Teaching",-1,4
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Project Engineering",-1,5
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Git",-1,6
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Change Management",-1,7
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Business-to-Business (B2B)",-1,8
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Account Management",-1,9
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Active Directory",-1,10
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Windows Server",-1,11
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Cooperation",-1,12
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Architectural Design",-1,13
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Legal Advice",-1,14
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Sales Process",-1,15
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Strategic Communications",-1,16
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Pedagogy",-1,17
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Contract Law",-1,18
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Organizational Development",-1,19
+2020-01-01,no,"Norway","All","All",Top Trending Skills,"Media Relations",-1,20

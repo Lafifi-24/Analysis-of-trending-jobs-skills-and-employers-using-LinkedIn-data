@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Employers,"United States Air Force",2.5286862163160615,1
+2020-05-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Employers,"CareSource",4.187099504071367,2
+2020-05-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Jobs,"Software Engineer",3.487070421187589,1
+2020-05-01,us,"United States","Dayton Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1

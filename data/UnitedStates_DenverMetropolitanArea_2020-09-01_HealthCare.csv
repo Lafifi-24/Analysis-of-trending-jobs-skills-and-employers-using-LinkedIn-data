@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"UCHealth",5.404340354814327,1
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"Denver Health",7.31571696169436,2
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"Children's Hospital Colorado",3.9015766627385213,3
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"Centura Health",3.707186074837205,4
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"DaVita Kidney Care",5.585452021897737,5
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"Rocky Mountain Human Services",34.93334756694518,6
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Employers,"SCL Health",2.977784036044198,7
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",7.30330457569596,1
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Jobs,"Software Engineer",1.5911866197138216,2
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-09-01,us,"United States","Denver Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,3

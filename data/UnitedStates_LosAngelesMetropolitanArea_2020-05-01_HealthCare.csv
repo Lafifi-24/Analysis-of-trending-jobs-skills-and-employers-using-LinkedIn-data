@@ -1,0 +1,27 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Kaiser Permanente",1.6981147174156157,1
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Cedars-Sinai",2.867549051773911,2
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Edwards Lifesciences",4.855739266711939,3
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"UCLA Health",2.1980972595531294,4
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"City of Hope",3.502518309001795,5
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Molina Healthcare",6.67488411061379,6
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Kite Pharma",6.206925496535717,7
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Keck Medicine of USC",4.50676448115966,8
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Hoag Hospital",4.251669051573995,9
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Children's Hospital Los Angeles (CHLA)",2.8657039328513556,10
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"CHOC Children's",4.588916138430771,11
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Abbott",5.320031484755613,12
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"UCI Health",5.01515482274758,13
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Employers,"Providence Health & Services",4.7745647354826,14
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Nurse",11.310373294234678,1
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Project Manager",0.9680910309573034,2
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Software Engineer",0.9458402530822214,3
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Marriage And Family Therapist",0.9377454626283475,4
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Jobs,"Intensive Care Nurse",0.8698564298886355,5
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Construction Management",-1,2
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Nursing",-1,3
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,4
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Advanced Cardiac Life Support (ACLS)",-1,5
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Psychotherapy",-1,6
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Health Care",Top Trending Skills,"Family Therapy",-1,7

@@ -1,0 +1,54 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"Accenture",6.209890380853485,1
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"Concentrix",14.693401030012978,2
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"Shopee",10.56251179876492,3
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"PETRONAS",1.861049435755788,4
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"ByteDance",13.372247788341546,5
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"RHB Banking Group",5.586962893226241,6
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"TDCX",8.3541092610828,7
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"CIMB",3.7695436472981383,8
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"Top Glove",6.680355663293648,9
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"Maybank",2.500482294907562,10
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"Hong Leong Bank Berhad",3.7378262569795067,11
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"Maxis",3.5269139655483603,12
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"Citi",3.038226252704056,13
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"Standard Chartered Bank",1.7400670404316907,14
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Employers,"KPMG Malaysia",8.29092971752288,15
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Software Engineer",2.849870133199083,1
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Content Moderator",1.8049509889305773,2
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Marketing Executive",1.6314434173450996,3
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Project Manager",1.3504493176242365,4
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Human Resources Executive",1.3037736430776417,5
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Business Development Executive",1.2645715902614292,6
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Account Executive",1.2635453059470947,7
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Business Development Manager",1.1693177359823457,8
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Customer Service Representative",1.0837952840479748,9
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Graphic Designer",1.0076154800399144,10
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Project Engineer",1.007268952442069,11
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Sales Executive",0.9429306516022935,12
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Business Analyst",0.9268748474292179,13
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Audit Associate",0.8999117618664297,14
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Sales Manager",0.7929051471055971,15
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Recruiter",0.767321988743838,16
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Finance Executive",0.7414754148517976,17
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Customer Service Executive",0.7291312605600452,18
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Account Manager",0.6437946358377103,19
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Jobs,"Lecturer",0.6417527813355899,20
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Project Management",-1,1
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Adobe Illustrator",-1,2
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"JavaScript",-1,3
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"AutoCAD",-1,4
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Sales Management",-1,5
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Higher Education",-1,6
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"C#",-1,7
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Project Planning",-1,8
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Teaching",-1,9
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Project Engineering",-1,10
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Recruiting",-1,11
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Marketing Strategy",-1,12
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Accounts Payable",-1,13
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Auditing",-1,14
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Business Analysis",-1,15
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Account Management",-1,16
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"External Audit",-1,17
+2021-06-01,my,"Malaysia","Greater Kuala Lumpur","All",Top Trending Skills,"Customer Experience",-1,18

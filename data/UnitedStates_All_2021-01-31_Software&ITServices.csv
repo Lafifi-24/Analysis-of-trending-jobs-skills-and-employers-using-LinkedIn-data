@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Amazon",4.688578309318036,1
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Microsoft",2.4354309771729223,2
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",4.172437871506868,3
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Facebook",2.8666786574983427,4
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Oracle",3.257218556634648,5
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"DoorDash",6.925843354276028,6
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Accenture",2.2211636381909763,7
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Booz Allen Hamilton",3.251969032014575,8
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Uber",3.4131702493399967,9
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Instacart",7.6007844390407255,10
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Palo Alto Networks",8.467563688941974,11
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Infosys",3.3168626214882404,12
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Tata Consultancy Services",2.1679919066175923,13
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"ServiceNow",4.970450226235313,14
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Capgemini",3.705366023692265,15
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Verizon",0.8917814251564697,16
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Cerner Corporation",2.317519746915567,17
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"General Dynamics Information Technology",3.0597912145525257,18
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Stripe",12.422429538843769,19
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Employers,"Fiserv",2.8341807693624355,20
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Software Engineer",10.207553032585787,1
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Account Executive",3.9122900953124256,2
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Sales Development Representative",2.0592615980384235,3
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Recruiter",1.9157744790374975,4
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Account Manager",1.72236102243243,5
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Project Manager",1.6659566089265025,6
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Product Manager",1.6551269104477586,7
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.5161092543213688,8
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Business Development Representative",1.4140085202237858,9
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Program Manager",1.2599044174896126,10
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Sales Director",1.065721537754773,11
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Solutions Architect",1.0137310044862822,12
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Enterprise Account Executive",0.8486036619366353,13
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Data Scientist",0.8340182688106502,14
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Business Analyst",0.7909275553009791,15
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Sales Manager",0.6703668100762785,16
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"System Engineer",0.6702469048341894,17
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Marketing Manager",0.6410046391679886,18
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Operations Manager",0.639838395965188,19
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Jobs,"Data Analyst",0.625782633867652,20
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Sales Management",-1,3
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Operations Management",-1,4
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Team Building",-1,5
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Recruiting",-1,6
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Construction Management",-1,7
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Program Management",-1,8
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Sales Operations",-1,9
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Business Analysis",-1,10
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Data Analysis",-1,11
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Social Media Marketing",-1,12
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Interviewing",-1,13
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Cross-functional Team Leadership",-1,14
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Tableau",-1,15
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,16
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Systems Engineering",-1,17
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,18
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Integration",-1,19
+2021-01-31,us,"United States","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,20

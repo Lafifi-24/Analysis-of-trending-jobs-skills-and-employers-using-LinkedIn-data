@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Employers,"Ryerson University",2.5512663821791928,1
+2020-12-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Employers,"York University",2.049493508260998,2
+2020-12-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Employers,"Toronto District School Board",2.387786889003207,3
+2020-12-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Jobs,"Teacher",13.364985308564945,1
+2020-12-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Jobs,"Professor",4.094645401406168,2
+2020-12-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Skills,"Teaching",-1,1
+2020-12-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-12-01,ca,"Canada","Greater Toronto Area, Canada","Education",Top Trending Skills,"Higher Education",-1,3

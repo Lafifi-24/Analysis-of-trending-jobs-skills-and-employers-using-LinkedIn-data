@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Employers,"Deloitte",5.519921141178492,1
+2021-02-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Employers,"PwC",3.1090449680918306,2
+2021-02-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Jobs,"Tax Associate",4.362138004190333,1
+2021-02-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Jobs,"Accountant",3.4755594220867927,2
+2021-02-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,1
+2021-02-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"General Ledger",-1,2
+2021-02-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"Tax",-1,3
+2021-02-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"Tax Preparation",-1,4

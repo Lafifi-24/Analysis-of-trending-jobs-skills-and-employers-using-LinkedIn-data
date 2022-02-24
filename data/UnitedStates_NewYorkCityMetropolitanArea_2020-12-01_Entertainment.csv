@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"NBCUniversal Media, LLC",2.54722050282519,1
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Spotify",3.1902627305963325,2
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Discovery Inc",4.234514863279221,3
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Editor",4.479379566712123,1
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Writer",2.904698827737442,2
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Video Editor",1.9391217499571394,3
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Software Engineer",1.7596225213628143,4
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Writing",-1,2
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Editing",-1,3
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Video Editing",-1,4
+2020-12-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Adobe Premiere Pro",-1,5

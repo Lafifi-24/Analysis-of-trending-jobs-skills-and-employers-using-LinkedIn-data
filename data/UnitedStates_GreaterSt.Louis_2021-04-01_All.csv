@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-04-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Washington University in St. Louis",0.787092845418801,1
+2021-04-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Software Engineer",2.4665988259472287,1
+2021-04-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Project Manager",2.298113693894316,2
+2021-04-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Account Executive",1.9048763153787764,3
+2021-04-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Account Manager",1.8421988270678387,4
+2021-04-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"JavaScript",-1,1
+2021-04-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Account Management",-1,2
+2021-04-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Construction Management",-1,3

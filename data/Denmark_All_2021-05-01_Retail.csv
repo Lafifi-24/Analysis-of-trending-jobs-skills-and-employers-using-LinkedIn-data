@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,dk,"Denmark","All","Retail",Top Trending Employers,"Coop Danmark",6.384057984996374,1
+2021-05-01,dk,"Denmark","All","Retail",Top Trending Jobs,"Store Manager",6.02262406249633,1
+2021-05-01,dk,"Denmark","All","Retail",Top Trending Jobs,"Salesperson",5.886119592965913,2
+2021-05-01,dk,"Denmark","All","Retail",Top Trending Skills,"Retail",-1,1
+2021-05-01,dk,"Denmark","All","Retail",Top Trending Skills,"Store Management",-1,2
+2021-05-01,dk,"Denmark","All","Retail",Top Trending Skills,"Business-to-Business (B2B)",-1,3

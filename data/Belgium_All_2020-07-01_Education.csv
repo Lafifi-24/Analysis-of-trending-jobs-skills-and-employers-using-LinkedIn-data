@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,be,"Belgium","All","Education",Top Trending Employers,"BeCode.org",39.477796679902134,1
+2020-07-01,be,"Belgium","All","Education",Top Trending Employers,"KU Leuven",2.3468475840722514,2
+2020-07-01,be,"Belgium","All","Education",Top Trending Employers,"Ghent University",1.9282328843184462,3
+2020-07-01,be,"Belgium","All","Education",Top Trending Employers,"imec",3.8123966153940927,4
+2020-07-01,be,"Belgium","All","Education",Top Trending Jobs,"Postdoctoral Researcher",9.765201638360045,1
+2020-07-01,be,"Belgium","All","Education",Top Trending Jobs,"Web Developer",9.229725792667177,2
+2020-07-01,be,"Belgium","All","Education",Top Trending Jobs,"Teacher",5.6206713405946225,3
+2020-07-01,be,"Belgium","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-07-01,be,"Belgium","All","Education",Top Trending Skills,"JavaScript",-1,2
+2020-07-01,be,"Belgium","All","Education",Top Trending Skills,"PHP",-1,3
+2020-07-01,be,"Belgium","All","Education",Top Trending Skills,"Scientific Writing",-1,4

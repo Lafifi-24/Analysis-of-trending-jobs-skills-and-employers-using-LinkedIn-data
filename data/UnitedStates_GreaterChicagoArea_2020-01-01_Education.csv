@@ -1,0 +1,19 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Chicago",5.861243645388776,1
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Illinois Chicago",4.741300950549916,2
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Chicago Public Schools",3.1792342447585122,3
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northwestern University",4.535673266892694,4
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"DePaul University",5.083119975347684,5
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Loyola University Chicago",5.726799204759576,6
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Illinois Institute of Technology",5.60298888585644,7
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northwestern University - The Feinberg School of Medicine",3.535680134715513,8
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Columbia College Chicago",6.9082828328511825,9
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Teacher",10.991981514864953,1
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Professor",10.099071682024173,2
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.02492677511902,3
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Lecturer",1.6961981709442773,4
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-01-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Cell Culture",-1,5

@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Miami-Fort Lauderdale Area","Retail",Top Trending Employers,"Chewy",8.555418917447343,1
+2020-01-01,us,"United States","Miami-Fort Lauderdale Area","Retail",Top Trending Jobs,"Salesperson",7.4657369687833794,1
+2020-01-01,us,"United States","Miami-Fort Lauderdale Area","Retail",Top Trending Jobs,"Store Manager",6.2948086669504,2
+2020-01-01,us,"United States","Miami-Fort Lauderdale Area","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-01-01,us,"United States","Miami-Fort Lauderdale Area","Retail",Top Trending Skills,"Store Management",-1,2

@@ -1,0 +1,52 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"Capgemini",4.685055135204551,1
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"Thales",2.375538457886529,2
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"Dassault Systèmes",5.945956657543006,3
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"ALTEN",4.174474693916417,4
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"Accenture",3.2443935362193566,5
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"Devoteam",8.214019421368663,6
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"Sopra Steria",3.096402742237183,7
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"Orange Business Services",2.038417582359892,8
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"Microsoft",3.0198147517816967,9
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"manomano",12.700637906137565,10
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Employers,"Atos",2.649216835069346,11
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Business Manager",3.8837591348386247,1
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Project Manager",3.7136425039978174,2
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Software Engineer",3.433888522433882,3
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Account Manager",2.477350578787919,4
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",1.88047608421671,5
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.772085954147376,6
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Account Executive",1.6092305976572834,7
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Data Scientist",1.377494914953653,8
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Sales Development Representative",1.2539951314213573,9
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Product Manager",1.1799569825889193,10
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Sales Engineer",1.054583957552855,11
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Web Developer",1.0490297301198124,12
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Salesperson",0.9781947534706493,13
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Communications Manager",0.9625918518501487,14
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Product Owner",0.9609512434189067,15
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Sales Manager",0.9495922534658089,16
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Key Account Manager",0.9354833723615008,17
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Recruiter",0.8882501473983803,18
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Business Analyst",0.8076520490567207,19
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Jobs,"Development Engineer",0.8042519021298005,20
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Negotiation",-1,2
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Social Media",-1,3
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"JavaScript",-1,4
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Java",-1,5
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"PHP",-1,6
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Git",-1,7
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Sales Management",-1,8
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Marketing Strategy",-1,9
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Internal Communications",-1,10
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Machine Learning",-1,11
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,12
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Account Management",-1,13
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Node.js",-1,14
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Scrum",-1,15
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"AngularJS",-1,16
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Solution Selling",-1,17
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Apache Spark",-1,18
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"SQL",-1,19
+2021-03-01,fr,"France","Greater Paris Metropolitan Region","Software & IT Services",Top Trending Skills,"Recruiting",-1,20

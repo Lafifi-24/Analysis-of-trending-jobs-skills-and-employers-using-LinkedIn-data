@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Cleveland","Corporate Services",Top Trending Employers,"Marcum LLP",92.89069243439964,1
+2020-02-01,us,"United States","Greater Cleveland","Corporate Services",Top Trending Jobs,"Accountant",10.32620654429564,1
+2020-02-01,us,"United States","Greater Cleveland","Corporate Services",Top Trending Skills,"Account Reconciliation",-1,1
+2020-02-01,us,"United States","Greater Cleveland","Corporate Services",Top Trending Skills,"General Ledger",-1,2

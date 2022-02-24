@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Shell",1.353232096122579,1
+2020-05-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"Baker Hughes",1.9605124074181757,2
+2020-05-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Employers,"ExxonMobil",0.7402543591854164,3
+2020-05-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Accountant",2.8663293108946237,1
+2020-05-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Jobs,"Project Manager",2.8614484877036173,2
+2020-05-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"Construction Management",-1,1
+2020-05-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"Account Reconciliation",-1,2
+2020-05-01,us,"United States","Greater Houston","Energy & Mining",Top Trending Skills,"General Ledger",-1,3

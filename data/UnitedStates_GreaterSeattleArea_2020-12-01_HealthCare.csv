@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seattle Children's",2.305050787893862,1
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Bristol Myers Squibb",10.187149209412825,2
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"MultiCare Health System",3.195230983457847,3
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Swedish",2.632326415990779,4
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seagen",5.252281620993218,5
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Kaiser Permanente",3.3471860494790917,6
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"UW Medicine",4.483959450790228,7
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Virginia Mason Medical Center",3.231115969103604,8
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"EvergreenHealth",5.384166386602761,9
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Nurse",8.429883972590453,1
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Software Engineer",2.082586062157335,2
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-12-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,3

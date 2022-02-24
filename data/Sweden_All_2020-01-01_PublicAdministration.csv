@@ -1,0 +1,31 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Stockholms stad",3.9478590304259806,1
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Försäkringskassan",4.918285980894167,2
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Trafikverket",4.576206070228063,3
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Malmö stad",3.817443148466313,4
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Göteborgs Stad",3.2318042160205227,5
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Arbetsförmedlingen",3.2240654761609275,6
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Uppsala kommun",4.400580921897421,7
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Skatteverket",3.118864420223129,8
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Kriminalvården",4.0566259675286735,9
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Employers,"Swedish Pensions Agency",9.406056706575832,10
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Jobs,"Teacher",12.179802371979648,1
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Jobs,"Order Processor",5.85110277213657,2
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Jobs,"Project Manager",4.658082741990025,3
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Jobs,"Case Manager",3.7190696567907695,4
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Jobs,"Nurse",3.461915586630054,5
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Jobs,"Preschool Teacher",2.1203281795311533,6
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Jobs,"Law Clerk",1.7348947866631337,7
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Jobs,"Project Engineer",1.7320355331449124,8
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Jobs,"System Developer",1.7025217373625305,9
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"Project Management",-1,1
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"Project Planning",-1,2
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"Teaching",-1,3
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"C#",-1,4
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,".NET Framework",-1,5
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"Pedagogy",-1,6
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"Government",-1,7
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"Nursing",-1,8
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"Cooperation",-1,9
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"Preschool",-1,10
+2020-01-01,se,"Sweden","All","Public Administration",Top Trending Skills,"Project Engineering",-1,11

@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,us,"United States","Greater Boston","Nonprofit",Top Trending Employers,"Hack.Diversity",59.78644270826753,1
+2021-03-01,us,"United States","Greater Boston","Nonprofit",Top Trending Skills,"Public Speaking",-1,1
+2021-03-01,us,"United States","Greater Boston","Nonprofit",Top Trending Skills,"Nonprofit Organizations",-1,2

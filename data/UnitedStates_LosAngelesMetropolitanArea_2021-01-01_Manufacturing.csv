@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Employers,"SpaceX",5.222471391826774,1
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Employers,"Rivian",20.717605570503082,2
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Employers,"Tesla",5.463285813955871,3
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Employers,"Boeing",1.5088560865742708,4
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",2.9699883642880254,1
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Manufacturing Engineer",2.5570274790170338,2
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",2.2981225271694004,3
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"System Engineer",2.2904702150963105,4
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",2.2057510397419344,5
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",2.112090387375567,6
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Construction Management",-1,3
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,4
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Systems Engineering",-1,5
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Integration",-1,6
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,7
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Lean Manufacturing",-1,8
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Manufacturing",Top Trending Skills,"Manufacturing Engineering",-1,9

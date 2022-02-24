@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Amazon",8.815829466732254,1
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Microsoft",6.299012193704728,2
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Facebook",8.96041815524848,3
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",10.872132930949963,4
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Accenture",4.994439321755519,5
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Oracle",5.3453927573547295,6
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"DoorDash",17.94222605194241,7
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Verizon",3.2780351621696577,8
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"SAIC",11.314930780752675,9
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Booz Allen Hamilton",5.361952905242478,10
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Instacart",21.981515753606143,11
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Uber",4.654992489085321,12
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"ServiceNow",11.385960238537319,13
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Capgemini",6.6417685335437735,14
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Infosys",4.5720391738367425,15
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Cerner Corporation",3.9721622003606405,16
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"FIS",6.376274408420402,17
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"CACI International Inc",5.841327548042017,18
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"General Dynamics Information Technology",4.99153493471961,19
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Employers,"Intuit",7.180862660775575,20
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Software Engineer",11.887194079716119,1
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Account Executive",2.979152937880316,2
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Project Manager",1.822998936697079,3
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Account Manager",1.6836499183313467,4
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Product Manager",1.3318682356574463,5
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Recruiter",1.3282412134195538,6
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Program Manager",1.2541367859365242,7
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.1560231608500453,8
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Solutions Architect",0.9184237739942711,9
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Business Analyst",0.8766630158256085,10
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"System Engineer",0.8765487215183821,11
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Sales Director",0.857693651238454,12
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Delivery Driver",0.8191251567657005,13
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Data Scientist",0.8056689655600361,14
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Sales Development Representative",0.7949169630189956,15
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Business Development Representative",0.7388547020500107,16
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Enterprise Account Executive",0.6751149564918106,17
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Sales Manager",0.6434318280166565,18
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Data Analyst",0.6193299175098567,19
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.5911902953555352,20
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Sales Management",-1,3
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Recruiting",-1,4
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Construction Management",-1,5
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Program Management",-1,6
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Business Analysis",-1,7
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Sales Operations",-1,8
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Data Analysis",-1,9
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Interviewing",-1,10
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Cross-functional Team Leadership",-1,11
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Tableau",-1,12
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,13
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Systems Engineering",-1,14
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,15
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Integration",-1,16
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"React.js",-1,17
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Machine Learning",-1,18
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Node.js",-1,19
+2020-02-29,us,"United States","All","Software & IT Services",Top Trending Skills,"Data Science",-1,20

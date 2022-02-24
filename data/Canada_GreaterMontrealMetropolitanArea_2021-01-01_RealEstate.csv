@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Real Estate",Top Trending Jobs,"Real Estate Broker",15.063075083807226,1
+2021-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Real Estate",Top Trending Jobs,"Property Broker",12.493159752196753,2
+2021-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Real Estate",Top Trending Skills,"Real Estate Transactions",-1,1
+2021-01-01,ca,"Canada","Greater Montreal Metropolitan Area","Real Estate",Top Trending Skills,"Residential Real Estate",-1,2

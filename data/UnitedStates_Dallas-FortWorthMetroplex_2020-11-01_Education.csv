@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Employers,"The University of Texas at Arlington",4.900728052222723,1
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Employers,"University of North Texas",2.408906003197256,2
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Employers,"The University of Texas at Dallas",2.5218193746872264,3
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Employers,"Dallas Independent School District",1.428878591819572,4
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Employers,"Southern Methodist University",2.402885941446644,5
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Jobs,"Teacher",18.886314512400688,1
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Jobs,"Professor",5.557248096686323,2
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Teaching",-1,1
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-11-01,us,"United States","Dallas-Fort Worth Metroplex","Education",Top Trending Skills,"Higher Education",-1,3

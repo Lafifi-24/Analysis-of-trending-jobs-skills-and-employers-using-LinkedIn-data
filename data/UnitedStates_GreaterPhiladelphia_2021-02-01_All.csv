@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"University of Pennsylvania",2.733892531024634,1
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Penn Medicine, University of Pennsylvania Health System",2.210743288447663,2
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"New York Life Insurance Company",40.01286330237663,3
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Vanguard",1.5907966055356948,4
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Amazon",4.753618428795874,5
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Thomas Jefferson University Hospitals",2.861568880965993,6
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Temple University",2.4755194636222098,7
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Main Line Health",4.72906315304059,8
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Comcast",1.0883307212851088,9
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Compass",15.54974851089569,10
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Keller Williams Realty, Inc.",5.338367172049328,11
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"University of Delaware",2.75520097642919,12
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Children's Hospital of Philadelphia",1.3947826498821303,13
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"JPMorgan Chase & Co.",1.3633723406930536,14
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Cooper University Health Care",4.033080533409513,15
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Freedom Mortgage",4.582770468112086,16
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Lockheed Martin",2.0389849530476805,17
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Drexel University",2.1791106600607395,18
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"The Janssen Pharmaceutical Companies of Johnson & Johnson",2.5023048598853364,19
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Employers,"Accenture",3.5088548656436207,20
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Real Estate Agent",2.610389159327816,1
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Project Manager",2.026705314071661,2
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Software Engineer",1.8181267812034818,3
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Nurse",1.7500339180497129,4
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Salesperson",1.4037250672459085,5
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Account Manager",1.190081751209113,6
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Account Executive",1.1510445858747145,7
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Teacher",1.0469272623396666,8
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Professor",0.9162653883289585,9
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Accountant",0.8820178529487266,10
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Customer Service Representative",0.7905431584599135,11
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Attorney",0.7567240099804267,12
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Sales Manager",0.6078968483758245,14
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Financial Analyst",0.5906919245814749,15
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Operations Manager",0.5712312889228638,16
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Human Resources Administrator",0.5516072850150517,17
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Recruiter",0.5395115787889156,18
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"Sales Director",0.535448221825941,19
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Jobs,"General Manager",0.49670665289205557,20
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Teaching",-1,1
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"JavaScript",-1,2
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Account Management",-1,4
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Sales Management",-1,5
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Investment Properties",-1,6
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Team Building",-1,8
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Operations Management",-1,9
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Legal Writing",-1,10
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Recruiting",-1,11
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Construction Management",-1,12
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Higher Education",-1,13
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Civil Litigation",-1,14
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Account Reconciliation",-1,15
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Sales Operations",-1,16
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Inventory Management",-1,17
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Financial Analysis",-1,18
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"General Ledger",-1,19
+2021-02-01,us,"United States","Greater Philadelphia","All",Top Trending Skills,"Customer Satisfaction",-1,20

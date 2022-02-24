@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"7-Eleven",7.637449371905017,1
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"Walmart",4.045392036936048,2
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"Starbucks",7.590273801270768,3
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Employers,"JCPenney",4.18937113929339,4
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Jobs,"Salesperson",5.820101254037243,1
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Jobs,"Store Manager",3.8091776479236326,2
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Jobs,"Cashier",3.3764700993849845,3
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Jobs,"Barista",2.9571991621247258,4
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Store Management",-1,2
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Time Management",-1,3
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Cashiering",-1,4
+2020-02-01,us,"United States","Dallas-Fort Worth Metroplex","Retail",Top Trending Skills,"Barista",-1,5

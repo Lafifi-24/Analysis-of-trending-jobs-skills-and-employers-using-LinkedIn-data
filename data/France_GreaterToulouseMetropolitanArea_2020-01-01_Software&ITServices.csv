@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,fr,"France","Greater Toulouse Metropolitan Area","Software & IT Services",Top Trending Employers,"Capgemini",5.137557581336153,1
+2020-01-01,fr,"France","Greater Toulouse Metropolitan Area","Software & IT Services",Top Trending Employers,"Altran",5.937210073139248,2
+2020-01-01,fr,"France","Greater Toulouse Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",7.272971286965219,1
+2020-01-01,fr,"France","Greater Toulouse Metropolitan Area","Software & IT Services",Top Trending Jobs,"Project Manager",6.2210182290200216,2
+2020-01-01,fr,"France","Greater Toulouse Metropolitan Area","Software & IT Services",Top Trending Skills,"Project Management",-1,1
+2020-01-01,fr,"France","Greater Toulouse Metropolitan Area","Software & IT Services",Top Trending Skills,"Java",-1,2
+2020-01-01,fr,"France","Greater Toulouse Metropolitan Area","Software & IT Services",Top Trending Skills,"Git",-1,3

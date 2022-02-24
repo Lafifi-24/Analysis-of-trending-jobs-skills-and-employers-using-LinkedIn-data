@@ -1,0 +1,39 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"JPMorgan Chase & Co.",5.806533979713964,1
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"Capital One",6.583252790225044,2
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"State Farm ®",5.185425012781013,3
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"Citi",5.145231311215091,4
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"Charles Schwab",8.548856554867315,5
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"Caliber Home Loans, Inc.",12.678897035006795,6
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"Wells Fargo",5.331283306949901,7
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"Allstate",6.264413850496815,8
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"Fidelity Investments",2.919994653618597,9
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"GM Financial",3.1239013268264206,10
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"Santander Consumer USA",5.127742779913395,11
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Employers,"Fisher Investments",19.584299902619346,12
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Software Engineer",5.165192143533318,1
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Customer Service Representative",2.260735071560875,2
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Insurance Agent",2.1602790964136656,3
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Mortgage Loan Officer",1.9185864239849895,4
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Financial Advisor",1.6626809383059598,5
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Account Executive",1.5766982980142996,6
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Account Manager",1.4409767902396886,7
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Loan Officer",1.2929913025216018,8
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Claims Adjuster",1.2481172977246566,9
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Relationship Manager",1.095338176158833,10
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Full Stack Engineer",1.0881897152035473,11
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Jobs,"Underwriter",1.0855267701453313,12
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Account Management",-1,2
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Customer Satisfaction",-1,3
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Retirement Planning",-1,4
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Investments",-1,5
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Life Insurance",-1,6
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"React.js",-1,7
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,8
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Node.js",-1,9
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Underwriting",-1,10
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Mortgage Lending",-1,11
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Insurance",-1,12
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Business Relationship Management",-1,13
+2020-01-01,us,"United States","Dallas-Fort Worth Metroplex","Finance",Top Trending Skills,"Claims Management",-1,14

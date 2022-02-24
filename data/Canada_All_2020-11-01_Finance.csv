@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"RBC",3.948177535313027,1
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"CIBC",4.18448181248534,2
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"TD",2.2852614279038175,3
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"Desjardins",4.9085481144056535,4
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"BMO Financial Group",3.3336013018759276,5
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"KPMG Canada",10.386223364502243,6
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"National Bank of Canada",3.377783738943516,7
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"Sun Life",3.9271966868784496,8
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"iA Financial Group (Industrial Alliance)",6.44383963794666,9
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"Canada Life",5.956276743281901,10
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"IG Wealth Management",4.526186867004247,11
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"BDO Canada",4.695565533952766,12
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"The Co-operators",4.009702138073909,13
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"Western Investment Club",71.18082606832749,14
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"HUB International",6.7637404894507505,15
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"ATB Financial",2.5175057332717192,16
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"Dominion Lending Centres Inc",11.784246802375584,17
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"RBC Dominion Securities",3.4851875299988495,18
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"Questrade Financial Group",15.511556041720903,19
+2020-11-01,ca,"Canada","All","Finance",Top Trending Employers,"RBC Capital Markets",3.184634548247038,20
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Financial Advisor",4.182069322349005,1
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Customer Service Representative",3.7567262439772175,2
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Mortgage Agent",2.4168739566938138,3
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Software Engineer",2.3729808949093147,4
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Accountant",2.0299527650254627,5
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Business Analyst",1.568110116041685,6
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Financial Analyst",1.4830845787532432,7
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Financial Services Representative",1.4042976666510945,8
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Banking Advisor",1.3665993132048764,9
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Client Advisor",1.3027882485290119,10
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Insurance Advisor",1.2936078777692424,11
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Insurance Broker",1.263621449472219,12
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Account Manager",1.2040706050832846,13
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Underwriter",1.1527541595565143,14
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Investment Analyst",1.1134886999653406,15
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Client Services Representative",1.0803578266822362,16
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Project Manager",1.0523219592472184,17
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Customer Associate",0.9515289793489642,18
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Insurance Agent",0.796735979405687,19
+2020-11-01,ca,"Canada","All","Finance",Top Trending Jobs,"Investment Advisor",0.7944262169678602,20
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Project Planning",-1,2
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Time Management",-1,3
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Account Management",-1,4
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Financial Reporting",-1,5
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Business Analysis",-1,6
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Construction Management",-1,7
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Investments",-1,8
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Financial Analysis",-1,9
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Financial Planning",-1,10
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Requirements Gathering",-1,11
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Insurance",-1,12
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Wealth Management",-1,13
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"General Insurance",-1,14
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Mortgage Lending",-1,15
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Mutual Funds",-1,16
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,17
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Residential Mortgages",-1,18
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Underwriting",-1,19
+2020-11-01,ca,"Canada","All","Finance",Top Trending Skills,"Customer Experience",-1,20

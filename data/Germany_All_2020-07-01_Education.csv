@@ -1,0 +1,26 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,de,"Germany","All","Education",Top Trending Employers,"Technical University of Munich",4.567387314931576,1
+2020-07-01,de,"Germany","All","Education",Top Trending Employers,"Karlsruhe Institute of Technology (KIT)",5.061163343763411,2
+2020-07-01,de,"Germany","All","Education",Top Trending Employers,"Technische Universität Darmstadt",8.19816133499247,3
+2020-07-01,de,"Germany","All","Education",Top Trending Employers,"Technische Universität Berlin",4.467621538214209,4
+2020-07-01,de,"Germany","All","Education",Top Trending Employers,"RWTH Aachen University",4.212419306490965,5
+2020-07-01,de,"Germany","All","Education",Top Trending Employers,"University of Stuttgart",6.201211636622003,6
+2020-07-01,de,"Germany","All","Education",Top Trending Employers,"Forschungszentrum Jülich",6.7458883656880495,7
+2020-07-01,de,"Germany","All","Education",Top Trending Jobs,"Scientific Officer",14.423670229380047,1
+2020-07-01,de,"Germany","All","Education",Top Trending Jobs,"Postdoctoral Researcher",11.136901304655092,2
+2020-07-01,de,"Germany","All","Education",Top Trending Jobs,"Lecturer",9.08845871315379,3
+2020-07-01,de,"Germany","All","Education",Top Trending Jobs,"Project Manager",3.572942520759264,4
+2020-07-01,de,"Germany","All","Education",Top Trending Jobs,"Masters Student",2.7931065213260964,5
+2020-07-01,de,"Germany","All","Education",Top Trending Jobs,"Professor",2.427532980906915,6
+2020-07-01,de,"Germany","All","Education",Top Trending Jobs,"Teacher",1.852553565554286,7
+2020-07-01,de,"Germany","All","Education",Top Trending Jobs,"Anthropologist",1.8081450272145867,8
+2020-07-01,de,"Germany","All","Education",Top Trending Jobs,"Software Engineer",1.3657550606687023,9
+2020-07-01,de,"Germany","All","Education",Top Trending Skills,"Project Management",-1,1
+2020-07-01,de,"Germany","All","Education",Top Trending Skills,"Java",-1,2
+2020-07-01,de,"Germany","All","Education",Top Trending Skills,"Project Planning",-1,3
+2020-07-01,de,"Germany","All","Education",Top Trending Skills,"MATLAB",-1,4
+2020-07-01,de,"Germany","All","Education",Top Trending Skills,"Teaching",-1,5
+2020-07-01,de,"Germany","All","Education",Top Trending Skills,"Python (Programming Language)",-1,6
+2020-07-01,de,"Germany","All","Education",Top Trending Skills,"Public Speaking",-1,7
+2020-07-01,de,"Germany","All","Education",Top Trending Skills,"Molecular Biology",-1,8
+2020-07-01,de,"Germany","All","Education",Top Trending Skills,"LaTeX",-1,9

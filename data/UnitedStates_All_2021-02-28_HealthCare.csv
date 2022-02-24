@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Abbott",3.6649405428548913,1
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Bristol Myers Squibb",4.133313717831593,2
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Kaiser Permanente",1.3798465834564217,3
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"IQVIA",4.7100762020937506,4
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"AbbVie",3.0625786394719645,5
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Optum",2.939753059770573,6
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Ascension",3.46666059282759,7
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"UnitedHealth Group",1.1208451781246451,8
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Pfizer",2.0664862424379735,9
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Mayo Clinic",2.4545563107479027,10
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"PPD",4.732356165807021,11
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"HCA Healthcare",2.4312398444618704,12
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Catalent Pharma Solutions",7.659344659725117,13
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"AdventHealth",3.4216714493881493,14
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"CVS Pharmacy",2.4219107159394926,15
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Boston Scientific",2.9458100617471046,16
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Anthem, Inc.",1.8753365985885277,17
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Molina Healthcare",6.483643345562334,18
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Baylor Scott & White Health",2.790981833968592,19
+2021-02-28,us,"United States","All","Health Care",Top Trending Employers,"Cleveland Clinic",1.991266922262567,20
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Nurse",8.080921402013574,1
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Project Manager",1.128741903735841,2
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Software Engineer",1.0731712999254959,3
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Salesperson",1.016386223263588,4
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Physical Therapist",0.9662676052052668,5
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Account Manager",0.916332065962603,6
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Behavioral Health Technician",0.8720265393968751,7
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Occupational Therapist",0.8545006410270293,8
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Pharmacy Technician",0.7394577383730301,9
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Recruiter",0.6991449941225938,10
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Patient Care Technician",0.6867994263784846,11
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Account Executive",0.65825913850011,12
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Emergency Medical Technician",0.6410355224302609,13
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Medical Scribe",0.5695213142730613,14
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Family Nurse Practitioner",0.5583429968937227,15
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Customer Service Representative",0.5403603805438837,16
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Laboratory Technician",0.5383190335720489,17
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Medical Doctor",0.533831646085352,18
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Sales Manager",0.5241307137752916,19
+2021-02-28,us,"United States","All","Health Care",Top Trending Jobs,"Pharmacist",0.5185369433761441,20
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"JavaScript",-1,1
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Account Management",-1,2
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Sales Management",-1,3
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Recruiting",-1,4
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Construction Management",-1,5
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Sales Operations",-1,6
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Customer Satisfaction",-1,7
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Interviewing",-1,8
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Nursing",-1,9
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Pharmacy",-1,10
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Physical Therapy",-1,11
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Rehabilitation",-1,12
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Medication Therapy Management (MTM)",-1,13
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Pharmacy Technicians",-1,14
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,15
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Occupational Therapy",-1,16
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Laboratory Skills",-1,17
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Emergency Medical Services (EMS)",-1,18
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"EMT",-1,19
+2021-02-28,us,"United States","All","Health Care",Top Trending Skills,"Applied Behavior Analysis",-1,20

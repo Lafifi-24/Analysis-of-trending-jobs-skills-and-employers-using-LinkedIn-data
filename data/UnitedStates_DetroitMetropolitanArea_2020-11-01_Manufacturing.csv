@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"General Motors",2.691384498846996,1
+2020-11-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Ford Motor Company",1.8060025073974098,2
+2020-11-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"FCA Fiat Chrysler Automobiles",1.0904608740706447,3
+2020-11-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Employers,"Williams International",18.742516696933585,4
+2020-11-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.661505815088988,1
+2020-11-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Jobs,"Account Manager",2.4634277596601195,2
+2020-11-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","Detroit Metropolitan Area","Manufacturing",Top Trending Skills,"Account Management",-1,2

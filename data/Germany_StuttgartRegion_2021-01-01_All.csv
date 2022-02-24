@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,de,"Germany","Stuttgart Region","All",Top Trending Employers,"Bosch",0.6330157320513692,1
+2021-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Project Manager",4.3582681224797994,1
+2021-01-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Software Engineer",3.8275699210255683,2
+2021-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Project Management",-1,1
+2021-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Java",-1,2
+2021-01-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Project Planning",-1,3

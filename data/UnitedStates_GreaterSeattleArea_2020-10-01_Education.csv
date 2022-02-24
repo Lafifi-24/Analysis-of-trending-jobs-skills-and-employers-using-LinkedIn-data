@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"University of Washington",6.347147890265948,1
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"Seattle Public Schools",5.039349354927103,2
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"Seattle University",6.2665376396626895,3
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"University of Washington Bothell",16.88496916553887,4
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"Fred Hutch",3.303142728572127,5
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Teacher",10.90242404533659,1
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Professor",6.94114356150907,2
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.362344490054002,3
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Elementary School Teacher",2.3177672927801583,4
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Software Engineer",1.9816108914580233,5
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Mathematics Teacher",1.7020087139837978,6
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"JavaScript",-1,2
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Higher Education",-1,4
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Classroom Management",-1,5
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Elementary Education",-1,6
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Molecular Biology",-1,7
+2020-10-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Cell Culture",-1,8

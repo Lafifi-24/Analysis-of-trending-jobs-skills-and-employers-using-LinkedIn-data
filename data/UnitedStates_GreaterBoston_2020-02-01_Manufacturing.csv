@@ -1,0 +1,15 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Employers,"BAE Systems",3.753077432111768,1
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Employers,"BAE Systems, Inc.",4.0310781476455215,2
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Employers,"MIT Lincoln Laboratory",3.5078759461727906,3
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Employers,"Draper",4.465074184189831,4
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Software Engineer",3.9137083080340154,1
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Mechanical Engineer",3.139218365309858,2
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"System Engineer",3.029134581905285,3
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Jobs,"Sales Manager",2.292457473340198,4
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Sales Operations",-1,3
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Systems Engineering",-1,4
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"Integration",-1,5
+2020-02-01,us,"United States","Greater Boston","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,6

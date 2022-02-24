@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Commonwealth Bank",4.923417302605969,1
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Westpac",6.3625899513919295,2
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Telstra",3.8207289398466924,3
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Australian Taxation Office",11.94591508834736,4
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"BHP",4.257778660259654,5
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Woolworths Supermarkets",3.9240071663803042,6
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Coles",4.500327779064984,7
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Queensland Health",2.8925877884976767,8
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Santos Ltd",16.616810503945505,9
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Macquarie Group",4.607744377758993,10
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Rio Tinto",3.404754402694888,11
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Amazon Web Services (AWS)",10.16838456414529,12
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Service NSW",23.797692930220016,13
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"IAG",5.729867984832486,14
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Fortescue Metals Group",7.703427662764536,15
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Optus",3.6082072232880873,16
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"AMP",6.799406377366256,17
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Atlassian",11.378254126394118,18
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"ANZ",1.3073040780197185,19
+2020-06-01,au,"Australia","All","All",Top Trending Employers,"Department of Health & Human Services, Victoria",6.8157033630584385,20
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Project Manager",2.3311882782010334,1
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Software Engineer",1.9795559247427343,2
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Customer Service Representative",1.3917672547419895,3
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Business Development Manager",1.3479004196752302,4
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Business Analyst",1.2230792262702184,5
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Nurse",1.2106369676915558,6
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Accountant",1.1078894937216377,7
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"General Manager",1.040242124120214,8
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Support Associate",0.9436642858825043,9
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Account Manager",0.921399311612272,10
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Teacher",0.8808389262414683,11
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Service Officer",0.8767493979843383,12
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Operations Manager",0.8518261433997627,13
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Marketing Manager",0.685422787276617,14
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Project Engineer",0.6765146283794219,15
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Sales Manager",0.6421938438806517,16
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Lawyer",0.6052114854870649,17
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Graphic Designer",0.5272792645499611,18
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Administrative Officer",0.49354658593525186,19
+2020-06-01,au,"Australia","All","All",Top Trending Jobs,"Physical Therapist",0.45915388289266573,20
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Teaching",-1,1
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Account Management",-1,2
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Sales Management",-1,4
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Business Analysis",-1,5
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"JavaScript",-1,6
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Operations Management",-1,7
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Adobe Creative Suite",-1,8
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"MYOB",-1,9
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Stakeholder Management",-1,10
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Project Delivery",-1,11
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Marketing Strategy",-1,12
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Legal Advice",-1,13
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Change Management",-1,14
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Legal Research",-1,15
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Time Management",-1,16
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Requirements Gathering",-1,17
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Digital Marketing",-1,18
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Rehabilitation",-1,19
+2020-06-01,au,"Australia","All","All",Top Trending Skills,"Project Engineering",-1,20

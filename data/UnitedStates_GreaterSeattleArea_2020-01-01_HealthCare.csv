@@ -1,0 +1,14 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Bristol Myers Squibb",49.5181498609079,1
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seattle Children's",5.0189304863841375,2
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"MultiCare Health System",5.331829888400101,3
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Swedish",4.073087472063958,4
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Kaiser Permanente",4.458027358049262,5
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Seagen",8.388301837806004,6
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Providence Health & Services",3.3830914141059396,7
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"UW Medicine",5.311563121117959,8
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"University of Washington Medical Center",4.733164395812086,9
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Employers,"Virginia Mason Medical Center",4.106009961732975,10
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Jobs,"Nurse",8.423332816877561,1
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Nursing",-1,1
+2020-01-01,us,"United States","Greater Seattle Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

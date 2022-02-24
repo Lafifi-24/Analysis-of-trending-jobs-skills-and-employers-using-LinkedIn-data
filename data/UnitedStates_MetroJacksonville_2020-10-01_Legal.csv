@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Metro Jacksonville","Legal",Top Trending Jobs,"Attorney",50.48245853248663,1
+2020-10-01,us,"United States","Metro Jacksonville","Legal",Top Trending Skills,"Legal Writing",-1,1
+2020-10-01,us,"United States","Metro Jacksonville","Legal",Top Trending Skills,"Civil Litigation",-1,2

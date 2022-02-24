@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,de,"Germany","All","Construction",Top Trending Employers,"Hilti Deutschland",5.007849700157402,1
+2021-01-01,de,"Germany","All","Construction",Top Trending Jobs,"Site Engineer",4.826499103694004,1
+2021-01-01,de,"Germany","All","Construction",Top Trending Jobs,"Project Manager",4.369003372529832,2
+2021-01-01,de,"Germany","All","Construction",Top Trending Jobs,"Project Engineer",3.9380526023835705,3
+2021-01-01,de,"Germany","All","Construction",Top Trending Skills,"Project Management",-1,1
+2021-01-01,de,"Germany","All","Construction",Top Trending Skills,"Project Planning",-1,2
+2021-01-01,de,"Germany","All","Construction",Top Trending Skills,"Project Engineering",-1,3

@@ -1,0 +1,23 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"NBCUniversal Media, LLC",6.38947216107843,1
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Spotify",12.631771306550194,2
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Meredith Corporation",5.284971354558082,3
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"The Walt Disney Company",6.4166991416115575,4
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"A+E Networks",5.485672704492572,5
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Fox News Media",5.803707409410245,6
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Discovery Inc",4.616777158788523,7
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Employers,"Hearst",9.596091755795271,8
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Editor",3.224865113206022,1
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Writer",2.7528774329860988,2
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Software Engineer",2.114330489812849,3
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Video Editor",1.9664826227466106,4
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Media Producer",1.5544231720311257,5
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Actor",1.4877952658141262,6
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Jobs,"Production Coordinator",1.1441500555040878,7
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Writing",-1,2
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Editing",-1,3
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Acting",-1,4
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Video Editing",-1,5
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Adobe Premiere Pro",-1,6
+2020-02-01,us,"United States","New York City Metropolitan Area","Entertainment",Top Trending Skills,"Video Production",-1,7

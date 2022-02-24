@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,it,"Italy","Greater Rome Metropolitan Area","Education",Top Trending Employers,"Sapienza Università di Roma",5.727822945702057,1
+2020-01-01,it,"Italy","Greater Rome Metropolitan Area","Education",Top Trending Employers,"University of Rome Tor Vergata",3.9680164768570365,2
+2020-01-01,it,"Italy","Greater Rome Metropolitan Area","Education",Top Trending Employers,"Università degli studi Roma TRE",4.786399697021664,3
+2020-01-01,it,"Italy","Greater Rome Metropolitan Area","Education",Top Trending Jobs,"Teacher",15.29391201033584,1
+2020-01-01,it,"Italy","Greater Rome Metropolitan Area","Education",Top Trending Jobs,"Professor",12.637539669927886,2
+2020-01-01,it,"Italy","Greater Rome Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",10.654365771910344,3
+2020-01-01,it,"Italy","Greater Rome Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,it,"Italy","Greater Rome Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,2

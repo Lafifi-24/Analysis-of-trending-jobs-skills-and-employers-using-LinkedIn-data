@@ -1,0 +1,21 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"ETH Zürich",6.755492611740778,1
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"EPFL (École polytechnique fédérale de Lausanne)",5.41839794888799,2
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Zurich",5.860614055985952,3
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Geneva",4.110656778510604,4
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Applied Sciences and Arts Northwestern Switzerland FHNW",8.835994703658072,5
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"CERN",2.9173530706798405,6
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Bern",5.550897522616592,7
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"Lucerne University of Applied Sciences and Arts",7.8721215162263745,8
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of St.Gallen",7.906039587735133,9
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Lausanne - UNIL",4.592522465015995,10
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Employers,"University of Basel",5.186967477741439,11
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Lecturer",17.483465472313554,1
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Postdoctoral Researcher",13.381486570346684,2
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Teacher",5.21713582880521,3
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Professor",4.508869381930378,4
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Jobs,"Scientific Officer",3.250956712856301,5
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Skills,"Change Management",-1,2
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Skills,"Scientific Writing",-1,3
+2020-02-01,ch,"Switzerland","All","Education",Top Trending Skills,"Research",-1,4

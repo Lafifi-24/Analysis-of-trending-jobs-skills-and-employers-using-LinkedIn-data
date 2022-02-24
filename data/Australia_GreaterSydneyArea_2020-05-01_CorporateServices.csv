@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,au,"Australia","Greater Sydney Area","Corporate Services",Top Trending Employers,"KPMG Australia",4.23710903915027,1
+2020-05-01,au,"Australia","Greater Sydney Area","Corporate Services",Top Trending Employers,"Deloitte Australia",4.073905928242408,2
+2020-05-01,au,"Australia","Greater Sydney Area","Corporate Services",Top Trending Employers,"PwC Australia",2.7855195912969077,3
+2020-05-01,au,"Australia","Greater Sydney Area","Corporate Services",Top Trending Jobs,"Accountant",5.9191240436610055,1
+2020-05-01,au,"Australia","Greater Sydney Area","Corporate Services",Top Trending Jobs,"Project Manager",3.3617922816865273,2
+2020-05-01,au,"Australia","Greater Sydney Area","Corporate Services",Top Trending Skills,"MYOB",-1,1
+2020-05-01,au,"Australia","Greater Sydney Area","Corporate Services",Top Trending Skills,"Stakeholder Management",-1,2
+2020-05-01,au,"Australia","Greater Sydney Area","Corporate Services",Top Trending Skills,"Project Delivery",-1,3

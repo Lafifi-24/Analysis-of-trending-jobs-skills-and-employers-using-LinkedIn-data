@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Philadelphia","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",6.61457747728949,1
+2020-03-01,us,"United States","Greater Philadelphia","Real Estate",Top Trending Employers,"CBRE",12.859457907256674,2
+2020-03-01,us,"United States","Greater Philadelphia","Real Estate",Top Trending Employers,"Compass",15.308411410745911,3
+2020-03-01,us,"United States","Greater Philadelphia","Real Estate",Top Trending Jobs,"Real Estate Agent",46.76239213605493,1
+2020-03-01,us,"United States","Greater Philadelphia","Real Estate",Top Trending Jobs,"Property Manager",3.7164184105130804,2
+2020-03-01,us,"United States","Greater Philadelphia","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2020-03-01,us,"United States","Greater Philadelphia","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2020-03-01,us,"United States","Greater Philadelphia","Real Estate",Top Trending Skills,"Property Management",-1,3

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"The Home Depot",3.047457077026731,1
+2021-05-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Employers,"Floor & Decor",7.618408154285773,2
+2021-05-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Salesperson",8.056700226904688,1
+2021-05-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Software Engineer",3.7628515012565984,2
+2021-05-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Jobs,"Cashier",3.5851908571051285,3
+2021-05-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"JavaScript",-1,1
+2021-05-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"Time Management",-1,2
+2021-05-31,us,"United States","Atlanta Metropolitan Area","Retail",Top Trending Skills,"Cashiering",-1,3

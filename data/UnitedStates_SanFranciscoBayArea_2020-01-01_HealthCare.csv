@@ -1,0 +1,29 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Kaiser Permanente",2.760712561097386,1
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Health Care",6.636304452160329,2
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Genentech",3.558027937395864,3
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Gilead Sciences",4.386308341212026,4
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Sutter Health",4.694498757143109,5
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Exact Sciences",52.18682358378944,6
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Intuitive",4.765881009185401,7
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Stanford Children's Health | Lucile Packard Children's Hospital Stanford",5.1653859736390295,8
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Invitae",18.1879950272078,9
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"One Medical",10.331311144784825,10
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Abbott",4.018510297296183,11
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Penumbra, Inc.",11.981916244011085,12
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Employers,"Roche",4.137104385276835,13
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Nurse",7.069301227285905,1
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Software Engineer",2.5452191082382303,2
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Project Manager",1.1862789788152912,4
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Program Manager",1.0361083314184893,5
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Jobs,"Behavioral Health Technician",0.8771803324250329,6
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"JavaScript",-1,1
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Construction Management",-1,2
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Program Management",-1,3
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Public Speaking",-1,4
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Cross-functional Team Leadership",-1,5
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nursing",-1,6
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Nonprofit Organizations",-1,7
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,8
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Applied Behavior Analysis",-1,9
+2020-01-01,us,"United States","San Francisco Bay Area","Health Care",Top Trending Skills,"Behavioral Health",-1,10

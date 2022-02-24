@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Amazon",12.372836844268681,1
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"NHS",4.074398006466303,2
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Sainsbury's",5.97700622434626,3
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Morrisons",12.641639048217737,4
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"NHS England",6.508833827731484,5
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Tesco",2.5174575929123524,6
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"GSK",4.894415187820941,7
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Facebook",9.815398334930185,8
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Barclays",2.3582023361988087,9
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Greene King",14.286462639386416,10
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Department for Work and Pensions (DWP)",6.029634439019856,11
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Network Rail",2.963581025758418,12
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Amazon Web Services (AWS)",15.897319522989283,13
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"BAE Systems",3.9909636876344483,14
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"HSBC",1.3645321426878627,15
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Vodafone",3.7322341101788004,16
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Waitrose & Partners",6.822040348250637,17
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Citi",4.058775970412733,18
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"Babcock International Group",6.01889272267343,19
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Employers,"HM Revenue & Customs",4.2891199442607855,20
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Software Engineer",2.0949138885090677,1
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Project Manager",1.9753556641446106,2
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Business Development Manager",1.282158226717709,3
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Account Manager",1.2683376907463446,4
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Sales Manager",0.8897950032871884,5
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Support Associate",0.8367127417138869,6
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Operations Manager",0.8258351318676144,7
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Teacher",0.8104050800964907,8
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Business Analyst",0.7220092403339813,9
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Marketing Manager",0.6807759287038311,10
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Sales Executive",0.6781877395227335,11
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Writer",0.6483191429392435,12
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Marketing Executive",0.6112879517188885,13
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Lecturer",0.5879622780808119,14
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"General Manager",0.5240364340549971,15
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Customer Service Representative",0.47854728171701133,16
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Accountant",0.4771423504204576,17
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Editor",0.46769016264339447,18
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Account Executive",0.4358742170070481,19
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Jobs,"Food Server",0.43509607778136833,20
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Account Management",-1,1
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Sales Management",-1,2
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Teaching",-1,3
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"JavaScript",-1,4
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Operations Management",-1,5
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Teamwork",-1,6
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Business Analysis",-1,7
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Writing",-1,8
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Stakeholder Management",-1,9
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Project Delivery",-1,10
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Time Management",-1,11
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Marketing Strategy",-1,12
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Business-to-Business (B2B)",-1,13
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Financial Accounting",-1,14
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Higher Education",-1,15
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Curriculum Development",-1,16
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Editing",-1,17
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Change Management",-1,18
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Creative Writing",-1,19
+2020-08-01,gb,"United Kingdom","All","All",Top Trending Skills,"Digital Marketing",-1,20

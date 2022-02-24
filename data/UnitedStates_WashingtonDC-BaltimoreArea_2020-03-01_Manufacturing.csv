@@ -1,0 +1,30 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Employers,"Lockheed Martin",4.477395661869092,1
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Employers,"The Johns Hopkins University Applied Physics Laboratory",3.706828536269074,2
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Employers,"United States Air Force",2.348348877763798,3
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Employers,"ASRC Federal",10.864004472449583,4
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Employers,"BAE Systems",10.597846495006939,5
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Employers,"Federal Aviation Administration",3.75044607817712,6
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Employers,"BAE Systems, Inc.",7.7655361598696455,7
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Jobs,"Software Engineer",4.627655057852848,1
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Jobs,"System Engineer",4.391936424082498,2
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Jobs,"Program Manager",2.7809402169859156,3
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Jobs,"Project Manager",1.7331889328553987,4
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Jobs,"Sales Manager",1.5741645739261714,5
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Jobs,"Financial Analyst",1.3803353772722917,6
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Jobs,"Electrical Engineer",1.2878127182217851,7
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Jobs,"Intelligence Analyst",1.2781047890142683,8
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.1259036621452863,9
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Construction Management",-1,3
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Program Management",-1,4
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,5
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Financial Analysis",-1,6
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Financial Reporting",-1,7
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Cross-functional Team Leadership",-1,8
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Systems Engineering",-1,9
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Integration",-1,10
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,11
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Intelligence Analysis",-1,12
+2020-03-01,us,"United States","Washington DC-Baltimore Area","Manufacturing",Top Trending Skills,"Intelligence",-1,13

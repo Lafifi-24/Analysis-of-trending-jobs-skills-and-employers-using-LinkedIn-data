@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"Accenture",6.175928791653247,1
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"Capgemini",4.034966063189852,2
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"Tata Consultancy Services",2.7976323635050484,3
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"HDFC Bank",8.518120663959342,4
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"Axis Bank",9.415247832766632,5
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"ICICI Bank",4.5532404701864895,6
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"Kotak Mahindra Bank",7.811869128693735,7
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"Deloitte",5.043866478650404,8
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"JPMorgan Chase & Co.",4.974470816342587,9
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"Wipro Limited",5.029952711761692,10
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"IDFC FIRST Bank",11.603802537146994,11
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"PwC",8.436383390794125,12
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"LTI - Larsen & Toubro Infotech",4.010698323175039,13
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"Morgan Stanley",7.399950240987872,14
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"CitiusTech",10.070372480559744,15
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"BNP Paribas",5.725291127423795,16
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"YES BANK",4.8352728595480645,17
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"IndusInd Bank",7.706600927727276,18
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"GEP Worldwide",12.232079003363962,19
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Employers,"GeBBS Healthcare Solutions",14.361342270874507,20
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Software Engineer",5.659606623910583,1
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Sales Manager",2.3997607795763516,2
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Business Development Manager",1.4306162514000316,3
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Project Manager",1.301816213813155,4
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Sales Executive",1.1911379574874446,5
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Business Analyst",1.131925399946549,6
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Relationship Manager",1.1119603754350456,7
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Human Resources Executive",1.0334448178479076,8
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"General Manager",0.9829260961827728,9
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"System Engineer",0.9463428754884435,10
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Product Manager",0.9138977994030998,11
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Account Manager",0.9052729148326502,12
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Graphic Designer",0.8897770675634387,13
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Business Development Executive",0.8810937255049108,14
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Human Resources Manager",0.8667319552258874,15
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Marketing Manager",0.8152715720852559,16
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Financial Analyst",0.7760866611542332,17
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Operations Manager",0.7577791779883025,18
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Account Executive",0.7428083400226824,19
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Jobs,"Project Engineer",0.625364487082989,20
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"SQL",-1,1
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Sales Management",-1,3
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Business Analysis",-1,4
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Adobe Illustrator",-1,5
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Recruiting",-1,6
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Team Leadership",-1,7
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Employee Relations",-1,8
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Core Java",-1,9
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Operations Management",-1,10
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Requirements Analysis",-1,11
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Employee Engagement",-1,12
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Marketing Strategy",-1,13
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,14
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"AutoCAD",-1,15
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Requirements Gathering",-1,16
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Financial Analysis",-1,17
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Account Management",-1,18
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Tally ERP",-1,19
+2020-01-01,in,"India","Mumbai Metropolitan Region","All",Top Trending Skills,"Project Engineering",-1,20

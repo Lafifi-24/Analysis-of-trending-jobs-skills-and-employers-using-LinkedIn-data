@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Robinhood",16.971476339590385,1
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Chime",15.838695588982098,2
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Upstart",19.83864476024032,3
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Wells Fargo",0.8508270775589364,4
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",4.556233645022338,5
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"Morgan Stanley",5.853104962800312,6
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Employers,"SoFi",10.535243055461695,7
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Software Engineer",8.05201485506327,1
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Investment Analyst",3.007642737112153,2
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Product Manager",1.9214580089098918,3
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Financial Advisor",1.7088164705819888,4
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Jobs,"Recruiter",1.568373759320805,5
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Recruiting",-1,2
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Interviewing",-1,3
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Agile Methodologies",-1,4
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Retirement Planning",-1,5
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Investments",-1,6
+2021-05-01,us,"United States","San Francisco Bay Area","Finance",Top Trending Skills,"Financial Modeling",-1,7

@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Phoenix Area","Education",Top Trending Employers,"Arizona State University",3.217078934855117,1
+2021-02-01,us,"United States","Greater Phoenix Area","Education",Top Trending Jobs,"Teacher",10.048495702786553,1
+2021-02-01,us,"United States","Greater Phoenix Area","Education",Top Trending Jobs,"Professor",9.442567406720398,2
+2021-02-01,us,"United States","Greater Phoenix Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-02-01,us,"United States","Greater Phoenix Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-02-01,us,"United States","Greater Phoenix Area","Education",Top Trending Skills,"Higher Education",-1,3

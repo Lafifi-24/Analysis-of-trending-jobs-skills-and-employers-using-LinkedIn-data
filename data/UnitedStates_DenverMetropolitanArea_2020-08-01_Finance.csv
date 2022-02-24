@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Charles Schwab",4.348561730037176,1
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Fidelity Investments",15.817224945124414,2
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Employers,"Robinhood",88.09030159364303,3
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Customer Service Representative",6.049142254222021,1
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Mortgage Loan Officer",4.663256263084073,2
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",2.968226744271405,3
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",2.57387763457116,4
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Customer Satisfaction",-1,2
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Retirement Planning",-1,3
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Investments",-1,4
+2020-08-01,us,"United States","Denver Metropolitan Area","Finance",Top Trending Skills,"Mortgage Lending",-1,5

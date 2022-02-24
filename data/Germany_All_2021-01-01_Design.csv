@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,de,"Germany","All","Design",Top Trending Jobs,"Architect",17.002529769201953,1
+2021-01-01,de,"Germany","All","Design",Top Trending Jobs,"Project Engineer",7.087369664974295,2
+2021-01-01,de,"Germany","All","Design",Top Trending Jobs,"Project Manager",6.6192402780689275,3
+2021-01-01,de,"Germany","All","Design",Top Trending Skills,"Project Management",-1,1
+2021-01-01,de,"Germany","All","Design",Top Trending Skills,"Project Planning",-1,2
+2021-01-01,de,"Germany","All","Design",Top Trending Skills,"Architectural Design",-1,3
+2021-01-01,de,"Germany","All","Design",Top Trending Skills,"Project Engineering",-1,4

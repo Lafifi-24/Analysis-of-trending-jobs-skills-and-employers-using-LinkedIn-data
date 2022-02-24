@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Employers,"Compass",3.7539806543136316,1
+2021-05-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Employers,"Keller Williams Realty, Inc.",5.636147155139083,2
+2021-05-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Employers,"eXp Realty",13.96976275379119,3
+2021-05-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Jobs,"Real Estate Agent",37.64773360194917,1
+2021-05-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Jobs,"Property Manager",4.343384050190019,2
+2021-05-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Skills,"Investment Properties",-1,1
+2021-05-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2021-05-01,us,"United States","San Francisco Bay Area","Real Estate",Top Trending Skills,"Property Management",-1,3

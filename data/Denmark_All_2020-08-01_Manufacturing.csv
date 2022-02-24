@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,dk,"Denmark","All","Manufacturing",Top Trending Employers,"Energinet",5.5256332942098245,1
+2020-08-01,dk,"Denmark","All","Manufacturing",Top Trending Jobs,"Project Manager",6.061653667993051,1
+2020-08-01,dk,"Denmark","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.784923482178669,2
+2020-08-01,dk,"Denmark","All","Manufacturing",Top Trending Skills,"Project Planning",-1,1
+2020-08-01,dk,"Denmark","All","Manufacturing",Top Trending Skills,"Change Management",-1,2
+2020-08-01,dk,"Denmark","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2020-08-01,dk,"Denmark","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,4

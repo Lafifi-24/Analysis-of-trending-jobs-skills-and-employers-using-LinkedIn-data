@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon",10.738246911840815,1
+2020-09-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",12.665716465635285,2
+2020-09-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Employers,"NTT DATA Services",54.059992154239666,3
+2020-09-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Employers,"Microsoft",7.760083995572958,4
+2020-09-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",26.78837594553994,1
+2020-09-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",2.078899675059526,2
+2020-09-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-09-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Skills,"React.js",-1,2
+2020-09-01,ca,"Canada","Greater Vancouver Metropolitan Area","Software & IT Services",Top Trending Skills,"Node.js",-1,3

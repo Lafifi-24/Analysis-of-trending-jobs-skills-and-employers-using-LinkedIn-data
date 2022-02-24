@@ -1,0 +1,49 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Employers,"Leonardo",2.0846092034096193,1
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Employers,"Rete Ferroviaria Italiana",4.020688093063911,2
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Employers,"FCA Fiat Chrysler Automobiles",1.5384495346713931,3
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Employers,"Barilla Group",6.874642833478097,4
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Employers,"Thales Alenia Space",6.714479606349865,5
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Employers,"Ferrari",2.073161396581553,6
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Employers,"ABB",2.261823926799864,7
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Employers,"Pirelli",3.900008169522598,8
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Employers,"Maserati",2.7499717670726804,9
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Project Manager",2.923285868565456,1
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.8778650335370055,2
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Software Engineer",2.2847640241268055,3
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Salesperson",2.2564775345117587,4
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Mechanical Designer",1.8218392208751155,5
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Project Engineer",1.5120446664610618,6
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Administration Employee",1.4854197962988127,7
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Buyer",1.2949261408117183,8
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Back Office Employee",1.1973330361241723,9
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Sales Consultant",1.130190405321803,10
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.1156267986201966,11
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Technical Clerk",1.0563171812287209,12
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Laboratory Technician",0.9205282626289963,13
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Mechanical Fitter",0.9083515170035571,14
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Quality Assurance Manager",0.8833040063495898,15
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Product Manager",0.8463620882183363,16
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Process Engineer",0.8402636680201941,17
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"System Engineer",0.8378095331281388,18
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Business Technician",0.8036279821512251,19
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Jobs,"Design Engineer",0.7856231947064394,20
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"JavaScript",-1,3
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Project Planning",-1,4
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Business Planning",-1,5
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Negotiation",-1,6
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Invoicing",-1,7
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"AutoCAD",-1,8
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Product Development",-1,9
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Laboratory Skills",-1,10
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Windows Server",-1,11
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,12
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Back Office Operations",-1,13
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"VMware",-1,14
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Computer-Aided Design (CAD)",-1,15
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Quality Management",-1,16
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Process Engineering",-1,17
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Technical Drawing",-1,18
+2020-12-01,it,"Italy","All","Manufacturing",Top Trending Skills,"Montage",-1,19

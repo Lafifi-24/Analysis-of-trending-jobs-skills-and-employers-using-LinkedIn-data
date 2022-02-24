@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Houston ISD",6.9351147117402965,1
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Baylor College of Medicine",5.987299265370569,2
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Amazon",19.26291261419692,3
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Memorial Hermann Health System",4.595746303171219,4
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Houston Methodist",3.4261523881830755,5
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"University of Houston",4.402028081369437,6
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"The University of Texas Health Science Center at Houston (UTHealth)",5.653870138492693,7
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"ExxonMobil",1.7722517528332031,8
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"H-E-B",9.065639920543896,9
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Rice University",5.966759818437066,10
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Fort Bend ISD",10.061665510094041,11
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"City of Houston",6.6657187578601365,12
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Cypress-Fairbanks ISD",8.464747603154205,13
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"MD Anderson Cancer Center",1.4282998087970982,14
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Aldine ISD",8.640509594430949,15
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Harris County Public Health",28.06980437617743,16
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"The University of Texas Medical Branch",4.268232969837337,17
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Katy ISD",7.624367409472864,18
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"YES Prep Public Schools",11.406171177061486,19
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Employers,"Klein ISD",8.116747212120345,20
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Teacher",2.743920396411011,1
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Real Estate Agent",2.6262514507351074,2
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Project Manager",1.8289545507195661,3
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Nurse",1.5373834109712057,4
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Software Engineer",1.5157504520456857,5
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Salesperson",1.255100143833095,6
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Customer Service Representative",1.0418516421879545,7
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Account Manager",1.0270425893779478,8
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Sales Manager",0.9850226549941128,9
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Account Executive",0.8298001179830209,10
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Professor",0.8206402993899461,11
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Business Development Manager",0.8090812076131765,12
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Accountant",0.7892487159191478,13
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Attorney",0.6950178279141623,14
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Operations Manager",0.673975283389298,15
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Elementary School Teacher",0.648759344865312,16
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"General Manager",0.6355725410273946,17
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Financial Analyst",0.556849557566585,18
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Project Engineer",0.5039882915316919,19
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Jobs,"Business Analyst",0.4767947585192557,20
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"JavaScript",-1,2
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Account Management",-1,4
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Sales Management",-1,5
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Investment Properties",-1,6
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Team Building",-1,8
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Operations Management",-1,9
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Legal Writing",-1,10
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Construction Management",-1,11
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Higher Education",-1,12
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Civil Litigation",-1,13
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Account Reconciliation",-1,14
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Business Analysis",-1,15
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Sales Operations",-1,16
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Inventory Management",-1,17
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Financial Analysis",-1,18
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"General Ledger",-1,19
+2020-08-01,us,"United States","Greater Houston","All",Top Trending Skills,"Customer Satisfaction",-1,20

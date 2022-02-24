@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Media & Communications",Top Trending Jobs,"Writer",6.156088186324425,1
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Media & Communications",Top Trending Jobs,"Account Executive",4.603715240405283,2
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Media & Communications",Top Trending Jobs,"Editor",4.170281992322011,3
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Media & Communications",Top Trending Jobs,"Reporter",3.230353864140857,4
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Media & Communications",Top Trending Skills,"Writing",-1,1
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Media & Communications",Top Trending Skills,"Editing",-1,2
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Media & Communications",Top Trending Skills,"Account Management",-1,3
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Media & Communications",Top Trending Skills,"Journalism",-1,4
+2020-01-01,us,"United States","Washington DC-Baltimore Area","Media & Communications",Top Trending Skills,"News Writing",-1,5

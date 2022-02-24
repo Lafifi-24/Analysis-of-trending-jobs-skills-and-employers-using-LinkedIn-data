@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Accenture",3.784922079690029,1
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Deloitte",6.233499462874096,2
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Tata Consultancy Services",3.1479767962314718,3
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Wipro Limited",3.3715009398425906,4
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Genpact",2.8848570508137494,5
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"HCL Technologies",2.798242872189175,6
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"ICICI Bank",5.6551406327757565,7
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Publicis Sapient",6.331129822651949,8
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Chegg Inc.",13.962108864768568,9
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"EXL",6.630212540163762,10
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Amazon",6.0883223368491075,11
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"ZS",9.100054940223153,12
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Concentrix",3.782092760289845,13
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Square Yards",23.916339195858864,14
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"WNS Global Services",4.4488470929217785,15
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"IHS Markit",9.66796617200467,16
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Vedantu",31.24650769171326,17
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Altran",6.686227245397883,18
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"PwC",3.6521042680985762,19
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Collegedunia",23.245676095825647,20
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Software Engineer",7.272618207568181,1
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Business Development Executive",2.0350646432965145,2
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Content Writer",1.9687968709188315,3
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Campus Ambassador",1.7982854194284497,4
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Sales Manager",1.7689922071210427,5
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Business Development Manager",1.5515686413086598,6
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Human Resources Executive",1.4485019859185477,7
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Graphic Designer",1.3551460689808548,8
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Business Analyst",1.3376323851128595,9
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Human Resources Manager",1.11333527768826,10
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Sales Executive",1.003194907112094,11
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Project Manager",0.9610418694564384,12
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Data Analyst",0.8615372429520525,13
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"System Engineer",0.8511138663723529,14
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Recruiter",0.8193521209147996,15
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Relationship Manager",0.7167545634320083,16
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Professor",0.6907016869497575,17
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Financial Analyst",0.6891119455603205,18
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Operations Manager",0.6825592152234858,19
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Legal Associate",0.6615498757102584,20
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"SQL",-1,1
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Sales Management",-1,3
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Teaching",-1,4
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Business Analysis",-1,5
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Adobe Illustrator",-1,6
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Recruiting",-1,7
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Team Leadership",-1,8
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Employee Relations",-1,9
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Core Java",-1,10
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Higher Education",-1,11
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Operations Management",-1,12
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Requirements Analysis",-1,13
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Data Analysis",-1,14
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Employee Engagement",-1,15
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,16
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Web Content Writing",-1,17
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Requirements Gathering",-1,18
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Financial Analysis",-1,19
+2020-12-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Writing",-1,20

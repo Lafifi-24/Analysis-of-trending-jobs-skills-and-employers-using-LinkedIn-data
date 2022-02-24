@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Employers,"KONE",4.477567565947227,1
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Employers,"Valmet",2.9383513384503317,2
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Jobs,"Sales Manager",4.605865654639313,1
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Jobs,"Project Manager",4.296672215569609,2
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Jobs,"Software Engineer",3.66152658958414,3
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Skills,"Project Planning",-1,3
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,4
+2021-03-01,fi,"Finland","All","Manufacturing",Top Trending Skills,"Git",-1,5

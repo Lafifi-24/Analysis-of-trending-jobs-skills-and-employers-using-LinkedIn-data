@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Employers,"State Farm ®",2.254851052023857,1
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Employers,"Wells Fargo",3.117347157055687,2
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Employers,"Anthem, Inc.",3.4878038233961863,3
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",3.813024052293933,1
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Jobs,"Insurance Agent",2.6383909529865854,2
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Jobs,"Financial Advisor",2.462046658400351,3
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"Retirement Planning",-1,2
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"Investments",-1,3
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"Life Insurance",-1,4
+2020-05-31,us,"United States","Atlanta Metropolitan Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,5

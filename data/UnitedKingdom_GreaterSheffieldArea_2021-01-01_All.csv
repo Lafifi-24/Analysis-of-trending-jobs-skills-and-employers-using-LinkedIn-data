@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Employers,"The University of Sheffield",1.773972235057454,1
+2021-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Jobs,"Project Manager",2.915138199138284,1
+2021-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Skills,"Stakeholder Management",-1,1
+2021-01-01,gb,"United Kingdom","Greater Sheffield Area","All",Top Trending Skills,"Project Delivery",-1,2

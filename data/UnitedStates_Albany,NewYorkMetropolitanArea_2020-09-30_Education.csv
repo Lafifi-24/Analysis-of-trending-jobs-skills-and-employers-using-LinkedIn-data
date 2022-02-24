@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-30,us,"United States","Albany, New York Metropolitan Area","Education",Top Trending Employers,"University at Albany, SUNY",3.606494561710258,1
+2020-09-30,us,"United States","Albany, New York Metropolitan Area","Education",Top Trending Employers,"Rensselaer Polytechnic Institute",5.935214688983093,2
+2020-09-30,us,"United States","Albany, New York Metropolitan Area","Education",Top Trending Employers,"Skidmore College",12.187509060919396,3
+2020-09-30,us,"United States","Albany, New York Metropolitan Area","Education",Top Trending Jobs,"Professor",13.037801977995963,1
+2020-09-30,us,"United States","Albany, New York Metropolitan Area","Education",Top Trending Jobs,"Teacher",10.066748018504128,2
+2020-09-30,us,"United States","Albany, New York Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-30,us,"United States","Albany, New York Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-30,us,"United States","Albany, New York Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3

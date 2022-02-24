@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Employers,"Nebraska Medicine",3.2292011764122672,1
+2021-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.7667689786137704,1
+2021-01-01,us,"United States","Omaha Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1

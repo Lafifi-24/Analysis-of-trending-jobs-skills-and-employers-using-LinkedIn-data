@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Employers,"Volvo Cars",0.898884691360323,1
+2021-03-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Project Manager",4.005005884051875,1
+2021-03-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Software Engineer",3.9251751948179856,2
+2021-03-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2021-03-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,2
+2021-03-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Git",-1,3

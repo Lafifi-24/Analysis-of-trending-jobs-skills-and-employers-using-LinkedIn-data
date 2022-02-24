@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"National University of Singapore",3.7579551452236424,1
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"Shopee",7.0580224317922085,2
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"DBS Bank",1.7901467812400311,3
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"NCS Group",3.883715797564915,4
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"Grab",4.730735394439491,5
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"Standard Chartered Bank",1.4432625143361664,6
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"Accenture",3.90267109171504,7
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"Nanyang Technological University",2.4900074793947713,8
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"A*STAR - Agency for Science, Technology and Research",4.479683894950022,9
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"GovTech Singapore",4.772385947522595,10
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"Amazon Web Services (AWS)",6.497186242797978,11
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"ByteDance",22.76860800495326,12
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"OCBC Bank",2.1639373201670753,13
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"KPMG Singapore",4.3569595551499845,14
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"UOB",1.4855031719755045,15
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"PwC Singapore",3.925132428351783,16
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"ST Engineering",2.002642524335868,17
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"IHiS (Integrated Health Information Systems)",4.238290690559327,18
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"Citi",1.4235403110848694,19
+2021-03-01,sg,"Singapore","All","All",Top Trending Employers,"Ministry of Social and Family Development, Singapore (MSF)",9.587360805507782,20
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Software Engineer",4.147833161913157,1
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Business Development Manager",1.6651835912074369,2
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Project Manager",1.5384449147857227,3
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Sales Manager",1.1515634555161212,4
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Account Manager",1.0734693052682327,5
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Teacher",1.0724724038112223,6
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Marketing Executive",1.0023003594959283,7
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Business Analyst",0.9190832474280732,8
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Product Manager",0.8670185984103737,9
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Account Executive",0.8620004446012389,10
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Business Development Executive",0.7999488704254147,11
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Sales Director",0.7995250568253289,12
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Marketing Manager",0.7893833803589249,13
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Lecturer",0.7434446954467808,14
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Financial Advisor",0.664550046834316,15
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"General Manager",0.6390290252011567,16
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Recruiter",0.6348236668776769,17
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Data Analyst",0.5790264478538236,18
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Data Scientist",0.5747210397144366,19
+2021-03-01,sg,"Singapore","All","All",Top Trending Jobs,"Audit Associate",0.5728193165152167,20
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Project Management",-1,1
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"JavaScript",-1,2
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Java",-1,3
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Sales Management",-1,4
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Project Planning",-1,5
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Teaching",-1,6
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Account Management",-1,7
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Business Analysis",-1,8
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Marketing Strategy",-1,9
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Social Media Marketing",-1,10
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Digital Marketing",-1,11
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Curriculum Development",-1,12
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Requirements Analysis",-1,13
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Accounts Payable",-1,14
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Auditing",-1,15
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Higher Education",-1,16
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Python (Programming Language)",-1,17
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Product Development",-1,18
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Financial Planning",-1,19
+2021-03-01,sg,"Singapore","All","All",Top Trending Skills,"Tableau",-1,20

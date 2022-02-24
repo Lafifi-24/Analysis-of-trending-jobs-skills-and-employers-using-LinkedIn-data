@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,es,"Spain","Greater Madrid Metropolitan Area","Education",Top Trending Employers,"Universidad Complutense de Madrid",2.8839196191656167,1
+2021-01-01,es,"Spain","Greater Madrid Metropolitan Area","Education",Top Trending Jobs,"Professor",26.11774975390603,1
+2021-01-01,es,"Spain","Greater Madrid Metropolitan Area","Education",Top Trending Jobs,"Teacher",9.098357733222764,2
+2021-01-01,es,"Spain","Greater Madrid Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1

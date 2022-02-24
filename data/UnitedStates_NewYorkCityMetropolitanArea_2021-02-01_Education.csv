@@ -1,0 +1,24 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Columbia University in the City of New York",2.254406635899481,1
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"NYC Department of Education",0.6867479001344955,2
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Weill Cornell Medicine",2.4679678315137705,3
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Rutgers University",1.670968649366076,4
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Princeton University",3.062241812465929,5
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Yale University",2.140498537721829,6
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Stony Brook University",2.4955894165103922,7
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Yale University School of Medicine",2.3812071361082263,8
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Employers,"Success Academy Charter Schools",2.2193485272948728,9
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Professor",13.769739561302263,1
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Teacher",10.195992009367675,2
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",2.873326897288981,3
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Lecturer",2.402403094109133,4
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Jobs,"Member Of The Board Of Advisors",1.8855631022445751,5
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Public Speaking",-1,4
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Nonprofit Organizations",-1,5
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,6
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,7
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Strategy",-1,8
+2021-02-01,us,"United States","New York City Metropolitan Area","Education",Top Trending Skills,"Strategic Partnerships",-1,9

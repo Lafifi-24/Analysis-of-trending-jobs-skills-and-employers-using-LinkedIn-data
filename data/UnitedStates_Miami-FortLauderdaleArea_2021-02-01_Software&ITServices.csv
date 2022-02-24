@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Software & IT Services",Top Trending Employers,"Amazon",7.065853996168801,1
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Software & IT Services",Top Trending Jobs,"Software Engineer",5.867531495072619,1
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Software & IT Services",Top Trending Jobs,"Account Manager",3.2535797749917204,2
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Software & IT Services",Top Trending Jobs,"Project Manager",3.035914726210652,3
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2021-02-01,us,"United States","Miami-Fort Lauderdale Area","Software & IT Services",Top Trending Skills,"Construction Management",-1,3

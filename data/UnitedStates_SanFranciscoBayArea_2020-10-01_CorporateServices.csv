@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"Deloitte",4.014276403937177,1
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"PwC",3.5901878049244997,2
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"McKinsey & Company",10.694681502586615,3
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Employers,"Bain & Company",12.439262003497557,4
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Assurance Associate",3.87665178553147,1
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Business Analyst",2.7932072702587227,2
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Jobs,"Audit Associate",2.436500401797561,3
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Business Analysis",-1,1
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,2
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Auditing",-1,3
+2020-10-01,us,"United States","San Francisco Bay Area","Corporate Services",Top Trending Skills,"Financial Reporting",-1,4

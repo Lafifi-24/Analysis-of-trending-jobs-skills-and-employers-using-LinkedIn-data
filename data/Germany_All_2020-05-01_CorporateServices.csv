@@ -1,0 +1,33 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Employers,"PwC Deutschland",4.780646137528939,1
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Employers,"Deloitte",6.109464365216051,2
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Employers,"KPMG Deutschland",3.8114667248557845,3
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Employers,"MHP – A Porsche Company",4.124689417576092,4
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Employers,"PwC",2.7793099477117114,5
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Employers,"Deloitte Deutschland",4.6146014785451355,6
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Employers,"McKinsey & Company",3.1867893947219423,7
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Project Manager",4.583640736435327,1
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Recruiter",1.5810404995089673,2
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Managing Partner",1.5732517240854043,3
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Project Control Manager",1.5537780689014509,4
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Management Consultant",1.4923065266510782,5
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Lecturer",1.4659807425451477,6
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Tax Consultant",1.4651703872327881,7
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Business Consultant",1.3475610199242738,8
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Software Engineer",1.3278994083754407,9
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Information Technology Consultant",1.2454232134370555,10
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Jobs,"Business Analyst",1.1409872844053428,11
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Project Management",-1,1
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Java",-1,2
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Project Planning",-1,3
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Recruiting",-1,4
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Teaching",-1,5
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Business Management",-1,6
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Scrum",-1,7
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"IT Consulting",-1,8
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Business Analysis",-1,9
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Project Leadership",-1,10
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Tax Advisory",-1,11
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Change Management",-1,12
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Tax Law",-1,13
+2020-05-01,de,"Germany","All","Corporate Services",Top Trending Skills,"Management Consulting",-1,14

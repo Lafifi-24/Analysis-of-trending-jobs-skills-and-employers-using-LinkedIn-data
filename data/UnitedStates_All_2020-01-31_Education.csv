@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"VIPKid",4.919796409508721,1
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"Arizona State University",6.413210490221793,2
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"University of Michigan",5.048579464771247,3
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"University of Washington",5.011682788174254,4
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"Columbia University in the City of New York",5.805577635830268,5
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"The University of Texas at Austin",5.881738220280567,6
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"University of California, Berkeley",7.163665649179944,7
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"University of Illinois Urbana-Champaign",5.824616133014791,8
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"Stanford University",4.410948244135787,9
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"Penn State University",4.395185855286925,10
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"The Ohio State University",4.583375639824077,11
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"University of Pennsylvania",5.333320791267139,12
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"NYC Department of Education",2.3301632426492507,13
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"Northeastern University",7.730152088223449,14
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"University of Maryland",6.833908647717755,15
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"University of Florida",4.698539615023836,16
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"New York University",5.363910817834106,17
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"University of Southern California",5.468151602823571,18
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"North Carolina State University",5.730249748426276,19
+2020-01-31,us,"United States","All","Education",Top Trending Employers,"University of Wisconsin-Madison",4.574492819400223,20
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Teacher",10.888996395799824,1
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Professor",10.134939359645195,2
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Postdoctoral Researcher",3.0391398254456012,3
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Lecturer",1.6862483950513918,4
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Software Engineer",0.86603981954828,5
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Program Coordinator",0.7410556436320924,6
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Project Manager",0.7160072279453216,7
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"College Instructor",0.7131740244257815,8
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Special Education Paraeducator",0.6977226829238964,9
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Director Of Development",0.6679151758436159,10
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"English Second Language Teacher",0.6512367952397811,11
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Mathematics Tutor",0.6427739480135658,12
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Academic Advisor",0.6340125736052314,13
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Member Of The Board Of Advisors",0.5661003708839966,14
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Special Education Teacher",0.534275158865189,15
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Elementary School Teacher",0.5318363234041596,16
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Program Manager",0.5189722346369986,17
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Mathematics Teacher",0.44040946480382637,18
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Academic Tutor",0.43819193509953747,19
+2020-01-31,us,"United States","All","Education",Top Trending Jobs,"Admissions Counselor",0.4335714830703238,20
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"JavaScript",-1,2
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Construction Management",-1,4
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Higher Education",-1,5
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Program Management",-1,6
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Special Education",-1,7
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Cross-functional Team Leadership",-1,8
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Classroom Management",-1,9
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Elementary Education",-1,10
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Community Outreach",-1,11
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Molecular Biology",-1,12
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Nonprofit Organizations",-1,13
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Cell Culture",-1,14
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Fundraising",-1,15
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Academic Advising",-1,16
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Public Speaking",-1,17
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"English as a Second Language (ESL)",-1,18
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Strategy",-1,19
+2020-01-31,us,"United States","All","Education",Top Trending Skills,"Strategic Partnerships",-1,20

@@ -1,0 +1,59 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"BNP Paribas",2.659788534675072,1
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"AXA",4.607142965287525,2
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"KPMG France",8.530358369456017,3
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"La Banque Postale",3.697072789299791,4
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"LCL",3.681477879549802,5
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"Crédit Mutuel",4.800097443682055,6
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"Natixis",3.2286704412978997,7
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"Generali",5.667564914041974,8
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"Allianz France",3.867587850202499,9
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"PwC France",4.763672298138473,10
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"Bpifrance",5.518570299835384,11
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"Societe Generale Corporate and Investment Banking - SGCIB",2.6794061020799673,12
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"MACIF",5.834987139717607,13
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"AXA en France",3.261734796430662,14
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"Crédit Agricole CIB",3.075453135948527,15
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"Groupe BPCE",5.101934912595526,16
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"AG2R LA MONDIALE",3.9762223010933044,17
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"Banque de France",4.421060440628076,18
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"CIC",2.5338514007871056,19
+2020-01-01,fr,"France","All","Finance",Top Trending Employers,"HSBC",2.38375118592279,20
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Client Advisor",4.4274868790791055,1
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Financial Advisor",3.695889975359698,2
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Customer Associate",3.4136273243319977,3
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Sales Advisor",3.3248738532745925,4
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Project Manager",3.1502296215524703,5
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Wealth Management Advisor",2.519824711247375,6
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Legal Officer",1.6059118712850908,7
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Accountant",1.3466081066805005,8
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Mortgage Broker",1.3282435011388518,9
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Business Account Executive",1.3090955485101106,10
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Customer Advisor",1.1425079373196134,11
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Insurance Advisor",1.0651439353501664,12
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Business Analyst",0.9665596039301804,13
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Business Manager",0.9559898783448713,14
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Claims Administrator",0.9477986349813413,15
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Software Engineer",0.8986544923496523,16
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Financial Auditor",0.8242312211807857,17
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Salesperson",0.8204857898098324,18
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Account Manager",0.7989533992225559,19
+2020-01-01,fr,"France","All","Finance",Top Trending Jobs,"Communications Manager",0.7595666422615407,20
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Project Management",-1,1
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Social Media",-1,2
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Java",-1,3
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Git",-1,4
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Internal Communications",-1,5
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Negotiation",-1,6
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Legal Research",-1,7
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Legal Advice",-1,8
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Sales Prospecting",-1,9
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Account Reconciliation",-1,10
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Wealth Management",-1,11
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Assurance",-1,12
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Commerce",-1,13
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Auditing",-1,14
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"SQL",-1,15
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Financial Audits",-1,16
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Agile Methodologies",-1,17
+2020-01-01,fr,"France","All","Finance",Top Trending Skills,"Team Spirit",-1,18

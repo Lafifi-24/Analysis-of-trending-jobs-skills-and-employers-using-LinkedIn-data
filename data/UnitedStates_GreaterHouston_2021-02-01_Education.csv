@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Houston","Education",Top Trending Employers,"University of Houston",2.7457707417456323,1
+2021-02-01,us,"United States","Greater Houston","Education",Top Trending Employers,"Baylor College of Medicine",2.1003148788395403,2
+2021-02-01,us,"United States","Greater Houston","Education",Top Trending Jobs,"Teacher",12.915890866330848,1
+2021-02-01,us,"United States","Greater Houston","Education",Top Trending Jobs,"Professor",9.789856276443329,2
+2021-02-01,us,"United States","Greater Houston","Education",Top Trending Skills,"Teaching",-1,1
+2021-02-01,us,"United States","Greater Houston","Education",Top Trending Skills,"Curriculum Development",-1,2
+2021-02-01,us,"United States","Greater Houston","Education",Top Trending Skills,"Higher Education",-1,3

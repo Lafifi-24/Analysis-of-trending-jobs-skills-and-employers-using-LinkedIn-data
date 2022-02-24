@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",0.4055834062780514,1
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Morgan Stanley",0.434670580587161,2
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",0.3464418964365618,3
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Morgan Stanley",0.39215210965590436,4
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Dime Community Bank",14.32987191041866,5
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Dime Community Bank",13.963049253101081,6
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Bloomberg LP",0.6375570956225721,7
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Bloomberg LP",0.604747486767605,8
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Employers,"Citi",0.359358838996811,9
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",4.378615781638212,1
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Jobs,"Software Engineer",4.348112449012543,2
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,2
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,3
+2021-04-01,us,"United States","New York City Metropolitan Area","Finance",Top Trending Skills,"JavaScript",-1,4

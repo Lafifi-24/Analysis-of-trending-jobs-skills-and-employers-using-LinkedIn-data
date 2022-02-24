@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Employers,"Red Hat",7.005502248312137,1
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Employers,"Amazon",32.64835620782072,2
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Employers,"SAS",2.843162711812501,3
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Employers,"Lenovo",3.105367724846942,4
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Employers,"Microsoft",10.09258868651698,5
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Employers,"NetApp",5.082986797796616,6
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Jobs,"Software Engineer",9.502339899701232,1
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Jobs,"Account Executive",2.7531969231413136,2
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-04-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Software & IT Services",Top Trending Skills,"Account Management",-1,2

@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Pennsylvania",4.723393697914966,1
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Temple University",5.31175392253534,2
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Delaware",5.4732881672778415,3
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Thomas Jefferson University",6.09146656439286,4
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Drexel University",2.7542571887600715,5
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Rowan University",3.9335324557841256,6
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"The School District of Philadelphia",2.1900865103447322,7
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Villanova University",4.6515796601442565,8
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Professor",11.442097256596757,1
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Teacher",10.680238853077997,2
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Postdoctoral Researcher",2.7920692653739634,3
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Higher Education",-1,3
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-02-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Cell Culture",-1,5

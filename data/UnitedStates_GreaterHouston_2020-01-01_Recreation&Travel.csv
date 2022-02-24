@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Houston","Recreation & Travel",Top Trending Employers,"United Airlines",5.575949115868413,1
+2020-01-01,us,"United States","Greater Houston","Recreation & Travel",Top Trending Jobs,"Server",6.570238001828904,1
+2020-01-01,us,"United States","Greater Houston","Recreation & Travel",Top Trending Skills,"Time Management",-1,1

@@ -1,0 +1,13 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Los Angeles",3.359745390113769,1
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of Southern California",2.5685325430965356,2
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"UC Irvine",3.8756202047721846,3
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Employers,"University of California, Riverside",4.18184068525376,4
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Teacher",8.306060447905425,1
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Professor",5.880786690021469,2
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Jobs,"Member Of The Board Of Advisors",2.155092802220502,3
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Strategy",-1,4
+2020-05-01,us,"United States","Los Angeles Metropolitan Area","Education",Top Trending Skills,"Strategic Partnerships",-1,5

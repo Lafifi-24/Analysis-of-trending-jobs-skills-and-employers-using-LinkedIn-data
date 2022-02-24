@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Project Manager",3.9709490417793667,1
+2021-01-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Jobs,"Salesperson",3.9577677733089347,2
+2021-01-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2021-01-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,2
+2021-01-01,se,"Sweden","Gothenburg Metropolitan Area","All",Top Trending Skills,"Business-to-Business (B2B)",-1,3

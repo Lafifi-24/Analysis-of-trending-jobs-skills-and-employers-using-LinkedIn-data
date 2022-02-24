@@ -1,0 +1,16 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Employers,"Baker Tilly US",81.48825639386811,1
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Employers,"Deloitte",5.181290780018972,2
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Employers,"CLA (CliftonLarsonAllen)",29.374090810039977,3
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Employers,"PwC",2.437764308044769,4
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Employers,"RSM US LLP",11.026296147179966,5
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Jobs,"Tax Associate",4.879122455762003,1
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Jobs,"Audit Associate",4.116330805834104,2
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Jobs,"Tax Accountant",3.175581255695724,3
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Jobs,"Tax Manager",2.900768817355698,4
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"Tax",-1,1
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"Tax Preparation",-1,2
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"Corporate Tax",-1,3
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"Income Tax",-1,4
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"Auditing",-1,5
+2021-01-01,us,"United States","Los Angeles Metropolitan Area","Corporate Services",Top Trending Skills,"Financial Reporting",-1,6

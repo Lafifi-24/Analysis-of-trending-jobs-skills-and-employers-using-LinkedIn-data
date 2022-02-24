@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Employers,"Porsche AG",2.5711877681599415,1
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Employers,"Bosch",0.7687314070436168,2
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Employers,"Daimler AG",0.9450307618907668,3
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Employers,"University of Stuttgart",5.037927584383145,4
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Project Manager",4.379341980980025,1
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Software Engineer",3.329164756540151,2
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Lecturer",2.6987416922984884,3
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Development Engineer",2.01366627450583,4
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Jobs,"Sales Manager",1.8622109674155822,5
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Project Management",-1,1
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Java",-1,2
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Project Planning",-1,3
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"International Sales",-1,4
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Teaching",-1,5
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"MATLAB",-1,6
+2020-12-01,de,"Germany","Stuttgart Region","All",Top Trending Skills,"Automotive",-1,7

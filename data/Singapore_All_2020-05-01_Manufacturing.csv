@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,sg,"Singapore","All","Manufacturing",Top Trending Employers,"ST Engineering",3.522367392289912,1
+2020-05-01,sg,"Singapore","All","Manufacturing",Top Trending Jobs,"Software Engineer",5.4280123114990255,1
+2020-05-01,sg,"Singapore","All","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-05-01,sg,"Singapore","All","Manufacturing",Top Trending Skills,"Java",-1,2

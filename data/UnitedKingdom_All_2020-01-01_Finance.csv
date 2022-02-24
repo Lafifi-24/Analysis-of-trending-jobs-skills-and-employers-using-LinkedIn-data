@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"HSBC",2.6771793409565587,1
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Lloyds Banking Group",1.8952161307005524,2
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Citi",3.642732168572807,3
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Santander UK",3.833918199182901,4
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Barclays",1.5707549773823488,5
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Nationwide Building Society",3.820263988667854,6
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Gallagher",10.520661989824792,7
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"JPMorgan Chase & Co.",3.6715303204635554,8
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Legal & General",6.801199064172965,9
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Revolut",47.80066606949483,10
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"UBS",3.2408320839476383,11
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Metro Bank (UK)",8.4320753997603,12
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Deutsche Bank",2.2090580940639954,13
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Morgan Stanley",2.9773774542713305,14
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"American Express",3.9561185720425955,15
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Marsh",8.043614577711363,16
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"NFU Mutual",5.045025193752111,17
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Barclays UK",3.4541035051176068,18
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"St. James’s Place Wealth Management",5.45142784690737,19
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Employers,"Credit Suisse",3.29054512181701,20
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Software Engineer",2.9454715361138284,1
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Business Analyst",2.130197040730332,2
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Financial Advisor",1.9873980563070386,3
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Project Manager",1.508053511535347,4
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Customer Service Representative",1.3687461212330108,5
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Underwriter",1.3492464637176742,6
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Account Manager",1.2827264583327804,7
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Business Development Manager",1.2635439746507497,8
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Relationship Manager",1.0501096860140093,9
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Account Handler",0.8764474878431818,10
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Mortgage Advisor",0.8751998171742335,11
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Account Executive",0.8258111627374212,12
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Financial Analyst",0.7576918873764289,13
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Investment Analyst",0.6862927470777613,14
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Portfolio Manager",0.6861079243236984,15
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Data Analyst",0.6173887567553964,16
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Financial Planner",0.6013305449005467,17
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Claims Handler",0.5998800097096242,18
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Paraplanner",0.5728770814598639,19
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Jobs,"Customer Service Advisor",0.5459432930530295,20
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Account Management",-1,1
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Business Analysis",-1,3
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Stakeholder Management",-1,4
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Project Delivery",-1,5
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Business-to-Business (B2B)",-1,6
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Data Analysis",-1,7
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Requirements Gathering",-1,8
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Time Management",-1,9
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Analysis",-1,10
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"SQL",-1,11
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Business Relationship Management",-1,12
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Underwriting",-1,13
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Services",-1,14
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Digital Marketing",-1,15
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Mortgage Lending",-1,16
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Reporting",-1,17
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Financial Advisory",-1,18
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Working with Brokers",-1,19
+2020-01-01,gb,"United Kingdom","All","Finance",Top Trending Skills,"Residential Mortgages",-1,20

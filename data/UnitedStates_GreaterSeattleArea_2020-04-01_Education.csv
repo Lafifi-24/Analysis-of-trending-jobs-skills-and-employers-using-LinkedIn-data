@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"University of Washington",4.093059129631004,1
+2020-04-01,us,"United States","Greater Seattle Area","Education",Top Trending Employers,"Fred Hutch",3.860189401645463,2
+2020-04-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Teacher",9.453910854286468,1
+2020-04-01,us,"United States","Greater Seattle Area","Education",Top Trending Jobs,"Professor",6.042851001898747,2
+2020-04-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-04-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-04-01,us,"United States","Greater Seattle Area","Education",Top Trending Skills,"Higher Education",-1,3

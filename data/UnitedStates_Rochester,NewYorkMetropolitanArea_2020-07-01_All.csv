@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Employers,"University of Rochester Medical Center",3.011229328738873,1
+2020-07-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Employers,"Rochester Regional Health",2.6070947228707126,2
+2020-07-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.9449807787157627,1
+2020-07-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Jobs,"Nurse",1.951211882576576,2
+2020-07-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.8529824127012946,3
+2020-07-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-07-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Skills,"Nursing",-1,2
+2020-07-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Skills,"Basic Life Support (BLS)",-1,3

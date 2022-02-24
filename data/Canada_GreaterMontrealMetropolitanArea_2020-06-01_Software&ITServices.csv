@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Employers,"MindGeek",6.890619418016852,1
+2020-06-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Jobs,"Software Engineer",11.634949314641606,1
+2020-06-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",3.334663447010559,2
+2020-06-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Skills,"React.js",-1,2
+2020-06-01,ca,"Canada","Greater Montreal Metropolitan Area","Software & IT Services",Top Trending Skills,"Node.js",-1,3

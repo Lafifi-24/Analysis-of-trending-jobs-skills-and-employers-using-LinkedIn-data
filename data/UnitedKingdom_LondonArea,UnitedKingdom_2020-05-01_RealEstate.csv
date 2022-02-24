@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,gb,"United Kingdom","London Area, United Kingdom","Real Estate",Top Trending Employers,"CBRE",3.5339892597241516,1
+2020-05-01,gb,"United Kingdom","London Area, United Kingdom","Real Estate",Top Trending Jobs,"Property Manager",5.174675719362827,1
+2020-05-01,gb,"United Kingdom","London Area, United Kingdom","Real Estate",Top Trending Skills,"Property Management",-1,1
+2020-05-01,gb,"United Kingdom","London Area, United Kingdom","Real Estate",Top Trending Skills,"Lettings",-1,2

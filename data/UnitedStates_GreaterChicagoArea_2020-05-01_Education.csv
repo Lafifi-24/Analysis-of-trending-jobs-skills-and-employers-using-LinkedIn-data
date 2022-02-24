@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Chicago",3.5104257588242294,1
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northwestern University",3.045097198735437,2
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"University of Illinois Chicago",2.319351145706933,3
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Chicago Public Schools",1.0885075314258905,4
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"DePaul University",2.9035925173172332,5
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Roosevelt University",11.849639666632422,6
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Argonne National Laboratory",4.366772932427025,7
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Employers,"Northwestern University - The Feinberg School of Medicine",3.3214147287569156,8
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Professor",6.852674610247613,1
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Teacher",5.674082262636241,2
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.494318143288929,3
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-05-01,us,"United States","Greater Chicago Area","Education",Top Trending Skills,"Cell Culture",-1,5

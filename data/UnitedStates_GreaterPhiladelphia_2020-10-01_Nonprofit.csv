@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Philadelphia","Nonprofit",Top Trending Employers,"City Year",26.688488287993867,1
+2020-10-01,us,"United States","Greater Philadelphia","Nonprofit",Top Trending Skills,"Public Speaking",-1,1
+2020-10-01,us,"United States","Greater Philadelphia","Nonprofit",Top Trending Skills,"Nonprofit Organizations",-1,2

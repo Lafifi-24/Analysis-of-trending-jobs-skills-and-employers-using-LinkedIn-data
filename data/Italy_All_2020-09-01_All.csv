@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Amazon",19.389158311857116,1
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Poste Italiane",5.1193543334922476,2
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Intesa Sanpaolo",2.545982377247086,3
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Generali",4.232649932321212,4
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Accenture",1.7460707078955244,5
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"UniCredit",2.0976125690646485,6
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Politecnico di Milano",4.822562815222263,7
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"lidl-italia-srl",6.397017838827656,8
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Leonardo",1.8086060229342389,9
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Enel Group",3.5864626460671767,10
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"TIM",2.2208354610162258,11
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Università degli Studi di Padova",4.863998722004672,12
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Alma Mater Studiorum – Università di Bologna",4.015035618598216,13
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Capgemini",3.9168248360594515,14
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"ALLEANZA ASSICURAZIONI",4.430901247868965,15
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Sky Italia",4.4630064706670876,16
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Leroy Merlin",7.016749164906559,17
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"BPER Banca",4.6843353874599325,18
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"Consiglio Nazionale delle Ricerche",6.977533893985874,19
+2020-09-01,it,"Italy","All","All",Top Trending Employers,"GSK",3.7284785290603972,20
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Teacher",2.8060701347948505,1
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Salesperson",2.159068894067079,2
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Project Manager",2.016241196010244,3
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Software Engineer",1.9712524619789535,4
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Sales Manager",1.2998334892607353,5
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Account Manager",1.0595564806722269,6
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Lawyer",1.0206296702976918,7
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Social Media Manager",1.0189317393732922,8
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Administration Employee",0.9564099631316058,9
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Financial Advisor",0.8227235320894021,10
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Graphic Designer",0.8151093167617504,11
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Postdoctoral Researcher",0.7641722872412341,12
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Business Analyst",0.7144554058208782,13
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Nurse",0.7109838782273098,14
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Architect",0.6873125100174795,15
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Store Manager",0.6744458635418173,16
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Medical Doctor",0.6726425656402983,17
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Professor",0.6656744796864674,18
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Sales Consultant",0.6302441295900355,19
+2020-09-01,it,"Italy","All","All",Top Trending Jobs,"Psychologist",0.5617531129592722,20
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Project Management",-1,1
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Litigation",-1,2
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Legal Advice",-1,3
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Teaching",-1,4
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Architectural Design",-1,5
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Sales Management",-1,6
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Adobe Illustrator",-1,7
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"JavaScript",-1,8
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Project Planning",-1,9
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Clinical Research",-1,10
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Business Planning",-1,11
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Graphics",-1,12
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Store Management",-1,13
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Visual Merchandising",-1,14
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Psychological Assessment",-1,15
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Social Media Marketing",-1,16
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Nursing",-1,17
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Invoicing",-1,18
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Investments",-1,19
+2020-09-01,it,"Italy","All","All",Top Trending Skills,"Portfolio Management",-1,20

@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Employers,"Rochester Regional Health",3.071805083496525,1
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Employers,"Paychex",2.7238283184848915,2
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Employers,"University of Rochester Medical Center",2.2894552205839047,3
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Employers,"University of Rochester",1.7870753551294596,4
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.4656123786554214,1
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Jobs,"Salesperson",2.188827585609907,2
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Jobs,"Accountant",1.8884592400291154,3
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Skills,"Account Reconciliation",-1,2
+2020-12-01,us,"United States","Rochester, New York Metropolitan Area","All",Top Trending Skills,"General Ledger",-1,3

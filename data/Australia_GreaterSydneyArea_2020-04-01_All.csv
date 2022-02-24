@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Commonwealth Bank",6.254614724417702,1
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Westpac",7.646577051347993,2
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"University of Sydney",6.1534540247397365,3
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"UNSW",4.693914703031632,4
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Macquarie Group",5.721230029688808,5
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"KPMG Australia",9.195160761543871,6
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"University of Technology Sydney",5.193325052253309,7
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Amazon Web Services (AWS)",10.711978817195995,8
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"AMP",8.892824091622204,9
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Optus",4.732072824379118,10
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"IAG",7.288001533560802,11
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Atlassian",9.583344456168943,12
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"NSW Department of Education",3.1414159465086624,13
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Woolworths Supermarkets",6.619922915418207,14
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Macquarie University",4.309252787955271,15
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Telstra",3.4814250580511406,16
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"IOOF Holdings Ltd",35.60656106363644,17
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"DXC Technology",9.019638177533967,18
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"BT",7.069764947823172,19
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Employers,"Deloitte Australia",4.186035408466058,20
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Software Engineer",2.4145087367534632,1
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Project Manager",2.0922689989774494,2
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Business Analyst",1.7955369827968242,3
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Account Manager",1.2303314490057669,4
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Business Development Manager",1.2099135950541038,5
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Accountant",1.0971816674871364,6
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Customer Service Representative",1.0128174527772842,7
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Teacher",0.9181509168844137,8
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Marketing Manager",0.9033860680784708,9
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"General Manager",0.8799117757877044,10
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Nurse",0.806290918159823,11
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Lawyer",0.7175525892366383,12
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Lecturer",0.7017446744333466,13
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Operations Manager",0.6636369586874709,14
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Product Manager",0.648559734706427,15
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Academic Tutor",0.595345555845237,16
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Sales Manager",0.5717198291998511,17
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Account Executive",0.5591192937922228,18
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Paralegal",0.5443910917184975,19
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Jobs,"Support Associate",0.5058335589235166,20
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Teaching",-1,1
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Account Management",-1,2
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Business Analysis",-1,4
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"JavaScript",-1,6
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Operations Management",-1,7
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"MYOB",-1,8
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Stakeholder Management",-1,9
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Project Delivery",-1,10
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Marketing Strategy",-1,11
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Legal Advice",-1,12
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Change Management",-1,13
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Legal Research",-1,14
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Requirements Gathering",-1,15
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Time Management",-1,16
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Digital Marketing",-1,17
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Legal Writing",-1,18
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Product Development",-1,19
+2020-04-01,au,"Australia","Greater Sydney Area","All",Top Trending Skills,"Public Speaking",-1,20

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Seattle Area","Finance",Top Trending Employers,"Premera Blue Cross",5.328256214604108,1
+2020-03-01,us,"United States","Greater Seattle Area","Finance",Top Trending Employers,"PitchBook Data",16.848855879935385,2
+2020-03-01,us,"United States","Greater Seattle Area","Finance",Top Trending Employers,"BECU",4.563482922859697,3
+2020-03-01,us,"United States","Greater Seattle Area","Finance",Top Trending Jobs,"Financial Advisor",3.888011263908972,1
+2020-03-01,us,"United States","Greater Seattle Area","Finance",Top Trending Jobs,"Software Engineer",3.207269032600968,2
+2020-03-01,us,"United States","Greater Seattle Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-03-01,us,"United States","Greater Seattle Area","Finance",Top Trending Skills,"Retirement Planning",-1,2
+2020-03-01,us,"United States","Greater Seattle Area","Finance",Top Trending Skills,"Investments",-1,3

@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Philadelphia","Hardware & Networking",Top Trending Employers,"Comcast",3.9478412697290084,1
+2020-03-01,us,"United States","Greater Philadelphia","Hardware & Networking",Top Trending Employers,"Comcast Business",3.9001253289656512,2
+2020-03-01,us,"United States","Greater Philadelphia","Hardware & Networking",Top Trending Jobs,"Software Engineer",13.06129859038522,1
+2020-03-01,us,"United States","Greater Philadelphia","Hardware & Networking",Top Trending Skills,"JavaScript",-1,1

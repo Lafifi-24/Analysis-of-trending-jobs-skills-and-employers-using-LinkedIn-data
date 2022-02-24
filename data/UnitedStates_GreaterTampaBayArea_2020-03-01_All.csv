@@ -1,0 +1,55 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Centene Corporation",42.77611789386751,1
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"University of South Florida",4.91266878898268,2
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"PwC",5.571116219064029,3
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Citi",3.830973064683549,4
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"BayCare Health System",4.027452311224221,5
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Moffitt Cancer Center",4.836852775722276,6
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"AdventHealth",9.379526526766284,7
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Raymond James",2.9772245558255754,8
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Tampa General Hospital",4.3424374270436035,9
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"JPMorgan Chase & Co.",3.0851903862560275,10
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Keller Williams Realty, Inc.",6.338895814712209,11
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"FIS",9.72945767541067,12
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Publix Super Markets",4.602026160480989,13
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Progressive Insurance",5.290178708370579,14
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Employers,"Sam's Club",52.75941550165874,15
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Real Estate Agent",3.3480074661117527,1
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Project Manager",1.9693735435357056,2
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Software Engineer",1.94435277767359,3
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Nurse",1.762191215371942,4
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Account Manager",1.5166000586417925,5
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Account Executive",1.2395519735246912,6
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Salesperson",1.2319647428997014,7
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Sales Manager",1.1572325235824126,8
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Customer Service Representative",1.0874830448819512,9
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Teacher",0.8728609567593391,10
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Attorney",0.7938901908495654,11
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Sales Director",0.7925501919597752,12
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Business Analyst",0.7919022881619256,13
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Accountant",0.7725769832678949,14
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Operations Manager",0.6256237907752682,15
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Recruiter",0.6140796705630714,16
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"General Manager",0.5381716420130233,18
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Program Manager",0.5036263610390976,19
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Jobs,"Financial Analyst",0.4935338270351237,20
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Teaching",-1,1
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Account Management",-1,4
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Sales Management",-1,5
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Investment Properties",-1,6
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Team Building",-1,8
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Operations Management",-1,9
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Legal Writing",-1,10
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Recruiting",-1,11
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Construction Management",-1,12
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Program Management",-1,13
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Civil Litigation",-1,14
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Account Reconciliation",-1,15
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Business Analysis",-1,16
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Sales Operations",-1,17
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Inventory Management",-1,18
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"Financial Analysis",-1,19
+2020-03-01,us,"United States","Greater Tampa Bay Area","All",Top Trending Skills,"General Ledger",-1,20

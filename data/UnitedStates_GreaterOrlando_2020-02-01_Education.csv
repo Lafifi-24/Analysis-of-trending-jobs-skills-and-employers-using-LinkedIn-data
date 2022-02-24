@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","Greater Orlando","Education",Top Trending Employers,"University of Central Florida",4.545980486277991,1
+2020-02-01,us,"United States","Greater Orlando","Education",Top Trending Employers,"Embry-Riddle Aeronautical University",6.168083363647604,2
+2020-02-01,us,"United States","Greater Orlando","Education",Top Trending Employers,"Orange County Public Schools",2.274044619807467,3
+2020-02-01,us,"United States","Greater Orlando","Education",Top Trending Employers,"Valencia College",2.947550250862628,4
+2020-02-01,us,"United States","Greater Orlando","Education",Top Trending Jobs,"Teacher",12.463855685898432,1
+2020-02-01,us,"United States","Greater Orlando","Education",Top Trending Jobs,"Professor",9.326696330987032,2
+2020-02-01,us,"United States","Greater Orlando","Education",Top Trending Skills,"Teaching",-1,1
+2020-02-01,us,"United States","Greater Orlando","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-02-01,us,"United States","Greater Orlando","Education",Top Trending Skills,"Higher Education",-1,3

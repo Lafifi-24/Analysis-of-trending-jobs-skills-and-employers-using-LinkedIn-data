@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-05-01,us,"United States","Austin, Texas Metropolitan Area","Consumer Goods",Top Trending Employers,"Apple",5.301835293558943,1
+2020-05-01,us,"United States","Austin, Texas Metropolitan Area","Consumer Goods",Top Trending Jobs,"Software Engineer",5.465700946830074,1
+2020-05-01,us,"United States","Austin, Texas Metropolitan Area","Consumer Goods",Top Trending Skills,"JavaScript",-1,1

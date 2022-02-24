@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Employers,"Citi",5.792753169789977,1
+2020-08-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Employers,"Raymond James",2.595745439733931,2
+2020-08-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Employers,"PSCU",10.691708735588842,3
+2020-08-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Employers,"JPMorgan Chase & Co.",2.4964042202958336,4
+2020-08-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Jobs,"Insurance Agent",5.083766197860117,1
+2020-08-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Jobs,"Software Engineer",4.004992621512814,2
+2020-08-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Skills,"Life Insurance",-1,2
+2020-08-01,us,"United States","Greater Tampa Bay Area","Finance",Top Trending Skills,"Property & Casualty Insurance",-1,3

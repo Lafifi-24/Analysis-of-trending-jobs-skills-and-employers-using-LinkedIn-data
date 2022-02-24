@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-02-01,us,"United States","San Francisco Bay Area","Recreation & Travel",Top Trending Employers,"United Airlines",3.7708017988571534,1
+2020-02-01,us,"United States","San Francisco Bay Area","Recreation & Travel",Top Trending Jobs,"Chef",3.513873147567184,1
+2020-02-01,us,"United States","San Francisco Bay Area","Recreation & Travel",Top Trending Skills,"Culinary Skills",-1,1
+2020-02-01,us,"United States","San Francisco Bay Area","Recreation & Travel",Top Trending Skills,"Menu Development",-1,2

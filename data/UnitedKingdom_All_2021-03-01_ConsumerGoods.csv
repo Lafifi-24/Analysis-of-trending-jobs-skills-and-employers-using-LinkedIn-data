@@ -1,0 +1,56 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Reckitt",4.228931524209999,1
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Boohoo Group PLC",13.312374965272502,2
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"AO",7.744729206973022,3
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Unilever",1.9940252207461835,4
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Apple",1.5060696729152472,5
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"BAT",2.999480075298986,6
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Philip Morris International",10.631710702471738,7
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Burberry",2.5471284255091753,8
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Tropic Skincare",5.402139333116971,9
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Gymshark",10.536340238227067,10
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Dr. Martens - Airwair International Ltd",7.530228519237772,11
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"HelloFresh",15.96254208230487,12
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"The Estée Lauder Companies Inc.",3.506599165386527,13
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"L'Oréal",3.013736222046983,14
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Procter & Gamble",2.8656784802420945,15
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Gousto",10.590191077375241,16
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Employers,"Wren Kitchens",3.14276763506181,17
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Account Manager",2.3808548160654595,1
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Sales Manager",1.7557083250040215,2
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Brand Manager",1.5601332487902966,3
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Salesperson",1.541298374880775,4
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Business Development Manager",1.4764314336760551,5
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Software Engineer",1.4413034990962799,6
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Operations Manager",1.3282414401612321,7
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Marketing Manager",1.2676142734428657,8
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Sales Executive",1.230371268117356,9
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Project Manager",1.2186870365253424,10
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Graphic Designer",1.1556362458279075,11
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Marketing Executive",0.9937541079145915,12
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Merchandiser",0.9268674012328995,13
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Head Of Sales",0.8769732458167651,14
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Buyer",0.8098931455593896,15
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Product Manager",0.7916392077307509,16
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Social Media Manager",0.7751614045851243,17
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Jobs,"Warehouse Associate",0.7236131244103226,18
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Account Management",-1,1
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Sales Management",-1,2
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"JavaScript",-1,3
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Operations Management",-1,4
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Stakeholder Management",-1,5
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Project Delivery",-1,6
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Marketing Strategy",-1,7
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Business-to-Business (B2B)",-1,8
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Logo Design",-1,9
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Change Management",-1,10
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Digital Marketing",-1,11
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Retail",-1,12
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Email Marketing",-1,13
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Social Media",-1,14
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Social Media Marketing",-1,15
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Product Development",-1,16
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Procurement",-1,17
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Merchandising",-1,18
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Brand Management",-1,19
+2021-03-01,gb,"United Kingdom","All","Consumer Goods",Top Trending Skills,"Brand Development",-1,20

@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Sacramento","Education",Top Trending Employers,"University of California, Davis",5.971977949876871,1
+2020-09-01,us,"United States","Greater Sacramento","Education",Top Trending Employers,"California State University-Sacramento",4.775407053956001,2
+2020-09-01,us,"United States","Greater Sacramento","Education",Top Trending Jobs,"Teacher",10.619016918388501,1
+2020-09-01,us,"United States","Greater Sacramento","Education",Top Trending Jobs,"Professor",8.565124509890994,2
+2020-09-01,us,"United States","Greater Sacramento","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Sacramento","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,us,"United States","Greater Sacramento","Education",Top Trending Skills,"Higher Education",-1,3

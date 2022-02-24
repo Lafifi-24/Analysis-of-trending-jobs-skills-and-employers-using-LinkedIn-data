@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,sg,"Singapore","All","Corporate Services",Top Trending Employers,"PwC Singapore",4.897150412884092,1
+2021-01-01,sg,"Singapore","All","Corporate Services",Top Trending Employers,"Deloitte",4.158570291198524,2
+2021-01-01,sg,"Singapore","All","Corporate Services",Top Trending Jobs,"Audit Associate",8.693986290630527,1
+2021-01-01,sg,"Singapore","All","Corporate Services",Top Trending Skills,"Auditing",-1,1
+2021-01-01,sg,"Singapore","All","Corporate Services",Top Trending Skills,"External Audit",-1,2

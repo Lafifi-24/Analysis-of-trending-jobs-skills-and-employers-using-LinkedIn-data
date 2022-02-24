@@ -1,0 +1,19 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Employers,"Iowa State University",9.06429203090494,1
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Employers,"Wells Fargo",3.48345831928104,2
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Employers,"Hy-Vee, Inc.",7.915113199998264,3
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Employers,"Waukee Aspiring Professional Experience (APEX)",114.32715203961101,4
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Employers,"Drake University",8.498465169694342,5
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.0646653493975546,1
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.449474929792385,2
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Professor",1.4294504554776888,3
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Project Manager",1.3349511639478684,4
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",1.3047899231970144,5
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Jobs,"Teacher",1.2378401269688193,6
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,4
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,5
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,6
+2020-08-01,us,"United States","Des Moines Metropolitan Area","All",Top Trending Skills,"Higher Education",-1,7

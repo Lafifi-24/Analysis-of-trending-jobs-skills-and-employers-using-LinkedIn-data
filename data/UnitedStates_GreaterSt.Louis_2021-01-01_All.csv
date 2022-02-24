@@ -1,0 +1,36 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Washington University in St. Louis",1.9566233956058814,1
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Mercy",2.4975202104314813,2
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"BJC HealthCare",3.1678545995857545,3
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Centene Corporation",1.476189604852468,4
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Washington University School of Medicine in St. Louis",1.9023153810979145,5
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Barnes-Jewish Hospital",3.0106719541330875,6
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Amazon",6.627232522628729,7
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Bayer Crop Science",2.042157250339281,8
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Boeing",0.8541638967754718,9
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Employers,"Abstrakt Marketing Group",14.344268527208929,10
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Software Engineer",2.43002047425272,1
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Salesperson",1.9926153762061551,2
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Project Manager",1.9472179009909945,3
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Real Estate Agent",1.5961970559338747,4
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Account Manager",1.538508377521577,5
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Account Executive",1.375903349003514,6
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Customer Service Representative",1.2580329944010684,7
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Nurse",1.2305285092555802,8
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Accountant",0.9070156372451488,9
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Operations Manager",0.8511301863452518,10
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Jobs,"Attorney",0.7838283835100697,11
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"JavaScript",-1,1
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Account Management",-1,2
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Investment Properties",-1,3
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,4
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Operations Management",-1,5
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Team Building",-1,6
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Legal Writing",-1,7
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Construction Management",-1,8
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Civil Litigation",-1,9
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Account Reconciliation",-1,10
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"General Ledger",-1,11
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Customer Satisfaction",-1,12
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Nursing",-1,13
+2021-01-01,us,"United States","Greater St. Louis","All",Top Trending Skills,"Basic Life Support (BLS)",-1,14

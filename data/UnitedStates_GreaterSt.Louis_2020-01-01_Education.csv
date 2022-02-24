@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Washington University in St. Louis",5.405224393000627,1
+2020-01-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Saint Louis University",3.4178158260331823,2
+2020-01-01,us,"United States","Greater St. Louis","Education",Top Trending Employers,"Southern Illinois University Edwardsville",7.987147236700057,3
+2020-01-01,us,"United States","Greater St. Louis","Education",Top Trending Jobs,"Professor",13.969263286939043,1
+2020-01-01,us,"United States","Greater St. Louis","Education",Top Trending Jobs,"Teacher",11.14577314454896,2
+2020-01-01,us,"United States","Greater St. Louis","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,us,"United States","Greater St. Louis","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-01-01,us,"United States","Greater St. Louis","Education",Top Trending Skills,"Higher Education",-1,3

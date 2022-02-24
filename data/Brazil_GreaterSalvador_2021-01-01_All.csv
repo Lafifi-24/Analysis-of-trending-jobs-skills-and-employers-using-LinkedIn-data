@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,br,"Brazil","Greater Salvador","All",Top Trending Employers,"Capgemini",14.823973436770213,1
+2021-01-01,br,"Brazil","Greater Salvador","All",Top Trending Jobs,"System Analyst",3.7981896419041976,1
+2021-01-01,br,"Brazil","Greater Salvador","All",Top Trending Skills,"SQL",-1,1
+2021-01-01,br,"Brazil","Greater Salvador","All",Top Trending Skills,"Microsoft SQL Server",-1,2

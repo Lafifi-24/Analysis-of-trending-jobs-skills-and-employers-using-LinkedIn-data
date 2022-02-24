@@ -1,0 +1,36 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Northeastern University",7.18511423690704,1
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard University",5.180672348420835,2
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston University",6.053716417737931,3
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Massachusetts Institute of Technology",5.599968745808885,4
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Medical School",3.3425228305124532,5
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Tufts University",5.943136533267139,6
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brown University",3.907238682607867,7
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston College",5.3800072595377095,8
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Southern New Hampshire University",4.16781727756443,9
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brandeis University",7.4080652185274705,10
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Broad Institute of MIT and Harvard",5.249409352748017,11
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Amherst",10.507350047688798,12
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Medical School",4.516945412010038,13
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of New Hampshire",4.051531747789775,14
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Forrester",9.649338859678764,15
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard T.H. Chan School of Public Health",4.88450102654709,16
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Emerson College",6.217435620325496,17
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Lowell",4.045808776687,18
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Business School",4.454502846200056,19
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Bentley University",6.378372678079419,20
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Professor",8.790713965431591,1
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Teacher",6.166342095278833,2
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Postdoctoral Researcher",5.665483342656685,3
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Lecturer",2.2765467406943127,4
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Software Engineer",1.4020788773042359,5
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Project Manager",1.3107971684579283,6
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"JavaScript",-1,2
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Construction Management",-1,4
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Higher Education",-1,5
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Public Speaking",-1,6
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Nonprofit Organizations",-1,7
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Molecular Biology",-1,8
+2020-03-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Cell Culture",-1,9

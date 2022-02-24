@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,se,"Sweden","All","Real Estate",Top Trending Employers,"merc-talangnatverk",79.28454901092529,1
+2020-12-01,se,"Sweden","All","Real Estate",Top Trending Jobs,"Real Estate Agent",15.239414592883662,1
+2020-12-01,se,"Sweden","All","Real Estate",Top Trending Jobs,"Project Manager",11.185973360235971,2
+2020-12-01,se,"Sweden","All","Real Estate",Top Trending Skills,"Project Management",-1,1
+2020-12-01,se,"Sweden","All","Real Estate",Top Trending Skills,"Project Planning",-1,2
+2020-12-01,se,"Sweden","All","Real Estate",Top Trending Skills,"Real Estate Transactions",-1,3

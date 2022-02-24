@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,au,"Australia","All","Consumer Goods",Top Trending Employers,"Australia Post",2.2491442407995033,1
+2021-02-01,au,"Australia","All","Consumer Goods",Top Trending Jobs,"Salesperson",3.323870547552516,1
+2021-02-01,au,"Australia","All","Consumer Goods",Top Trending Jobs,"Account Manager",2.595383157906422,2
+2021-02-01,au,"Australia","All","Consumer Goods",Top Trending Jobs,"Brand Manager",2.302378140724988,3
+2021-02-01,au,"Australia","All","Consumer Goods",Top Trending Jobs,"Business Development Manager",2.1035774454360876,4
+2021-02-01,au,"Australia","All","Consumer Goods",Top Trending Skills,"Account Management",-1,1
+2021-02-01,au,"Australia","All","Consumer Goods",Top Trending Skills,"Brand Management",-1,2
+2021-02-01,au,"Australia","All","Consumer Goods",Top Trending Skills,"Brand Development",-1,3

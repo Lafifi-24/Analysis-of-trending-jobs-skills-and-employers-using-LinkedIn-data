@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,es,"Spain","All","Real Estate",Top Trending Employers,"papernest",26.648164878740605,1
+2021-01-01,es,"Spain","All","Real Estate",Top Trending Jobs,"Real Estate Agent",14.812195425964617,1
+2021-01-01,es,"Spain","All","Real Estate",Top Trending Jobs,"Real Estate Consultant",11.342146818365883,2
+2021-01-01,es,"Spain","All","Real Estate",Top Trending Skills,"Investment Properties",-1,1

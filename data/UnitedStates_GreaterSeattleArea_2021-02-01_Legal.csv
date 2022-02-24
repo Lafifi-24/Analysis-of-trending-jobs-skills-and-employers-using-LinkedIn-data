@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Greater Seattle Area","Legal",Top Trending Jobs,"Attorney",34.225228364478966,1
+2021-02-01,us,"United States","Greater Seattle Area","Legal",Top Trending Skills,"Legal Writing",-1,1
+2021-02-01,us,"United States","Greater Seattle Area","Legal",Top Trending Skills,"Civil Litigation",-1,2

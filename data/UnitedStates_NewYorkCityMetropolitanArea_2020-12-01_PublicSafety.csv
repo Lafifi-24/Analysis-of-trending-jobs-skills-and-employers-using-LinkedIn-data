@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","New York City Metropolitan Area","Public Safety",Top Trending Jobs,"District Attorney",18.42308197771789,1
+2020-12-01,us,"United States","New York City Metropolitan Area","Public Safety",Top Trending Skills,"Criminal Law",-1,1
+2020-12-01,us,"United States","New York City Metropolitan Area","Public Safety",Top Trending Skills,"Trials",-1,2

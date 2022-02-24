@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Accenture",6.5408686549305495,1
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Capgemini",5.2373423504068946,2
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Infosys",4.800527019820711,3
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Wipro Limited",3.5681049482404656,4
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Amazon",8.812281026881957,5
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Oracle",4.682958248517314,6
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Tata Consultancy Services",2.1472707780285742,7
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"DXC Technology",6.839829318817836,8
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"HCL Technologies",4.485985571194627,9
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Mindtree",4.916157099909557,10
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Flipkart",7.005974163525211,11
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"ITC Infotech",10.151358302656444,12
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Genpact",10.967668890899256,13
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"udaan.com",25.60336018548266,14
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Cerner Corporation",8.160266714075819,15
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Microsoft",7.445427348477933,16
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"Walmart Global Tech India",13.331419834306683,17
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"NTT DATA Services",9.050505572091334,18
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"VMware",5.504656006117404,19
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Employers,"L&T Technology Services Limited",6.001284464022497,20
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Software Engineer",24.756448120852063,1
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"System Engineer",2.919705983043055,2
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Application Developer",2.1242914178848067,3
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Business Analyst",1.5625007995221276,4
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Product Manager",1.2055880109124446,5
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Project Manager",1.0802460283670485,6
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Recruiter",1.0410625762873416,7
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Data Scientist",0.9863446566327313,8
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Quality Assurance Engineer",0.9344163981194207,9
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Project Engineer",0.9218479288491916,10
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Software Test Engineer",0.8828126270322703,11
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Test Engineer",0.8779046021986844,12
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Data Analyst",0.8693787060479,13
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Program Manager",0.7894142528368606,14
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"DevOps Engineer",0.7130052833118585,15
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.7110769636693348,16
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Technical Consultant",0.7087471552675538,17
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Data Engineer",0.6837994201639618,18
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Business Development Manager",0.6837551623064159,19
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Jobs,"Financial Analyst",0.6810598178036948,20
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"SQL",-1,1
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Business Analysis",-1,3
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Team Leadership",-1,4
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Recruiting",-1,5
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Core Java",-1,6
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Manual Testing",-1,7
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Requirements Analysis",-1,8
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Data Analysis",-1,9
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,10
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"AutoCAD",-1,11
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,12
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Financial Analysis",-1,13
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Java",-1,14
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Project Engineering",-1,15
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Test Automation",-1,16
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Regression Testing",-1,17
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Machine Learning",-1,18
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Screening",-1,19
+2020-01-01,in,"India","Greater Bengaluru Area","Software & IT Services",Top Trending Skills,"Jenkins",-1,20

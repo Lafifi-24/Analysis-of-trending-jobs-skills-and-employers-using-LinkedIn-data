@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Accenture",6.985564450188502,1
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Health Service Executive",5.2351443532895985,2
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Regeneron",11.258778300514217,3
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Microsoft",4.224358536441296,4
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"University College Dublin",3.8119518277142106,5
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Eli Lilly and Company",6.681409509654662,6
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Amazon Web Services (AWS)",3.7077332675456773,7
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Apple",2.6792631025836933,8
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Abbott",4.80569663785082,9
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Infosys BPM",18.5011888233844,10
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Facebook",3.325532966193591,11
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"HubSpot",8.027814316249458,12
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Oracle",7.317499057387729,13
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"AIB",1.4488768588111065,14
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Boston Scientific",3.7993167888751005,15
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Trinity College Dublin",2.9838754740468283,16
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"Bank of Ireland",1.603400832959999,17
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"IQVIA",23.6912908190578,18
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"National University of Ireland, Galway",4.9008997546969715,19
+2021-03-01,ie,"Ireland","All","All",Top Trending Employers,"PayPal",3.3959894749440624,20
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Software Engineer",3.909787860529118,1
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Project Manager",1.838299239059402,2
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Account Executive",1.5893183509344995,3
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Customer Service Representative",1.1820846120215833,4
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Account Manager",1.1522410811783184,5
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Data Analyst",0.8502851970405182,6
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Sales Development Representative",0.829139200354835,7
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Lecturer",0.8131432305548237,8
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Quality Analyst",0.774304148284392,9
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Clerical Officer",0.7605070853866607,10
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Business Development Manager",0.7099665422127772,11
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Marketing Executive",0.6617477517534897,12
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Business Analyst",0.6241438779537094,13
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Recruiter",0.6143222917616719,14
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Business Development Representative",0.6106221117014488,15
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Program Manager",0.6104864989110339,16
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Accountant",0.5908906414684455,17
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Human Resources Administrator",0.5496493886985772,18
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Process Executive",0.5474914529033673,19
+2021-03-01,ie,"Ireland","All","All",Top Trending Jobs,"Sales Manager",0.539785179944781,20
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Project Management",-1,1
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"JavaScript",-1,2
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Account Management",-1,3
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Sales Management",-1,4
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Project Planning",-1,5
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Financial Reporting",-1,6
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Financial Accounting",-1,7
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Business Analysis",-1,8
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Customer Relationship Management (CRM)",-1,9
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Teaching",-1,10
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Data Analysis",-1,11
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Customer Satisfaction",-1,12
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Higher Education",-1,13
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Social Media Marketing",-1,14
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Program Management",-1,15
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Digital Marketing",-1,16
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Tableau",-1,17
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Requirements Gathering",-1,18
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Salesforce.com",-1,19
+2021-03-01,ie,"Ireland","All","All",Top Trending Skills,"Time Management",-1,20

@@ -1,0 +1,58 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Amazon",7.535829928967209,1
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Wipro Limited",3.345346947910949,2
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Microsoft",6.606027429395804,3
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Accenture",2.126888550856527,4
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Oracle",3.551690362955807,5
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Capgemini",2.273685790231385,6
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Infosys",0.9559157624178841,7
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"DXC Technology",8.890034266472115,8
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"HCL Technologies",4.107606278861995,9
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"ServiceNow",10.944219536250726,10
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"FactSet",8.836705185064138,11
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Verizon",9.782290393704066,12
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Mindtree",5.2065687371576415,13
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Arcesium",10.067779135005205,14
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"YASH Technologies",4.3241881136155165,15
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"RealPage, Inc.",6.8947257641556705,16
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Employers,"Virtusa",2.5421673803706546,17
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Software Engineer",28.486577117981255,1
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Application Developer",1.5630472882822228,2
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Business Analyst",1.3407267361632256,3
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Recruiter",1.3227180269892498,4
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Product Manager",1.2856960540457227,5
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Program Manager",1.257099712080335,6
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"System Engineer",1.1424670719496264,7
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Project Manager",1.058786309305101,8
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Quality Assurance Engineer",0.9865099341872905,9
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Data Scientist",0.9797584414933722,10
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Test Engineer",0.8494349620070263,11
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"DevOps Engineer",0.8466498056823044,12
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Full Stack Engineer",0.8243566362777985,13
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Operations Manager",0.7818553392355478,14
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"SAP Consultant",0.7788240299582456,15
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Application Engineer",0.771689286324808,16
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Process Executive",0.7547622001197242,17
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Data Engineer",0.7331022006140395,18
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Financial Analyst",0.6917949152014922,19
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Jobs,"Data Analyst",0.6753264324226014,20
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"SQL",-1,1
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"JavaScript",-1,2
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Business Analysis",-1,3
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Team Leadership",-1,4
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Recruiting",-1,5
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Core Java",-1,6
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Operations Management",-1,7
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Requirements Analysis",-1,8
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Data Analysis",-1,9
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,10
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Manual Testing",-1,11
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Requirements Gathering",-1,12
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Financial Analysis",-1,13
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Java",-1,14
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Test Automation",-1,15
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Machine Learning",-1,16
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Screening",-1,17
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Jenkins",-1,18
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Node.js",-1,19
+2020-06-01,in,"India","Greater Hyderabad Area","Software & IT Services",Top Trending Skills,"Data Science",-1,20

@@ -1,0 +1,36 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"Amazon",15.460282449416674,1
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"Amazon Web Services (AWS)",16.360016484324504,2
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"Oracle",5.34142850712269,3
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"HubSpot",6.568586264287806,4
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"MathWorks",5.152327961481649,5
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"Amazon Robotics",13.829251632154346,6
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"Pegasystems",7.656623819613445,7
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"DoorDash",41.03691622869359,8
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"athenahealth",3.7004748863909156,9
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Employers,"PTC",5.246153456869917,10
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Software Engineer",12.671395356951068,1
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Account Executive",3.197525308502215,2
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Product Manager",1.9751958338185018,3
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Business Development Representative",1.9713537296861812,4
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Sales Development Representative",1.7681421802076565,5
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Account Manager",1.669868183554401,6
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Business Development Consultant",1.5823756026683562,7
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Customer Success Manager",1.4624774299673489,8
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Project Manager",1.260253736002678,9
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Sales Director",0.841664980516282,10
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Vice President of Sales",0.8285704130965573,11
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Program Manager",0.8208828255394445,12
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Jobs,"Data Scientist",0.815932423180338,13
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"JavaScript",-1,1
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Account Management",-1,2
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Construction Management",-1,3
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Program Management",-1,4
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Sales Management",-1,5
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Cross-functional Team Leadership",-1,6
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Agile Methodologies",-1,7
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Machine Learning",-1,8
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Data Science",-1,9
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Salesforce.com",-1,10
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Software as a Service (SaaS)",-1,11
+2020-06-01,us,"United States","Greater Boston","Software & IT Services",Top Trending Skills,"Cold Calling",-1,12

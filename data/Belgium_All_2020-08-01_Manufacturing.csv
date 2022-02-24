@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Employers,"Novasep",26.43944632896172,1
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Project Manager",3.5599079865752294,1
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Project Engineer",2.514015622182323,2
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Account Manager",2.3958597700052247,3
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Jobs,"Sales Manager",2.0845846977394893,4
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Project Management",-1,1
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Business-to-Business (B2B)",-1,4
+2020-08-01,be,"Belgium","All","Manufacturing",Top Trending Skills,"Project Engineering",-1,5

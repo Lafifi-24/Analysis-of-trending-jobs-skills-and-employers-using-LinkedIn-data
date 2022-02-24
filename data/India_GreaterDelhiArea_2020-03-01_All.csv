@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Accenture",5.700127449660342,1
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Genpact",5.414344274009218,2
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"HCL Technologies",4.158289778631056,3
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Wipro Limited",4.519677811064932,4
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Deloitte",5.74474920612885,5
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"HDFC Bank",6.1444067237263775,6
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"American Express",4.300299967413146,7
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Tata Consultancy Services",2.2015230742980108,8
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Publicis Sapient",9.57860665406088,9
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Axis Bank",7.5812220800876,10
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"PwC",8.072251186717661,11
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"GfK",67.73012980655267,12
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Evalueserve",10.477856578569208,13
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Concentrix",5.022694920091687,14
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"WNS Global Services",6.728730334440781,15
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"ICICI Bank",3.9696276651848814,16
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Chegg Inc.",19.978091431513608,17
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"IDFC FIRST Bank",17.42814609339782,18
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Kotak Mahindra Bank",6.7160463108577915,19
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Employers,"Altran",10.106283673459258,20
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Software Engineer",6.777843868986472,1
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Sales Manager",2.125312392739373,2
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Business Development Manager",1.6250137492300858,3
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Business Analyst",1.4064319055190655,4
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Sales Executive",1.3726766349083324,5
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Project Manager",1.1860688649282924,6
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Business Development Executive",1.161199993069659,7
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Graphic Designer",1.1267590462900252,8
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Human Resources Executive",1.1062944042178833,9
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Professor",1.0531340744867856,10
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Account Manager",0.9964816843022337,11
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Relationship Manager",0.9703455273636434,12
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Human Resources Manager",0.9253882574457626,13
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Content Writer",0.873728858969044,14
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Data Analyst",0.8711753499486685,15
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"General Manager",0.8528909032356489,16
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Operations Manager",0.8509235428386343,17
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Account Executive",0.7985126229639216,18
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Recruiter",0.749126986754726,19
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Jobs,"Marketing Manager",0.7365828605366627,20
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"SQL",-1,1
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"JavaScript",-1,2
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Sales Management",-1,3
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Teaching",-1,4
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Business Analysis",-1,5
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Adobe Illustrator",-1,6
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Recruiting",-1,7
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Team Leadership",-1,8
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Employee Relations",-1,9
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Higher Education",-1,10
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Operations Management",-1,11
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Requirements Analysis",-1,12
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Data Analysis",-1,13
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Employee Engagement",-1,14
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Marketing Strategy",-1,15
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Software Development Life Cycle (SDLC)",-1,16
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Web Content Writing",-1,17
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Requirements Gathering",-1,18
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Account Management",-1,19
+2020-03-01,in,"India","Greater Delhi Area","All",Top Trending Skills,"Tally ERP",-1,20

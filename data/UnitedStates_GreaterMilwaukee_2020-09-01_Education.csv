@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Milwaukee","Education",Top Trending Employers,"Medical College of Wisconsin",5.3071478709474675,1
+2020-09-01,us,"United States","Greater Milwaukee","Education",Top Trending Employers,"Marquette University",6.696951250083686,2
+2020-09-01,us,"United States","Greater Milwaukee","Education",Top Trending Employers,"University of Wisconsin-Milwaukee",4.2203831101746845,3
+2020-09-01,us,"United States","Greater Milwaukee","Education",Top Trending Employers,"Milwaukee Public Schools",5.165261581911529,4
+2020-09-01,us,"United States","Greater Milwaukee","Education",Top Trending Jobs,"Teacher",12.106497422966438,1
+2020-09-01,us,"United States","Greater Milwaukee","Education",Top Trending Jobs,"Professor",10.320239132280253,2
+2020-09-01,us,"United States","Greater Milwaukee","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Milwaukee","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,us,"United States","Greater Milwaukee","Education",Top Trending Skills,"Higher Education",-1,3

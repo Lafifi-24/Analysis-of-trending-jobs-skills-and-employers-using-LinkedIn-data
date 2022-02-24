@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-07-01,se,"Sweden","All","Education",Top Trending Employers,"Karolinska Institutet",2.833981904476356,1
+2020-07-01,se,"Sweden","All","Education",Top Trending Employers,"Lund University",2.621933310993145,2
+2020-07-01,se,"Sweden","All","Education",Top Trending Employers,"Uppsala University",2.193028302592,3
+2020-07-01,se,"Sweden","All","Education",Top Trending Employers,"RISE Research Institutes of Sweden",3.5897464843614135,4
+2020-07-01,se,"Sweden","All","Education",Top Trending Employers,"University of Gothenburg",2.6429559223409833,5
+2020-07-01,se,"Sweden","All","Education",Top Trending Jobs,"Teacher",11.168981205935898,1
+2020-07-01,se,"Sweden","All","Education",Top Trending Jobs,"Postdoctoral Researcher",9.425072062651148,2
+2020-07-01,se,"Sweden","All","Education",Top Trending Jobs,"Professor",6.891802463649821,3
+2020-07-01,se,"Sweden","All","Education",Top Trending Skills,"Teaching",-1,1
+2020-07-01,se,"Sweden","All","Education",Top Trending Skills,"Pedagogy",-1,2
+2020-07-01,se,"Sweden","All","Education",Top Trending Skills,"Scientific Writing",-1,3

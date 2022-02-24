@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","Los Angeles Metropolitan Area","Nonprofit",Top Trending Jobs,"Case Manager",3.3556902553967274,2
+2020-12-01,us,"United States","Los Angeles Metropolitan Area","Nonprofit",Top Trending Skills,"Public Speaking",-1,1
+2020-12-01,us,"United States","Los Angeles Metropolitan Area","Nonprofit",Top Trending Skills,"Case Management",-1,2
+2020-12-01,us,"United States","Los Angeles Metropolitan Area","Nonprofit",Top Trending Skills,"Nonprofit Organizations",-1,3
+2020-12-01,us,"United States","Los Angeles Metropolitan Area","Nonprofit",Top Trending Skills,"Community Outreach",-1,4

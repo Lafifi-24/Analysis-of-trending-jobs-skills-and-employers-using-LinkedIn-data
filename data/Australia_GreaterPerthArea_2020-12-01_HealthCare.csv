@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,au,"Australia","Greater Perth Area","Health Care",Top Trending Employers,"Department of Health (WA Health)",4.711116772993859,1
+2020-12-01,au,"Australia","Greater Perth Area","Health Care",Top Trending Jobs,"Nurse",9.743606496465489,1
+2020-12-01,au,"Australia","Greater Perth Area","Health Care",Top Trending Jobs,"Physical Therapist",5.988726628305608,2
+2020-12-01,au,"Australia","Greater Perth Area","Health Care",Top Trending Skills,"Rehabilitation",-1,1
+2020-12-01,au,"Australia","Greater Perth Area","Health Care",Top Trending Skills,"Physical Therapy",-1,2
+2020-12-01,au,"Australia","Greater Perth Area","Health Care",Top Trending Skills,"Nursing",-1,3

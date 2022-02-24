@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-06-01,us,"United States","Greater Milwaukee","Finance",Top Trending Employers,"Northwestern Mutual",9.031852453075155,1
+2020-06-01,us,"United States","Greater Milwaukee","Finance",Top Trending Jobs,"Software Engineer",7.709845003594264,1
+2020-06-01,us,"United States","Greater Milwaukee","Finance",Top Trending Skills,"JavaScript",-1,1

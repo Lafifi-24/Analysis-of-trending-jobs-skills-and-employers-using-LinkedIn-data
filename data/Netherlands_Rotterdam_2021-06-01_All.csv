@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,nl,"Netherlands","Rotterdam","All",Top Trending Employers,"Gemeente Rotterdam",2.6352274429310945,1
+2021-06-01,nl,"Netherlands","Rotterdam","All",Top Trending Jobs,"Project Manager",2.9017755465583037,1
+2021-06-01,nl,"Netherlands","Rotterdam","All",Top Trending Jobs,"Account Manager",2.4523781460335563,2
+2021-06-01,nl,"Netherlands","Rotterdam","All",Top Trending Jobs,"Teacher",1.913997280227102,3
+2021-06-01,nl,"Netherlands","Rotterdam","All",Top Trending Jobs,"Software Engineer",1.9124299213722977,4
+2021-06-01,nl,"Netherlands","Rotterdam","All",Top Trending Skills,"Teaching",-1,1
+2021-06-01,nl,"Netherlands","Rotterdam","All",Top Trending Skills,"Account Management",-1,2
+2021-06-01,nl,"Netherlands","Rotterdam","All",Top Trending Skills,"Scrum",-1,3
+2021-06-01,nl,"Netherlands","Rotterdam","All",Top Trending Skills,"Process Management",-1,4

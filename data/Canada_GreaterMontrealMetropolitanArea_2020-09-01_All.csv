@@ -1,0 +1,60 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Desjardins",5.5427991503019785,1
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"McGill University",6.4028108973877105,2
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"National Bank of Canada",4.387271879113378,3
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Université de Montréal",5.8651871728368805,4
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Hydro Québec",5.116362594748885,5
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Concordia University",7.330656555767558,6
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Ville de Montréal",3.505837563623672,7
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Université du Québec à Montréal",5.804932104221758,8
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Bell",3.0212281127905296,9
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"BOMBARDIER",2.653842969972174,10
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"HEC Montréal",8.227813556636374,11
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"CIUSSS du Centre-Sud-de-l'Île-de-Montréal",5.582896396345683,12
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"SSENSE",14.752819586453498,13
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Polytechnique Montréal",7.983421041324867,14
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"ubisoft-montreal",5.0788578826180135,15
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"RBC",4.141605380643094,16
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"goodfood-market",19.411258009049924,17
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Videotron",4.130598612114358,18
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"Ubisoft",4.949135595294732,19
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Employers,"centre-hospitalier-de-l'universit-de-montr-al-chum-",5.9042826065857295,20
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.5692620374012853,1
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.363031223925399,2
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Project Associate",1.6454482068337792,3
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Teacher",1.600759370239366,4
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Customer Service Representative",1.5082396554735549,5
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Salesperson",1.289546437610258,6
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Full Stack Engineer",0.7682327496392237,7
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Account Manager",0.7389249303516958,9
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Graphic Designer",0.732674711401465,10
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Accountant",0.662055646963002,11
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Attorney",0.6349446310442772,12
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"General Manager",0.6224803577322852,13
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Financial Analyst",0.6209847526466843,14
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.6088958195182897,15
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Accounting Technician",0.55830815971077,16
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Cashier",0.5487207574912628,17
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Professor",0.5473517089408222,18
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Marketing Coordinator",0.5415941601077575,19
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Jobs,"Editor",0.5341773172849464,20
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Teaching",-1,1
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Time Management",-1,2
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,3
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,4
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Adobe Illustrator",-1,5
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Account Management",-1,6
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Curriculum Development",-1,7
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Financial Reporting",-1,8
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,9
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,10
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Team Building",-1,11
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Financial Analysis",-1,12
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Higher Education",-1,13
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Editing",-1,14
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Writing",-1,15
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Cashiering",-1,16
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Requirements Gathering",-1,17
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Public Speaking",-1,18
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"React.js",-1,19
+2020-09-01,ca,"Canada","Greater Montreal Metropolitan Area","All",Top Trending Skills,"Node.js",-1,20

@@ -1,0 +1,61 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Commonwealth Bank",4.019937795884669,1
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Westpac",5.125246168116788,2
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"BHP",4.232497010647939,3
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Department of Health & Human Services, Victoria",14.783041867558246,4
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"ANZ",2.6297203189433938,5
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Rio Tinto",4.601076287508082,6
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Bunnings",8.226857767955737,7
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Telstra",1.9995656822888026,8
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Macquarie Group",5.247158572178416,9
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Australia Post",5.561488346229558,10
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Optus",4.095297497865405,11
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Downer",4.663109541010643,12
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Amazon Web Services (AWS)",8.671692405005546,13
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"KPMG Australia",3.874739872490923,14
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Fortescue Metals Group",7.259450655403202,15
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Department of Justice and Community Safety, Victoria",9.400327304856528,16
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Coles",3.2157220154040114,17
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"Australian Taxation Office",4.631423140632123,18
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"University of Melbourne",2.1945751709256633,19
+2020-10-01,au,"Australia","All","All",Top Trending Employers,"NSW Department of Planning, Industry and Environment",5.262297029537294,20
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Project Manager",2.3356843709681825,1
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Software Engineer",1.7144748768693943,2
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Business Development Manager",1.5983080776186716,3
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Business Analyst",1.3892559542639646,4
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Customer Service Representative",1.094838623745175,5
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Account Manager",1.076624808881881,6
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Accountant",1.0472585817628515,7
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Support Associate",0.9594148550587513,8
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"General Manager",0.8836368603855961,9
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Teacher",0.8570180233790673,10
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Nurse",0.8542410213782518,11
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Operations Manager",0.7909041789669282,12
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Lawyer",0.7540672147659081,13
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Project Engineer",0.7302420189305374,14
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Marketing Manager",0.6747777734807656,15
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Sales Manager",0.658373988302926,16
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Salesperson",0.6302691515676581,17
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Administrative Officer",0.5940970484879657,18
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Graphic Designer",0.4921524423007741,19
+2020-10-01,au,"Australia","All","All",Top Trending Jobs,"Sales Consultant",0.4871937573903123,20
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Teaching",-1,1
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Account Management",-1,2
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Curriculum Development",-1,3
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Business Analysis",-1,4
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Sales Management",-1,5
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"JavaScript",-1,6
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Operations Management",-1,7
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Adobe Creative Suite",-1,8
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"MYOB",-1,9
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Stakeholder Management",-1,10
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Project Delivery",-1,11
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Marketing Strategy",-1,12
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Legal Advice",-1,13
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Change Management",-1,14
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Legal Research",-1,15
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Time Management",-1,16
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Requirements Gathering",-1,17
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Digital Marketing",-1,18
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Project Engineering",-1,19
+2020-10-01,au,"Australia","All","All",Top Trending Skills,"Administration",-1,20

@@ -1,0 +1,5 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-05-01,us,"United States","Greater Sacramento","Health Care",Top Trending Employers,"UC Davis Health",4.58070604498505,1
+2021-05-01,us,"United States","Greater Sacramento","Health Care",Top Trending Jobs,"Nurse",9.895890436756432,1
+2021-05-01,us,"United States","Greater Sacramento","Health Care",Top Trending Skills,"Nursing",-1,1
+2021-05-01,us,"United States","Greater Sacramento","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,2

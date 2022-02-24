@@ -1,0 +1,6 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Jobs,"Sales Manager",3.304379207634377,1
+2020-01-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Jobs,"Account Manager",2.6215791262965333,2
+2020-01-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Skills,"Account Management",-1,1
+2020-01-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Skills,"Sales Management",-1,2
+2020-01-01,us,"United States","Greater Chicago Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,3

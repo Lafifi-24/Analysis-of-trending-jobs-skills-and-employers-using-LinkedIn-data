@@ -1,0 +1,46 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Technical University of Munich",7.381108198653773,1
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"BMW Group",1.2110284496407748,2
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Amazon",4.847369161704437,3
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Roche",4.222810949644811,4
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Accenture",5.422184897197207,5
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Employers,"Amazon Web Services (AWS)",8.249039280283373,6
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Software Engineer",4.777035600191623,1
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Project Manager",3.3365158157888812,2
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Sales Manager",1.9919533460176102,3
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Marketing Manager",1.8084678998928183,4
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Account Manager",1.4133980664505157,5
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Product Manager",1.29367815361514,6
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Key Account Manager",1.2403557725468295,7
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Business Development Manager",1.1866259924413587,8
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Scientific Officer",0.9793786196162348,9
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Project Engineer",0.9749820844739158,10
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Recruiter",0.9527010416817482,11
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Product Owner",0.8461887245233911,12
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Business Analyst",0.8369584939636601,13
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Account Executive",0.7262695236215453,14
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Head Of Sales",0.7209435817829277,15
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Development Engineer",0.7106152536295884,16
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Law Clerk",0.6967495748325371,17
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Data Scientist",0.676227407206969,18
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Jobs,"Information Technology Consultant",0.6618715782782604,20
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Project Management",-1,1
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Java",-1,2
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Project Planning",-1,3
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Account Management",-1,4
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Product Development",-1,5
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"International Sales",-1,6
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Recruiting",-1,7
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Online Marketing",-1,8
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Scrum",-1,9
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Agile Methodologies",-1,10
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"LaTeX",-1,11
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Machine Learning",-1,12
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Data Science",-1,13
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"MATLAB",-1,14
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Automotive",-1,15
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Project Engineering",-1,16
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"IT Consulting",-1,17
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Business Analysis",-1,18
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Business Management",-1,19
+2021-01-01,de,"Germany","Greater Munich Metropolitan Area","All",Top Trending Skills,"Legal Research",-1,20

@@ -1,0 +1,9 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-04-01,us,"United States","Cincinnati Metropolitan Area","All",Top Trending Employers,"Procter & Gamble",1.0710242487265862,1
+2021-04-01,us,"United States","Cincinnati Metropolitan Area","All",Top Trending Employers,"Kroger",1.9550757309043543,2
+2021-04-01,us,"United States","Cincinnati Metropolitan Area","All",Top Trending Jobs,"Project Manager",2.2828250272384434,1
+2021-04-01,us,"United States","Cincinnati Metropolitan Area","All",Top Trending Jobs,"Salesperson",2.09410996325467,2
+2021-04-01,us,"United States","Cincinnati Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",2.032883059236597,3
+2021-04-01,us,"United States","Cincinnati Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,1
+2021-04-01,us,"United States","Cincinnati Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,2
+2021-04-01,us,"United States","Cincinnati Metropolitan Area","All",Top Trending Skills,"Construction Management",-1,3

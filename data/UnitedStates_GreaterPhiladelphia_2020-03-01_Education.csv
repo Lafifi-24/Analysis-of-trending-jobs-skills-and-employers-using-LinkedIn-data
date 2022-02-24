@@ -1,0 +1,18 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Pennsylvania",5.229661436982051,1
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Temple University",5.006825939066876,2
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"University of Delaware",5.490400033798306,3
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Drexel University",4.418089992952559,4
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Thomas Jefferson University",4.797324237867173,5
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"The School District of Philadelphia",2.4645238869917843,6
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Villanova University",5.068990824815208,7
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Employers,"Rowan University",4.250614360103039,8
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Professor",10.908007468900797,1
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Teacher",9.675996416122961,2
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Postdoctoral Researcher",3.8201212276455268,3
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Jobs,"Lecturer",1.784771025058761,4
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Higher Education",-1,3
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-03-01,us,"United States","Greater Philadelphia","Education",Top Trending Skills,"Cell Culture",-1,5

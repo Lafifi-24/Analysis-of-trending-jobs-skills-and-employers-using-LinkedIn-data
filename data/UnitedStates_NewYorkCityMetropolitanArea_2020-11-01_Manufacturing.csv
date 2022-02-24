@@ -1,0 +1,20 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Employers,"Tesla",16.80691752841189,1
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Manager",2.708736235327775,1
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Software Engineer",2.6811732065963407,2
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Manager",1.6249755626689084,3
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Sales Consultant",1.5861162623981062,4
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Salesperson",1.4772463329377685,5
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Account Manager",1.407171497018256,6
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Mechanical Engineer",1.3399300976150046,7
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Project Engineer",1.321886700924681,8
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Jobs,"Accountant",1.3143399028429945,9
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"JavaScript",-1,1
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Account Management",-1,2
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Management",-1,3
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Construction Management",-1,4
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Account Reconciliation",-1,5
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Sales Operations",-1,6
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"General Ledger",-1,7
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"SOLIDWORKS",-1,8
+2020-11-01,us,"United States","New York City Metropolitan Area","Manufacturing",Top Trending Skills,"Customer Satisfaction",-1,9

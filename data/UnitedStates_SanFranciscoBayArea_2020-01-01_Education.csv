@@ -1,0 +1,28 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Berkeley",6.9953121315819935,1
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University",4.1042048943940665,2
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, San Francisco",4.459318222268331,3
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"San Jose State University",6.622844906033929,4
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Stanford University School of Medicine",3.7664269720735737,5
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"San Francisco State University",5.592543255541748,6
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of San Francisco",6.198548734926915,7
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Lawrence Livermore National Laboratory",4.0011242286400375,8
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"University of California, Santa Cruz",5.036734439221544,9
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"Santa Clara University",5.439994623591683,10
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Employers,"San Francisco Unified School District",3.152010841987343,11
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Teacher",8.318060323929684,1
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Professor",7.459478719477302,2
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Postdoctoral Researcher",4.630703315867222,3
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Lecturer",3.097526872090715,4
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Software Engineer",1.6951947732686639,6
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Jobs,"Member Of The Board Of Advisors",1.6337557840126717,7
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"JavaScript",-1,2
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Curriculum Development",-1,3
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Higher Education",-1,4
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Public Speaking",-1,5
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Nonprofit Organizations",-1,6
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Molecular Biology",-1,7
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Cell Culture",-1,8
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Strategy",-1,9
+2020-01-01,us,"United States","San Francisco Bay Area","Education",Top Trending Skills,"Strategic Partnerships",-1,10

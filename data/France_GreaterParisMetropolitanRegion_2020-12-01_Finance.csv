@@ -1,0 +1,57 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"BNP Paribas",1.592183697285649,1
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"AXA",2.9242054150798746,2
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"LCL",3.540745326011875,3
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"La Banque Postale",4.06998343866334,4
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Crédit Agricole CIB",2.970998080076898,5
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Bpifrance",4.860108982113194,6
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Natixis",1.8462143937270243,7
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"KPMG France",4.003778559330832,8
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Banque de France",4.055754533474143,9
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Societe Generale Corporate and Investment Banking - SGCIB",1.8068568735829338,10
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Caisse d'Epargne Ile-de-France",4.948701710441997,11
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Allianz France",3.5262226628669735,12
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Generali",3.5216826104943975,13
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"HSBC",1.682354569532201,14
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"Amundi",3.3196107135489714,15
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"AXA en France",2.4912389882049464,16
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"PwC France",2.232304432013556,17
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Employers,"BRED Banque Populaire",3.294802090316526,18
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Project Manager",4.189896528576861,1
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Financial Advisor",2.983641326179472,2
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Wealth Management Advisor",2.710986090714442,3
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Legal Officer",2.304866314012606,4
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Client Advisor",2.1543023114518136,5
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Customer Associate",1.3559649926308008,6
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Communications Manager",1.3513517898104626,7
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Sales Advisor",1.3362216803901923,8
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Data Scientist",1.2358957852722718,9
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Software Engineer",1.228197889840627,10
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Accountant",1.2122124716018943,11
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Business Analyst",1.1954476940851229,12
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Research Analyst",1.1352954941431992,13
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Salesperson",0.9855047678047392,14
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Business Account Executive",0.9622173099980572,15
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Financial Analyst",0.9590254920769394,16
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Data Analyst",0.9404607623470815,17
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Jobs,"Auditor",0.9056161360035423,18
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Project Management",-1,1
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Social Media",-1,2
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Java",-1,3
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Git",-1,4
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Internal Communications",-1,5
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Negotiation",-1,6
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Legal Research",-1,7
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Legal Advice",-1,8
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Sales Prospecting",-1,9
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Account Reconciliation",-1,10
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Machine Learning",-1,11
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Wealth Management",-1,12
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Assurance",-1,13
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Commerce",-1,14
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Auditing",-1,15
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"AutoCAD",-1,16
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Financial Analysis",-1,17
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Apache Spark",-1,18
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"SQL",-1,19
+2020-12-01,fr,"France","Greater Paris Metropolitan Region","Finance",Top Trending Skills,"Agile Methodologies",-1,20

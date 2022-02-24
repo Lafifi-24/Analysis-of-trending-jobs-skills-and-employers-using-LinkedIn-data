@@ -1,0 +1,17 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"University of Colorado Boulder",6.791731505371013,1
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"University of Colorado Anschutz Medical Campus",6.271987587374286,2
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"University of Denver",8.15696709171119,3
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"National Renewable Energy Laboratory",7.726007938866979,4
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"Colorado School of Mines",7.827251194027701,5
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"Metropolitan State University of Denver",6.904269613514614,6
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"University of Colorado Denver",5.019522319847438,7
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Employers,"Denver Public Schools",2.5559953557790602,8
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Jobs,"Teacher",9.176722148242671,1
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Jobs,"Professor",7.236004256945757,2
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",3.3077684952240074,3
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Skills,"Higher Education",-1,3
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,4
+2020-03-01,us,"United States","Denver Metropolitan Area","Education",Top Trending Skills,"Cell Culture",-1,5

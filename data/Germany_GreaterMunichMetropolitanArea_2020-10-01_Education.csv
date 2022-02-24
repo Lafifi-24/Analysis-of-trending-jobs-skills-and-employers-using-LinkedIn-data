@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,de,"Germany","Greater Munich Metropolitan Area","Education",Top Trending Employers,"Technical University of Munich",9.002166807560046,1
+2020-10-01,de,"Germany","Greater Munich Metropolitan Area","Education",Top Trending Jobs,"Lecturer",20.06613550788149,1
+2020-10-01,de,"Germany","Greater Munich Metropolitan Area","Education",Top Trending Jobs,"Postdoctoral Researcher",8.603534651106088,2
+2020-10-01,de,"Germany","Greater Munich Metropolitan Area","Education",Top Trending Jobs,"Scientific Officer",7.8993758844616515,3
+2020-10-01,de,"Germany","Greater Munich Metropolitan Area","Education",Top Trending Skills,"Teaching",-1,1
+2020-10-01,de,"Germany","Greater Munich Metropolitan Area","Education",Top Trending Skills,"Molecular Biology",-1,2
+2020-10-01,de,"Germany","Greater Munich Metropolitan Area","Education",Top Trending Skills,"LaTeX",-1,3

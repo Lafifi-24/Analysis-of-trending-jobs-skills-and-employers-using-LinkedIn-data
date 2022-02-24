@@ -1,0 +1,12 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Employers,"H-E-B",7.220645900073694,1
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Employers,"Walmart",5.323779615090158,2
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Employers,"Academy Sports + Outdoors",5.938538551950167,3
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Employers,"The Home Depot",7.608287417489688,4
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Jobs,"Salesperson",8.95225442963341,1
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Jobs,"Cashier",6.579793349866296,2
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Jobs,"Store Manager",5.833196165142216,3
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Skills,"Merchandising",-1,1
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Skills,"Store Management",-1,2
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Skills,"Time Management",-1,3
+2020-09-01,us,"United States","Greater Houston","Retail",Top Trending Skills,"Cashiering",-1,4

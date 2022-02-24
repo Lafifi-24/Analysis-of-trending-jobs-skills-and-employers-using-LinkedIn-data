@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-31,us,"United States","Boise Metropolitan Area","All",Top Trending Employers,"Amazon",34.10838504598819,1
+2020-12-31,us,"United States","Boise Metropolitan Area","All",Top Trending Employers,"St. Luke's Health System",2.249436710666355,2
+2020-12-31,us,"United States","Boise Metropolitan Area","All",Top Trending Jobs,"Real Estate Agent",3.4137126378018454,1
+2020-12-31,us,"United States","Boise Metropolitan Area","All",Top Trending Jobs,"Software Engineer",2.4236363865384196,2
+2020-12-31,us,"United States","Boise Metropolitan Area","All",Top Trending Skills,"JavaScript",-1,1
+2020-12-31,us,"United States","Boise Metropolitan Area","All",Top Trending Skills,"Investment Properties",-1,2
+2020-12-31,us,"United States","Boise Metropolitan Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,3

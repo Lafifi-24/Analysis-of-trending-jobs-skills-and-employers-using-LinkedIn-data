@@ -1,0 +1,4 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Greater Pittsburgh Region","Software & IT Services",Top Trending Employers,"Amazon",14.462530138084324,1
+2020-10-01,us,"United States","Greater Pittsburgh Region","Software & IT Services",Top Trending Jobs,"Software Engineer",13.933280359284808,1
+2020-10-01,us,"United States","Greater Pittsburgh Region","Software & IT Services",Top Trending Skills,"JavaScript",-1,1

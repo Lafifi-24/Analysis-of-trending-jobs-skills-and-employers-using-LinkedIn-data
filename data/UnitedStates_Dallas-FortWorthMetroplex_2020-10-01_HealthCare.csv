@@ -1,0 +1,25 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"UT Southwestern Medical Center",3.8484322346917734,1
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Baylor Scott & White Health",3.976058359049546,2
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Texas Health Resources",4.045286173479912,3
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Parkland Hospital",4.4812530890312114,4
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Methodist Health System",6.263748018158364,5
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Medical City Healthcare",5.778811002149873,6
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"McKesson",4.019772377528181,7
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Employers,"Children's Health",3.0173944144521645,8
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Jobs,"Nurse",8.52980324995506,1
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Jobs,"Patient Care Technician",1.3150614822222306,2
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Jobs,"Behavioral Health Technician",1.116335550984173,3
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Jobs,"Medical Scribe",1.048711093067584,4
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Jobs,"Account Manager",0.9818682307799624,5
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Jobs,"Speech Language Pathologist",0.9764337925498079,6
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Account Management",-1,1
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Nursing",-1,2
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Basic Life Support (BLS)",-1,3
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Speech Therapy",-1,4
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Speech",-1,5
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Cardiopulmonary Resuscitation (CPR)",-1,6
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Applied Behavior Analysis",-1,7
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Electronic Medical Record (EMR)",-1,8
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Medical Terminology",-1,9
+2020-10-01,us,"United States","Dallas-Fort Worth Metroplex","Health Care",Top Trending Skills,"Behavioral Health",-1,10

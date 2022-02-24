@@ -1,0 +1,11 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Employers,"University of Connecticut",10.561431848354031,1
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Employers,"Wesleyan University",14.258692361791574,2
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Employers,"University of Hartford",9.154392666685007,3
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Employers,"Connecticut College",9.48246600836197,4
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Employers,"CREC",14.148494885127311,5
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Jobs,"Professor",13.622733722515482,1
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Jobs,"Teacher",9.48250867016873,2
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Skills,"Teaching",-1,1
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-09-01,us,"United States","Greater Hartford","Education",Top Trending Skills,"Higher Education",-1,3

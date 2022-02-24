@@ -1,0 +1,33 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Northeastern University",8.29720681977856,1
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston University",6.7016039480949985,2
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Massachusetts Institute of Technology",5.349521647630589,3
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard University",3.5330252128757698,4
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Broad Institute of MIT and Harvard",9.080286567021869,5
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Tufts University",6.217884686044432,6
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard Medical School",2.714654877960044,7
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Brown University",3.5914152102520926,8
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston College",4.5028507717291895,9
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Southern New Hampshire University",4.204291937772114,10
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of New Hampshire",5.177580308097278,11
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Boston Public Schools",4.088205805836081,12
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Suffolk University",7.309304361592714,13
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Worcester Polytechnic Institute",5.497062758973937,14
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Rhode Island",4.422353339411647,15
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Boston",4.528169960644947,16
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"University of Massachusetts Medical School",3.2674829492667166,17
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Waters Corporation",5.798612619830748,18
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Rhode Island School of Design",6.149829139210803,19
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Employers,"Harvard T.H. Chan School of Public Health",3.6051935466952525,20
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Teacher",8.500901310860517,1
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Postdoctoral Researcher",6.625247462340587,2
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Professor",5.854109540081068,3
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Lecturer",1.6783383859228187,4
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Jobs,"Elementary School Teacher",1.4369624592864152,5
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Teaching",-1,1
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Curriculum Development",-1,2
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Higher Education",-1,3
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Classroom Management",-1,4
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Elementary Education",-1,5
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Molecular Biology",-1,6
+2020-11-01,us,"United States","Greater Boston","Education",Top Trending Skills,"Cell Culture",-1,7

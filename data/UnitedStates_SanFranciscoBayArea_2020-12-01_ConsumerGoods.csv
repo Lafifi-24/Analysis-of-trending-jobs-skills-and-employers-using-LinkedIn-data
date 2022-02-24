@@ -1,0 +1,8 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-12-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Apple",2.186718956057009,1
+2020-12-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Amazon Lab126",2.680892024549984,2
+2020-12-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"The RealReal",12.132574571161083,3
+2020-12-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Employers,"Impossible Foods",13.242039061598499,4
+2020-12-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Jobs,"Software Engineer",6.7836401469153085,1
+2020-12-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Jobs,"Salesperson",4.365106507604994,2
+2020-12-01,us,"United States","San Francisco Bay Area","Consumer Goods",Top Trending Skills,"JavaScript",-1,1

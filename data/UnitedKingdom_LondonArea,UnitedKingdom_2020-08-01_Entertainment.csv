@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2020-08-01,gb,"United Kingdom","London Area, United Kingdom","Entertainment",Top Trending Employers,"Sky",1.3306517948907928,1
+2020-08-01,gb,"United Kingdom","London Area, United Kingdom","Entertainment",Top Trending Jobs,"Writer",2.805691359853066,1
+2020-08-01,gb,"United Kingdom","London Area, United Kingdom","Entertainment",Top Trending Jobs,"Software Engineer",2.749621438531094,2
+2020-08-01,gb,"United Kingdom","London Area, United Kingdom","Entertainment",Top Trending Skills,"JavaScript",-1,1
+2020-08-01,gb,"United Kingdom","London Area, United Kingdom","Entertainment",Top Trending Skills,"Writing",-1,2
+2020-08-01,gb,"United Kingdom","London Area, United Kingdom","Entertainment",Top Trending Skills,"Creative Writing",-1,3

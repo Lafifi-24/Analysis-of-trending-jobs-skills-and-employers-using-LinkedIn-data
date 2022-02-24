@@ -1,0 +1,10 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-02-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"North Carolina State University",3.0900750217127024,1
+2021-02-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"University of North Carolina at Chapel Hill",2.2984069427499376,2
+2021-02-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Employers,"Duke University",2.3043404585334484,3
+2021-02-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Jobs,"Professor",9.015383719646108,1
+2021-02-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Jobs,"Postdoctoral Researcher",7.50704941211116,2
+2021-02-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Skills,"Higher Education",-1,1
+2021-02-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Skills,"Teaching",-1,2
+2021-02-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Skills,"Molecular Biology",-1,3
+2021-02-01,us,"United States","Raleigh-Durham-Chapel Hill Area","Education",Top Trending Skills,"Cell Culture",-1,4

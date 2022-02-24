@@ -1,0 +1,55 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Fidelity Investments",4.899072706784655,1
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"North Carolina State University",2.4473128939623905,2
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"University of North Carolina at Chapel Hill",2.7174814889010923,3
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"IQVIA",5.4491295115896,4
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Red Hat",4.073422780652707,5
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Lenovo",4.573643552884788,6
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"UNC Health",3.1193159070521492,7
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Duke University",2.115879508226514,8
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Duke University Health System",1.9628509050458418,9
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Credit Suisse",3.953278642315048,10
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Align Technology",13.940656075986437,11
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"SAS",2.5509458722234073,12
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"WakeMed",3.2227848470407134,13
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Employers,"Pendo.io",21.82754937638576,14
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Software Engineer",3.7423750752784994,1
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Project Manager",2.2421205570978313,2
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Account Executive",1.7214708827534644,3
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Salesperson",1.473659128817377,4
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Sales Development Representative",1.4342983342791553,5
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Account Manager",1.0560215225579463,6
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Recruiter",0.9679288270490688,7
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Real Estate Agent",0.9382993053422755,8
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Nurse",0.8575057176540146,9
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Customer Service Representative",0.7274635908521232,10
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Teacher",0.6982195136920609,11
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Real Estate Broker",0.6731036867879823,12
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Accountant",0.603786000337833,13
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Business Analyst",0.6036915096888285,14
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Product Manager",0.6000541338591907,15
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Financial Analyst",0.5921941868952197,16
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Sales Manager",0.5724653032015363,17
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Business Development Representative",0.5635765225427136,18
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Operations Manager",0.5356252205323613,19
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Jobs,"Program Manager",0.5308891299836724,20
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Teaching",-1,1
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"JavaScript",-1,2
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Curriculum Development",-1,3
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Account Management",-1,4
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Sales Management",-1,5
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Investment Properties",-1,6
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Working with First-Time Home Buyers",-1,7
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Operations Management",-1,8
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Team Building",-1,9
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Recruiting",-1,10
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Construction Management",-1,11
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Program Management",-1,12
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Account Reconciliation",-1,13
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Sales Operations",-1,14
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Business Analysis",-1,15
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Financial Analysis",-1,16
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"General Ledger",-1,17
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Customer Satisfaction",-1,18
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Interviewing",-1,19
+2021-06-01,us,"United States","Raleigh-Durham-Chapel Hill Area","All",Top Trending Skills,"Financial Reporting",-1,20

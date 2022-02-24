@@ -1,0 +1,7 @@
+date,countryCode,countryName,regionName,industryName,categoryType,categoryName,categoryValue,rank
+2021-03-01,cn,"China","Beijing","All",Top Trending Employers,"ByteDance",2.231334088360228,1
+2021-03-01,cn,"China","Beijing","All",Top Trending Jobs,"Product Manager",3.844893812373526,1
+2021-03-01,cn,"China","Beijing","All",Top Trending Jobs,"Software Engineer",3.298897654897854,2
+2021-03-01,cn,"China","Beijing","All",Top Trending Skills,"Java",-1,1
+2021-03-01,cn,"China","Beijing","All",Top Trending Skills,"Linux",-1,2
+2021-03-01,cn,"China","Beijing","All",Top Trending Skills,"Axure RP",-1,3
