@@ -1,6 +1,6 @@
 in folder BI1:
   there is project talend
-in folder data:
+in folder data:  
   there is files data 
 file selenium_BI_projet_LinkdinGE:
   script python ,we used it to download data 
